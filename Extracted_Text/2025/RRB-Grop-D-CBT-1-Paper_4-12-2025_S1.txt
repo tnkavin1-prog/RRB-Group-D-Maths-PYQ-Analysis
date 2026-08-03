@@ -1,0 +1,798 @@
+Q.1 A charge of 1.5 C is moved through a potential difference. If the work done is 30 J, what
+is the potential difference between the two points?
+Ans
+ A. 45 V
+B. 25 V
+C. 30 V
+D. 20 V
+Q.2 If a body falls freely from a height, its potential energy is converted into __________.
+Ans
+ A. Thermal energy
+B. Chemical energy
+C. Sound energy
+D. Kinetic energy
+Q.3 A car travels 100 km at an average speed of 50 km h−1 and immediately returns along
+the same route covering the distance in 1 hour. What is the average speed of the car for
+the entire journey in m s−1?
+Ans
+ A. 18.52 m s−1
+B. 16.67 m s−1
+C. 20.0 m s−1
+D. 13.9 m s−1
+Q.4 Read the statements given below and select the correct option.
+Statement I: Zinc displaces copper from copper sulphate solution, but copper cannot
+displace zinc from zinc sulphate solution.
+Statement II: Zinc is more reactive than copper in the reactivity series.
+Ans
+ A. Only statement I is correct.
+B. Both statements are correct, but Statement II does not explain Statement I.
+C. Only statement II is correct.
+D. Both statements are correct, and Statement II correctly explains Statement I.
+Q.5 Which of the following organisms reproduce by the method of binary fission?
+Ans
+ A. Leishmania
+B. Rose plant
+C. Butterfly
+D. Neem plant
+Test Date 04/12/2025
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 The reactivity series, also known as the activity series, is a list of metals arranged in
+order of their:
+Ans
+ A. first decreasing, then increasing reactivity
+B. first increasing, then decreasing reactivity
+C. increasing reactivity
+D. decreasing reactivity
+Q.7 The atomic number is defined as the total number of __________ present in the nucleus
+of an atom.
+Ans
+ A. only protons
+B. only neutrons
+C. neutrons and half of the protons
+D. protons and neutrons
+Q.8 A concave lens produces an image one-third the size of the object. If the focal length is
+12 cm, the object distance is:
+Ans
+ A. 18 cm
+B. 24 cm
+C. 12 cm
+D. 36 cm
+Q.9 What is the need for sexual reproduction in plants?
+Ans
+ A. To produce identical clones
+B. To eliminate the need for pollination
+C. To increase genetic variation for better adaptation
+D. To avoid growing flowers
+Q.10 Which of the following gases is evolved when dilute hydrochloric acid reacts with
+sodium hydrogencarbonate?
+Ans
+ A. Nitrogen
+B. Oxygen
+C. Hydrogen
+D. Carbon dioxide
+Q.11 In the connective tissue, what is the relative position of the cells with respect to each
+other?
+Ans
+ A. Tightly packed
+B. One above the other
+C. Loosely packed
+D. Far away from each other
+Q.12 Which of the following represents an end product of anaerobic respiration in animals?
+Ans
+ A. Oxygen
+B. Glucose
+C. Lactic acid
+D. Carbon monoxide
+Q.13 If the thrust acting on a surface is constant but the area of contact decreases, the
+pressure:
+Ans
+ A. becomes zero
+B. remains the same
+C. decreases
+D. increases
+Q.14 A gun recoils backward when fired. The backward motion of the gun is due to:
+Ans
+ A. Friction between gun and person
+B. Reaction force of the bullet on the gun
+C. Air resistance
+D. Gravity acting on the gun
+Q.15 Which of the following compounds is unsaturated?
+Ans
+ A. Butane
+B. Methane
+C. Propene
+D. Propane
+Q.16 Which of the following is a popular marine fish variety found in India?
+Ans
+ A. Pomfret
+B. Catla
+C. Mrigal
+D. Rohu
+Q.17 The Law of conservation of mass states that:
+Ans
+ A. pressure can neither be created nor destroyed in a chemical reaction
+B. temperature can neither be created nor destroyed in a chemical reaction
+C. mass can neither be created nor destroyed in a chemical reaction
+D. volume can neither be created nor destroyed in a chemical reaction
+Q.18 Which of the following methods is NOT effective to prevent the corrosion of metals?
+Ans
+ A. Applying sacrificial anodes
+B. Painting
+C. Galvanisation
+D. Exposure to moisture
+Q.19 Sound waves in air are longitudinal because:
+Ans
+ A. Particles move perpendicular to direction of propagation
+B. Particles move randomly
+C. Particles move along the direction of propagation
+D. Air molecules do not vibrate
+Q.20 What is the atomic mass of Carbon-13 Isotope?
+Ans
+ A. 13 amu
+B. 12 amu
+C. 11 amu
+D. 14 amu
+Q.21 Which of the following environmental cues determined the sex of fertilised egg in few
+reptiles?
+Ans
+ A. Wind velocity
+B. Temperature
+C. Touch
+D. Water
+Q.22 In the sign convention for lenses, all distances are measured from:
+Ans
+ A. The principal axis only
+B. The focus of the lens
+C. The pole of the lens
+D. The optical centre of the lens
+Q.23 What is the name of the place where bees are kept for commercial honey production?
+Ans
+ A. Apiary
+B. Sanctuary
+C. Aquarium
+D. Aviary
+Q.24 Which of the following cell organelles releases Adenosine Tri Phosphate (ATP)
+molecules needed for life activities?
+Ans
+ A. Golgi apparatus
+B. Mitochondria
+C. Vacuoles
+D. Lysosomes
+Q.25 The magnetic field at the centre of a current carrying circular loop is directly
+proportional to ______________.
+Ans
+ A. inverse of current flowing through the loop
+B. the square of the current flowing through the loop
+C. the square of the radius of the circular loop
+D. the current flowing through the loop
+Q.26 What is the simple interest on a sum of ₹3,500, if the rate of interest for the first 6 years
+is 8% per annum and for the last 3 years is 3% per annum?
+Ans
+ A. ₹2,025
+B. ₹1,955
+C. ₹1,995
+D. ₹2,015
+Q.27
+Ans
+ A. 125%
+B. 135%
+C. 140%
+D. 250%
+Q.28 The sides of a triangle are 102 cm, 154 cm, and 80 cm. What is the length (in cm) of its
+altitude corresponding to the side with a length of 154 cm?
+Ans
+ A. 94
+B. 3
+C. 48
+D. 15
+Section : Mathematics
+Q.29 Seema bought a microwave oven for ₹7,500 and sold it for ₹8,750. Find Seema's profit
+percentage. (Round off your answer to two decimal places.)
+Ans
+ A. 18.67%
+B. 16.33%
+C. 16.67%
+D. 14.23%
+Q.30 A garrison of 1,200 men has provisions for 12 days. How long (in days) will the
+provisions last if the garrison is increased to 1,800 men?2691
+Ans
+ A. 7
+B. 9
+C. 10
+D. 8
+Q.31 A train overtakes two persons walking along a railway track. The first one walks at 5.4
+km/hr. The other one walks at 18 km/hr. The train needs 30 and 44 seconds,
+respectively, to overtake them. What is the speed of the train, if both the persons are
+walking in the same direction as the train?
+Ans
+ A. 49 km/hr
+B. 37 km/hr
+C. 45 km/hr
+D. 38 km/hr
+Q.32 R pays ₹20 with ₹2 and ₹5 coins. If at least one coin of each denomination is used in
+paying the amount, then the number of ₹2 coins used is _____.
+Ans
+ A. 8
+B. 10
+C. 5
+D. 4
+Q.33 The ratio of the ages of John and James will be 8 : 7 after 8 years. If the difference
+between their ages is 5 years, find the present age of James.
+Ans
+ A. 27 years
+B. 32 years
+C. 28 years
+D. 35 years
+Q.34 The sum of three numbers is 4512. If the ratio between the first and second numbers is
+16 : 9 and that of between the second and third is 15 : 21, then find the difference
+between the first and the third number.
+Ans
+ A. 408
+B. 389
+C. 398
+D. 480
+Q.35 The unit prices of lemon chocolate and strawberry chocolate are in the ratio 28 : 26, and
+a family consumes them in the ratio 15 : 14 by quantity. Find the ratio of expenditure on
+strawberry chocolate to that on lemon chocolate.
+Ans
+ A. 12 : 21
+B. 10 : 21
+C. 15 : 17
+D. 13 : 15
+Q.36 The length of each of the two equal sides of an isosceles triangle is 78 cm, and the
+length of its base is 60 cm. Find the area (in cm2) of the triangle.
+Ans
+ A. 2158
+B. 2175
+C. 2165
+D. 2160
+Q.37 Simplify the following.
+(2x3y5z) × (5xy6z2) ÷ (15x2yz2)
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.38 One pipe can fill a tank in 6 minutes while another pipe can empty the completely filled
+tank in 12 minutes. If both the pipes are opened together when the tank is empty, how
+many minutes will it take to fill one-fourth of the tank?
+Ans
+ A. 9
+B. 12
+C. 3
+D. 6
+Q.39 The vertices of a quadrilateral are A(2,3), B(5,7), C(10,6), and D(7,2). Find the area of the
+quadrilateral ABCD.
+Ans
+ A. 23 sq. units
+B. 20 sq. units
+C. 28 sq. units
+D. 25 sq. units
+Q.40
+Ans
+ A. 13,420
+B. 10,560
+C. 10,540
+D. 10,960
+Q.41 The number of prime numbers lying between 440 and 452 is:
+Ans
+ A. 3
+B. 1
+C. 2
+D. 0
+Q.42 A train, 1195 m-long, is running at a speed of 23m/s. If it takes 72 seconds to cross a
+tunnel, then find the length of the tunnel.3717
+Ans
+ A. 454 m
+B. 461 m
+C. 462 m
+D. 452 m
+Q.43 The marked price of an item is set at 51% above its cost price. If the merchant sells the
+item at 8% below the marked price, his profit percentage (rounded off to 1 decimal
+place) is:
+Ans
+ A. 38.9%
+B. 36.8%
+C. 42.4%
+D. 42.9%
+Q.44 If X − Y = 20 and XY = 12, then find the value of X2 + Y2.
+Ans
+ A. 426
+B. 424
+C. 420
+D. 422
+Q.45 From a point on the ground, the angle of elevation to the top of a tower is θ such that
+tanθ = 3/4. Find the sine of angle θ.
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.46 Calculate the mode of the following data. (Round off to two decimal places)
+Mark
+s
+4-8 8-12 12-
+16
+16-
+20
+20-
+24
+24-
+28
+28-
+32
+32-
+36
+No.
+of
+Stude
+nts
+9 12 18 34 26 20 12 7
+Ans
+ A. 24.67
+B. 20.67
+C. 18.67
+D. 22.67
+Q.47 A class of 43 students took a Physics test. 10 students had an average score of 99. The
+other students had an average score of 55. What is the average score (rounded off to
+one decimal place) of the whole class?
+Ans
+ A. 74.8
+B. 67.5
+C. 65.2
+D. 66.8
+Q.48 If an item marked at ₹758 is sold for ₹256, then what is the discount percentage?
+(Round off the answer to two decimal places)
+Ans
+ A. 68.31%
+B. 68.01%
+C. 68.94%
+D. 66.23%
+Q.49 2 men or 9 women can do a job in 9 days. 2 men work for 5 days and leave. The number
+of women required to complete the remaining work in 9 days is:3889
+Ans
+ A. 4
+B. 6
+C. 3
+D. 7
+Q.50 The income of Raman is ₹25,000. He saves 25.5% of his income. If his income increases
+by 20% and expenditure increases by 40%, then his savings will:
+Ans
+ A. increase by ₹2,446
+B. increase by ₹2,453
+C. decrease by ₹2,450
+D. decrease by ₹2,452
+Q.51 What will come in the place of the question mark (?) in the following equation, if ‘+’ and
+‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+21 ÷ 5 – 25 + 180 × 3 = ?3199
+Ans
+ A. 70
+B. 75
+C. 72
+D. 74
+Q.52 In a certain code language,
+‘A ? B’ means ‘A is the daughter of B’,
+‘A = B’ means ‘A is the wife of B’,
+‘A @ B’ means ‘A is the mother of B’ and
+‘A √ B’ means ‘A is the father of B’.
+How is C related to L if ‘C @ D ? E √ F = L’?
+Ans
+ A. Wife's sister
+B. Wife
+C. Wife's mother
+D. Mother
+Q.53 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. UX-SW
+B. RU-PT
+C. LO-JM
+D. OR-MQ
+Section : General Intelligence and Reasoning
+Q.54 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All necks are faces.
+Some necks are arms.
+Conclusions:
+(I): All arms are necks.
+(II): Some faces are arms.
+Ans
+ A. Only I follows
+B. Both follow
+C. Neither follows
+D. Only II follows
+Q.55 Seven people, A, B, C, D, E, F, and G, are sitting in a row, facing the north. Only five
+people sit between D and F. G sits to the immediate left of F. Only one person sits
+between G and A. B sits at some place to the left of C but at some place to the right of E.
+How many people sit to the right of A?
+Ans
+ A. 1
+B. 3
+C. 4
+D. 2
+Q.56 Mr. Z starts from Point A and drives 14 km towards the North. He then takes a left turn,
+drives 19 km, then turns left and drives 30 km. He then takes a left turn and drives 21
+km. He takes a final left turn, drives 16 km, and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only, unless specified.)
+Ans
+ A. 5 km to the north
+B. 1 km to the south
+C. 3 km to the east
+D. 2 km to the west
+Q.57 Himesh starts from Point A and drives 4 km towards the south. He then takes a left turn,
+drives 7 km, turns right and drives 6 km. He then takes a right turn and drives 7 km. He
+takes a final right turn, drives 3 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90 degrees turns only, unless specified.)
+Ans
+ A. 4 km towards north
+B. 7 km towards west
+C. 11 km towards east
+D. 7 km towards north
+Q.58 In a certain code language, ‘OVAL’ is coded as ‘2635’ and ‘LAVE’ is coded as ‘5762’.
+What is the code for ‘E’ in the given code language?1638
+Ans
+ A. 7
+B. 2
+C. 6
+D. 5
+Q.59 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusion(s) logically follow(s) from the
+statements.
+Statements:
+Some balls are hens.
+All vans are hens.
+Conclusion (I) : Some balls are vans.
+Conclusion (II) : All hens are vans.
+Ans
+ A. Only conclusion (I) follows.
+B. Neither conclusion (I) nor (II) follows.
+C. Only conclusion (II) follows.
+D. Both conclusions (I) and (II) follow.
+Q.60 Refer to the following series and answer the question that follows (all numbers are
+single digit numbers only). Counting to be done from left to right only.
+(Left) 7 1 8 3 3 1 5 4 8 5 1 4 4 9 5 9 6 8 7 3 5 3 6 6 9 (Right)
+How many such digits are there each of which is immediately preceded by a perfect
+square and also immediately followed by a perfect square?
+(Note: 1 is also a perfect square)
+Ans
+ A. Four
+B. Three
+C. Five
+D. One
+Q.61 What should come in place of the question mark (?) in the given series?
+153 135 117 99 81 ?
+Ans
+ A. 69
+B. 61
+C. 63
+D. 68
+Q.62 QN 3 is related to RJ −12 in a certain way. In the same way, HE 7 is related to IA −8. To
+which of the given options is LI 11 related, following the same logic?
+Ans
+ A. LE −8
+B. MD −8
+C. ME −4
+D. LD −4
+Q.63 F, G, H, I, M, N and O are sitting around a circular table, facing the centre of the table.
+Only two people sit between F and G, when counted from the right of F. Only two people
+sit between G and M, when counted from right of G. Only three people sit between F and
+N, when counted from the right of F. H sits to the immediate left of I. Who sits third to
+the left of O?
+Ans
+ A. I
+B. G
+C. H
+D. F
+Q.64 If each of the digits in the number 47315628 is arranged in ascending order from left to
+right, then the position(s) of how many digits will remain unchanged as compared to
+that in the original number?
+Ans
+ A. Three
+B. One
+C. Four
+D. Two
+Q.65 In a certain code language, ‘she play guiter’ is coded as ‘so tn yw’ and ‘play chess daily’
+is coded as ‘nj bg so’. How is ‘play’ coded in the given language?
+Ans
+ A. tn
+B. bg
+C. nj
+D. so
+Q.66 Refer to the following series and answer the question that follows (all numbers are
+single digit numbers only). Counting to be done from left to right only.
+(Left) 9 1 9 1 1 5 4 2 2 9 4 3 9 3 7 1 1 6 7 3 2 2 2 7 4 6 7 (Right)
+How many such odd numbers are there each of which is immediately preceded by an
+even number and also immediately followed by an even number?
+Ans
+ A. 2
+B. 3
+C. 1
+D. 4
+Q.67 A, B, C, R, S, T and U are sitting around a circular table facing the centre of the table.
+Only one person sits between B and T when counted from the right of B. Only one
+person sits between T and R when counted from the left of R. Only one person sits
+between B and U when counted from the right of U. Only two people sit between C and
+R when counted from the left of R. Only one person sits between A and U when counted
+from the right of A. Who sits third to the right of S ?
+Ans
+ A. T
+B. C
+C. R
+D. A
+Q.68 What will come in the place of the question mark (?) in the following equation, if ‘+’ and
+‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+48 + 36 ÷ 36 × 24 – 50 = ?
+Ans
+ A. 46
+B. 44
+C. 45
+D. 42
+Q.69 In the following triads, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one which follows the same logic.
+TIPS - PTIS - SPIT
+LOST - SLOT - TSOL
+Ans
+ A. FROM - OFRM - ROMF
+B. SPIN - ISPN - NIPS
+C. OATH - OTAH - HTAO
+D. BOND - OBND - DONB
+Q.70 Seven boxes M, N, O, P, Q, R, and S are kept one over the other but not necessarily in
+the same order. Only three boxes are kept above S. Only one box is kept between R and
+S. Only three boxes are kept between R and Q. Q is kept at some place above S. N is
+kept immediately below Q. M is kept at one of the places above O. P is not kept
+immediately above or below R. Which box is kept at the lowermost position?
+Ans
+ A. N
+B. M
+C. O
+D. S
+Q.71 Refer to the following number, symbol series and answer the question. Counting to be
+done from left to right only. All numbers are single-digit numbers.
+(Left) 1 # 2 3 Ω 9 % 4 7 8 & * £ 5 + @ 6 $ (Right)
+How many such numbers are there, each of which is immediately preceded by a symbol
+and also immediately followed by another number?
+Ans
+ A. 3
+B. 5
+C. 2
+D. 4
+Q.72 What should come in place of the question mark (?) in the given series?
+20 27 13 34 ? 413814
+Ans
+ A. 10
+B. 4
+C. 6
+D. 8
+Q.73 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. YV−RO
+B. RO−JJ
+C. HE−AX
+D. EB−XU
+Q.74 What should come in place of the question mark (?) in the given series?
+24 35 47 60 ? 893818
+Ans
+ A. 70
+B. 72
+C. 66
+D. 74
+Q.75 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+HCK 29, KHH 42, NME 55, QRB 68, ?
+Ans
+ A. TXZ 81
+B. SWX 83
+C. UVY 81
+D. TWY 81
+Q.76 John ranked 21st from the bottom and 33rd from the top in his class. How many
+students are there in his class?
+Ans
+ A. 53
+B. 52
+C. 51
+D. 50
+Q.77 Refer to the number and symbol series given below and answer the question that
+follows. Counting to be done from left to right only.
+(NOTE: All numbers are single-digit numbers only.)
+(Left) £ $ 9 3 4 9 7 £ % & # 7 3 1 8 7 5 * @ 4 £ $ (Right)
+How many such numbers are there each of which is immediately preceded by a symbol
+and also immediately followed by a symbol?
+Ans
+ A. 3
+B. 0
+C. 2
+D. 1
+Q.78 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+OZJ81, QWN78, STR75, ?
+Ans
+ A. VQW73
+B. VRV73 
+C. URW72 
+D. UQV72 
+Q.79 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(13, 39, 3)
+(15, 75, 5)
+Ans
+ A. (12, 36, 3)
+B. (64, 8, 4)
+C. (10, 35, 3)
+D. (5, 25, 15)
+Q.80 In the following triads, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one that follows the same logic.
+CAFE - CEAF - ECFA
+ABLY - AYBL - YALB
+Ans
+ A. NEAR - NREA - ENAR
+B. KALE - KLAE - ELAK
+C. MAZE - AMZE - EAZM
+D. ECHO - EOCH - OEHC
+Q.81 As per the India Justice Report, 2025, (which presents a comprehensive assessment of
+the capacity and performance of Indian states in delivering justice) which of the
+following states ranked top among small states?
+Ans
+ A. Manipur
+B. Sikkim
+C. Nagaland
+D. Goa
+Section : General Awareness and Current Affairs
+Q.82 The Constitution (Scheduled Tribes) Order (Third Amendment) Bill, 2022, seeks to
+amend the Constitution (Scheduled Tribes) Order, 1950, with respect to its application
+to _____________.
+Ans
+ A. Tamil Nadu
+B. Himachal Pradesh
+C. Andhra Pradesh
+D. Punjab
+Q.83 As per the survey conducted by the Yale Program on Climate Change Communication
+and CVoter from 5 December 2024 to 18 February 2025, what percentage of Indians
+reported experiencing severe heatwaves in the past 12 months?
+Ans
+ A. 85%
+B. 60%
+C. 71%
+D. 52%
+Q.84 As notified in April 2025, how many new species of Sericinae scarab beetles from the
+biodiversity-rich regions of India were discovered by Zoological Survey of India in
+collaboration with Germany’s Museum A. Koenig?
+Ans
+ A. 7
+B. 6
+C. 5
+D. 4
+Q.85 Which of the following countries hosted the 2025 ISSF World Cup in Rifle/Pistol
+shooting?
+Ans
+ A. Peru
+B. Germany
+C. Egypt
+D. India
+Q.86 According to the January 2025 draft rules of the Digital Personal Data Protection Rules
+(DPDP) Act, children under what age require parental consent to join social media
+platforms?
+Ans
+ A. 16 years
+B. 15 years
+C. 20 years
+D. 18 years
+Q.87 As per the announcement made in May 2025, India is set to conduct its first-ever
+biological experiments aboard the International Space Station (ISS) to study the
+sustainability of Human life in Space, as an important initiative under the _______.
+Ans
+ A. BioE3 Biotechnology policy
+B. BioE5 Biotechnology policy
+C. BioE9 Biotechnology policy
+D. BioE7 Biotechnology policy
+Q.88 The C40 World Mayors Summit of 3-5 November 2025 is scheduled for which city?
+Ans
+ A. London, UK
+B. Seoul, South Korea
+C. Rio de Janeiro, Brazil
+D. New York, USA
+Q.89 Which of the following teams set the 4x100m relay record at the National Relay Carnival
+2025?
+Ans
+ A. Anas, Jacob, Ajmal, Ramesh
+B. Gurindervir Singh, Animesh Kujur, Manikanta Hoblidar and Amlan Borgohain
+C. Archana, Dhanalakshmi, Hima, Dutee
+D. Archana, Dhanalakshmi, Manikanta Hoblidar and Amlan Borgohain
+Q.90 As of June 2025, who announced the decision to host Khelo India Northeast Games
+every year?
+Ans
+ A. Narendra Modi
+B. Gajendra Singh Shekhawat
+C. Mansukh Mandaviya
+D. Dharmendra Pradhan
+Q.91 In May 2025, which organization released the Global Report on Food Crises,
+highlighting rising hunger due to conflict and climate extremes?
+Ans
+ A. World Bank
+B. UN Environment Programme
+C. Food and Agriculture Organization
+D. Global Network Against Food Crises
+Q.92 Which of the following bodies implemented the 'UPI for International Transactions' pilot
+in 2025?
+Ans
+ A. National Payments Corporation of India (NPCI)
+B. Reserve Bank of India (RBI)
+C. Securities and Exchange Board of India (SEBI)
+D. Central Board of Direct Taxes (CBDT)
+Q.93 What was the purpose of Operation Brahma launched by India in March 2025?
+Ans
+ A. War extradition
+B. Earthquake relief
+C. Military exercise
+D. Tsunami relief
+Q.94 Which film featuring caste and police brutality themes was submitted as India’s Oscar
+entry but banned domestically by the Central Board of Film Certification?
+Ans
+ A. Dacoit
+B. Santosh
+C. Bhool Chuk Maaf
+D. Chhaava
+Q.95 In June 2025, up to what loan amount did the Reserve Bank of India raise the
+Loan-to-Value (LTV) ratio on gold loans from 75% to 85%?
+Ans
+ A. ₹4.5 lakhs
+B. ₹5.5 lakhs
+C. ₹3.5 lakhs
+D. ₹2.5 lakhs
+Q.96 Who did Praggnanandhaa defeat to reach the No.1 spot among Indian chess players?
+Ans
+ A. D Gukesh
+B. Fabiano Caruana
+C. Nodirbek Abdusattorov
+D. Hikaru Nakamura
+"
+Q.97 The National Conference on ‘Environment – 2025’, inaugurated by President Droupadi
+Murmu, was held in which city?
+Ans
+ A. Mumbai
+B. New Delhi
+C. Bengaluru
+D. Hyderabad
+Q.98 In May 2025, iPhone maker Foxconn announced to invest how much amount in India?
+Ans
+ A. US$ 3.5 billion
+B. US$ 5.2 billion
+C. US$ 4.2 billion
+D. US$ 1.5 billion
+Q.99 The September 2025 guidelines on Anganwadi–School co-location emphasise which
+key component of child development?
+Ans
+ A. Universal Primary Health Coverage
+B. Digital Literacy and Coding Skills
+C. Vocational Training for Adolescents
+D. Early Childhood Care and Education
+Q.100Which year was declared as the ‘Year of Reforms’ by the Ministry of Defence of the
+Government of India?
+Ans
+ A. 2026
+B. 2025
+C. 2024
+D. 2023

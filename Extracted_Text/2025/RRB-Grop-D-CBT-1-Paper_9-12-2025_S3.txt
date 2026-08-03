@@ -1,0 +1,774 @@
+Q.1 The approximate radii of hydrogen atom is:
+Ans
+ A. 10–10 m
+B. 10–7 m
+C. 10–8 m
+D. 10–9 m
+Q.2 Which of the following is NOT an example of action-reaction pair?
+Ans
+ A. Bat exerts force on ball and ball exerts force on bat
+B. Force of engine on car and car moves forward
+C. Gun recoils backward and bullet moves forward
+D. Swimmer pushes water backward and water pushes swimmer forward
+Q.3 Which of the following is true for solids?
+a. Definite shape
+b. Rigidity fixed
+c. Volume
+Ans
+ A. a and b only
+B. a and c only
+C. b and c only
+D. a, b and c
+Q.4 In a balanced chemical equation, the total number of atoms of each element is:
+Ans
+ A. Equal on both sides
+B. More on the reactant side
+C. Always changing
+D. More on the product side
+Q.5 If a student adds water to a concentrated acid quickly, what is likely to happen?
+Ans
+ A. The solution will become cold.
+B. Nothing will happen.
+C. The solution may splash and cause burns.
+D. The acid will solidify.
+Test Date 09/12/2025
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which plant tissue is mostly found in the husk of a coconut, and what is its main
+function?
+Ans
+ A. Collenchyma – providing flexibility
+B. Xylem – conducting water and minerals
+C. Sclerenchyma – providing strength and rigidity
+D. Parenchyma – storage of food
+Q.7 Which statement best describes the forces involved when a bird flaps its wings
+downward to fly upward?
+Ans
+ A. The flapping of wings is the action, and the gravity pulling the bird down is the reaction.
+B. The bird pushes the air downward, but no equal and opposite force acts on it.
+C. The bird’s weight acts as the action force, and the air provides the reaction force.
+D. The downward push of the wings on the air is the action, and the lift produced by the air on the wings is the reaction.
+Q.8 Calcium hydroxide reacts slowly with the carbon dioxide in air to form a thin layer of
+which compound that could be used for the purpose of whitewashing?
+Ans
+ A. CaSO4
+B. CaO
+C. Ca(HCO3)2
+D. CaCO3
+Q.9 What happens when you dissolve sugar in water?
+Ans
+ A. Sugar reacts with water
+B. Particles of sugar settle at the bottom
+C. Sugar particles occupy spaces between water particles
+D. Water evaporates
+Q.10 In flowering plants, the fusion of the male and female gametes within the ovule is called
+______.
+Ans
+ A. germination
+B. pollination
+C. fertilisation
+D. transpiration
+Q.11 What happens right after the formation and maturation of seeds in flowering plants?
+Ans
+ A. Seed dispersal
+B. Pollination
+C. Fertlisation
+D. Seed germination
+Q.12 The lens formula is given by:
+Ans
+ A. f = v + u
+B. 1/f = 1/v – 1/u
+C. 1/f = u/v
+D. f = uv
+Q.13 The ________ is the longest cell in the human body.
+Ans
+ A. platelet
+B. muscle fibre
+C. neuron
+D. osteocyte
+Q.14 What is the process known for removing impurities from ores?
+Ans
+ A. Roasting
+B. Refining
+C. Concentration
+D. Smelting
+Q.15 Identify the way that is NOT used by insect pests to attack the plants.
+Ans
+ A. By cutting the root, stem and leaf
+B. By sucking the cell sap
+C. By creeping on stem
+D. By boring into stem and fruits
+Q.16 What causes the acceleration of an object when it falls toward the Earth?
+Ans
+ A. Friction
+B. Magnetic force
+C. Air resistance
+D. Earth's gravitational force
+Q.17 An electric bulb draws a current of 0.15 A for 8 minutes. How much electric charge
+flows through the circuit during this time?
+Ans
+ A. 720 C
+B. 72 A
+C. 1.2 C
+D. 72 C
+Q.18 The absolute refractive index of a medium is defined as:
+Ans
+ A. the ratio of speed of light in medium to that in vacuum
+B. the ratio of speed of light in vacuum to that in medium
+C. the ratio of speed of light in medium to that in air
+D. the ratio of speed of light in one medium to that in another medium
+Q.19 Which of the following contraceptive devices/methods prevent(s) spreading of STDs
+(Sexually Transmitted Diseases) such as AIDS?
+Ans
+ A. Oral Pills
+B. Condoms
+C. Copper T
+D. Vasectomy/Tubectomy
+Q.20 Ohm’s Law is valid under which condition?
+Ans
+ A. Only for metallic conductors at constant temperature
+B. Only for insulator at high temperatures
+C. Only for semiconductors
+D. For all materials at any temperature
+Q.21 The plasma membrane is composed of _____________.
+Ans
+ A. sugars and lipids
+B. proteins and sugars
+C. lipids and proteins
+D. DNA and lipids
+Q.22 Carbon can form long chains because it exhibits ________ and shows ________.
+Ans
+ A. tetravalency; catenation
+B. double bond; triple bond
+C. electronegativity; tetravalency
+D. trivalent; catenation
+Q.23 Substances that are broken down by biological processes are said to be:
+Ans
+ A. synthetic
+B. non-biodegradable
+C. biodegradable
+D. metallic
+Q.24 If the time period of a sound wave is 
+, what does 
+  represent?
+Ans
+ A. Speed (
+)
+B. Wavelength (
+)
+C. Amplitude (
+)
+D. Frequency (
+)
+Q.25 A ball of mass 3 kg is raised to a height of 6 m. Its potential energy is _______.
+Take g = 10 m/s2
+Ans
+ A. 180 J
+B. 200 J
+C. 20 J
+D. 1.8 J
+Q.26 The sum of the first 9 prime numbers is:
+Ans
+ A. 100
+B. 102
+C. 101
+D. 96
+Q.27 Evaluate: 60 − [12 ÷ (2 + 1) + 4 × 2]
+Ans
+ A. 49
+B. 46
+C. 48
+D. 50
+Q.28 The marked price of an item is set at 41% above its cost price. If the merchant sells the
+item at 13% below the marked price, his profit percentage (rounded off to 1 decimal
+place) is:
+Ans
+ A. 25.4%
+B. 22.7%
+C. 26.3%
+D. 21.8%
+Section : Mathematics
+Q.29 Calculate the mode from the following data.
+Days of Confinement7 8 9 10 11
+Number of Patients5 7 8 6 4
+Ans
+ A. 11
+B. 9
+C. 10
+D. 8
+Q.30 Three numbers are in the ratio 2 : 17 : 19 and the sum of these numbers is 7752. Find
+the middle number.5295
+Ans
+ A. 3469
+B. 3468
+C. 3470
+D. 3465
+Q.31 A train overtakes two people running along a railway track. The first person is running
+at 12.6 km/hr, and the second person is running at 25.2 km/hr. The train takes 16.8
+seconds to pass the first person and 22.4 seconds to pass the second person. What is
+the speed of the train if both are running in the same direction as the train?
+Ans
+ A. 60 km/hr
+B. 59 km/hr
+C. 62 km/hr
+D. 63 km/hr
+Q.32 A and B working together can do a piece of work in 4 days. B alone can do the same
+work in 36 days. How long (in days) will A alone take to do double the work?2531
+Ans
+ A. 10
+B. 12
+C. 9
+D. 4.5
+Q.33 The length of a rectangle is twice its breadth. If the perimeter of the rectangle is 12 cm,
+find the length and breadth.
+Ans
+ A. Length = 4 cm and breadth = 2 cm
+B. Length = 2 cm and breadth = 4 cm
+C. Length = 6 cm and breadth = 3 cm
+D. Length = 3 cm and breadth = 6 cm
+Q.34 Find the lowest value for * in the number 3*760 such that the resulting number is
+divisible by 12.
+Ans
+ A. 5
+B. 0
+C. 2
+D. 1
+Q.35
+Ans
+ A. 55.91%
+B. 81.82%
+C. 50.91%
+D. 40.91%
+Q.36 The monthly incomes of two friends Kiran and Mahesh, are in the ratio 5 : 8
+respectively and each of them saves ₹78,000 every month. If the ratio of their monthly
+expenditure is 2 : 4, find the monthly income of Kiran (in ₹).
+Ans
+ A. 2,73,000
+B. 1,94,000
+C. 1,95,000
+D. 1,96,000
+Q.37 From a shipmast head 210 m high, the angle of depression of a boat is observed to be
+60°. Find the distance (in m) of the boat from the ship.
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.38 If the total age of Hassan and Ali is 12 years more than the total age of Ali and Ahmed,
+how many years younger is Ahmed than Hassan?
+Ans
+ A. 12
+B. 14
+C. 10
+D. 11
+Q.39 In quadrilateral PQRS, the bisectors of ∠R and ∠S meet at the point T (inside the
+quadrilateral) and ∠STR = 28°. If the ratio of ∠P to ∠Q is 3 : 4, then what is the
+difference between the measures of ∠Q and ∠P?
+Ans
+ A. 8°
+B. 13°
+C. 6°
+D. 3°
+Q.40
+Ans
+ A. 3x2 − 4x + 15
+B. 3x2 + 4x + 17
+C. 2x2 − 4x + 17
+D. 3x2 − 4x + 17
+Q.41 Two trains, 130 m and 190 m long, are running in the same direction at speeds of 96
+km/hr and 48 km/hr, respectively. How much time will the faster train take to completely
+cross the slower one?
+Ans
+ A. 9 seconds
+B. 18 seconds
+C. 24 seconds
+D. 8 seconds
+Q.42 The total number of colour blocks is 8360. If the ratio of red block to blue block is 1 : 3
+and the ratio of blue block to yellow block is 7 : 4, then how many yellow blocks are
+there?5679
+Ans
+ A. 2494
+B. 2495
+C. 2508
+D. 2598
+Q.43 The largest possible cone is carved from a solid wooden cube of side 21 cm. What is
+the volume of the wood (in cm3) left over? 
+Ans
+ A. 7240.3
+B. 5940.5
+C. 6125.5
+D. 6835.5
+Q.44 The arithmetic mean of the observations 58, 13, 74, 38, 98, 36, 43, 39 and 42 is:
+Ans
+ A. 53
+B. 49
+C. 51
+D. 43
+Q.45 After allowing a discount of 11% on the marked price of an article, it is sold for ₹41,207.
+Find its marked price (in ₹).
+Ans
+ A. 46,300
+B. 46,276
+C. 46,363
+D. 46,148
+Q.46 The cost of a washing machine is 40% less than the cost of a TV. If the cost of the
+washing machine increases by 51% and that of the TV decreases by 15%, then what is
+the percentage change in the total cost of 5 washing machines and 7 TVs?
+Ans
+ A. Increase by 4.8%
+B. Increase by 5.2%
+C. Decrease by 5%
+D. Decrease by 8%
+Q.47
+Ans
+ A. 886
+B. 896
+C. 688
+D. 868
+Q.48 A group of 10 women can weave a designer saree in 20 days. After 4 days, another
+group of 20 women joins them to work on the same saree. In how many more days will
+the saree be completely woven?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.49 Two banks, A and B, offered loans at 3.5% and 7.5% per annum, respectively. Rakesh
+borrowed an amount of ₹2,20,000 from each bank. Find the positive difference (in ₹)
+between the amounts of simple interest paid to the two banks by Rakesh after 4 years.
+Ans
+ A. 34,700
+B. 36,200
+C. 36,700
+D. 35,200
+Q.50 The difference between the cost price and the selling price of an object is ₹480. If the
+profit is 20% on the cost price, find the selling price of the object.
+Ans
+ A. ₹2,400
+B. ₹2,000
+C. ₹2,500
+D. ₹2,880
+Q.51 If ‘A’ stands for ‘÷’ , ‘B’ stands for ‘x’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘-‘ , what will be
+come in place of question mark ‘?’ in the following equation?
+41 C 12 A 6 D 5 B 2 = ?
+Ans
+ A. 31
+B. 33
+C. 32
+D. 34
+Q.52 This question is based on the five, three-digit numbers given below.
+(Left) 783 791 531 563 594 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+What will be the resultant if the second digit of the highest number is added to the
+second digit of the lowest number?2431
+Ans
+ A. 12
+B. 11
+C. 10
+D. 9
+Q.53 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+92 D 9 C 96 A 12 B 7 = ?
+Ans
+ A. 133
+B. 139
+C. 193
+D. 143
+Q.54 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+OSW 24, GKO 35, YCG 46, QUY 57, IMQ 68, ?1852
+Ans
+ A. AEI 79
+B. AEI 78
+C. AIE 79
+D. AOI 79
+Section : General Intelligence and Reasoning
+Q.55 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. VZS
+B. PTN
+C. SWP
+D. EIB
+Q.56 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All wallet are bank.
+All bank are vault.
+Conclusions:
+(I): Some vault are bank.
+(II): All wallet are vault.
+Ans
+ A. Only conclusion (II) follows.
+B. Only conclusion (I) follows.
+C. Both conclusions (I) and (II) follow.
+D. Neither conclusion (I) nor (II) follows.
+Q.57 Eight people – A, B, C, D, E, F, G and H, are sitting around a circular table facing the
+centre. C sits to the immediate left of A. Only two people sit between C and E when
+counted from the left of E. Only three people sit between H and E when counted from
+the left of H. D sits to the immediate left of H. B is not an immediate neighbour of E. F
+sits second to the right of G. Who sits third to the right of H?
+Ans
+ A. B
+B. A
+C. F
+D. G
+Q.58 This question is based on the following words
+COP, TIK, ANY, CAN, OWN
+If in each of the words, each letter is changed to the next letter in the English
+alphabetical order, how many words thus formed will have no vowel?
+Ans
+ A. Four
+B. Two
+C. One
+D. Three
+Q.59 In a certain code language, ‘lime card river’ is coded as 'du kt bv' and ‘river child judge’
+is coded as ‘rr xi kt’. How is ‘river’ coded in that language?
+Ans
+ A. kt
+B. rr
+C. du
+D. bv
+Q.60 KOJL is related to RVQS in a certain way based on the English alphabetical order. In the
+same way, MQLN is related to TXSU. To which of the following is OSNP related,
+following the same logic?
+Ans
+ A. ZVUW
+B. ZVWU
+C. VZWU
+D. VZUW
+Q.61 एक िनि त कू ट भाषा म ,
+'A + B' का अथ  है िक 'A, B का पुत्र है'
+'A – B' का अथ  है िक 'A, B का भाई है'
+'A × B' का अथ  है िक 'A, B की प ी है'
+'A ÷ B' का अथ  है िक 'A, B का िपता है'
+उपरोक्त के  आधार पर, यिद 'D × F + G ÷ H – J' है, तो D का J से   या संबंध है?
+Ans
+ A. भा ई  की  प ु  ी 
+B. भा ई  की  प  ी 
+C. प  ी 
+D. प ु  ी 
+Q.62 What should come in place of the question mark (?) in the given series?
+710 712 708 714 706 716 ?3522
+Ans
+ A. 704
+B. 718
+C. 708
+D. 720
+Q.63 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+15 + 17 ÷ 27 × 3 − 10 = ?
+Ans
+ A. −130
+B. −128
+C. −127
+D. −126
+Q.64 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All hammers are screwdrivers.
+Some screwdrivers are wrenches.
+No wrenches are pliers.
+Conclusions:
+(I): Some pliers are screwdrivers.
+(II): Some wrenches are hammers.
+Ans
+ A. Only conclusion (I) is true
+B. Only conclusion (II) is true
+C. Neither conclusion (I) nor (II) is true
+D. Both conclusions (I) and (II) are true
+Q.65 What should come in place of the question mark (?) in the given series?
+7 16 27 40 55 ?3816
+Ans
+ A. 60
+B. 70
+C. 62
+D. 72
+Q.66 In the following triad, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one which follows the same logic.
+CLUB - LCUB - CUBL
+SEAT - ESAT - SATE
+Ans
+ A. GROW - GORW - WORG
+B. TWIN - WTIN - WINT
+C. HOME - OHME - EOMH
+D. PALE - APLE - PLEA
+Q.67 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(18, 324, 1)
+(7, 71, 23)
+Ans
+ A. (22, 501, 13)
+B. (44, 1955, 15)
+C. (1, 30, 25)
+D. (22, 505, 22)
+Q.68 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+FGH BCD XYZ TUV ?
+Ans
+ A. PRO
+B. PQR
+C. POR
+D. PRQ
+Q.69 In a certain code language, 'elbow yield apple' is coded as 'tr ss jw' and 'apple case
+barn' is coded as 'ss rz jn'. How is 'apple' coded in that language?
+Ans
+ A. tr
+B. jw
+C. ss
+D. rz
+Q.70 KOJM is related to QUPS in a certain way based on the English alphabetical order. In
+the same way, OSNQ is related to UYTW. To which of the following is GKFI related,
+following the same logic?
+Ans
+ A. MQLO
+B. QMLO
+C. MQOL
+D. QMOL
+Q.71 In a row of 41 people facing north, Mohan is 10th from the left end. If Rahul sits 9th to
+the right of Mohan, what is Rahul’s position from the right end of the row?
+Ans
+ A. 22nd
+B. 23rd
+C. 24th
+D. 21st
+Q.72 Refer to the following series and answer the question (all numbers are single-digit
+numbers only).
+(Left) 8 3 7 1 2 5 9 6 3 7 8 2 4 1 (Right)
+How many such even numbers are there (from left to right) which are immediately
+followed by an odd number?
+Ans
+ A. Three
+B. Two
+C. One
+D. More than three
+Q.73 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. TP-UR
+B. VR-WU
+C. PL-QN
+D. RN-SP
+Q.74 Five people V, W, X, Y and Z are sitting in a row facing towards north. W is sitting at the
+extreme left end of the row. There are two people sitting between Z and W. V is
+immediate neighbour of Z . X is immediate neighbour of V. Exactly how many people
+are sitting in between W and Y?5993
+Ans
+ A. Two
+B. None
+C. One
+D. Three
+Q.75 Refer to the given number series and answer the question that follows. Counting to be
+done from left to right only. All numbers are single-digit numbers.
+(Left) 8 2 6 4 7 3 5 1 9 8 3 7 2 6 5 9 1 4 8 7 2 6 9 3 5 8 (Right).
+How many such odd digits are there, each of which is immediately preceded by an odd
+digit and also immediately followed by an even digit?
+Ans
+ A. Two
+B. Five
+C. Three
+D. Four
+Q.76 Toshi starts from point A and drives 70 km towards east. He then takes a left turn,
+drives 45 km, turns left and drives 78 km. He then takes a left turn and drives 76 km. He
+takes a final left turn, drives 8 km and stops at point P. How far (shortest distance) and
+towards which direction should he drive in order to reach point A again?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. 31 km to the north
+B. 32 km to the south
+C. 33 km to the south
+D. 30 km to the north
+Q.77 What should come in place of the question mark (?) in the given series?
+79 104 129 154 179 ?
+Ans
+ A. 199
+B. 204
+C. 210
+D. 215
+Q.78 Seven boxes, A, B, C, D, E, F and G, are kept one over the other but not necessarily in
+the same order. Only C is kept above B. Only E is kept between B and F. Only G is kept
+below A. How many boxes are kept below F?
+Ans
+ A. 1
+B. 3
+C. 2
+D. 4
+Q.79 Ravindra starts from Point A and drives 9 km towards the east. He then takes a left turn,
+drives 3 km, turns right and drives 4 km. He then takes a right turn and drives 8 km. He
+takes a final right turn, drives 13 km and stops at Point P. How far (shortest distance)
+and towards which direction should he drive in order to reach Point A again? (All turns
+are 90 degrees turns only, unless specified.)
+Ans
+ A. 7 km towards east
+B. 5 km towards south
+C. 5 km towards north
+D. 15 km towards north
+Q.80 A, B, C, D, W, X and Y are sitting in a straight line facing north. Only three people sit
+between W and Y. A sits to the immediate left of Y. No one sits to the right of B. Only
+two people sit between B and A. X sits to the immediate right of D. How many people sit
+between C and X?
+Ans
+ A. Three
+B. Four
+C. One
+D. Two
+Q.81 Which Indian political leader is known for the 'Viksit Bharat Sankalp Yatra' campaign in
+2025?
+Ans
+ A. Mallikarjun Kharge
+B. Rahul Gandhi
+C. Shivraj Singh Chouhan
+D. Yogi Adityanath
+Q.82 In the 2025 Ludhiana West by-election, which party emerged victorious?
+Ans
+ A. Indian National Congress
+B. Aam Aadmi Party
+C. Bharatiya Janata Party
+D. Shiromani Akali Dal
+Section : General Awareness and Current Affairs
+Q.83 Who became the first athlete in history to run sub-10 s in the 100 m for 11 consecutive
+years?
+Ans
+ A. Akani Simbine
+B. Andre De Grasse
+C. Usain Bolt
+D. Trayvon Bromell
+Q.84 In February 2025, in which district did the NDRF launch an avalanche rescue operation?
+Ans
+ A. Chamoli
+B. Shillong
+C. Uttarkashi
+D. Shimla
+Q.85 Which city was declared India’s 'Leopard Capital' on 5 June 2025?
+Ans
+ A. Dehradun
+B. Udaipur
+C. Mysuru
+D. Bengaluru
+Q.86 Which of the following cities hosted the National Workshop in July 2025, organised by
+the Union Ministry of Social Justice and Empowerment to strengthen the
+implementation of the SMILE-B (Support for Marginalized Individuals for Livelihood and
+Enterprise – Begging) scheme?
+Ans
+ A. Indore
+B. Jaipur
+C. Patna
+D. Lucknow
+Q.87 The inaugural Everest Climbers’ Summit focused on climate, held in 2025, took place
+in:
+Ans
+ A. Lhasa, Tibet
+B. Dhaka, Bangladesh
+C. Kathmandu, Nepal
+D. Dharamsala, India
+Q.88 How many Centres of Excellence (CoE) were inaugurated by the Union Minister of State
+for Rural Development in June 2025 in Chennai?
+Ans
+ A. 200
+B. 400
+C. 300
+D. 100
+Q.89 The Waqf (Amendment) Act, 2025, is also known as __________.
+Ans
+ A. TAHIB Act
+B. UMEED Act
+C. SAHIB Act
+D. FARID Act
+Q.90 Which legendary sprinter was named a Guinness World Records ICON in June 2025?
+Ans
+ A. Carl Lewis
+B. Justin Gatl
+C. Michael Johnson
+D. Usain Bolt
+Q.91 Which telemedicine platform served over 36 crore patients by April 2025, per the
+Ministry of Health?
+Ans
+ A. Practo
+B. eSanjeevani
+C. Apollo Telehealth
+D. Mfine
+Q.92 Which of the following institutions won the Bakshi Cup in 2025?
+Ans
+ A. Indian Naval Academy (INA)
+B. Air Force Academy (AFA)
+C. National Defence Academy (NDA)
+D. Indian Military Academy (IMA)
+Q.93 In August 2025, the report ‘Unlocking a $200 Billion Opportunity: Electric Vehicles in
+India,’ assessing challenges and key steps for India’s Electric Mobility transition, was
+released by ________.
+Ans
+ A. Bureau of Energy Efficiency
+B. Ministry of Road Transport and Highways
+C. NITI Aayog
+D. Ministry of Heavy Industries
+Q.94 What is the name of Assam’s AI-powered virtual news anchor unveiled in 2025?
+Ans
+ A. Asha
+B. Ananya
+C. Arpita
+D. Ankita
+Q.95 Who chaired the 10th Governing Council Meeting of the NITI Aayog on 24 May 2025?
+Ans
+ A. Amit Shah
+B. Manohar Lal Khattar
+C. JP Nadda
+D. Narendra Modi
+Q.96 Which of the following showed an increase to 99.62% in 2024-25, according to the
+Sustainable Development Goals – National Indicator Framework Progress Report,
+2025?
+Ans
+ A. Percentage of population covered by social protection systems/floors
+B. The renewable energy share in the total installed electricity generation
+C. Percentage of population using an improved drinking water source in rural areas
+D. The reduction in emissions intensity of GDP
+"
+Q.97 Which of the following banks launched the largest staff engagement initiative called
+‘Next LEAP’ to empower workforce in 2025?
+Ans
+ A. Canara Bank
+B. Indian Bank
+C. Bank of Baroda
+D. State Bank of India
+Q.98 What was the nationality of the legendary fashion designer Giorgio Armani, who passed
+away in 2025?
+Ans
+ A. American
+B. Italian
+C. Spanish
+D. French
+Q.99 In May 2025, the Financial Services Institutions Bureau (FSIB) recommended Asheesh
+Pandey as the new Managing Director (MD) and Chief Executive Officer (CEO) of which
+bank?
+Ans
+ A. Canara Bank
+B. Central Bank of India
+C. Union Bank of India
+D. State Bank of India
+Q.100Which team did the Indian women’s team defeat to emerge as champions in the
+inaugural Kho Kho World Cup on 19 January 2025?
+Ans
+ A. Pakistan
+B. Nepal
+C. Bangladesh
+D. China

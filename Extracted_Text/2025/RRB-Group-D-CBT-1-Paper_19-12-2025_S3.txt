@@ -1,0 +1,780 @@
+Q.1 Which of the following is correct for concave mirrors?
+Ans
+ A. They always produce virtual images.
+B. They cannot produce magnified images.
+C. They are used by dentists to see enlarged images of teeth.
+D. They are used as rear-view mirrors.
+Q.2 Which event does NOT directly occur during photosynthesis in green plants?
+Ans
+ A. Absorption of light energy by chlorophyll
+B. Conversion of light energy into chemical energy
+C. Breakdown of carbohydrates to release energy
+D. Reduction of carbon dioxide to carbohydrates
+Q.3 When salt solution is applied to boiled Rhoeo leaf peels, it fails to show plasmolysis
+due to:
+Ans
+ A. dead cells cannot osmoregulate
+B. chlorophyll takes up water 
+C. walls block salts 
+D. nuclei stop diffusion 
+Q.4 Which of the following is an allotrope of carbon?
+Ans
+ A. Diamond
+B. Quartz
+C. Alum
+D. Limestone
+Q.5 Which of the following ensures that the DNA amount is NOT doubled in every
+generation?
+Ans
+ A. Division of body cells
+B. Consistency of DNA in gametes
+C. Division of neurons
+D. Reduction of DNA in gametes
+Test Date 19/12/2025
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 If the force on an object is doubled while its mass remains the same, the acceleration:
+Ans
+ A. becomes zero
+B. remains the same
+C. also doubles
+D. halves
+Q.7 A retarding force of 10 N acts on a body. The work done due to this force is −200 J.
+What will be the magnitude and direction of the displacement of the body under the
+action of this force?
+Ans
+ A. 20 m; opposite to the direction of the force
+B. 2000 m; in the same direction as the force
+C. 20 m; in the same direction as the force
+D. 2000 m; opposite to the direction of the force
+Q.8 The process by which the developing embryo gets associated with the lining of the
+uterus is called _________.
+Ans
+ A. embryogenesis
+B. fertilisation
+C. implantation
+D. abortion
+Q.9 Which of the following statements about variations is INCORRECT?
+Ans
+ A. Variation makes species prone to extinction.
+B. Variation enables adaptation to changing environments.
+C. Provides resilience against diseases
+D. Ensures species survival during disasters
+Q.10 Which of the following statements is NOT correct about resistivity?
+Ans
+ A. It changes with temperature.
+B. It is measured in ohm-meter.
+C. It depends on the length of the wire.
+D. It is a property of the material.
+Q.11 Which metal reacts violently with cold water?
+Ans
+ A. Aluminium
+B. Sodium
+C. Magnesium
+D. Copper
+Q.12 If you push a stationary wall with 80 N, the wall pushes you back with ______.
+Ans
+ A. 80 N
+B. 160 N
+C. 40 N
+D. 0 N
+Q.13 Select the option that is true regarding the following two statements labelled Assertion
+(A) and Reason (R).
+Assertion (A): Insulin helps lower blood glucose levels.
+Reason (R): Insulin converts glucose into glycogen for storage in the liver.
+Ans
+ A. A is true, but R is false.
+B. A is false, but R is true.
+C. Both A and R are true, and R is the correct explanation of A.
+D. Both A and R are true, but R is not the correct explanation of A.
+Q.14 Which of the following represents corrosion?
+Ans
+ A. Burning of LPG
+B. Rusting of iron
+C. Dissolving sugar in water
+D. Boiling of water
+Q.15 If the radius of curvature of a convex mirror used for rear-view on an automobile is 4.00
+m, what is its focal length?
+Ans
+ A. 8 m
+B. 4 m
+C. 1 m
+D. 2 m
+Q.16 What happens to the concentration of a solution if more solute is added to the same
+amount of solvent?
+Ans
+ A. It becomes less concentrated
+B. It remains unchanged
+C. It becomes more concentrated
+D. It becomes a suspension
+Q.17 Which of the following best defines the concentration of a solution?
+Ans
+ A. The amount of solvent present in a given amount of solution
+B. The amount of solvent present in a given amount of solute
+C. The amount of solute present in a given amount of solution
+D. The amount of solution present in a given amount of solute
+Q.18 A straight current carrying conductor has a magnetic field (B) associated with it. Which
+of the following is correct regarding the value of magnetic field (B)?
+(i) The magnetic field will increase as we move away from the conductor.
+(ii) The magnetic field will decrease as we move away from the conductor.
+(iii) The magnetic field will increase when the current flowing through the conductor
+increases.
+(iv) The magnetic field will first decrease when the current flowing through the
+conductor increases.
+Ans
+ A. Both (i) and (ii)
+B. Both (ii) and (iii)
+C. Both (iii) and (iv)
+D. Both (i) and (iv)
+Q.19 Which of the following is the correct function of the Golgi body in a plant cell?
+Ans
+ A. Maintaining the shape of the cell.
+B. Supporting the formation of lysosomes.
+C. Providing protection to the cell.
+D. Helping in the synthesis of proteins.
+Q.20 Which of the following is true about infrasonic sound?
+Ans
+ A. Frequency between 20 Hz and 20 kHz
+B. Frequency < 20 Hz
+C. Frequency > 20 kHz
+D. Cannot travel in air
+Q.21 Which of the following is a characteristic reaction of saturated hydrocarbons (alkanes)?
+Ans
+ A. Addition reaction
+B. Neutralisation
+C. Substitution reaction
+D. Polymerisation
+Q.22 What is a decomposition reaction?
+Ans
+ A. Two or more substances combine to form one product
+B. Two compounds exchange ions
+C. A compound breaks down into two or more simpler substances
+D. A single substance is formed from two or more reactants
+Q.23 Which of the following pairs represent the Isobar?
+Ans
+ A. 15N7 and 16O8
+B. 15O8 and 16O8
+C. 40K19 and 40Ar18
+D. 235U92 and 238U92
+Q.24 Which practice demonstrates judicious energy use at home?
+Ans
+ A. Keeping all appliances on standby mode
+B. Heating an empty room continuously
+C. Using bulbs or fluorescent tubes
+D. Overusing air-conditioners
+Q.25 A ball is dropped from a height of 10 m from the surface of the earth. What will be the
+speed with which the ball will strike the ground?
+(Take g = 10 m/s2)
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.26 The price of fuel decreases by 45%, 15% and 50% in three successive months, but
+increases by 70% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price? (Rounded off to two
+decimal places)
+Ans
+ A. Decreases by 60.26%
+B. Increases by 66.72%
+C. Decreases by 61.32%
+D. Increases by 65.02%
+Section : Mathematics
+Q.27 The average age of 43 students of a class is 25 years. If the age of the teacher is also
+included, the average age of the whole group becomes 26 years. The age (in years) of
+the teacher is:
+Ans
+ A. 66
+B. 68
+C. 71
+D. 69
+Q.28 A garrison of 1209 men has provisions for 20 days. How long (in days) will the
+provisions last if the garrison is increased by 403 men?
+Ans
+ A. 25
+B. 15
+C. 10
+D. 35
+Q.29 If 5x − y = 3125 and 33x + y = 2187, then the value of 19x − 18y is:
+Ans
+ A. 93
+B. 97
+C. 91
+D. 95
+Q.30 In quadrilateral PQRS, the bisectors of ∠R and ∠S meet at the point T (inside the
+quadrilateral) and ∠STR = 17°. If the ratio of ∠P to ∠Q is 8 : 9, then what is the
+difference between the measures of ∠Q and ∠P?
+Ans
+ A. 4°
+B. 2°
+C. 6°
+D. 5°
+Q.31 ₹8,516 is divided among A, B and C in such a way that if ₹88, ₹31 and ₹90 are deducted
+from their respective shares, they have money in the ratio 18:17:4. Find the difference
+between B’s and C’s original shares.
+Ans
+ A. ₹2,919
+B. ₹2,719
+C. ₹2,710
+D. ₹2,619
+Q.32 The sum of the present ages of Priya and her younger brother Rohan is 44 years. Four
+years ago, Priya was twice as old as Rohan was at that time. What is Priya’s current age
+(in years)?
+Ans
+ A. 30
+B. 28
+C. 26
+D. 24
+Q.33 A, B and C can do a piece of work in 3, 10 and 15 days, respectively. How long (in days)
+will they take to do twice the same work, working together?
+Ans
+ A. 5
+B. 4
+C. 8
+D. 12
+Q.34 Aarti got a new bed at 50% discount. If Aarti did not get any discount, Aarti would have
+to pay ₹8,453 extra. So how much did Aarti pay for the bed?
+Ans
+ A. ₹8,455
+B. ₹8,453
+C. ₹8,454
+D. ₹8,452
+Q.35 A car travels a distance of 120 km in 2 hours. What is its speed?
+Ans
+ A. 60 km/h
+B. 120 km/h
+C. 40 km/h
+D. 240 km/h
+Q.36 Find the value of x in the given expression.
+Ans
+ A. 9
+B. 6
+C. 7
+D. 8
+Q.37 A taxi service charges a fixed base fare plus a variable rate per kilometre. For a 10 km
+trip, Raju paid ₹230 and for a 15 km trip, Meena paid ₹330. What is the base fare and the
+per-kilometre charge?
+Ans
+ A. Base fare = ₹30; Per-kilometre Charge = ₹20
+B. Base fare = ₹50; Per-kilometre Charge = ₹18
+C. Base fare = ₹40; Per-kilometre Charge = ₹18
+D. Base fare = ₹60; Per-kilometre Charge = ₹15
+Q.38
+3062
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.39 In an election between two candidates, 20% of the voters did not cast their votes, and
+all the votes cast were valid. The winner secured 70% of the votes cast and won by a
+margin of 23,200 votes. What was the total number of voters?
+Ans
+ A. 75,000
+B. 82,500
+C. 69,500
+D. 72,500
+Q.40 From an interior point of an equilateral triangle, three perpendiculars are drawn to its
+three sides which are of lengths 12.7 cm, 14.8 cm and 11.5 cm, respectively. Find the
+area of the equilateral triangle.
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.41 The amount on a sum of ₹4,400 at 5% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹4,819
+B. ₹4,851
+C. ₹5,840
+D. ₹4,071
+Q.42
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.43 In a distribution where the empirical relation holds true, if both the mode and the
+median are 46, find the mean.
+Ans
+ A. 46.5
+B. 45.5
+C. 45
+D. 46
+Q.44 The height of a cylinder is 56 cm. If the circumference of its base is 176 cm, then what
+is the total surface area (in cm2) of this cylinder?
+Ans
+ A. 12,895
+B. 13,252
+C. 14,784
+D. 11,745
+Q.45 A, B and C can do a work in 17 days, 51 days and 68 days, respectively. They finished
+together that work and gained ₹5,985 in wages. Find B's wage (in ₹).
+Ans
+ A. 1,260
+B. 3,780
+C. 2,241
+D. 945
+Q.46 A stationery seller purchases 6 notebooks for ₹30 and sells them for ₹36. What is his
+profit percentage?
+Ans
+ A. 20%
+B. 6%
+C. 120%
+D. 16.67%
+Q.47 The market prices of jowar to gram are in the ratio 1 : 5, and a family consumes them in
+the ratio 4 : 3 by quantity. Find the ratio of expenditure on jowar to that on gram.
+Ans
+ A. 5 : 16
+B. 6 : 17
+C. 3 : 11
+D. 4 : 15
+Q.48
+11131
+Ans
+ A. 16 minutes
+B. 9 minutes
+C. 10 minutes
+D. 21 minutes
+Q.49 An article is marked 25% above its cost price. A discount is offered so that a profit of
+15% is made. Find the discount percentage.
+Ans
+ A. 5%
+B. 12%
+C. 10%
+D. 8%
+Q.50
+Ans
+ A. 
+B. 
+C. 2
+D. 1
+Q.51 All 63 people are standing in a row, facing the north.
+Mr. Zzz is 12th from the left end while Mr. Ggg is 5th from the right end.
+How many people are there between Mr. Zzz and Mr. Ggg?
+Ans
+ A. 47
+B. 45
+C. 43
+D. 46
+Q.52 A, B, C, D, N, O and P are sitting in a straight line, facing the north.
+Only N sits to the left of P. Only four people sit between N and A. Only B sits between O
+and C, and O is not an immediate neighbour of A.
+Who sits at the extreme right of the line?
+Ans
+ A. C
+B. O
+C. A
+D. D
+Q.53 Refer to the following number-symbol series and answer the question that follows.
+Counting is to be done from left to right only.
+(Left) $ # # £ 9 % £ 7 * & € 1 3 4 5 6 4 9 € 2 5 & (Right)
+How many such numbers are there each of which is immediately preceded by a symbol
+and also immediately followed by a symbol?
+Ans
+ A. 5
+B. 6
+C. 4
+D. 2
+Section : General Intelligence and Reasoning
+Q.54 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All hydrogen is oxygen.
+Some oxygen is nitrogen.
+Some nitrogen is carbon.
+Conclusions:
+(I): Some nitrogen is hydrogen.
+(II): No carbon is oxygen.
+Ans
+ A. Neither conclusion (I) nor (II) is true
+B. Both conclusions (I) and (II) are true
+C. Only conclusion (I) is true
+D. Only conclusion (II) is true
+Q.55 Seven people, R, S, T, U, V, W and X, are sitting in a row, facing east. V is seated third
+from the right end. S is fourth to the left of W. R is seated to the right of V and at one of
+the ends. Only one person is seated between T and S. U does not sit at any of the
+extreme ends. Who is seated at the extreme left end?
+Ans
+ A. W
+B. X
+C. T
+D. V
+Q.56 BDBF is related to JLJN in a certain way based on the English alphabetical order. In the
+same way, HJHL is related to PRPT. To which of the given options is RTRV related,
+following the same logic?
+Ans
+ A. ZAYD
+B. ZCYG
+C. ZBYD
+D. ZBZD
+Q.57 In a certain code language, ‘bring the cup’ is coded as ‘bz rs tq’ and ‘cup on the’ is
+coded as ‘rs pl tq’. How is ‘on’ coded in that language?
+Ans
+ A. bz
+B. pl
+C. rs
+D. tq
+Q.58 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+BZA 30 ZXY 41 XVW 52 VTU 63 ?
+Ans
+ A. TSR 74
+B. TRS 74
+C. TYE 73
+D. TQR 73
+Q.59 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some houses are kites.
+All mangoes are houses.
+All flowers are kites.
+Conclusions:
+(I) Some houses are flowers.
+(II) No flowers are mangoes.
+Ans
+ A. Neither conclusion (I) nor (II) follows.
+B. Both conclusions (I) and (II) follow.
+C. Only conclusion (I) follows.
+D. Only conclusion (II) follows.
+Q.60 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+CUV : AYT
+YCR : WGP
+Ans
+ A. TWG : PYC
+B. ANP : VRK
+C. KGX : HKU
+D. UKN : SOL
+Q.61 Each of the digits in the number 1368497 is arranged in ascending order from left to
+right. What will be the sum of the digits that are second from the left and second from
+the right in the new number thus formed?
+Ans
+ A. 7
+B. 11
+C. 10
+D. 8
+Q.62 Refer to the given series and answer the question that follows. (All numbers are single
+digit numbers only.) Counting to be done from left to right only.
+(Left) 6 9 1 7 9 7 3 8 1 9 1 7 7 5 4 4 3 2 3 8 7 (Right)
+How many such odd digits are there, each of which is immediately preceded by an odd
+digit and also immediately followed by an odd digit?
+Ans
+ A. 6
+B. 7
+C. 8
+D. 5
+Q.63 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+NDG, PFI, RHK, TJM, ?
+Ans
+ A. VKO
+B. VKP
+C. VLO
+D. VLP
+Q.64 Each of the digits in the number 9214538 is arranged in the ascending order from left to
+right. The position(s) of how many digits will remain unchanged as compared to that in
+the original number? 4970
+Ans
+ A. Two
+B. One
+C. None
+D. Three
+Q.65 If 1 is added to each even digit and 2 is subtracted from each odd digit in the number
+7593562, which of the following digits will be second from the left in the new number
+this formed?
+Ans
+ A. 8
+B. 5
+C. 3
+D. 1
+Q.66 What should come in place of the question mark (?) in the given series?
+249 232 215 198 181 ?
+Ans
+ A. 166
+B. 164
+C. 168
+D. 170
+Q.67 Seven boxes D, E, F, U, V, W and X are kept one over the other but not necessarily in the
+same order. Only five boxes are kept below X. Only three boxes are kept between F and
+X. V is kept at one of the positions below F. Only E is kept between X and W. D is kept at
+one of the positions above X. How many boxes are kept between V and D?
+Ans
+ A. Three
+B. Five
+C. Two
+D. Four
+Q.68 Ramesh starts from Point A and drives 51 km towards the north. He then takes a right
+turn, drives 55 km, turns right and drives 54 km. He then takes a right turn and drives
+56 km. He takes a final right turn, drives 3 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only unless specified.)
+Ans
+ A. 4 km to the west
+B. 3 km to the west
+C. 1 km to the east
+D. 2 km to the east
+Q.69 Refer to the given number series and answer the question that follow (all numbers are
+single digit numbers only).
+(Left) 4 2 1 5 7 9 8 5 3 6 2 1 5 7 3 7 8 4 3 6 9 7 4 5 2 4 1 (Right)
+How many prime numbers are there in the number series?
+Ans
+ A. Nine
+B. Thirteen
+C. Fourteen
+D. Seven
+Q.70 In the following triad, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one which follows the same logic.
+WEAR - EAWR - RAEW
+SINK - INSK - KNIS
+Ans
+ A. BITE - BTIE - ETIB
+B. FANS - ANFS - ANSF
+C. YOUR - OYUR - ROUY
+D. MONK - ONMK - KNOM
+Q.71 Six people, A, B, C, D, E and F, are sitting in a row, facing north. A sits to the immediate
+right of E. B sits fourth to the left of E. Only one person sits between B and F. C sits to
+the immediate left of F. D sits second to the left of A. Three of the following four are
+alike in a certain way based on the given arrangement and thus form a group. Which is
+the one that does not belong to that group?
+Ans
+ A. BA
+B. DE
+C. FD
+D. CF
+Q.72    Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. SO−NJ
+B. JF−EA
+C. TP−OK
+D. NJ−HG
+Q.73 What should come in place of the question mark (?) in the given series?
+28 33 23 28 ? 23
+Ans
+ A. 15
+B. 22
+C. 20
+D. 18
+Q.74 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(28, 4, 336)
+(25, 5, 375)
+Ans
+ A. (31, 6, 465)
+B. (32, 3, 288)
+C. (26, 6, 368)
+D. (41, 3, 379)
+Q.75 In a certain code language,
+‘A + B’ means ‘A is the father of B’,
+‘A – B’ means ‘A is the husband of B’,
+‘A × B’ means ‘A is the wife of B’ and
+‘A ÷ B’ means ‘A is the mother of B’.
+How is F related to K if ‘F × G + H – I ÷ K’?
+Ans
+ A. Mother's mother
+B. Father's mother
+C. Mother's sister
+D. Father's sister
+Q.76 In a traffic jam on the road, Car A is to the right of Car B. Car D is to the left of Car B.
+Car F is behind Car D. What is the position of Car F with respect to Car B?
+Ans
+ A. West
+B. South-west
+C. South-east
+D. South
+Q.77 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. ORN
+B. KNJ
+C. QPT
+D. FIE
+Q.78 This question is based on the five, three-digit numbers given below.
+(Left) 742 912 853 657 154 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+Note: All operations to be done from left to right.
+If all the numbers are arranged in descending order, the position(s) of how many
+numbers will remain unchanged?
+Ans
+ A. Three
+B. One
+C. Four
+D. Two
+Q.79 In a certain code language, ‘give me bike’ is written as ‘bn gt ry’ and ‘who know me’ is
+coded as ‘ry fh vt’. How is ‘me’ coded in that language?
+Ans
+ A. vt
+B. bn
+C. fh
+D. ry
+Q.80 What should come in place of the question mark (?) in the given series?
+951 952 954 957 961 ?
+Ans
+ A. 964
+B. 969
+C. 965
+D. 966
+Q.81 Which of the following Constitution Amendment Bills was introduced in the Lok Sabha
+in August 2025?
+Ans
+ A. 131st Amendment Bill
+B. 129th Amendment Bill
+C. 130th Amendment Bill
+D. 133rd Amendment Bill
+Q.82 Which Pakistani javelin thrower received the 'Best Asian Athlete' title in May 2025?
+Ans
+ A. Muhammad Ali
+B. Muhammad Illihas
+C. Kareem Ali Kamran
+D. Arshad Nadeem
+Q.83 In January 2025, the Reserve Bank of India removed supervisory restrictions on which
+of the following Non-Banking Financial Companies (NBFCs)?
+Ans
+ A. AP Rural Bank
+B. GoCapital Finance
+C. Family Home Finance
+D. Arohan Financial Services
+Q.84 What was India’s unemployment rate in May 2025, as per the Periodic Labour Force
+Survey (PLFS)?
+Ans
+ A. 4.8%
+B. 5.6%
+C. 5.1%
+D. 6.2%
+Q.85 The country's first earthquake early warning mobile application 'Bhookamp' has been
+developed in which of the following IITs?
+Ans
+ A. IIT Indore
+B. IIT Roorkee
+C. IIT Kanpur
+D. IIT Delhi
+Q.86 Which other Bill related to Waqf matters also received Presidential assent in 2025?
+Ans
+ A. Mussalman Wakf (Repeal) Bill
+B. Waqf Tribunal Establishment Bill
+C. Muslim Property Regulation Bill
+D. Islamic Trusts Reform Bill
+Q.87 Indian Conservation Conference–2025, highlighting traditional knowledge and scientific
+approaches, took place in which month of 2025?
+Ans
+ A. April
+B. June
+C. March
+D. September
+Section : General Awareness and Current Affairs
+Q.88 Whose statue was unveiled at Raj Bhavan, Goa, by the Vice-President of India and is
+known as the 'Father of Medicine' in ancient Indian history?
+Ans
+ A. Dhanvantari
+B. Patanjali
+C. Charaka
+D. Sushruta
+Q.89 As announced in June 2025, which of the following banks approved $109.97 million
+loan to boost advanced skills and employability in Gujarat?
+Ans
+ A. State Bank of India
+B. Reserve Bank of India
+C. World Bank
+D. Asian Development Bank
+Q.90 Which public sector company secured a ₹511 crore Transfer of Technology (ToT) deal
+from ISRO in 2025 to manufacture and commercialise Small Satellite Launch Vehicles
+(SSLVs)?
+Ans
+ A. Bharat Electronics Limited
+B. Hindustan Aeronautics Limited
+C. Larsen & Toubro
+D. Indian SpaceTech Corporation
+Q.91 Which of the following Bills, presented by the Union Home Minister and Minister of
+Cooperation on 20 August 2025, prohibits individuals holding key constitutional offices
+from administering the government while in jail?
+Ans
+ A. Constitution (One Hundred and Twenty-Seventh Amendment) Bill, 2025
+B. Constitution (One Hundred and Twenty-Eighth Amendment) Bill, 2025
+C. Constitution (One Hundred and Thirtieth Amendment) Bill, 2025
+D. Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2025
+Q.92 At the Panorama International Literature Festival Awards, 2025, which young Indian
+received the Serena Memorial Child Prodigy Award, 2025?
+Ans
+ A. Salman Lakda
+B. Karnav Rastogi
+C. Vinita Agrawal
+D. Nairithi Konduru
+Q.93 According to the 2025 Global Hunger Index report, what is India’s rank among the
+assessed countries?
+Ans
+ A. 102nd
+B. 98th
+C. 95th
+D. 110th
+Q.94 Who inaugurated the Chief Minister's Mini Sports Stadium in Madurai district in March
+2025?
+Ans
+ A. Anbil Mahesh
+B. Udhayanidhi Stalin
+C. Edappadi K Palaniswam
+D. P Moorthy
+"
+Q.95 In which Union Territories will the 5th edition of Khelo India Winter Games 2025 be
+held?
+Ans
+ A. Punjab and Haryana
+B. Himachal Pradesh and Uttarakhand
+C. Jammu & Kashmir and Ladakh
+D. Sikkim and Arunachal Pradesh
+Q.96 Who became the first Indian chess player to be ranked No.1 in the live FIDE rankings in
+2025?
+Ans
+ A. D Gukesh
+B. Viswanathan Anand
+C. Arjun Erigaisi
+D. R Praggnanandhaa
+Q.97 Which day is recognised as International Youth Day in 2025?
+Ans
+ A. July 18
+B. September 21
+C. August 9
+D. August 12
+Q.98 What is the name of the ChatGPT-style AI service set to be launched by Reliance
+Industries?
+Ans
+ A. Chat Reliance
+B. Hanooman
+C. G P Style
+D. ChatGPT-style
+Q.99 What is the name of the new programme launched by the National Commission for
+Women (NCW) in May 2025 for college students to promote gender sensitivity, raise
+awareness on the prevention of sexual harassment and address cyber crimes
+impacting students?
+Ans
+ A. Campus Calling Abhiyaan
+B. Campus Ambassadors Programme
+C. Gender Sensitization Scholars
+D. Yuva Saksham Initiative
+Q.100The Environment Audit Rules, 2025, were introduced by which ministry in India?
+Ans
+ A. Ministry of Environment, Forest and Climate Change
+B. Ministry of Corporate Affairs
+C. Ministry of Commerce & Industry
+D. Ministry of Earth Sciences

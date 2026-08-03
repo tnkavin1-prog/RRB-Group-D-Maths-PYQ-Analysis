@@ -1,0 +1,28 @@
+[
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_15-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 41,
+    "questionText": "\u0915\u094b \u0938\u0930\u0932 \u0915\u0930\u0000\u0964",
+    "options": {
+      "A": "Increase by 2.5%",
+      "B": "Decrease by 10%",
+      "C": "Decrease by 9%",
+      "D": "Increase by 3.5%"
+    },
+    "answer": ""
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_15-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 45,
+    "questionText": "\u0915\u093e \u092e\u093e\u0928 \u0000\u093e\u0924 \u0915\u0940\u093f\u091c\u090f\u0964",
+    "options": {
+      "A": "XP 12",
+      "B": "SP 14",
+      "C": "NI 14",
+      "D": "DE 12"
+    },
+    "answer": ""
+  }
+]

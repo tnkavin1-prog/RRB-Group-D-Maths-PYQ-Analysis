@@ -1,0 +1,28 @@
+[
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_5-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "6777",
+    "options": {
+      "A": "3 : 2",
+      "B": "4 : 3",
+      "C": "5 : 4",
+      "D": "2 : 1"
+    },
+    "answer": ""
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_5-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 35,
+    "questionText": "3173",
+    "options": {
+      "A": "ARM Cortex",
+      "B": "MIPS",
+      "C": "Intel x86",
+      "D": "SHAKTI"
+    },
+    "answer": ""
+  }
+]

@@ -1,0 +1,771 @@
+Q.1 What is required to describe the distance an object has travelled?
+Ans
+ A. Only the direction of motion
+B. Both magnitude and direction
+C. The starting and ending points only
+D. Only the numerical value, which is its magnitude
+Q.2 What is corrosion most commonly observed as?
+Ans
+ A. Rust formation on iron objects
+B. Boiling of water in a kettle
+C. Melting of metal when heated
+D. Glowing of a bulb
+Q.3 The importance of genetic variation in organisms is that _________.
+Ans
+ A. it increases the chances of survival of an organism
+B. it gives rise to dominant and recessive traits
+C. it leads to uniformity in the progeny
+D. it enables sexual reproduction
+Q.4 Which cell organelle is responsible for releasing energy in the form of ATP, which
+enables various metabolic functions in an animal cell?
+Ans
+ A. Endoplasmic reticulum
+B. Mitochondria
+C. Lysosome
+D. Nucleus
+Q.5 What is 'suspension' in chemistry?
+Ans
+ A. A heterogeneous mixture with large particles
+B. A colloidal dispersion
+C. A homogeneous mixture
+D. A true solution
+Test Date 09/12/2025
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 A 96 kg astronaut is standing on Earth. What is his weight on the Moon? (g on earth =
+10 m/s2)
+Ans
+ A. 960 N
+B. 160 N
+C. 16 N
+D. 96 N
+Q.7 Which of the following is NOT a consequence of the law of conservation of energy?
+Ans
+ A. Energy can be converted from one form to another
+B. Total energy in a closed system remains constant
+C. Kinetic energy can convert into potential energy
+D. Energy can be created to increase total energy of a closed system
+Q.8 Which component of phloem is basically responsible for the translocation of food?
+Ans
+ A. Companion cells
+B. Phloem parenchyma
+C. Phloem fibres
+D. Sieve elements
+Q.9 Which of the following conditions will most effectively accelerate the corrosion of iron?
+Ans
+ A. Iron surface in dry air with no impurities
+B. Iron coated with a thin layer of zinc (galvanization)
+C. Iron surface exposed to moist air containing dissolved salts
+D. Iron immersed in pure water, free of dissolved oxygen
+Q.10 Which of the following hydrocarbons is saturated?
+Ans
+ A. Propene
+B. Butane
+C. Benzene
+D. Butene
+Q.11 The image formed by a convex mirror is always _________.
+Ans
+ A. real and inverted
+B. virtual and erect
+C. real and erect
+D. virtual and inverted
+Q.12 Which of the following particles contribute to the mass number?
+Ans
+ A. Protons only
+B. Protons and Neutrons
+C. Electrons only
+D. Electrons and Protons
+Q.13 A body of mass 5 kg is moving with an acceleration of 2 m/s². What is the force acting
+on it?
+Ans
+ A. 7 N
+B. 2 N
+C. 10 N
+D. 5 N
+Q.14 The main purpose of the earth wire in a domestic circuit is:
+Ans
+ A. to reduce resistance
+B. to supply current
+C. to protect from electric shocks
+D. to increase voltage
+Q.15 Which of the following devices does NOT use the heating effect of current for its
+working?
+Ans
+ A. Electric Fuse
+B. Electric Iron
+C. Electric Mixer Grinder
+D. Electric Geyser
+Q.16 Hormone named testosterone is secreted from which of the following parts of a human
+being?
+Ans
+ A. Testis
+B. Uterus
+C. Fallopian tube
+D. Ureter
+Q.17 Which property of a carbon atom enables one carbon atom to form bonds with other
+carbon atoms?
+Ans
+ A. Valency
+B. Polymerisation
+C. Catenation
+D. Isomerisation
+Q.18 A village that regularly suffers from drought wants to store water for dry seasons to
+irrigate the agricultural field. Which method will help most?
+Ans
+ A. Spraying pesticides
+B. Sprinkler irrigation
+C. Growing short-duration crops
+D. Rainwater harvesting and watershed management
+Q.19 What is the range of the pH scale?
+Ans
+ A. -1 to 14
+B. 0 to 14
+C. 0 to 7
+D. 0 to 10
+Q.20 A student places an object at a distance greater than twice the focal length from a
+convex lens. What kind of image is formed?
+Ans
+ A. Real, inverted, and larger than the object
+B. Virtual, erect, and smaller than the object
+C. Real, inverted, and smaller than the object
+D. Virtual, erect, and larger than the object
+Q.21 What is the advantage of fragmentation as a mode of reproduction in plants?
+Ans
+ A. Promotes bud formation
+B. Forms spores for dispersal
+C. Brings about rapid multiplication
+D. Increases genetic diversity
+Q.22 How does the Mimosa pudica (touch-me-not) plant transmit the touch stimulus from the
+point of contact to the motor cells responsible for movement?
+Ans
+ A. By releasing hormones that travel through specialised tubes
+B. Through specialised nerve tissues connecting the points
+C. Through electrical and chemical signals passed between general plant cells
+D. Through growth of new supportive cells at the touch site
+Q.23 Leucoplasts have which of the following colours?
+Ans
+ A. White
+B. Orange
+C. Indigo
+D. Purple
+Q.24 A sound of 100 Hz is compared with a sound of 500 Hz. Which of the following
+statements is correct?
+Ans
+ A. 500 Hz sound has a higher pitch.
+B. Pitch cannot be compared.
+C. 100 Hz sound has a higher pitch.
+D. Both have the same pitch.
+Q.25 What is the correct definition of atomic mass?
+Ans
+ A. It is the mass of one atom in kilograms.
+B. It is the mass of one hydrogen molecule.
+C. It is the mass of an atom in grams.
+D. It is the mass relative to carbon-12 atom.
+Q.26 Amit and Deeksha together invested ₹56,100 in a business. At the end of the year, out
+of a total profit of ₹9,200, Amit's share was ₹2,300. How much was Amit's investment?
+Ans
+ A. ₹14,025
+B. ₹14,870
+C. ₹12,370
+D. ₹14,690
+Q.27 A 793 m long train is running at 90 km/hr. How long will it take to clear a 782 m long
+platform completely?
+Ans
+ A. 63 seconds
+B. 60 seconds
+C. 61 seconds
+D. 66 seconds
+Section : Mathematics
+Q.28 A, B and C can do a piece of work in 2, 12 and 6 days, respectively. How long (in days)
+will they take to do thrice the same work, working together?
+Ans
+ A. 4
+B. 12
+C. 8
+D. 5
+Q.29 The sum of the ages of Ramesh and Suresh is 52 years. Ramesh's age is 4 years more
+than twice Suresh's age. What is Suresh's age?
+Ans
+ A. 14 years
+B. 15 years
+C. 12 years
+D. 16 years
+Q.30 The cost of a washing machine is 50% less than the cost of a TV. If the cost of the
+washing machine increases by 64% and that of the TV decreases by 28%, then what is
+the percentage change in the total cost of 6 washing machines and 2 TVs?
+Ans
+ A. Decrease by 27%
+B. Increase by 29.4%
+C. Increase by 27.2%
+D. Decrease by 30%
+Q.31 Two banks, A and B, offered loans at 3.5% and 7% per annum, respectively. Rupesh
+borrowed an amount of ₹5,00,000 from each bank. Find the positive difference (in ₹)
+between the amounts of simple interest paid to the two banks by Rupesh after 4 years.
+Ans
+ A. 69,500
+B. 70,000
+C. 71,000
+D. 71,500
+Q.32 If 4 lines of a print, in a column of a book, contain 63 words, how many words will a
+column of 64 lines contain?
+Ans
+ A. 1004
+B. 1008
+C. 1012
+D. 1018
+Q.33 Given that C is the third proportional of 6 and B. If B is the sum of the first three even
+natural numbers, then find the value of C.
+Ans
+ A. 21.9
+B. 23.39
+C. 24.0
+D. 26.31
+Q.34
+Ans
+ A. 40
+B. 10
+C. 20
+D. 25
+Q.35 A class of 30 students took a Physics test. Fourteen students had an average score of
+98. The other students had an average score of 54. What is the average score (rounded
+up to one decimal place) of the whole class?
+Ans
+ A. 71.6
+B. 76.9
+C. 64.6
+D. 74.5
+Q.36 A rectangular park is 34 m long and 24 m wide. A path of uniform width runs inside it,
+surrounding a grassy lawn. If the area of the path is 216 m2, what is the perimeter of the
+grassy lawn?
+Ans
+ A. 100 m
+B. 112 m
+C. 104 m
+D. 96 m
+Q.37 The mode of the observations 35, 21, 25, 21, 35, 32, 32, 30, 20, 35, 34, 35, 34, 25, 35, 33
+and 25 is:
+Ans
+ A. 21
+B. 25
+C. 35
+D. 32
+Q.38 A trapezium-shaped field has an area of 720 m2, and the perpendicular distance
+between its parallel sides is 16 m. If one of the parallel sides is 25% more than the other
+parallel side, then the length of the smaller parallel side is _____.
+Ans
+ A. 50 m
+B. 30 m
+C. 60 m
+D. 40 m
+Q.39 Simplify: 372 – 362 + 352 – 342 + 332 – 322
+Ans
+ A. 211
+B. 207
+C. 200
+D. 197
+Q.40 If an item marked at ₹1,675 is sold for ₹1,273, then what is the discount percentage?
+Ans
+ A. 24%
+B. 26%
+C. 25%
+D. 22%
+Q.41 From the top of a building 72.1 m high, the angle of depression to a car on the ground
+is 45°. Find the distance of the car from the foot of the building.
+Ans
+ A. 72.1 m
+B. 81.2 m
+C. 124.73 m
+D. 41.6 m
+Q.42
+Ans
+ A. 51.36%
+B. 72.73%
+C. 46.36%
+D. 36.36%
+Q.43 Identify the correct set of angles of a triangle.
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.44 Robert, Chris, and Jeremy can finish a certain piece of work in 16, 48, and 32 days,
+respectively. All three of them started the work together. Robert left the work after 2
+days and Chris left just 4 days before the work was completed. Find the total number of
+days taken for the work to be completed.
+Ans
+ A. 18.4
+B. 16.2
+C. 24.3
+D. 17.7
+Q.45
+ 1271
+Ans
+ A. 1.2
+B. 1.8
+C. 0.8
+D. 0.08
+Q.46 A dealer makes a profit of 40% even after giving a 26% discount on the advertised price
+of a bike. If he makes a profit of ₹5,698 on the sale of the bike, what is the advertised
+price (in ₹)?435
+Ans
+ A. 26,950
+B. 26,846
+C. 27,014
+D. 26,952
+Q.47 A shopkeeper bought a chair for ₹750. He sold it at a 10% loss. What was the selling
+price of the chair?
+Ans
+ A. ₹640
+B. ₹710
+C. ₹740
+D. ₹675
+Q.48 If 20% of a number is added to 78, then the result is the same number. 60% of the same
+number is:344
+Ans
+ A. 78.5
+B. 68.5
+C. 58.5
+D. 88.5
+Q.49 A two-digit number is 7.75 times the sum of its digits. If its digits are reversed, the
+number decreases by 54. What is the original number?
+Ans
+ A. 93
+B. 60
+C. 71
+D. 82
+Q.50 A person can cover a certain distance in 1 hour 24 minutes by covering one-fourth of
+the distance at 5 km/hr and the rest at 6 km/hr. Find the total distance (in km).
+Ans
+ A. 6
+B. 12
+C. 10
+D. 8
+Q.51 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. BF-AC
+B. MQ-LO
+C. EI-DG
+D. IM-HK
+Q.52 In a certain code language,
+A + B means ‘A is the sister of B’,
+A @ B means ‘A is the brother of B’,
+A - B means ‘A is the wife of B’,
+and A # B means ‘A is the father of B’.
+How is O related to V if ‘O - P # T @ G + V’?
+Ans
+ A. Wife
+B. Daughter
+C. Mother
+D. Sister
+Q.53 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+LEX 14, OHA 23, RKD 32, UNG 41, XQJ 50, ?
+Ans
+ A. AQM 59
+B. ATM 57
+C. ATM 59
+D. AMT 59
+Section : General Intelligence and Reasoning
+Q.54 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(10, 150, 5)
+(8, 96, 4)
+Ans
+ A. (9, 162, 6)
+B. (5, 54, 3)
+C. (7, 98, 3)
+D. (12, 288, 6)
+Q.55 Which of the following number will replace the question mark (?) in the given series?
+24, 27, 35, 59, 107, 227, ?
+Ans
+ A. 358
+B. 421
+C. 321
+D. 395
+Q.56 Seven people, A, B, C, D, E, F and G, are sitting in a row, facing north.
+Only A sits to the left of D. Only four people sit between A and C. Only B sits between G
+and F, and G is not an immediate neighbour of C.
+How many people sit to the right of G?
+Ans
+ A. 1
+B. 2
+C. 3
+D. 4
+Q.57 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+351 ÷ 3 + 284 × 4 − 11 = ?
+Ans
+ A. 996
+B. 999
+C. 991
+D. 993
+Q.58 Which of the following letter-clusters will replace the question mark (?) in the given
+series to make it logically complete?
+HZC, LDG, PHK, TLO, ?
+Ans
+ A. XQS
+B. XPS
+C. XQR
+D. XPR
+Q.59 What should come in place of the question mark (?) in the given series?
+ 12 23 34 45 56 ?
+Ans
+ A. 63
+B. 61
+C. 67
+D. 65
+Q.60 O, P, Q, R, W, X and Y are sitting in a straight line facing north.
+Only two people sit to the left of P. Only three people sit between P and W. Only one
+person sits between W and X. R sits to the immediate left of O. Y is not an immediate
+neighbour of W.
+How many people sit to the right of Q?6313
+Ans
+ A. Four
+B. Three
+C. Two
+D. One
+Q.61 Seven boxes, B, D, E, P, S, T and W, are kept one over the other, but not necessarily in
+the same order.
+W is kept immediately above T. D is kept immediately above S. Only P is kept above B.
+Only two boxes are kept above W. D is not kept at the third position from the bottom.
+How many boxes are kept between E and P?
+Ans
+ A. One
+B. Two
+C. Three
+D. Four
+Q.62 Town A is to the north of Town B. Town C is to the west of Town A. Town D is to the
+south of Town C. Town E is to the east of Town D. Town B is to the southeast of Town E.
+What is the position of Town E with respect to Town A?
+Ans
+ A. Southwest
+B. Northwest
+C. Northeast
+D. Southeast
+Q.63 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+KIO : LFK
+PER : QBN
+Ans
+ A. BGW : CDR
+B. OGT : PDP
+C. KQL : LMH
+D. UJK : VGF
+Q.64 A, B, C, D, E, F and G are sitting around a circular table, facing the centre. B sits to the
+immediate right of C. Only three people sit between B and A when counted from the left
+of B. Only three people sit between C and D when counted from the left of C. G sits to
+the immediate right of F. How many people sit between A and C when counted from the
+right of C?
+Ans
+ A. 3
+B. 4
+C. 1
+D. 2
+Q.65 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)       
+Ans
+ A. HFE
+B. MLJ
+C. GED
+D. ZXW
+Q.66 If ‘A’ stands for ‘÷’ , ‘B’ stands for ‘x’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘-‘ , what will be
+come in place of question mark ‘?’ in the following equation?
+22 D 55 A 5 C 14 B 8 = ?
+Ans
+ A. 122
+B. 124
+C. 123
+D. 121
+Q.67 Refer to the following number series and answer the question that follows (all numbers
+are single digit numbers only). (Counting to be done from left to right only.)
+(Left) 3 9 7 8 9 8 4 3 1 3 4 3 3 1 7 2 2 9 7 8 3 1 6 2 4 3 3 (Right)
+How many such odd numbers are there each of which is immediately preceded by an
+odd number and also immediately followed by an even number?4392
+Ans
+ A. 4
+B. 6
+C. 5
+D. 7
+Q.68 In a certain code language, ‘by the way’ is coded as ‘ts rd ui’ and ‘a long way’ is coded
+as ‘kl ui za’. How is ‘way’ coded in the given language?
+(All codes are two-letter codes)
+Ans
+ A. ts
+B. ui
+C. rd
+D. kl
+Q.69 If 3 is added to each odd digit and 2 is subtracted from each even digit in the number
+8563546, then which of the following digits will be fourth from the left in the new
+number thus formed?
+Ans
+ A. 2
+B. 6
+C. 4
+D. 8
+Q.70 This question is based on the five, three-digit numbers given below.
+(Left) 715, 906, 570, 853, 418 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+What will be the resultant if the third digit of the highest number is added to the second
+digit of the lowest number?6274
+Ans
+ A. 7
+B. 13
+C. 6
+D. 8
+Q.71 AHKO is related to EKOR in a certain way based on the English alphabetical order. In
+the same way, QTAA is related to UWED. To which of the given options is CCMJ related,
+following the same logic?
+Ans
+ A. GFQK
+B. GFQM
+C. GQWE
+D. GMJU
+Q.72 Town F is to the north of Town G. Town H is to the east of Town F. Town I is to the south
+of Town H. Town J is to the west of Town I. Town G is to the south-west of Town J. What
+is the position of Town F with respect to Town J?
+Ans
+ A. South-east
+B. North-east
+C. North-west
+D. South-west
+Q.73 In a certain code language, ‘BIRD’ is coded as ‘2739’ and ‘DRIP’ is coded as ‘3978’.
+What is the code for ‘P’ in the given code language? 8991
+Ans
+ A. 7
+B. 8
+C. 9
+D. 3
+Q.74 What should come in place of the question mark (?) in the given series?
+58 51 44 37 30 ?
+Ans
+ A. 21
+B. 22
+C. 23
+D. 25
+Q.75 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusion(s) logically follow(s) from the
+statement(s).
+Statements:
+All jams are cobras.
+All cobras are mats.
+Conclusions:
+(I) Some mats are cobras.
+(II) All jams are mats.
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Only conclusion (I) follows
+C. Only conclusion (II) follows
+D. Neither conclusion (I) nor (II) follows
+Q.76 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All eggs are artists.
+Some mangoes are artists.
+Conclusions:
+(I): Some eggs are mangoes.
+(II): Some artists are eggs.
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Only conclusion (II) follows
+C. Only conclusion (I) follows
+D. Neither conclusion (I) nor (II) follows
+Q.77 Refer to the following series and answer the question (all numbers are single-digit
+numbers only).
+(Left) 8 3 2 6 7 5 4 3 9 1 8 2 5 (Right)
+How many such odd numbers are there (from left to right), which are immediately
+followed by an odd number?
+Ans
+ A. One
+B. Three
+C. More than three
+D. Two
+Q.78 In the following triads, each group of letters is related to the subsequent one following
+a certain logic. Select from the given options, the one which follows the same logic.
+WORD - WDRO - DROW
+OATS - OSTA - STAO
+Ans
+ A. HERD - EHRD - DERH
+B. PART - PRAT - TRAP
+C. FOUR - FORU - OURF
+D. GIVE - GEVI - EVIG
+Q.79 Abhishek ranked 17th from the top and 49th from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 65
+B. 63
+C. 66
+D. 64
+Q.80 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only. All numbers are single-digit numbers.
+(Left) £ $ 9 3 4 9 7 £ % & # 7 3 1 8 7 5 * @ 4 £ $ (Right)
+How many such numbers are there, each of which is immediately preceded by a symbol
+and also immediately followed by a symbol?
+Ans
+ A. 1
+B. 3
+C. 2
+D. 0
+Q.81 As of June 2025, which actor turned politician is the Deputy Chief Minister of the state
+of Andhra Pradesh?
+Ans
+ A. Pawan Kalyan
+B. Chiranjeevi
+C. Prakash Raj
+D. Balakrishna
+Q.82 The Major Dhyan Chand Khel Ratna Award was presented to which of the below ace
+shooter by Indian President Droupadi Murmu in 2025?
+Ans
+ A. Rubina Francis
+B. Manu Bhaker
+C. Mona Agarwal
+D. Sarabjot Singh
+Section : General Awareness and Current Affairs
+Q.83 Who among the following received the United Nations Sasakawa Award 2025 for
+Disaster Risk Reduction?
+Ans
+ A. Dr. Shekhar Mande
+B. Randeep Guleria
+C. Dr. Soumya Swaminathan
+D. Dr. Mrutyunjay Mohapatra
+Q.84 Which of the following became India’s 107th National Park in April 2025?
+Ans
+ A. Bhitarkanika
+B. Dudhwa
+C. Gorumara
+D. Similipal
+Q.85 Which state government in October 2025 approved the Bamboo Industry Policy, 2025,
+aimed at providing farmers with a sustainable and eco-friendly source of income, while
+boosting the state’s domestic and global bamboo production?
+Ans
+ A. Tamil Nadu
+B. West Bengal
+C. Maharashtra
+D. Tripura
+Q.86 Which of the following banks removed the minimum balance requirement for all
+savings accounts in June 2025?
+Ans
+ A. Bank of Baroda
+B. Punjab National Bank
+C. State Bank of India
+D. Canara Bank
+Q.87 Which of the following banks signed a Memorandum of Understanding with the Indo-
+Tibetan Border Police in February 2025 for providing financial and insurance benefits?
+Ans
+ A. IndusInd Bank
+B. Punjab National Bank
+C. Canara Bank
+D. State Bank of India
+Q.88 Which special year has ISRO declared 2025 to be, highlighting its human spaceflight
+efforts?
+Ans
+ A. Solar Year
+B. Mars Year
+C. Moon Year
+D. Gaganyaan Year
+Q.89 What was Transparency International’s score for the US in the 2024 Corruption
+Perceptions Index?
+Ans
+ A. 62
+B. 70
+C. 65
+D. 67
+Q.90 As notified in March 2025, how many DRDO Industry Academia Centres of Excellence
+(DIA-CoEs) have been set up across the country at premier institutions such as IITs,
+IISc, and central universities?
+Ans
+ A. 15
+B. 10
+C. 20
+D. 5
+Q.91 The tech fair VivaTech, 2025, was held in which of the following European cities in June
+2025?
+Ans
+ A. Paris
+B. Lisbon
+C. Barcelona
+D. Berlin
+Q.92 Toshikazu Yamanishi set a new world record in which event in February 2025?
+Ans
+ A. 5 km race walk
+B. 10 km race walk
+C. 20 km race walk
+D. 50 km race walk
+Q.93 In which of the following weight categories did Manisha Bhanwala win the gold medal
+at the Asian Wrestling Championships, 2025?
+Ans
+ A. 76 kg
+B. 62 kg
+C. 53 kg
+D. 59 kg
+Q.94 Tiger Triumph defense exercise conducted in April 2025 was a joint exercise between
+India and which country?
+Ans
+ A. The US
+B. Australia
+C. France
+D. The UK
+Q.95 Euthalia malaccana, which was officially recorded in Arunachal Pradesh’s Leparada
+district, in May 2025, is a new species of which of the following?
+Ans
+ A. Locust
+B. Grasshopper
+C. Butterfly
+D. Dragonfly
+Q.96 What is the name of the vessel in which two women officers from the Indian Navy have
+completed a landmark circumnavigation voyage under the Navika Sagar Parikrama II
+mission in May 2025?
+Ans
+ A. INS Indira
+B. INS Sarojini
+C. INS Bhagmati
+D. INS Tarini
+"
+Q.97 How many Atal Tinkering Labs were announced to be set up in government schools
+over the next five years in the Union Budget 2025-26?
+Ans
+ A. 30,000
+B. 40,000
+C. 50,000
+D. 20,000
+Q.98 As of 10 June 2025, how many new sports infrastructure projects were approved worth
+₹3,124.12 crore across India?
+Ans
+ A. 300
+B. 250
+C. 350
+D. 326
+Q.99 In which village was Ahilyabai Holkar born, where the Maharashtra Cabinet held a
+special meeting in May 2025 to honour her 300th birth anniversary?
+Ans
+ A. Paithan
+B. Nashik
+C. Maheshwar
+D. Chondi
+Q.100According to the Waqf (Amendment) Act, 2025, how many Muslim women must be
+included in State Waqf Boards?
+Ans
+ A. One
+B. Three
+C. Two
+D. Four

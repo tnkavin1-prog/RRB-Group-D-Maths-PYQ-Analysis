@@ -1,0 +1,28 @@
+[
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_12-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "The total surface area of a right circular cylinder with radius of the base 12 cm and height 72 cm is: (take π = 22/7)",
+    "options": {
+      "A": "528 cm2",
+      "B": "905 cm2",
+      "C": "6336 cm2",
+      "D": "5430 cm2"
+    },
+    "answer": ""
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_12-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 35,
+    "questionText": "5479",
+    "options": {
+      "A": "360",
+      "B": "348",
+      "C": "340",
+      "D": "354"
+    },
+    "answer": ""
+  }
+]

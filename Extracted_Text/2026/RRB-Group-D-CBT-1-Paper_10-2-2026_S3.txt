@@ -1,0 +1,773 @@
+Q.1 An object is placed at 80 cm on the left of a convex lens of focal length 40 cm. Where
+should a screen be placed to right of the lens so that the image formed is real, inverted
+and same sized?
+Ans
+ A. The screen should be placed at 40 cm from the lens.
+B. The screen should be placed 80 cm from the lens.
+C. The screen should be placed anywhere between 20 cm and 40 cm from the lens.
+D. The screen should be placed anywhere between 40 cm and 80 cm from the lens.
+Q.2 When iron filings are mixed with sulfur powder and the mixture is heated, a black
+substance called iron sulfide is formed. Which statement best describes the changes
+involved?
+Ans
+ A. A physical change occurs as the substances are only mixed.
+B. A reversible physical change takes place.
+C. Iron dissolves in sulfur forming a solution.
+D. A chemical change occurs as a new substance is formed.
+Q.3 The kinetic energy of an object of mass m moving with a velocity v is 25 J. What will be
+its kinetic energy when its velocity is increased three times (3v)?
+Ans
+ A. 75 J
+B. 150 J
+C. 125 J
+D. 225 J
+Q.4 The molecular mass of a compound is 63 u. If it contains one hydrogen atom and three
+oxygen atoms, the atomic mass of the remaining element is :
+Ans
+ A. 16 u
+B. 14 u
+C. 32 u
+D. 12 u
+Q.5 Galvanisation protects iron from rusting by coating it with a thin layer of:
+Ans
+ A. Silver metal only
+B. Nickel metal only
+C. Copper metal only
+D. Zinc metal only
+Test Date 10/02/2026
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following devices works on Archimedes’ principle?
+Ans
+ A. Aneroid barometer
+B. Hydrometer
+C. Sphygmomanometer
+D. Altimeter
+Q.7 If several rays of light parallel to the principal axis are falling on a convex lens, which of
+the following statements is correct for the refracted ray?
+Ans
+ A. They converge at a point on the opposite side of the lens.
+B. They meet at the infinity.
+C. They pass without any deviation.
+D. They diverge as if coming from the principal focus.
+Q.8 Why does the blue colour of copper sulphate solution fade when an iron nail is dipped
+in it?
+Ans
+ A. Copper dissolves in water
+B. Copper sulphate decomposes
+C. Iron sulphate is colourless
+D. Copper sulphate is converted into iron sulphate
+Q.9 Substitution reaction involves:
+Ans
+ A. Removal of atoms to form simpler molecules
+B. Addition of atoms to double bonded molecules
+C. Replacement of a carbon atom with hydrogen
+D. One atom or group of atoms being replaced by another
+Q.10 What is a necessary property of the electrolyte used during the refining of metals by
+electrolysis?
+Ans
+ A. It must be composed of both water and a layer of neutral oil
+B. It must be an aqueous or molten solution of a suitable metal salt
+C. It must efficiently conduct heat during the electrochemical process
+D. It must remain completely non-reactive throughout the procedure
+Q.11 Which trophic level represents maximum concentration of pesticides by biological
+magnification?
+Ans
+ A. Producer
+B. Tertiary Consumer
+C. Primary Consumer
+D. Secondary Consumer
+Q.12 In a v–t graph for uniform acceleration, which of the following is NOT correct?
+Ans
+ A. The slope of the v–t graph is constant.
+B. The v–t graph is always curved.
+C. Positive slope indicates acceleration.
+D. The area under the v–t graph gives displacement.
+Q.13 Match the following plants with their correct modes of seed dispersal.
+Column A Column B
+1. Dandelionsa. Water
+2. Lotus b. Explosion
+3. Mango c. Wind
+4. Castor d. Animal
+Ans
+ A. 1 – a, 2 – d, 3 – b, 4 – c
+B. 1 – c, 2 – a, 3 – d, 4 – b
+C. 1 – c, 2 – d, 3 – a, 4 – b
+D. 1 – b, 2 – a, 3 – d, 4 – c
+Q.14 Which of the following factors primarily determines the size of an atom?
+Ans
+ A. Number of neutrons
+B. Number of protons
+C. Mass of the nucleus
+D. Number of electrons
+Q.15 Which cell organelles in a leaf contain chlorophyll necessary for photosynthesis?
+Ans
+ A. Mitochondria
+B. Nucleus
+C. Chloroplasts
+D. Vacuole
+Q.16 Which of the following changes can be regarded as part of sexual maturation in human
+males?
+Ans
+ A. Increase in weight
+B. Cracking of voice
+C. Deposition of fat in hips
+D. Increase in height
+Q.17 Which of the following represents a similarity between chloroplast and Mitochondria?
+Ans
+ A. Both perform respiration.
+B. Both posses their own DNA and 70S Ribosome.
+C. Both have chlorophyll.
+D. Both perform photosynthesis.
+Q.18 If the wavelength of light is 600 nm and its speed is 3 × 10⁸ m/s, the frequency is
+approximately ________.
+Ans
+ A. 2 × 10¹² Hz
+B. 3 × 10⁸ Hz
+C. 6 × 10¹⁰ Hz
+D. 5 × 10¹⁴ Hz
+Q.19 Which of the following acts as an olfactory indicator in acid-base reactions?
+Ans
+ A. Methyl orange produces odour in base
+B. Phenolphthalein turns pink in acids
+C. Onion extract changes smell in bases
+D. Turmeric turns blue in bases
+Q.20 If a conductor has a potential difference of 1 volt across its ends and a current of 1
+ampere flows through it, what is its resistance?
+Ans
+ A. 10 ohm
+B. 1 ohm
+C. 0.5 ohm
+D. 2 ohm
+Q.21 Under what spatial condition is the magnitude of the force acting on a current-carrying
+conductor placed in a uniform magnetic field observed to be the highest?
+Ans
+ A. When the current flows towards the south pole of the magnet.
+B. When the current and field are perpendicular to each other.
+C. When the current is varied instantaneously.
+D. When the current and field are parallel.
+Q.22 When a person stands stationary on the ground, the force of gravity exerted by the
+Earth on the person (Action) and the normal force exerted by the ground on the person
+(Reaction) are equal and opposite. Is this an action-reaction pair, according to Newton's
+Third Law?
+Ans
+ A. Yes, because they balance each other, preventing motion.
+B. No, because the two forces act on different objects.
+C. No, because the two forces act on the same object.
+D. Yes, because the two forces are equal and opposite in magnitude.
+Q.23 Which of the following fish production methods are done in the region of Kashmir?
+Ans
+ A. Pearl Culture
+B. Marine Fisheries
+C. Brackish Water Fisheries
+D. Aqua Culture
+Q.24 Which of the following cell structures helps amoeba to acquire its food material?
+Ans
+ A. Nuclear membrane
+B. Cilia
+C. Flagella
+D. Plasma membrane
+Q.25 Fertilization in females usually occurs in which region of the reproductive system?
+Ans
+ A. Vagina
+B. Ovary
+C. Fallopian Tube
+D. Uterus
+Q.26 The H.C.F. and the L.C.M. of two numbers are 18 and 1296, respectively. If one of the
+numbers is 162, find the other one.
+Ans
+ A. 180
+B. 108
+C. 144
+D. 126
+Section : Mathematics
+Q.27 A and B started moving at the same time towards each other from points X and Y,
+respectively. After meeting on the way, A and B took 90.9 hours and p hours,
+respectively, to reach Y and X, respectively. If the speed of B is 50% more than that of A,
+then what is the value of p?3518
+Ans
+ A. 38.9
+B. 42.4
+C. 40.4
+D. 39.7
+Q.28 Rashmi buys 34 mobile stands for ₹6,800. Now, she decides to start a small business
+by selling these stands. How many mobile stands can she buy for ₹13,600?
+Ans
+ A. 68
+B. 66
+C. 67
+D. 65
+Q.29 The amount on a sum of ₹3,300 at 10% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹4,939
+B. ₹3,826
+C. ₹3,993
+D. ₹3,583
+Q.30 Rahul's monthly expenditure is 75% of his monthly income. If the monthly savings are
+₹10,000, calculate his monthly income.1278
+Ans
+ A. ₹40,000
+B. ₹30,000
+C. ₹45,000
+D. ₹50,000
+Q.31 In a regular polygon, the number of diagonals is 9. Find the difference between one
+interior angle and one exterior angle of the polygon.
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.32 The expenditure of Sudha is 175% more than her savings. If her expenditure decreases
+by 12% and savings increase by 40.5%, then by what percentage does her income
+increase?
+Ans
+ A. 7%
+B. 2%
+C. 6%
+D. 4%
+Q.33 The outer and inner diameters of a hollow cylindrical pipe are 10 cm and 6 cm,
+respectively. If its length is 21 cm, then its total surface area is:
+Ans
+ A. 472π cm2
+B. 154π cm2
+C. 168π cm2
+D. 368π cm2
+Q.34 ₹5,398 is divided among X, Y, and Z in such a way that if ₹16, ₹15, and ₹75 be deducted
+from their respective shares, they have money in the ratio 2 : 21 : 4. Find the difference
+between the Y’s and Z’s original shares.
+Ans
+ A. ₹3,282
+B. ₹3,272
+C. ₹3,182
+D. ₹3,232
+Q.35 P and Q together can fill a cistern with water in 3 hours. If P alone can fill the cistern
+with water in 12 hours, then in how many hours will Q alone fill one-fourth of the same
+cistern with water?1415
+Ans
+ A. 2
+B. 3
+C. 1
+D. 4
+Q.36 The mode and median of a data are 46.2 and 40, respectively. What is the mean of the
+data? (Use empirical formula.)
+Ans
+ A. 36.9
+B. 38.8
+C. 45.2
+D. 47.6
+Q.37 If sec2A + cosec2A = 13, and A is an acute angle, then find the value of tan2A + cot2A.
+Ans
+ A. 9
+B. 11
+C. 15
+D. 12
+Q.38
+Ans
+ A. 22 metres
+B. 23 metres
+C. 17 metres
+D. 20 metres
+Q.39 From the salary of an officer, 10% is deducted as house rent. Of the remaining amount,
+he spends 20% on conveyance, 20% of the rest on income tax, and 10% of the balance
+on clothes. He is left with ₹23,328. What is his total salary?
+Ans
+ A. ₹30,000
+B. ₹35,000
+C. ₹40,000
+D. ₹45,000
+Q.40 If the surface area of a sphere is 5544 cm2, then find its diameter (in cm). (Use π = 22/7)
+Ans
+ A. 36
+B. 40
+C. 42
+D. 21
+Q.41 Successive discounts of 2% and 21% are equivalent to what single discount?
+Ans
+ A. 23.24%
+B. 24.52%
+C. 22.58%
+D. 26.37%
+Q.42 The average of 6.5, 10.7, 20.2 and a is 15. The value of a is:
+Ans
+ A. 22.6
+B. 21.6
+C. 24.6
+D. 23.6
+Q.43 Bina sells an article to Shyam at a 19% loss for ₹4,860. Shyam then sells it to Hari for
+the price Bina would have needed to sell to make a 17% profit. What is Shyam’s profit?
+Ans
+ A. ₹1,260
+B. ₹2,520
+C. ₹2,160
+D. ₹1,740
+Q.44 If ₹2,239 is divided among 269 children such that each girl and each boy get ₹7 and ₹9,
+respectively, then how many boys are there?5888
+Ans
+ A. 138
+B. 218
+C. 178
+D. 238
+Q.45
+Ans
+ A. 1
+B. pqr
+C. 3
+D. (p − q)
+Q.46 A farmer wants to prepare 20 kg of fertiliser mixture containing 42% nitrogen by mixing
+two types of fertilisers, A and B. Fertiliser A contains 30% nitrogen, and fertiliser B
+contains 50% nitrogen. How many kilograms of each fertiliser should he mix?
+Ans
+ A. 10 kg of A, 10 kg of B
+B. 8 kg of A, 12 kg of B
+C. 12 kg of A, 8 kg of B
+D. 6 kg of A, 14 kg of B
+Q.47
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.48
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.49 Two pipes, M and N, can fill a tank in 10 minutes and 15 minutes, respectively. Both
+pipes are opened together but after 5 minutes, pipe M is turned off. What is the total
+time required to fill the tank?
+Ans
+ A. 5.5 minutes
+B. 5 minutes
+C. 10 minutes
+D. 7.5 minutes
+Q.50 Five years ago, the ratio of Priya’s age to Meera’s age was 3 : 2. The difference of their
+present ages is 10 years. What is Meera’s current age?
+Ans
+ A. 20 years
+B. 35 years
+C. 29 years
+D. 25 years
+Q.51 J, K, L, M, N and O are sitting around a circular table facing the centre. N is an
+immediate neighbour of both L and M. J is sitting to the immediate left of L. K is sitting
+third to the right of N.
+How many people sit between J and M when counted from the left of M?
+Ans
+ A. One
+B. Two
+C. Three
+D. Four
+Q.52 If '+' means 'subtraction', '−' means 'multiplication', '×' means 'division' and '÷' means
+'addition', then what will come in place of the question mark (?) in the following
+equation?
+19 + 32 × 4 ÷ 9 − 3 = ?
+Ans
+ A. 38
+B. 37
+C. 32
+D. 35
+Q.53 Fawad starts from Point A and drives 13 km towards the North. He then takes a right
+turn, drives 11 km, turns right and drives 14 km. He then takes a right turn and drives 12
+km. He takes a final right turn, drives 1 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90 degrees turns only unless specified)7014
+Ans
+ A. 3 km to the east
+B. 2 km to the east
+C. 1 km to the east
+D. 4 km to the east
+Section : General Intelligence and Reasoning
+Q.54 Seven people, S, Q, U, A, R, E and D are sitting in a row, facing north.
+Only two people sit between U and E. Only Q sits to the right of D. Only one person sits
+between E and D. S sits at some place to the right of A but at some place to the left of R.
+How many people sit between R and A?
+Ans
+ A. Two
+B. Three
+C. One
+D. Four
+Q.55 If 3 is added to each odd digit and 2 is subtracted from each even digit in the number
+5341256, what will be difference between the highest and lowest digits in the number
+thus formed?
+Ans
+ A. 2
+B. 0
+C. 8
+D. 4
+Q.56 IKLO is related to XZAD in a certain way based on the English alphabetical order. In the
+same way, QSTW is related to FHIL. To which of the following options is JLMP related
+to, following the same logic?
+Ans
+ A. YEAB
+B. YABE
+C. YBDE
+D. YRTE
+Q.57 What should come in place of the question mark (?) in the given series?
+32 42 57 77 102 ?6047
+Ans
+ A. 134
+B. 133
+C. 132
+D. 131
+Q.58 Based on the alphabetical order, three of the following four are alike in a certain way
+and thus form a group. Which is the one that does not belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter cluster)
+Ans
+ A. DHK
+B. HMP
+C. YCF
+D. VZC
+Q.59 Deepu starts from point K and drives 12 km towards the East. He then takes a left turn,
+drives 6 km, turns right, and drives 3 km. He then takes a right turn and drives 6 km.
+Finally, he takes a right turn, drives 5 km, and stops at point P. How far (shortest
+distance) and towards which direction should he drive in order to reach point K again?
+(All turns are 90 degrees turns only unless specified).
+Ans
+ A. 8 km towards the South
+B. 5 km towards the West
+C. 10 km towards the North
+D. 10 km towards the West
+Q.60 What will come in the place of the question mark (?) in the following equation, if ‘+’ and
+‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+170 ÷ 2 − 150 ÷ 2 + 254 × 2 − 156 × 3 − 10 = ?
+Ans
+ A. 497
+B. 601
+C. 421
+D. 575
+Q.61 Read the given statement(s) and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statement(s).
+Statements: Some cookies are juices. All juices are breads.
+Conclusion (I): Some breads are cookies
+Conclusion (II): No cookie is a bread
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Only conclusion (I) follows
+C. Only conclusion (II) follows
+D. Both conclusions (I) and (II) follow
+Q.62 एक  िन ि  त  क ू ट  भा षा  म   ,
+A + B का  अ थ    ह ै  िक  ‘A, B की  बहन  ह ै ’
+A # B का  अ थ    ह ै  िक  ‘A, B का  भा ई  ह ै ’
+A × B का  अ थ    ह ै  िक  ‘A, B की  प  ी  ह ै ’
+A @ B का  अ थ    ह ै  िक  ‘A, B का  िप ता  ह ै ’
+उप रो क्त  क े  आ धा र  पर , य िद  ‘L × O # V + E @ R' ह ै , तो  L का  R स े   ा  स ं ब ं ध  ह ै ?
+Ans
+ A. प  ी 
+B. प ु  ी 
+C. िप ता  क े  भा ई  की  प ु  ी 
+D. िप ता  क े  भा ई  की  प  ी 
+Q.63 In a certain code language, ‘LEMA’ is coded as ‘5681’ and ‘ALES’ is coded as ‘6513’.
+What is the code for ‘S’ in the given code language?
+Ans
+ A. 3
+B. 6
+C. 5
+D. 1
+Q.64 Refer to the following letter series and answer the question.
+(Left) C X Z A L P W T M D B R O J K F G V Q H E N (Right)
+What is the position of letter "L" in the series from the left end?5695
+Ans
+ A. Fourth
+B. Sixth
+C. Seventh
+D. Fifth
+Q.65 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+DHK31 EIL40 FJM49 GKN58 ?
+Ans
+ A. HLO67
+B. HLP67
+C. HLO68
+D. HLP68
+Q.66 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only.
+(Left) 2 5 6 & 8 & < $ < 7 4 ^ $ 6 5 9 2 & 7 2 % (Right)
+How many such symbols are there, each of which is immediately preceded by a number
+and also immediately followed by another symbol?
+Ans
+ A. Two
+B. One
+C. Three
+D. None
+Q.67 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(188, 47, 45)
+(224, 56, 54)6780
+Ans
+ A. (152, 38, 32)
+B. (248, 68, 66)
+C. (284, 71, 69)
+D. (332, 83, 77)
+Q.68 Refer to the following series and answer the question. (Counting to be done from left to
+right only) (All numbers are single-digit numbers only).
+(Left) 9 8 7 6 5 4 3 2 1 3 9 8 7 6 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and immediately followed by an odd number?
+Ans
+ A. One
+B. Two
+C. Three
+D. More than three
+Q.69 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+XUE 19, BYI 27, FCM 35, JGQ 43, ?9642
+Ans
+ A. NLU 52
+B. NKU 51
+C. LJU 52
+D. MKV 51
+Q.70 Based on the alphabetical order, three of the following four are alike in a certain way
+and thus form a group. Which is the one that does not belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter cluster)
+Ans
+ A. VZC
+B. KPS
+C. GLO
+D. NSV
+Q.71 All 133 people are standing in a row facing north. Mr. Lkj is 24th from the right end
+while Mr. Ihg is 33rd from the left end. How many people are there between Mr. Lkj and
+Mr. Ihg?
+Ans
+ A. 76
+B. 77
+C. 78
+D. 75
+Q.72 In a certain code language, ‘MULE’ is coded as ‘7536’ and ‘LUKE’ is coded as ‘6723’.
+What is the code for ‘K’ in that language?
+Ans
+ A. 3
+B. 7
+C. 6
+D. 2
+Q.73 What should come in place of the question mark (?) in the given series?
+57 68 79 90 101 ?
+Ans
+ A. 112
+B. 111
+C. 116
+D. 117
+Q.74 What should come in place of ‘?’ in the given series?
+155 163 179 187 203 ?
+Ans
+ A. 209
+B. 211
+C. 213
+D. 215
+Q.75 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+BKQ:FOU
+DJM:HNQ
+Ans
+ A. BST:HIS
+B. TYP:VHU
+C. VTO:FRS
+D. ELO:IPS
+Q.76 Preeti ranked 9th from the bottom and 8th from the top in her class. How many
+students are there in her class?
+Ans
+ A. 14
+B. 15
+C. 13
+D. 16
+Q.77 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some grapes are oranges.
+All oranges are apples.
+Conclusions:
+(I) Some grapes are apples.
+(II) All apples are oranges.
+Ans
+ A. Only conclusion (II) follows
+B. Both conclusions (I) and (II) follow
+C. Only conclusion (I) follows
+D. Neither conclusion (I) nor (II) follows
+Q.78 Six people, A, B, C, D, E and F, are sitting in a row, facing north. Only two people sit to
+the left of F. Only one person sits between D and E. F sits to the immediate left of D. A
+sits to the immediate right of C. B sits third to the right of A. Who sits at the extreme left
+end of the line?
+Ans
+ A. E
+B. C
+C. D
+D. A
+Q.79 This question is based on the five, three-digit numbers given below.
+(Left) 475 326 157 761 829 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+If all the numbers are arranged in ascending order, the position of how many numbers
+will remain unchanged?
+Ans
+ A. One
+B. None
+C. Three
+D. Two
+Q.80 DUBW is related to PGNI in a certain way based on the English alphabetical order. In
+the same way, ZQXS is related to LCJE. To which of the following options is JAHC
+related to, following the same logic?
+Ans
+ A. VMTO
+B. VMOT
+C. VTIO
+D. VBHY
+Q.81 As per Copernicus Climate Change Service (C3S), January 2025, which Indian city
+experienced record-breaking air pollution levels in January 2025 due to temperature
+inversion and climate change effects?
+Ans
+ A. Mumbai
+B. New Delhi
+C. Bengaluru
+D. Chennai
+Section : General Awareness and Current Affairs
+Q.82 In October 2024, which two countries reached a historic political agreement on the
+return of Mauritian sovereignty over the Chagos Archipelago, including Diego Garcia?
+Ans
+ A. Germany and the Republic of Mauritius
+B. The Republic of Mauritius and France
+C. The Republic of Mauritius and the United Kingdom
+D. The United States and the Republic of Mauritius
+Q.83 The Union Government launched a new climate resilience program in January 2025 to
+tackle extreme weather events. What is the name of this initiative?
+Ans
+ A. National Climate Adaptation Plan
+B. Green India Mission
+C. Mission Mausam
+D. Climate Resilience Initiative
+Q.84 In December 2025, which institution launched India’s first incubator-linked deep
+technology venture capital fund named “Y-Point Venture Capital Fund”?
+Ans
+ A. Indian Institute of Technology Kanpur
+B. Indian Institute of Technology Delhi
+C. Indian Institute of Technology Madras
+D. Indian Institute of Technology Bombay
+Q.85 Which Indian documentary received the World Cinema Documentary Special Jury
+Award for Craft at Sundance 2025?
+Ans
+ A. Echo by Meena Longjam
+B. Hope by K Sathyanarayan
+C. Nocturnes by Anirban Dutta and Anupama Srinivasan
+D. Beyond Blast by Saikhom Ratan
+Q.86 In February 2025, the Insurance Regulatory and Development Authority of India (IRDAI)
+issued a circular enabling customers to block premium payment via which method for
+life and health policies?
+Ans
+ A. ECS recurring mandate
+B. Cheque stop
+C. Standing Debit Order
+D. UPI one-time mandate
+Q.87 Who was honored with the Satyajit Ray Memorial Award at the 21st Third Eye Asian
+Film Festival in 2025?
+Ans
+ A. Javed Ali Khan
+B. Rafique Baghdadi
+C. Amitabh Bachan
+D. Shah Rukh Khan
+Q.88 According to the 2024 report by the United Nations Inter-agency Group for Child
+Mortality Estimation (UN IGME), India achieved a major milestone by reducing the
+percentage of zero-dose children from 0.11% in 2023 to what percentage in 2024?
+Ans
+ A. 0.06%
+B. 0.03%
+C. 0.10%
+D. 0.09%
+Q.89 The Immigration and Foreigners Act, 2025 introduces which major reform for foreign
+visitors?
+Ans
+ A. Real-time monitoring and scrutiny
+B. Waiver of travel documents for select nations
+C. Exemptions from exit checks
+D. Automatic 10-year visas
+Q.90 Which country won the FIH Hockey Pro League 2024-25 (Men) held at the iconic Kalinga
+Hockey Stadium in Bhubaneswar ?
+Ans
+ A. Belgium
+B. India
+C. Pakistan
+D. Germany
+Q.91 Which among the following banks appointed Rajiv Anand as Chief Executive Officer
+(CEO) for a three-year term starting August 25, 2025?
+Ans
+ A. IndusInd Bank
+B. Kotak Mahindra Bank
+C. IDFC First Bank
+D. Axis Bank
+Q.92 According to the World Bank’s Gini Index for 2025, which country has been ranked as
+the fourth most equal in terms of income distribution?
+Ans
+ A. Sweden
+B. India
+C. Canada
+D. Japan
+Q.93 At the 2025 Laureus World Sports Awards in Madrid, who won the Laureus World
+Sportswoman of the Year in the football category?
+Ans
+ A. Aitana Bonmatí
+B. Shelly-Ann Fraser Pryce
+C. Simone Biles
+D. Faith Kipyegon
+Q.94 In March 2025, which national park became India’s 58th tiger reserve?
+Ans
+ A. Kanha NP
+B. Madhav NP
+C. Satpura NP
+D. Ratapani NP
+Q.95 What was the purpose of the Banking Laws (Amendment) Act, 2025?
+Ans
+ A. Limit and regulate foreign bank investments
+B. Ensure enhanced protection for depositors and investors
+C. Reduce and restructure banking operations
+D. Undertake privatization and modernization of public sector banks
+"
+Q.96 Who inaugurated the Esports Conclave 2025 in New Delhi?
+Ans
+ A. Raksha Nikhil Khadse
+B. Mansukh Mandaviya
+C. Narendra Modi
+D. Anurag Thakur
+Q.97 What was the main objective of the Tri Services Academia Technology Symposium (T-
+SATS) held in 2025?
+Ans
+ A. Strengthening academic interface with defence institutions
+B. Expanding private sector leadership in defence innovation
+C. Establishing a tri-service technology command
+D. Aligning academic R&D with future defence technology needs
+Q.98 On 26 March 2025, the DRDO and the Indian Navy successfully conducted a flight-test
+of which missile from the Integrated Test Range (ITR), Chandipur?
+Ans
+ A. Akash-NG
+B. SAMAR-1
+C. Astra Mk-2
+D. VLSRSAM
+Q.99 At the 15th South Asian Bodybuilding and Physique Sports Championships 2025 held
+in Bhutan, which Indian athlete won the gold medal in the Women’s Model Physique up
+to 155 cm event?
+Ans
+ A. Anju Bobby George
+B. Bhawna Tokekar
+C. Akanksha Chaudhary
+D. Yajik Hillang
+Q.100Which of the following was the full-fledged annual Summit of the Shanghai Cooperation
+Organization (SCO) held in 2025, where multilateral cooperation, economic resilience,
+and Global-South development priorities were strongly emphasized?
+Ans
+ A. Samarkand SCO Summit
+B. Tianjin SCO Summit
+C. New Delhi SCO Summit
+D. Astana SCO Summit

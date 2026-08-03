@@ -1,0 +1,771 @@
+Q.1 Which statement is INCORRECT about fragmentation (asexual reproduction)?
+Ans
+ A. Occurs in multicellular organisms
+B. Spore formation is a type of fragmentation process
+C. Produces genetically identical offspring
+D. Involves maturation before splitting
+Q.2 What is the motion of an object called when it travels along a circular path at a constant
+speed?
+Ans
+ A. Non-linear motion
+B. Uniform circular motion
+C. Non-uniform circular motion
+D. Linear motion
+Q.3 Over-secretion of growth hormone in adults results in which of the following?
+Ans
+ A. Dwarfism
+B. Addison’s disease
+C. Graves’ disease
+D. Acromegaly
+Q.4 Which of the following will NOT show Tyndal effect?
+Ans
+ A. Milk
+B. Starch
+C. Copper sulphate solution
+D. Emulsion
+Q.5 Which of the following properties makes ethanol a better alternative fuel compared to
+petrol?
+Ans
+ A. Ethanol is a solid fuel
+B. Ethanol burns with a clean, smokeless flame
+C. Ethanol has a higher boiling point than petrol
+D. Ethanol produces harmful smoke when burned
+Test Date 02/12/2025
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 A cube of side a is made of a material of resistivity ρ. What will be the resistance
+between two opposite faces of the cube?
+Ans
+ A. ρ/a
+B. ρ/a2
+C. ρa
+D. 2ρa
+Q.7 What is the molecular mass of glucose? (C = 12 u, H = 1 u, O = 16 u)
+Ans
+ A. 180 u
+B. 120 u
+C. 150 u
+D. 160 u
+Q.8 The _______ ores are converted to their respective oxides by the process of roasting.
+Ans
+ A. sulphite
+B. sulphide
+C. chloride
+D. carbonate
+Q.9 A white solid reacts with dilute HCl, producing a gas that turns lime water milky. What
+can be definitely concluded?
+Ans
+ A. The gas is carbon dioxide; the solid is either a carbonate or bicarbonate.
+B. The gas is hydrogen, indicating a reactive metal.
+C. The solid is calcium carbonate.
+D. The solid is a metal carbonate, releasing carbon dioxide.
+Q.10 Which of the following is a chemical property?
+Ans
+ A. Boiling point
+B. Melting point
+C. Burning in air
+D. Fluidity
+Q.11 If a device is rated 90 W at 120 V, the current drawn is ________.
+Ans
+ A. 1.50 A
+B. 1.33 A
+C. 0.25 A
+D. 0.75 A
+Q.12 Which of the following groups is most at risk of HIV infections?
+Ans
+ A. People who maintain personal hygiene
+B. People who exercise regularly
+C. Individuals who have multiple unprotected sexual partners
+D. People who do not exercise regularly
+Q.13 Apiaries help us in the production of which of the following food materials?
+Ans
+ A. Fish
+B. Milk
+C. Poultry egg
+D. Honey
+Q.14 The following vehicles are all moving at a velocity of 50 km/hr. All the vehicles need to
+be stopped at the same point. Which vehicle has to apply more force in breaks to stop
+the vehicle?
+Ans
+ A. Scooter
+B. Bus
+C. Car
+D. Bicycle
+Q.15 Which of the following is formed by each step of the food chain?
+Ans
+ A. Ozone layer
+B. Trophic level
+C. Troposphere level
+D. Stratosphere level
+Q.16 How does the sound of a patient’s heartbeat reach the doctor’s ears through a
+stethoscope?
+Ans
+ A. The sound is carried by moving air from the chest to the doctor’s ears.
+B. In stethoscopes, the sound of the patient’s heartbeat reaches the doctor’s ears by multiple reflection of sound.
+C. The stethoscope uses electricity to amplify the heartbeat sound.
+D. The sound travels directly through the stethoscope without any reflection.
+Q.17 The covalent bonding behaviour of the carbon compounds corresponds to which of the
+following characteristics of these compounds?
+Ans
+ A. Low boiling point
+B. High conductance
+C. Low melting point
+D. Both low melting and boiling point
+Q.18 When a person looks at a nearby object, the ciliary muscles:
+Ans
+ A. Contract and make the lens thinner
+B. Relax and make the lens thinner
+C. Contract and make the lens thicker
+D. Relax and make the lens thicker
+Q.19 Which of the following statements is correct about the image formed by a convex
+mirror?
+Ans
+ A. Real and inverted image
+B. Magnified image
+C. Real and erect image
+D. Virtual and erect image
+Q.20 If the mass of the moon is doubled while keeping the distance between Earth and the
+moon constant, the gravitational force between Earth and the moon would:
+Ans
+ A. Double
+B. Become zero
+C. Half
+D. Remain the same
+Q.21 The kinetic energy of a body of mass m moving with a velocity v m/s is ‘X’ J. If the
+velocity of the body changes to 4v m/s, what will be the value of kinetic energy?
+Ans
+ A. 16X J
+B. 4X J
+C. 2X J
+D. 8X J
+Q.22 Which of the following is the most common simple permanent tissue in plants?
+Ans
+ A. Aerenchyma
+B. Parenchyma
+C. Chlorenchyma
+D. Sclerenchyma
+Q.23 What is the chemical formula of baking soda?
+Ans
+ A. NaHCO₃ 
+B. NaOH
+C. NaCl
+D. Na₂ CO₃ 
+Q.24 In which of the following forms of reproduction, both sexes, males and females are
+needed to produce new generations?
+Ans
+ A. Sexual reproduction
+B. Fragmentation
+C. Spore formation
+D. Budding
+Q.25 Which of the following statements about movement is INCORRECT?
+Ans
+ A. Living organisms show internal or molecular movement, even when external movement is not visible.
+B. Movement is a characteristic of living organisms.
+C. Growth-related movement in plants, like bending toward light, is a form of movement.
+D. Molecular movement is only found in animals, not plants.
+Q.26 The sum of the first 10 prime numbers is:
+Ans
+ A. 133
+B. 129
+C. 130
+D. 131
+Q.27
+Ans
+ A. 30%
+B. 20%
+C. 25%
+D. 10%
+Section : Mathematics
+Q.28 The length, breadth and height of a cuboid are in the ratio 6 : 5 : 3. If the volume of the
+cuboid is 720 m3, find its surface area (in m2).
+Ans
+ A. 504
+B. 424
+C. 360
+D. 458
+Q.29 A skilled worker earns ₹100 per day and an unskilled worker earns ₹50. If 5 workers
+earn ₹400 together in one day, how many skilled workers were there?
+Ans
+ A. 2
+B. 3
+C. 1
+D. 4
+Q.30 The sides of a triangle are 120 cm, 174 cm, and 126 cm. What is its area (in cm2)?
+Ans
+ A. 7552
+B. 7561
+C. 7560
+D. 7570
+Q.31
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.32 What is the average speed of a truck that covers half the distance at the speed of 20
+km/hr and the other half at the speed of 80 km/hr?
+Ans
+ A. 41 km/hr
+B. 40 km/hr
+C. 37 km/hr
+D. 32 km/hr
+Q.33 Two trains having lengths of 410 m and 440 m are running at speeds of 130 km/hr and
+140 km/hr, respectively, in the same direction. The time taken (in minutes) by the faster
+train, coming from behind, to completely cross the other train is:3385
+Ans
+ A. 5.1
+B. 6
+C. 14.7
+D. 8.1
+Q.34
+Ans
+ A. 48
+B. 54
+C. 42
+D. 45
+Q.35 A dealer marks his goods at 30% above the cost price and allows a discount of 38% on
+the marked price. What is his loss percentage?
+Ans
+ A. 21.3%
+B. 18.6%
+C. 22.9%
+D. 19.4%
+Q.36 A manufacturer sells an article to a wholesaler at a profit of 20%. The wholesaler then
+sells it to a retailer at a profit of 25%, and the retailer sells it to a customer at a profit of
+24%. If the retailer’s selling price is ₹372, what was the manufacturing cost of the
+article?
+Ans
+ A. ₹100
+B. ₹172
+C. ₹120
+D. ₹200
+Q.37 Subtracting 1% of X from X is the same as multiplying X by:
+Ans
+ A. 0.99
+B. 0.01
+C. 0.001
+D. 0.5
+Q.38 By selling an article for ₹528, a trader incurs a loss of 12%. At what price should he sell
+the article to gain 12%?
+Ans
+ A. ₹666
+B. ₹672
+C. ₹628
+D. ₹678
+Q.39 A and B working together can do a piece of work in 5 days. B alone can do the same
+work in 55 days. How long (in days) will A alone take to do double the work?
+Ans
+ A. 12
+B. 11
+C. 14
+D. 5.5
+Q.40 The sum of the present ages of father and son is 96. 20 years ago, the father was three
+times as old as his son. What is the ratio of the present ages of the father and his son?
+Ans
+ A. 31 : 17
+B. 31 : 16
+C. 32 : 17
+D. 32 : 15
+Q.41 The sum of the first 5 prime numbers is:2635
+Ans
+ A. 26
+B. 28
+C. 32
+D. 27
+Q.42 A store is offering 'Buy 47, get 9 free' on household items. What is the net percentage
+discount (approximately) being offered by the store?
+Ans
+ A. 16.07%
+B. 17.75%
+C. 13.81%
+D. 19.02%
+Q.43
+Ans
+ A. 13250
+B. 12250
+C. 11250
+D. 10250
+Q.44 Three pipes, X, Y, and Z, can fill a tanker in 360 minutes, 540 minutes, and 720 minutes,
+respectively. Y and Z are opened for 30 minutes, then X is also opened. The time taken
+by the three pipes together to fill the remaining part of the tank is:
+Ans
+ A. 150 minutes
+B. 155 minutes
+C. 152 minutes
+D. 158 minutes
+Q.45 In a bag containing teal, maroon, and lime tokens, the ratio of teal to maroon tokens
+was 15 : 10, while the ratio of lime to teal tokens was 19 : 11. What was the ratio of lime
+to maroon tokens?
+Ans
+ A. 57 : 22
+B. 63 : 29
+C. 49 : 16
+D. 64 : 23
+Q.46 The average age of 26 students of a class is 37 years. If the age of the teacher is also
+included, the average age of the whole group becomes 38 years. The age (in years) of
+the teacher is:
+Ans
+ A. 62
+B. 65
+C. 64
+D. 61
+Q.47 Vinod, Kajal and Arpit invest ₹1,040, ₹1,390 and ₹1,890, respectively, to start a business.
+If the profit at the end of the year is ₹1,440, then what is the share of Arpit in the profit?
+6077
+Ans
+ A. ₹627
+B. ₹630
+C. ₹632
+D. ₹629
+Q.48 The average of 6.5, 10.6, 19.7 and a is 13. The value of a is:
+Ans
+ A. 15.2
+B. 17.2
+C. 14.2
+D. 16.2
+Q.49 What is the difference between the simple interest on a principal of ₹5,000 being
+calculated at 5% per annum for 3 years and 4% per annum for 4 years?
+Ans
+ A. ₹50
+B. ₹45
+C. ₹40
+D. ₹55
+Q.50 Which of the following sets of numbers can form the sides of a triangle?
+Ans
+ A. {10 cm, 8 cm, 2 cm}
+B. {5 cm, 6 cm, 11 cm}
+C. {9 cm, 12 cm, 22 cm}
+D. {8 cm, 9 cm, 4 cm}
+Q.51 Mr. Akai starts from Point A and drives 11 km towards east. He then takes a right turn,
+drives 5 km, turns right and drives 14 km. He then takes a right turn and drives 16 km.
+He takes a final right turn, drives 3 km and stops at Point P. How far (shortest distance)
+and towards which direction should he drive in order to reach Point A again? (All turns
+are 90 degrees turns only unless specified)
+Ans
+ A. 11 km to the south
+B. 7 km to the east
+C. 11 km to the north
+D. 7 km to the north
+Q.52 Refer to the following number series and answer the question that follows. Counting to
+be done from left to right only. (All numbers are single-digit numbers only.)
+(Left) 1 2 4 5 7 2 9 6 7 3 4 1 6 6 9 8 4 7 6 1 7 3 4 9 7 (Right)
+How many such digits are there each of which is immediately preceded by a perfect
+square and also immediately followed by an odd number?
+(NOTE: 1 is also a perfect square)
+Ans
+ A. Four
+B. One
+C. Three
+D. Two
+Q.53 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will
+come in place of the question mark (?) in the following equation?
+44 B 30 A 10 D 46 C 3 = ?3841
+Ans
+ A. 90
+B. 89
+C. 85
+D. 97
+Q.54 DFRU is related to JLUX in a certain way based on the English alphabetical order. In the
+same way, BDDG is related to HJGJ. To which of the given options is TVMP related,
+following the same logic?9948
+Ans
+ A. ZXSW
+B. ZAWE
+C. ZBLO
+D. ZBPS
+Section : General Intelligence and Reasoning
+Q.55 What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘ ÷ ‘ are
+interchanged and ‘ - ’ and ‘ x ’ are interchanged?
+423 + 9 x 19 - 6 ÷ 775 = ?
+Ans
+ A. 236
+B. 220
+C. 708
+D. 214
+Q.56 Seven boxes, M, N,O, P, Q, R and S, are kept one over the other but not necessarily in
+the same order. Only three boxes are kept above S. Only one box is kept between R and
+S. Only three boxes are kept between R and Q. Q is kept at some place above S. N is
+kept immediately below Q. M is kept at one of the places above O. P is not kept
+immediately above or below R. Which box is kept at the lowermost position?
+Ans
+ A. O
+B. N
+C. S
+D. M
+Q.57 Seven boxes A, B, C, D, E, F and G are kept one over the other but not necessarily in the
+same order.
+Only three boxes are kept above G. Only one box is kept between B and G. Only three
+boxes are kept between B and C. C is kept at some place above G. F is kept immediately
+below C. E is kept at one of the places above D. A is not kept immediately above or
+below B.
+How many boxes are kept below E?
+Ans
+ A. 4
+B. 3
+C. 2
+D. 1
+Q.58 In a certain code language, ‘TOUR’ is coded as ‘8571’ and ‘DOUT’ is coded as ‘5478’.
+What is the code for ‘D’ in the given code language?2226
+Ans
+ A. 5
+B. 7
+C. 4
+D. 8
+Q.59 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some keyboards are mouses.
+All inverters are mouses.
+Conclusions:
+(I) Some keyboards are inverters.
+(II) All mouses are inverters.
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Neither conclusion (I) nor (II) follows
+C. Only conclusion (I) follows
+D. Only conclusion (II) follows
+Q.60 Which number should come in place of the question mark (?) in the same sequence to
+make the series logically complete?
+2, 8, 3, 27,4, 64, 5, 125, 6, 216, 7, ?
+Ans
+ A. 441
+B. 343
+C. 349
+D. 243
+Q.61 Seven people, B, C, D, I, J, K and L, are sitting around a circular table facing the centre
+of the table. Only three people sit between D and L when counted from the right of L.
+Only three people sit between K and I when counted from the left of K. B sits to the
+immediate right of D. J is an immediate neighbour of L as well as I. Who sits second to
+the left of C?
+Ans
+ A. L
+B. K
+C. J
+D. I
+Q.62 Harshit starts from Point A and drives 6 km towards the east. He then takes a right turn,
+drives 6 km, turns right and drives 12 km. He then takes a right turn and drives 11 km.
+He takes a final right turn, drives 6 km and stops at Point P. How far (shortest distance)
+and towards which direction should he drive in order to reach Point A again? (All turns
+are 90-degree turns only unless specified.)
+Ans
+ A. 6 km to the North
+B. 5 km to the South
+C. 6 km to the South
+D. 5 km to the North
+Q.63 A, B, C, D, W, X and Y are sitting in a straight line, facing the north.
+No one sits to the left of D. Only four people sit between D and C. Only three people sit
+to the right of Y. X sits to the immediate left of A. W is not an immediate neighbour of Y.
+Who sits third to the left of W?
+Ans
+ A. C
+B. A
+C. Y
+D. X
+Q.64 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). (Counting to be done from left to right only).
+(Left) 4 1 1 7 2 4 1 2 7 4 4 9 6 3 9 1 6 1 9 2 2 8 8 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. Four
+B. One
+C. Three
+D. Two
+Q.65 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group? (Note: The odd one out is not based on the number of consonants/vowels
+or their position in the letter-cluster.)
+Ans
+ A. VYU
+B. MQL
+C. ORN
+D. DGC
+Q.66 Refer to the following number series and answer the question that follows. Counting to
+be done from left to right only. (All numbers are single-digit numbers only.)
+(Left) 4 6 5 8 2 2 1 8 2 9 8 4 7 4 8 2 4 3 1 4 1 2 7 2 6 (Right)
+How many such digits are there each of which is immediately preceded by a perfect
+square and also immediately followed by a perfect square?
+(NOTE: 1 is also a perfect square)
+Ans
+ A. Three
+B. One
+C. Two
+D. Four
+Q.67 In a certain code language, ‘kit son pit’ is coded as ' ai lm go' and ‘boss pit poem’ is
+coded as ‘lm jn yt’. How is ‘pit’ coded in the given language?
+Ans
+ A. lm
+B. ai
+C. jn
+D. go
+Q.68 PL 13 is related to SQ 16 in a certain way. In the same way, IE 18 is related to LJ 21. To
+which of the following is OK 26 related, following the same logic?
+Ans
+ A. TP 29
+B. TM 28
+C. RM 28
+D. RP 29
+Q.69 If ‘A’ stands for ‘÷’ , ‘B’ stands for ‘x’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘-‘ , what will
+come in place of the question mark ‘?’ in the following equation?
+24 A 4 B 6 C 2 D 10 = ?
+Ans
+ A. 27
+B. 26
+C. 28
+D. 29
+Q.70 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(26, 46, 20)
+(12, 16, 4)
+Ans
+ A. (7, 23, 13)
+B. (17, 43, 23)
+C. (20, 31, 8)
+D. (9, 32, 23)
+Q.71 Seven people, A, B, C, D, E, F and G, are sitting in a row, facing north. Only A sits to the
+left of D. Only four people sit between A and C. Only B sits between G and F and G is
+not an immediate neighbour of C. How many people sit to the right of G?7928
+Ans
+ A. 4
+B. 1
+C. 3
+D. 2
+Q.72 Select the triad that follows the same pattern as the one followed by the two triads
+given below. Both triads follow the same pattern.
+OH-QK-TV
+LE-NH-QS
+Ans
+ A. SK-TN-WZ
+B. SK-TM-WZ
+C. RK-TN-WY
+D. RK-TN-WZ
+Q.73 What should come in place of the question mark (?) in the given series?
+33 49 65 81 97 ?
+Ans
+ A. 112
+B. 111
+C. 110
+D. 113
+Q.74 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+GEL OMT WUB ECJ ?
+Ans
+ A. MKI
+B. MKR
+C. MIK
+D. MRK
+Q.75 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+PDG 12, RFI 16, THK 20, VJM 24, ?
+Ans
+ A. YKP 28
+B. XLP 26
+C. XLO 28
+D. YLO 26
+Q.76 This question is based on the five, three-digit numbers given below.
+(Left) 826, 117, 681, 964, 529 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+What will be the resultant if the third digit of the highest number is added to the second
+digit of the lowest number?
+Ans
+ A. 11
+B. 5
+C. 7
+D. 13
+Q.77 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All schools are colleges.
+No college is a radio.
+Conclusions:
+(I) Some colleges are schools.
+(II) No school is a radio.
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Only conclusion (I) follows
+C. Only conclusion (II) follows
+D. Both conclusions (I) and (II) follow
+Q.78 What should come in place of the question mark (?) in the given series?
+501 500 497 492 485 ?3900
+Ans
+ A. 477
+B. 475
+C. 476
+D. 474
+Q.79 In a certain code language,
+A + B means ‘A is the son of B’,
+A – B means ‘A is the brother of B’,
+A x B means ‘A is the wife of B’,
+A ÷ B means ‘A is the father of B’.
+Based on the above, how is D related to J if ‘D ÷ F x G – H + J’?
+Ans
+ A. Son's wife's brother
+B. Wife's mother
+C. Son's wife's father
+D. Wife's father
+Q.80 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. BZW
+B. AYV
+C. DBY
+D. QPL
+Q.81 What is the name of the first private-sector reinsurer to be licensed under the new
+framework of the Insurance Regulatory and Development Authority of India in March
+2025?
+Ans
+ A. Paytm Reinsurance
+B. Arko Pay Reinsurance
+C. Phone Pe Reinsurance
+D. Valueattics Reinsurance
+Section : General Awareness and Current Affairs
+Q.82 In June 2025, which of the following announced to introduce 'Validated UPI Handles'
+effective from 1 October 2025 for secured payments by investors to enhance investor
+protection and combat fraud?
+Ans
+ A. Reserve Bank of India (RBI)
+B. State Bank of India (SBI)
+C. Securities and Exchange Board of India (SEBI)
+D. Life Insurance Corporation (LIC)
+Q.83 In April 2025, Rapido signed a Memorandum of Understanding with the Ministry of
+Labour and Employment to provide jobs through which of the following government
+portals?
+Ans
+ A. National Career Service Portal
+B. Digital India Portal
+C. Skill India Portal
+D. Startup India Portal
+Q.84 Which prominent world leader joined Truth Social (a social media platform owned by US
+President Donald Trump) in March 2025?
+Ans
+ A. Narendra Modi
+B. Rishi Sunak
+C. Olaf Scholz
+D. Emmanuel Macron
+Q.85 The Indus Water Treaty, which was suspended by India following the Pahalgam terror
+attack in April 2025, was signed between India and Pakistan in _______.
+Ans
+ A. 1965
+B. 1950
+C. 1960
+D. 1955
+Q.86 Prime Minister Narendra Modi virtually launched a cooperative society in Bihar to
+provide easy access to funds at affordable interest rates to community members in
+September 2025, named ______.
+Ans
+ A. Bihar Rajya Gramin Nidhi Saakh Sahkari Sangh Limited
+B. Bihar Rajya Mahila Nidhi Saakh Sahkari Sangh Limited
+C. Bihar Rajya Jeevika Nidhi Saakh Sahkari Sangh Limited
+D. Bihar Rajya Krishi Nidhi Saakh Sahkari Sangh Limited
+Q.87 Which of the following departments released the 2025 Economic Survey of India?
+Ans
+ A. Department of Economic Affairs
+B. Ministry of Labour
+C. Central Statistical Organisation
+D. Department of Commerce
+Q.88 In 2025, in which country was the Yala Glacier declared 'dead' due to the effects of
+climate change?
+Ans
+ A. China
+B. India
+C. Nepal
+D. Bhutan
+Q.89 What was Neeraj Chopra’s final position at the 2025 Doha Diamond League javelin
+event?
+Ans
+ A. Third
+B. First
+C. Second
+D. Fourth
+Q.90 In 2025, how much monthly out-of-pocket allowance was approved for hockey players
+in the national camp by the Sports Ministry?
+Ans
+ A. ₹50,000
+B. ₹25,000
+C. ₹15,000
+D. ₹20,000
+Q.91 Which athlete received the Laureus World Sportswoman of the Year award in 2025?
+Ans
+ A. A’ja Wilson
+B. Simone Biles
+C. Iga Świątek
+D. Naomi Osaka
+Q.92 Who did Jannik Sinner defeat in the final of the Australian Open 2025?
+Ans
+ A. Rafael Nadal
+B. Alexander Zverev
+C. Stefanos Tsitsipas
+D. Daniil Medvedev
+Q.93 On 29 April 2025, the Union Minister of New and Renewable Energy (MNRE) Pralhad
+Joshi launched the GHCI scheme to empower MSMEs and promote green hydrogen
+economy. What is the full form of GHCI?
+Ans
+ A. Green Hydrogen Channel Scheme of India
+B. Green Hydrogen Cultivation Scheme of India
+C. Green Hydrogen Conservation Scheme of India
+D. Green Hydrogen Certification Scheme of India
+Q.94 Operation Brahma was launched by India in March 2025 to provide relief to which
+country?
+Ans
+ A. Sri Lanka
+B. Nepal
+C. Myanmar
+D. Bangladesh
+Q.95 What was the new motto of Lokpal of India adopted by the full bench of Lokpal in June
+2025?
+Ans
+ A. Prevent Corruption, Promote Growth
+B. Empower Citizens, Expose Corruption
+C. Empowering Youth against Corruption
+D. Ma Gridhah Kasyasvidhanam
+"
+Q.96 In May 2025, which Indian minister announced the Advanced Medium Combat Aircraft
+(AMCA) development plans at the CII Business Summit?
+Ans
+ A. Rajnath Singh
+B. Amit Shah
+C. Nirmala Sitharaman
+D. S Jaishankar
+Q.97 Which summit in 2025 focused on 'securing our future' for Ukraine?
+Ans
+ A. Paris Peace Forum
+B. Warsaw NATO Ministers’ Summit
+C. London Summit on Ukraine
+D. Kiev Peace Conference
+Q.98 What is the purpose of the Bharat Forecasting System launched in May 2025?
+Ans
+ A. Providing detailed weather forecasts
+B. Monitoring wildlife habitats
+C. Enhancing railway timetables
+D. Improving school attendance
+Q.99 How many positions did India drop in the 2025 Energy Transition Index compared to the
+previous year?
+Ans
+ A. 5
+B. 6
+C. 8
+D. 10
+Q.100Which of the following countries was hosted the 2025 NATO Summit held in June 2025?
+Ans
+ A. Germany
+B. Netherlands
+C. Brazil
+D. Turkey

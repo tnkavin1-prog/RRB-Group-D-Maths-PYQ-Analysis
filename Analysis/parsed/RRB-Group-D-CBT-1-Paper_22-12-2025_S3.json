@@ -1,0 +1,28 @@
+[
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_22-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "Find the largest number which divides 62, 134 and 242 to leave the same reminder in each case.",
+    "options": {
+      "A": "96",
+      "B": "98",
+      "C": "97",
+      "D": "99"
+    },
+    "answer": ""
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_22-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 45,
+    "questionText": "11135",
+    "options": {
+      "A": "7 minutes",
+      "B": "11 minutes",
+      "C": "15 minutes",
+      "D": "12 minutes"
+    },
+    "answer": ""
+  }
+]

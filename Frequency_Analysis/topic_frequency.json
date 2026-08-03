@@ -1,0 +1,25 @@
+{
+  "topicFrequency": {
+    "number_system": 9,
+    "mensuration_2d": 5,
+    "si_ci": 7,
+    "profit_loss": 8,
+    "mensuration_3d": 6,
+    "age_problems": 1,
+    "trigonometry": 12,
+    "percentage": 9,
+    "time_speed_distance": 6,
+    "average": 3,
+    "time_work": 2,
+    "height_distance": 2,
+    "ratio_proportion": 3,
+    "algebra": 1,
+    "probability": 1,
+    "geometry": 1
+  },
+  "yearFrequency": {
+    "2025": 56,
+    "2026": 20
+  },
+  "totalQuestions": 76
+}

@@ -1,0 +1,768 @@
+Q.1 How do plant cells respond immediately to a stimulus without specialized proteins like
+animal muscle cells?
+Ans
+ A. By secreting enzymes only
+B. By changing water content to cause swelling or shrinking
+C. By producing immune responses
+D. By breaking down food to release energy instantly
+Q.2 Among the following materials, which one has the highest electrical resistivity at room
+temperature?
+Ans
+ A. Iron
+B. Chromium
+C. Mercury
+D. Manganese
+Q.3 Which of the following statements is correct for uniform motion?
+Ans
+ A. The slope of the distance–time graph is constant.
+B. The slope of the distance–time graph is increasing.
+C. The slope of the distance–time graph is decreasing.
+D. The slope of the distance–time graph is zero.
+Q.4 Which of the following best defines an ion?
+Ans
+ A. An atom or group of atoms that has a positive or negative charge
+B. A molecule with more neutrons than protons
+C. An atom with equal number of protons and electrons
+D. A neutral particle formed by the combination of atoms
+Q.5 Why are sound waves classified as mechanical waves?
+Ans
+ A. They do not require a medium to travel
+B. They cause light oscillations
+C. They oscillate perpendicular to wave propagation
+D. They are characterised by the motion of particles in a medium
+Test Date 03/12/2025
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following statements is correct for the magnetic field inside a long,
+straight, current-carrying solenoid?
+Ans
+ A. It increases as we move towards its end.
+B. It decreases as we move towards its end.
+C. It is the same at all points.
+D. It is zero.
+Q.7 Which of the following conditions will NOT favour evaporation?
+Ans
+ A. High Wind Speed
+B. High Humidity
+C. Low Humidity
+D. High Temperature
+Q.8 When gypsum is heated at 373 K, it loses water of crystallisation and forms _________.
+Ans
+ A. calcium chloride pentahydrate
+B. calcium chloride hemihydrate
+C. calcium sulphate pentahydrate
+D. calcium sulphate hemihydrate
+Q.9 Which of the following factors does NOT increase the rate of evaporation?
+Ans
+ A. Increase in surface area
+B. Increase in humidity
+C. Increase of temperature
+D. Increase in wind speed
+Q.10 Which of the following statements best explains kinetic energy?
+Ans
+ A. It is the energy stored in an object due to its shape.
+B. It is the energy an object has because of its motion, and it increases as the object's speed increases.
+C. It is the energy an object has because it is at rest.
+D. It is the energy that decreases as the object's speed increases.
+Q.11 Which of the following statements is correct about the nature of the image formed by a
+concave mirror when the object is placed between the principal focus and the pole?
+Ans
+ A. Real, inverted, same size
+B. Virtual, erect, magnified
+C. Real, inverted, highly diminished (point image)
+D. Real, inverted, diminished
+Q.12 What is the formula to calculate the acceleration due to gravity (g), where G is the
+universal gravitational constant, M is the mass of the Earth, and R is the radius of the
+Earth?
+Ans
+ A. g=GR/M2
+B. g=GM/R2
+C. g=GM/R
+D. g=GM2/R
+Q.13 Structural formula of branched chain organic compound 'Neopentane' may be
+represented by:
+Ans
+ A. CH₃ -CH(CH₃ )-CH₃ 
+B. CH3-CH(CH3)-CH2-CH3
+C. CH3-CH(CH3)-CH2-CH2-CH3
+D. 
+Q.14 Cells of the meristematic tissue lack vacuoles because:
+Ans
+ A. Meristematic cells are actively dividing and need a dense cytoplasm
+B. Vacuoles cause cell death
+C. Meristematic cells are dead and do not need vacuoles
+D. Vacuoles block respiratory enzymes
+Q.15 Baking soda is prepared using which of the following processes?
+Ans
+ A. Deacon's process
+B. Haber process
+C. Solvay process
+D. Chlor-alkali process
+Q.16 What is the main function of leucoplasts in plant cells?
+Ans
+ A. Breaking down waste materials
+B. Absorbing sunlight
+C. Storing materials like starch, oils, and proteins
+D. Giving colour to flowers
+Q.17 A concave lens has a focal length of 15 cm. An object is placed at a distance of 30 cm
+from the lens. What is the magnification produced by the lens?
+Ans
+ A. +0.33
+B. -0.33
+C. +0.66
+D. -0.66
+Q.18 Which of the following statements is INCORRECT about DNA copies produced during
+the process of reproduction?
+Ans
+ A. DNA copies are single stranded.
+B. DNA copies generated are similar but not identical.
+C. Copying of DNA is a pre-requisite for reproduction.
+D. DNA copying is a completely error-free process.
+Q.19 Which of the following was the scientist who blended his knowledge of science and
+mathematics to arrive at the laws of inheritance?
+Ans
+ A. E Rutherford
+B. John Dalton
+C. Gregor Johann Mendel
+D. Camillo Golgi
+Q.20 Which of the following organs is involved in the function of reflex action?
+Ans
+ A. Middle ear
+B. Spleen
+C. Spinal cord
+D. Kidney
+Q.21 Which of the following correctly explains the importance of pH in everyday life?
+Ans
+ A. Acid rain has pH greater than 7, which harms aquatic life.
+B. Our stomach secretes hydrochloric acid to maintain a pH around 2, aiding digestion.
+C. A bee sting injects a basic liquid, so it is treated with a weak acid like vinegar.
+D. Tooth enamel dissolves when the pH of the mouth rises above 7.5 due to bacterial activity.
+Q.22 Which of the following organs in human females can produce hormones?
+Ans
+ A. Salivary glands
+B. Cervix
+C. Fallopian tubes
+D. Ovaries
+Q.23 Which of the following correctly describes the sequence of events leading to muscle
+movement?
+Ans
+ A. Blood flow → Protein activation → Nerve impulse → Movement
+B. Digestion → Blood circulation → Movement
+C. Nerve impulse → Muscle protein response → Muscle contraction
+D. DNA replication → Protein synthesis → Muscle movement
+Q.24 What unique property of carbon atoms enables them to form long and stable chains
+with other carbon atoms?
+Ans
+ A. Allotropy
+B. Catenation
+C. Isomerism
+D. Tetravalency
+Q.25
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.26 A vendor offers her customers a discount of 24% on her beauty products and she still
+makes a profit of 22%. What is the cost price (in ₹) of a beauty product marked at ₹854?
+Ans
+ A. 532
+B. 573
+C. 586
+D. 576
+Q.27
+Ans
+ A. 
+B. 
+C. 
+D. 
+Section : Mathematics
+Q.28 8 men or 9 women can do a job in 2 days. 8 men work for 1 day and leave. The number
+of women required to complete the remaining work in 9 days is:
+Ans
+ A. 3
+B. 2
+C. 1
+D. 4
+Q.29 A shopkeeper buys 20 pens for ₹600 and sells them for ₹900. Find his profit percentage.
+Ans
+ A. 40%
+B. 15%
+C. 33.33%
+D. 50%
+Q.30 Srikar spends 10% of his monthly income on rent, 20% of the rest on household
+expenditure and 25% of the rest on food and saves the rest. He finally saves ₹78,300.
+Find his monthly income.7083
+Ans
+ A. ₹1,78,300
+B. ₹1,45,000
+C. ₹1,00,000
+D. ₹1,50,000
+Q.31
+6515
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.32 A 140-metre-long train crosses a platform thrice its length in 56 seconds. What is the
+speed of the train in km/hr?
+Ans
+ A. 33
+B. 40
+C. 26
+D. 36
+Q.33 Dev and Tej started a business, investing amounts of ₹1,800 and ₹1,620, respectively. If
+Dev's share in the profit earned by them is ₹930, what is the total profit (in ₹) earned by
+them together?
+Ans
+ A. 1,869
+B. 1,767
+C. 1,788
+D. 1,753
+Q.34
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.35 If 20% of a number is added to 72, then the result is the same number. 65% of the same
+number is:
+Ans
+ A. 58.5
+B. 68.5
+C. 88.5
+D. 78.5
+Q.36
+Ans
+ A. 2(6x − 17)
+B. 2(3x + 17)
+C. 2(3x − 17)
+D. 2(6x + 17)
+Q.37
+3172
+Ans
+ A. 57 minutes
+B. 42 minutes
+C. 56 minutes
+D. 48 minutes
+Q.38 2 men can do a piece of work in 2 days. How many men will do it in 1 day?
+Ans
+ A. 2
+B. 5
+C. 4
+D. 3
+Q.39 The volume (in m3) of a cuboidal tank with dimensions 2 m × 11 m × 49 m is:
+Ans
+ A. 1078
+B. 1049
+C. 1061
+D. 1102
+Q.40 The total number of colour blocks is 4641. If the ratio of red blocks to blue blocks is 6 :
+10 and the ratio of blue blocks to yellow blocks is 2 : 7, then how many yellow blocks
+are there?
+Ans
+ A. 3155
+B. 3148
+C. 3185
+D. 3149
+Q.41 P is any point inside the rectangle ABCD. If PA = 46 cm, PB = 16 cm and PC = 88 cm,
+then the length of PD (in cm) is equal to:
+Ans
+ A. 100
+B. 94
+C. 96
+D. 98
+Q.42 If Anirudh is as much elder than Praveen as he is younger than Suman and the sum of
+the ages of Praveen and Suman is 36 years, then find the age of Anirudh.
+Ans
+ A. 18 years
+B. 24 years
+C. 9 years
+D. 12 years
+Q.43 The average age of 31 students of a class is 14 years. If the age of the teacher is also
+included, the average age of the whole group becomes 15 years. The age (in years) of
+the teacher is:
+Ans
+ A. 49
+B. 45
+C. 46
+D. 47
+Q.44 If the listed price of a bag is 93% more than its cost price and a discount of 59% is
+announced on it, then find the loss percentage.
+Ans
+ A. 20.87%
+B. 24.87%
+C. 23.12%
+D. 20.89%
+Q.45 A number is 18 more than its three-fourth. Find the number.
+Ans
+ A. 42
+B. 36
+C. 72
+D. 54
+Q.46 A, B and C can do a piece of work in 2, 20 and 5 days respectively. How long (in days)
+will they take to do thrice the same work, working together?
+Ans
+ A. 8
+B. 12
+C. 4
+D. 5
+Q.47 To buy a new apartment, Shweta borrowed ₹9,95,500 at 4% per annum simple interest
+for 39 months. How much interest will she pay?
+Ans
+ A. ₹1,29,665
+B. ₹1,15,995
+C. ₹1,29,415
+D. ₹1,39,545
+Q.48 The cost of a washing machine is 50% less than the cost of a TV. If the cost of the
+washing machine increases by 62% and that of the TV decreases by 51%, then what is
+the percentage change in the total cost of 6 washing machines and 2 TVs?
+Ans
+ A. Increase by 16.8%
+B. Decrease by 19%
+C. Increase by 17%
+D. Decrease by 21%
+Q.49 In a class test, the average score of 35 students was 44. Later, it was found that 25 was
+incorrectly recorded as 33 in two instances, and 36 was incorrectly recorded as 34 in
+one instance. What is the actual average score of the class?
+Ans
+ A. 43.6
+B. 44.6
+C. 41.6
+D. 42.6
+Q.50 When the volume of a sphere is divided by its surface area, the result is 7 cm. Find the
+surface area.
+Ans
+ A. 4896 cm2
+B. 5088 cm2
+C. 5274 cm2
+D. 5544 cm2
+Q.51 A, B, C, E, F, P, and Q are sitting around a circular table, facing the centre. Only four
+people sit between C and E, when counted from the right of C. C sits third to the left of
+P. B sits third to the left of F. Q is an immediate neighbour of both E and P. How many
+people sit between A and Q, when counted from the right of A?
+Ans
+ A. Four
+B. Two
+C. One
+D. Three
+Q.52 What should come in place of the question mark (?) in the given series?
+893 895 899 905 913 ?
+Ans
+ A. 922
+B. 924
+C. 923
+D. 921
+Q.53 Hitesh starts from Point A and drives 13 km towards the south. He then takes a right
+turn, drives 4 km, turns right and drives 14 km. He then takes a right turn and drives 9
+km. He takes a final right turn, drives 1 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only unless specified.)
+Ans
+ A. 6 km to the west
+B. 5 km to the east
+C. 5 km to the west
+D. 6 km to the east
+Section : General Intelligence and Reasoning
+Q.54 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(12, 240, 20)
+(10, 150, 15)
+Ans
+ A. (15, 225, 16)
+B. (9, 180, 20)
+C. (8, 100, 15)
+D. (8, 90, 15)
+Q.55 What should come in place of the question mark (?) in the given series?
+11 13 16 21 ? 39
+Ans
+ A. 28
+B. 29
+C. 22
+D. 25
+Q.56 Seven boxes, M, N, O, P, Q, R and S, are kept one over the other, but not necessarily in
+the same order. Only two boxes are kept below S. Only one box is kept above Q. Only
+one box is kept between Q and P. R is kept immediately above N. O is kept at some
+place below M. How many boxes are kept between M and R?
+Ans
+ A. Four
+B. Three
+C. One
+D. Two
+Q.57 Select the pair which follows the same pattern as that followed by the two set of pairs
+given below. Both pairs follow the same pattern.
+MOS−QSW
+RTX−VXB6446
+Ans
+ A. KMQ−NQT
+B. KMQ−OQU
+C. KLO−OQU
+D. KLO−NPT
+Q.58 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only) Counting to be done from left to right only.
+(Left) 4 3 5 2 9 7 2 8 7 2 1 8 7 4 5 5 2 3 5 5 6 9 6 3 3 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. Two
+B. Four
+C. One
+D. Three
+Q.59 A group of numbers/symbols is coded using letter codes as per the codes given below
+and the conditions that follow. The correct combination of codes following the
+conditions is your answer.
+Note: If none of the conditions apply, then the codes for the respective number/symbol
+are to be followed directly as given in the table.
+Conditions:
+(i) If the first element is a symbol and the last element a perfect square, the codes for
+these two (the first and last elements) are to be interchanged.
+(ii) If both the second and third elements are symbols, the third element is to be coded
+as the code for the second element.
+(iii) If the first element is a symbol and the fourth element is an odd number, the first
+and fourth elements are to be coded as ©.
+What will be the code for the following group?
+% 5 * & 9
+Ans
+ A. T Y F F B
+B. T Y G F B
+C. © Y G © B
+D. B Y G F T
+Q.60 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+TIU 20 VKW 21 XMY 22 ZOA 23 ?
+Ans
+ A. DQB 24
+B. BQC 24
+C. CQC 24
+D. BRC 24
+Q.61 Arman starts from point A and drives 44 km towards south. He then takes a left turn,
+drives 42 km, turns left and drives 51 km. He then takes a left turn and drives 56 km. He
+takes a final left turn, drives 7 km and stops at point P. How far (shortest distance) and
+towards which direction should he drive in order to reach point A again?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. 13 km to the east
+B. 11 km to the west
+C. 14 km to the east
+D. 12 km to the west
+Q.62 Naksh ranked 45th from the top and 27th from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 71
+B. 70
+C. 73
+D. 72
+Q.63 Refer to the following series and answer the question that follows (all numbers are
+single digit numbers only). Counting to be done from left to right only.
+(Left) 1 4 6 9 3 7 1 1 1 9 2 9 5 4 5 3 2 4 6 1 9 9 1 9 5 2 5 (Right)
+How many such odd numbers are there each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?15225
+Ans
+ A. 8
+B. 11
+C. 10
+D. 9
+Q.64 What should come in place of the question mark (?) in the given series?
+27 51 75 99 123 ?
+Ans
+ A. 148
+B. 145
+C. 147
+D. 146
+Q.65 Refer to the number series given below and answer the question that follows. Counting
+to be done from left to right only.
+(NOTE: All numbers are single-digit numbers only.)
+(Left) 5 2 4 8 8 7 2 3 3 3 6 7 5 6 6 8 9 4 1 5 1 7 7 3 3 7 5 (Right)
+How many such odd numbers are there each of which is immediately preceded by an
+even number and also immediately followed by an even number?
+Ans
+ A. 1
+B. 2
+C. 4
+D. 3
+Q.66 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. OS – WY
+B. TX – AC
+C. EI – LN
+D. AE – HJ
+Q.67 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group? (Note: The odd one out is not based on the number of
+consonants/vowels or their position in the letter-cluster.)
+Ans
+ A. HJ - DL
+B. NO - JK
+C. LM - HI
+D. QR - MN
+Q.68 If 1 is added to each odd digit and 2 is subtracted from each even digit in the number
+3674185, how many digits will appear more than once in the new number thus formed?
+Ans
+ A. Three
+B. Two
+C. One
+D. None
+Q.69 Five people, A, B, C, D and E, are sitting in a row, facing north. Only two people sit
+between A and B. B sits between D and E. E sits second to the left of A. Who sits at the
+extreme left end of the row?
+Ans
+ A. E
+B. C
+C. B
+D. D
+Q.70 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusion(s) logically follow(s) from the
+statements.
+Statements:
+All goats are lions.
+All lions are dogs
+Conclusion (I): All dogs are goats.
+Conclusion (II): Some lions are goats.
+Ans
+ A. Only conclusion (I) follows.
+B. Only conclusion (II) follows.
+C. Both conclusions (I) and (II) follow.
+D. Neither conclusion (I) nor (II) follows.
+Q.71 Each of the digits in the number 9612345 is arranged in ascending order from left to
+right. What will be the sum of the digits that are second from the left and second from
+the right in the new number thus formed?
+Ans
+ A. 6
+B. 8
+C. 7
+D. 9
+Q.72 In a code language,
+A + B means ‘A is the sister of B’
+A - B means ‘A is the father of B’
+A x B means ‘A is the mother of B’
+A ÷ B means ‘A is the brother of B’
+Based on the above, how is P related to E if ‘P - Q + C x D ÷ E’?
+Ans
+ A. Mother’s father
+B. Father’s father
+C. Mother’s brother
+D. Father’s brother
+Q.73 Which letter cluster will replace the question mark (?) to complete the given series?
+CCP FDN IEL ? OGH
+Ans
+ A. HJY
+B. UUY
+C. LFJ
+D. PLO
+Q.74 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+GHI−FGH
+KLM−JKL
+Ans
+ A. BBB−ZAB
+B. BBB−ABC
+C. BCD−ZBB
+D. BCD−ABC
+Q.75 In a certain code language, ‘MOVE’ is coded as ‘7481’ and ‘OVER’ is coded as ‘8314’.
+What is the code for ‘R’ in that language?
+Ans
+ A. 1
+B. 3
+C. 4
+D. 8
+Q.76 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements: Some hair are nails. All nails are teeth.
+Conclusions (I): Some hair are teeth.
+Conclusions (II): All teeth are nails.
+Ans
+ A. Neither conclusion (I) nor (II) follows.
+B. Only conclusion (II) follows.
+C. Both conclusions (I) and (II) follow.
+D. Only conclusion (I) follows.
+Q.77 Select the triad which follows the same pattern as that followed by the two triads given
+below. Both triads follow the same pattern.
+WP-SL-OR
+TM-PI-LO
+Ans
+ A. QJ-MF-IK
+B. QJ-MF-IL
+C. RJ-MF-IK
+D. RJ-ME-IK
+Q.78 If 1 is added to each odd digit and 2 is subtracted from each even digit in the number
+6437585, how many digits will appear more than once in the new number thus formed?
+Ans
+ A. Two
+B. Three
+C. One
+D. None
+Q.79 A, B, C, D, W, X and Y are sitting around a circular table facing the centre of the table.
+C sits fourth to the right of X. Only two people sit between Y and W when counted from
+the left of Y. D sits third to the left of B. A is an immediate neighbour of B and W. How
+many people between C and A when counted from the left of A?
+Ans
+ A. One
+B. Four
+C. Two
+D. Three
+Q.80 Refer to the following number, symbol series and answer the question that follows.
+Counting to be done from left to right only. All numbers are single-digit numbers only.
+(Left) © @ 7 € $ 5 $ & * & 7 5 2 $ 8 $ © 7 © 4 6 £ (Right)
+How many such symbols are there, each of which is immediately preceded by a number
+and also immediately followed by a symbol?
+Ans
+ A. Three
+B. Four
+C. Two
+D. Five
+Section : General Awareness and Current Affairs
+Q.81 How many new Khelo India Centres are planned by the Delhi Government in 2025?
+Ans
+ A. 4
+B. 2
+C. 6
+D. 10
+Q.82 As per Sustainable Development Goals – National Indicator Framework Progress
+Report, 2025, the percentage of population using an improved drinking water source in
+rural areas increased from 94.57% in 2015-16 to what percentage in 2024-25, indicating
+significant progress toward universal safe water access in rural India?
+Ans
+ A. 99.62%
+B. 96%
+C. 95.32%
+D. 98%
+Q.83 Which Indian broke the 200 m national record at Asian Athletics Championships 2025?
+Ans
+ A. Amlan Borgohain
+B. Gurindervir Singh
+C. Manikanta Hoblidhar
+D. Animesh Kujur
+Q.84 As per the Economic Survey, 2024–25, which mission is part of India’s Space Vision,
+2047, for human spaceflight?
+Ans
+ A. Mangalyaan
+B. Gaganyaan
+C. Vikram
+D. Samudrayaan
+Q.85 On which date was the International Day of Families 2025 observed globally, focusing
+on the role of digital technology in family life?
+Ans
+ A. May 10
+B. May 12
+C. May 18
+D. May 15
+Q.86 Which of the following trophies was renamed the Anderson‑ Tendulkar Trophy in June
+2025?
+Ans
+ A. IPL Trophy
+B. Test series trophy
+C. T20 Trophy
+D. ODI Trophy
+Q.87 On 29 June 2025, the Union Ministry of Environment, Forest and Climate Change issued
+Model Rules to streamline regulations for _______________.
+Ans
+ A. interest rates of loans for farmers
+B. usage of pesticides and insecticides
+C. tree felling in agricultural lands
+D. electricity supply for farmlands
+Q.88 In which of the following states of India was the foundation stone laid in August 2025
+for the Brahma–BEML Rail Manufacturing Hub, expected to reduce unemployment and
+empower local youth?
+Ans
+ A. Uttar Pradesh
+B. Bihar
+C. Gujarat
+D. Madhya Pradesh
+Q.89 Which Kannada short-story collection became the first-ever to win the International
+Booker Prize in 2025?
+Ans
+ A. The Many Lives of Syeda X
+B. Once Elephants Lived Here
+C. Theory & Practice
+D. Heart Lamp: Selected Stories
+Q.90 What percentage of India's areas are earthquake-prone as of March 2025?
+Ans
+ A. 73%
+B. 39%
+C. 59%
+D. 47%
+Q.91 Which spacecraft will be used for Axiom‑ 4?
+Ans
+ A. Orion
+B. Soyuz MS-24
+C. Crew Dragon C213
+D. Starliner
+Q.92 Which of the following Constitutional Amendment Bills was passed by the 17th Lok
+Sabha of India on 17 December 2024?
+Ans
+ A. 78th
+B. 129th
+C. 126th
+D. 88th
+Q.93 Which of the following countries hosted the 6th BIMSTEC Summit in April 2025?
+Ans
+ A. Nepal
+B. Thailand
+C. Bangladesh
+D. Sri Lanka
+Q.94 Which edition of SIMBEX (Singapore-India Maritime Bilateral Exercise) was held in
+Singapore in July 2025?
+Ans
+ A. 52nd
+B. 32nd
+C. 22nd
+D. 42nd
+"
+Q.95 When was the 48th edition of the Paris Marathon held?
+Ans
+ A. March 30
+B. May 1
+C. April 1
+D. April 13
+Q.96 Which two co-operative banks merged as per Reserve Bank of India's January 2025
+notification?
+Ans
+ A. National Co-operative Bank and Cosmos Co-operative Bank
+B. PMC Co-operative Bank and Cosmos Co-operative Bank
+C. Maratha Sahakari Bank and Janata Co-operative Bank
+D. Saraswat Co-operative Bank and Cosmos Co-operative Bank
+Q.97 Which NFL player won the BET Sportsman of the Year Award 2025?
+Ans
+ A. Josh Allen
+B. Patrick Mahomes
+C. Lamar Jackson
+D. Jalen Hurts
+Q.98 As of 30 April 2025, the ‘GenomeIndiaA’ project has completed whole genome
+sequencing (WGS) database of approximately how many individuals?
+Ans
+ A. 8000
+B. 6600
+C. 10,000
+D. 11,000
+Q.99 Which among the community-focused transparency initiatives did the Ghaziabad, Uttar
+Pradesh police introduce in September 2025?
+Ans
+ A. 'Vadi Samvad Diwas' allowing citizens to engage directly with investigators
+B. 'Police Outreach Day' to resolve neighborhood safety concerns
+C. 'Jan Sunwai Sabha' for direct citizen-police dialogue
+D. 'Public Accountability Meet' releasing monthly action reports
+Q.100What was the name of the initiative launched by the Indian Prime Minister on World
+Environment Day in 2025?
+Ans
+ A. Green Earth Project 3.0
+B. Save Water Mission
+C. Ek Ped Maa Ke Naam 2.0
+D. Clean India Campaign 7.0

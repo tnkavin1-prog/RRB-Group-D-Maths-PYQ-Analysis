@@ -1,0 +1,782 @@
+Q.1 If the thrust acting on a surface remains constant, how does the pressure change with
+the area of contact?
+Ans
+ A. Pressure increases when area decreases.
+B. Pressure does not depend on area.
+C. Pressure decreases when area decreases.
+D. Pressure increases when area increases.
+Q.2 An athlete runs on a circular track with a diameter of 300 m and completes one round in
+50 seconds. If the athlete runs for 2 minutes and 30 seconds, what is the total distance
+covered from the starting point?
+(Use 
+ = 3.14)
+Ans
+ A. Distance = 1500 m
+B. Distance = 2826 m
+C. Distance = 942 m
+D. Distance = 471 m
+Q.3 An electric bulb is connected to a 240 V generator and draws a current of 0.25 A. What
+is the power consumed by the bulb?
+Ans
+ A. 60 J
+B. 960 W
+C. 960 J
+D. 60 W
+Q.4 Select the option regarding the matter which has sufficient spaces between them or are
+not tightly packed.
+Salt, Iron, Sugar
+Ans
+ A. Only sugar
+B. Both sugar and salt
+C. Only iron
+D. Both iron and salt
+Test Date 17/12/2025
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.5 Which of the following statements about coal and petroleum conservation is correct?
+Ans
+ A. They are inexpensive to extract.
+B. Their formation takes millions of years.
+C. They do not cause pollution.
+D. They are renewable resources of energy.
+Q.6 What does Snell’s Law of refraction state about the relationship between the angle of
+incidence and the angle of refraction for the given pair of media?
+Ans
+ A. Their sum is always 90°.
+B. Both angles are always equal in all media.
+C. The ratio of the sine of the angle of incidence to the sine of the angle of refraction remains constant.
+D. Their difference is always constant.
+Q.7 Which of the following is NOT a base unit in the International System of Units (SI)?
+Ans
+ A. Kilogramme
+B. Joule
+C. Second
+D. Metre
+Q.8 Which of the following components is represented by a zig-zag line in a circuit
+diagram?
+Ans
+ A. Battery
+B. Switch
+C. Bulb
+D. Resistor
+Q.9 When a light ray passes through a rectangular glass slab, the emergent ray is
+____________.
+Ans
+ A. Perpendicular to the incident ray
+B. Bent toward the normal without displacement
+C. Along the same line as the incident ray
+D. Parallel to the incident ray but shifted sideward
+Q.10 A bus travels a 6 km distance in 20 minutes to go from point A to point B. The bus
+travels from point B to point A in 30 minutes. What is the average speed in m/s of the
+bus?
+Ans
+ A. 24
+B. 400
+C. 4
+D. 2400
+Q.11 Which of the following reactions is an example of a double displacement reaction?
+Ans
+ A. CaCO₃  → CaO + CO₂ 
+B. 2Mg + O₂  → 2MgO
+C. AgNO₃  + NaCl → AgCl + NaNO₃ 
+D. Zn + H₂ SO₄  → ZnSO₄  + H₂ 
+Q.12 What is an ion?
+Ans
+ A. A molecule
+B. A neutral atom
+C. A proton
+D. An atom or group of atoms with a positive or negative charge
+Q.13 Which of the following vitamins are maintained at high levels in poultry feed to support
+optimal growth and health?
+Ans
+ A. Vitamin C and K
+B. Vitamin B9 and B12
+C. Vitamin A, D and E
+D. Vitamin B1, B2, B3
+Q.14 Which of the following metals is characterised by low density and softness?
+Ans
+ A. Copper
+B. Potassium
+C. Aluminium
+D. Magnesium
+Q.15 What is the primary component of the plant cell wall?
+Ans
+ A. Cutin
+B. Suberin
+C. Cellulose
+D. Lignin
+Q.16 Which of the following is essential for animals to participate in the process of mating?
+Ans
+ A. Physical maturity
+B. They must be tall
+C. They must have attractive eyes
+D. Sexual immaturity
+Q.17 How does pollination contribute to seed formation in plants?
+Ans
+ A. By dispersing seeds to new locations
+B. By transferring pollen from the anther to the stigma, enabling fertilisation
+C. By forming a protective seed coat around the ovule
+D. By producing nectar to attract pollinators
+Q.18 How can the transmission of certain sexually transmitted infections (STIs) be reduced
+during sexual activity?
+Ans
+ A. By avoiding physical contact with all individuals
+B. By taking antibiotics before every sexual act
+C. By using protection such as condoms during intercourse
+D. By only engaging in sexual activity during daytime
+Q.19 Which of the following metals reacts most vigorously with cold water?
+Ans
+ A. Iron
+B. Sodium
+C. Copper
+D. Cobalt
+Q.20 When fats and oils are oxidised, they develop a smell and taste that is:
+Ans
+ A. spicy
+B. rancid
+C. pleasant
+D. fruity
+Q.21 If the velocity of a body is doubled, its kinetic energy becomes:
+Ans
+ A. double
+B. four times
+C. eight times
+D. half
+Q.22 Which of the following is INCORRECT about striated muscle?
+Ans
+ A. Each striated muscle fibre contains a single nucleus
+B. These are present in limbs
+C. Also called voluntary muscles
+D. Mostly attached to bones and help in body movement
+Q.23 Which of the following is true about the cells of meristematic tissue?
+Ans
+ A. They are inactive with large vacuoles and thick walls.
+B. They are dead cells with no nucleus or cytoplasm.
+C. They are active cells with dense cytoplasm, thin walls, prominent nuclei and no vacuoles.
+D. They are loosely packed, mature cells with large intercellular spaces.
+Q.24 What is reverberation?
+Ans
+ A. Loss of sound energy in air
+B. Spreading of sound in all directions
+C. Persistence of sound due to multiple reflections of sound waves
+D. Change in pitch of sound
+Q.25 Select the correct option regarding the following two statements labelled Assertion (A)
+and Reason (R).
+Assertion (A): Iron gets coated with a reddish-brown substance when exposed to moist
+air.
+Reason (R): Rust forms due to the reaction of iron with moisture and oxygen.
+Ans
+ A. A is false, but R is true.
+B. A is true, but R is false.
+C. Both A and R are true, and R is not the correct explanation of A.
+D. Both A and R are true, and R is the correct explanation of A.
+Q.26 The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder
+is 5.6 m away from the wall. Find the length of the ladder.
+Ans
+ A. 11.2 m
+B. 12.2 m
+C. 14.2 m
+D. 10.2 m
+Section : Mathematics
+Q.27 A seller sells two fruits, apples and bananas. An apple costs ₹20 and a banana costs
+₹10. Ravi buys 6 fruits and pays ₹80. How many more bananas did he buy than apples?
+Ans
+ A. 2
+B. 1
+C. 3
+D. 4
+Q.28 In an election with two candidates, 8% of the registered voters did not vote, and 120
+voters submitted blank ballots. Among the votes cast, the winning candidate received
+support from 48% of all registered voters and secured 780 more votes than the other
+candidate. Determine the total number of voters on the list.
+Ans
+ A. 14,840
+B. 17,800
+C. 16,500
+D. 15,690
+Q.29
+Ans
+ A. 52990
+B. 56260
+C. 52290
+D. 52275
+Q.30 If P is a prime number, what is the HCF of P and P + 1?
+Ans
+ A. P2 + P
+B. P
+C. 1
+D. P2 + 1
+Q.31
+Ans
+ A. 10
+B. 11
+C. 5
+D. 7
+Q.32 A dealer purchased a ceiling fan for ₹391. After allowing a discount of 31% on its
+marked price, he still gains 68%. Find the marked price of the ceiling fan.
+Ans
+ A. ₹902
+B. ₹994
+C. ₹927
+D. ₹952
+Q.33 ₹10,279 is divided among A, B, and C in such a way that if ₹67, ₹33, and ₹13 are
+deducted from their respective shares, they have money in the ratio 4 : 2 : 20. Find the
+difference between B’s and C’s original shares.
+Ans
+ A. ₹6988
+B. ₹7138
+C. ₹7188
+D. ₹7018
+Q.34 How many seconds will a boy take to run one complete round around a square field of
+side 25 metres, if he runs at a speed of 4 km/hr?
+Ans
+ A. 90
+B. 70
+C. 100
+D. 80
+Q.35
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.36 The sides of a triangle are 87 cm, 108 cm, and 75 cm. What is the length (in cm) of its
+altitude corresponding to the side with a length of 108 cm?
+Ans
+ A. 41
+B. 60
+C. 24
+D. 17
+Q.37 The amount on a sum of ₹2,500 at the rate of 14% per annum compound interest,
+compounded annually, in 2 years will be:
+Ans
+ A. ₹2,497
+B. ₹3,249
+C. ₹3,184
+D. ₹2,877
+Q.38 The sides of a triangle are 34 cm, 18 cm and 20 cm. What is the length of its altitude
+corresponding to the side with the length of 18 cm?
+Ans
+ A. 42 cm
+B. 22 cm
+C. 16 cm
+D. 63 cm
+Q.39 Given x + y = 4, and xy = 2, what is x2 + y2?
+Ans
+ A. 10
+B. 14
+C. 12
+D. 16
+Q.40 Two pipes, P and Q, can fill a cistern in 37 minutes 30 seconds and 45 minutes,
+respectively. Both pipes are opened simultaneously. The cistern gets completely filled
+in exactly 30 minutes if pipe Q is turned off after x minutes. Find x.7002
+Ans
+ A. 9
+B. 8
+C. 7
+D. 12
+Q.41 Find the square of the product of the median and mean, given that the mode is 3 and is
+ times the mean.
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.42 The average age of 30 students of a class is 19 years. If the age of the teacher is also
+included, the average age of the whole group becomes 20 years. The age (in years) of
+the teacher is:
+Ans
+ A. 50
+B. 58
+C. 52
+D. 54
+Q.43 A fruit vendor buys 10 kg of apples at ₹85/kg and sells them at ₹100/kg. What is his total
+profit?
+Ans
+ A. ₹140
+B. ₹150
+C. ₹180
+D. ₹120
+Q.44 A and B working together can do a piece of work in 3 days. B alone can do the same
+work in 12 days. How long (in days) will A alone take to do double the work?
+Ans
+ A. 9
+B. 8
+C. 4
+D. 11
+Q.45 Juli is 24 years older than her daughter. In 6 years, Juli’s age will be double that of her
+daughter. What is the present age (in years) of Juli?
+Ans
+ A. 42
+B. 30
+C. 24
+D. 48
+Q.46 The Rajdhani Express and Garib Rath Express run in the same direction with speeds of
+87 km/hr and 51 km/hr, respectively, and their lengths are the same. What is the length
+of the Rajdhani Express if it completely crosses the Garib Rath Express in 175
+seconds?
+Ans
+ A. 883 m
+B. 867 m
+C. 880 m
+D. 875 m
+Q.47 An athletic track forms a shape consisting of a rectangle with semicircles on two
+opposite ends. If the straight portions are each 100 metres long and the total perimeter
+of the track is 400 metres, what is the radius of each semicircular end (rounded off to
+two decimal places)?
+Ans
+ A. 30.23 metres
+B. 31.82 metres
+C. 33.73 metres
+D. 32.43 metres
+Q.48 DMART is offering Buy 30, get 11 free on grocery items. What is the net percentage
+discount being offered by DMART? (Correct up to two decimal places)
+Ans
+ A. 24.84%
+B. 23.99%
+C. 26.83%
+D. 28.04%
+Q.49 If the mean proportional of X and 147 is 84, then find the value of X.
+Ans
+ A. 45
+B. 48
+C. 49
+D. 50
+Q.50 The price of a commodity decreases by 5% in the first week and then increases by 8%
+in the second week. What is the effective percentage increase in the price after the
+second week?
+Ans
+ A. 2.6%
+B. 0.8%
+C. 1.5%
+D. 3%
+Q.51 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(44, 52, 18)
+(50, 56, 22)
+Ans
+ A. (19, 14, 13)
+B. (42, 78, 4)
+C. (30, 22, 19)
+D. (41, 82, 1)
+Q.52 In a certain code language, 'door win king' is coded as 'ab ap ly' and 'win key mom' is
+coded as 'dw tc ap'. How is 'win' coded in that language?
+Ans
+ A. ab
+B. ly
+C. ap
+D. dw
+Section : General Intelligence and Reasoning
+Q.53 LR 9 is related to PT 3 in a certain way. In the same way, TS 13 is related to XU 7. To
+which of the given options is GE 19 related, following the same logic?
+Ans
+ A. KG 13
+B. JK 11
+C. BG 14
+D. NJ 12
+Q.54 Preethi ranked 6th from the top and 12th from the bottom in her class. How many
+students are there in the class?
+Ans
+ A. 16
+B. 17
+C. 19
+D. 20
+Q.55 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 8 8 2 9 1 9 7 2 9 5 9 3 6 4 9 7 2 2 2 7 4 5 8 1 7 9 9 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. Five
+B. Six
+C. Eight
+D. Seven
+Q.56 If 1 is added to each odd digit and 2 is subtracted from each even digit in the number
+1245367, how many digits will appear more than once in the new number thus formed?
+Ans
+ A. One
+B. Two
+C. Three
+D. None
+Q.57 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. EID
+B. KOJ
+C. HLG
+D. TXT
+Q.58 Refer to the following number, symbol series and answer the question that follows.
+Counting to be done from left to right only. (All numbers are single-digit numbers.)
+(Left) 3 @ © 6 5 € € 3 3 8 € % 2 7 6 # 7 * £ € 9 $ (Right)
+How many such symbols are there each of which is immediately preceded by a number
+and also immediately followed by a number?
+Ans
+ A. Three
+B. One
+C. Two
+D. Zero
+Q.59 Select the pair that follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+NOK−JKG
+EFB−ABX
+Ans
+ A. TTO−PQM
+B. TTO−OPL
+C. TUQ−OQL
+D. TUQ−PQM
+Q.60 NK 16 is related to QN 12 in a certain way. In the same way, PS 20 is related to SV 16. To
+which of the given options is BX 30 related, following the same logic?
+Ans
+ A. EA 34
+B. EB 26
+C. EA 26
+D. FB 26
+Q.61 In a certain code language, ‘LAVS’ is coded as ‘3812’ and ‘VALE’ is coded as ‘1342’.
+What is the code for ‘E’ in the given code language?
+Ans
+ A. 4
+B. 3
+C. 1
+D. 2
+Q.62 Refer to the number and symbol series given below and answer the question that
+follows. Counting to be done from left to right only.
+(NOTE: All numbers are single-digit numbers only.)
+(Left) % * 7 % € % 2 # € $ € © 9 5 6 # 9 & 6 % 7 & (Right)
+How many such numbers are there each of which is immediately preceded by a number
+and also immediately followed by a symbol?
+Ans
+ A. 1
+B. 3
+C. 0
+D. 2
+Q.63 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group? (Note: The odd one out is not based on the number of consonants/vowels
+or their position in the letter-cluster.)
+Ans
+ A. TVW
+B. OQR
+C. EGH
+D. BEE
+Q.64 Mr. Z starts from Point A and drives 13 km towards the South. He then takes a left turn,
+drives 15 km, then turns left and drives 27 km. He then takes a left turn and drives 31
+km. He takes a final left turn, drives 14 km, and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only, unless specified.)
+Ans
+ A. 16 km to the east
+B. 17 km to the east
+C. 18 km to the south
+D. 19 km to the west
+Q.65 Each of the digits in the number 6325894 is arranged in descending order from right to
+left. Calculate the sum of digits whose position(s) remain(s) unchanged as compared to
+that in the original number and the lowest digit.
+Ans
+ A. 17
+B. 10
+C. 12
+D. 8
+Q.66 If ‘A’ stands for ‘x’ , ‘B’ stands for ‘÷’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘-’ , what will
+come in place of the question mark ‘?’ in the following equation?
+16 B 4 D 8 A 3 C 28 = ?
+Ans
+ A. 11
+B. 10
+C. 8
+D. 6
+Q.67 A, B, C, D, E and F are sitting around a circular table, facing the centre. E sits third to
+the right of F. B sits second to the left of E. C sits second to the right of A. D sits to the
+immediate right of C. How many people sit between E and D, when counted from the
+left of D?
+Ans
+ A. One
+B. None
+C. Four
+D. Two
+Q.68 Akshay starts from Point M and drives 8 km towards the east. He then takes a right
+turn, drives 5 km, turns left and drives 3 km. He then takes a right turn and drives 7 km.
+He then takes a right turn and drives 11 km. He takes a final right turn, drives 5 km and
+stops at Point P. How far(shortest distance) and in which direction is Point P with
+respect to Point M?
+(All turns are 90° turns only unless specified.)
+Ans
+ A. 9 km towards north
+B. 3 km towards north
+C. 7 km towards south
+D. 6 km towards south
+Q.69 A, B, C, E, F, P, and Q are sitting around a circular table, facing the centre. A sits fourth
+to the left of C. P sits fourth to the right of B. Only two people sit between C and B,
+when counted from the left of C. E is not an immediate neighbour of P or B. F is not an
+immediate neighbour of P. Who sits third to the right of Q?
+Ans
+ A. F
+B. B
+C. P
+D. C
+Q.70 What should come in place of the question mark (?) in the given series, based on the
+English alphabetical order?
+SWZ QUX OSV MQT ?
+Ans
+ A. KOS
+B. KOR
+C. KPR
+D. KPS
+Q.71 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+FIM19 GJN26 HKO33 ILP40 ?
+Ans
+ A. JMQ47
+B. JMR48
+C. JMR47
+D. JMQ48
+Q.72 What should come in place of the question mark (?) in the given series?
+517 520 525 532 541 ?
+Ans
+ A. 552
+B. 553
+C. 554
+D. 551
+Q.73 Refer to the given series and answer the question that follows (all numbers are single
+digit numbers only). Counting to be done from left to right only.
+(Left) 5 2 3 6 9 5 1 4 7 8 5 2 3 (Right)
+How many such odd digits are there, each of which is immediately preceded by an even
+digit and also immediately followed by an odd digit?
+Ans
+ A. Three
+B. One
+C. Four
+D. Two
+Q.74 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusion(s) logically follow(s) from the
+statement(s).
+Statements:
+No Judges are Accountants.
+Some Accountants are Nurses.
+All Nurses are Librarians.
+Conclusions:
+(I) No Judges are Nurses.
+(II) Some Accountants are Librarians.
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Neither conclusion (I) nor (II) follows
+C. Only conclusion (I) follows
+D. Only conclusion (II) follows
+Q.75 Seven boxes B, D, E, P, S, T and W are kept one over the other but not necessarily in
+the same order.
+W is kept second from the bottom. Only three boxes are kept between W and B. P is
+kept at one of the positions below W. Only D is kept between B and S. E is kept at one
+of the positions above B.
+How many boxes are kept between P and E?10013
+Ans
+ A. Five
+B. Three
+C. Four
+D. One
+Q.76 In a certain code language,
+P + Q means ‘P is the mother of Q’,
+P # Q means ‘P is the wife of Q’,
+P & Q means ‘P is the brother of Q’,
+P % Q means ‘P is the father of Q’.
+How is I related to M if ‘I # J % B & L + M’?
+Ans
+ A. Father's mother
+B. Mother's sister
+C. Mother's mother
+D. Father's sister
+Q.77 What should come in place of the question mark (?) in the given series?
+24 41 58 75 92 ?
+Ans
+ A. 105
+B. 109
+C. 117
+D. 113
+Q.78 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some machines are anchors.
+Some anchors are wheels.
+Conclusions:
+(I): Some machines are wheels.
+(II): All wheels are anchors.
+Ans
+ A. Only conclusion (I) follows
+B. Only conclusion (II) follows
+C. Neither conclusion (I) nor (II) follows
+D. Both conclusions (I) and (II) follow
+Q.79 O, P, Q, R, W, X and Y are sitting in a straight line facing north. Only two people sit to
+the right of X. Only two people sit between X and Q. Only two people sit between O and
+P. P sits to the immediate left of X. R sits to the immediate right of Y. Who sits at the
+third position from the left end of the line?
+Ans
+ A. O
+B. W
+C. P
+D. Y
+Q.80 What should come in place of the question mark (?) in the given series?
+256 258 262 268 ? 2864227
+Ans
+ A. 280
+B. 274
+C. 278
+D. 276
+Section : General Awareness and Current Affairs
+Q.81 In March 2025, which three Central Asian countries signed the Khujand Treaty to settle
+border disputes?
+Ans
+ A. Kazakhstan, Uzbekistan, Kyrgyzstan
+B. Kazakhstan, Tajikistan, Turkmenistan
+C. Tajikistan, Kyrgyzstan, Uzbekistan
+D. Turkmenistan, Uzbekistan, Tajikistan
+Q.82 Which district in Arunachal Pradesh saw the inauguration of a Khelo India multipurpose
+hall in 2025?
+Ans
+ A. Kamle
+B. Tawang
+C. Itanagar
+D. Lohit
+Q.83 SBM Bank India entered into a bancassurance partnership with which among the
+following companies in May 2025?
+Ans
+ A. Life Insurance Corporation of India
+B. Kotak Life Insurance Co. Ltd.
+C. ICICI Prudential Life Insurance
+D. Axis Max Life Insurance Co. Ltd.
+Q.84 The Constitutional Amendment Bill introduced in August 2025 prevents individuals in
+jail from holding which of the following positions?
+Ans
+ A. Directors of private corporations
+B. Heads of universities and colleges
+C. Constitutional roles like Prime Minister and Chief Ministers
+D. Senior bank executive roles
+Q.85 As per the survey conducted by the Yale Program on Climate Change Communication
+and CVoter from December 5, 2024, to February 18, 2025, what percentage of Indians
+reported experiencing severe air pollution in the past 12 months?
+Ans
+ A. 80%
+B. 52%
+C. 73%
+D. 62%
+Q.86 In November 2025, Narendra Modi presented a revolutionary indigenous innovation of
+India, as the country’s indigenous quantum security chip called:
+Ans
+ A. Quantum Cyber Defence Chip (QCDC)
+B. Indian Quantum Encryption Module (IQEM)
+C. Quantum Security Integrated Processor (QSIP)
+D. Next-Gen Quantum Shield Chip (NQSC)
+Q.87 Who took charge as the Chief Election Commissioner of India on 19 February 2025,
+under the new provisions of the 2023 appointment act?
+Ans
+ A. Rajiv Kumar
+B. Anup Chandra Pandey
+C. Sukhbir Singh Sandhu
+D. Gyanesh Kumar
+Q.88 The 115th executive council meeting of the All-India Mayor Council was held on 15-16
+June 2025 in which city?
+Ans
+ A. Panchkula
+B. New Delhi
+C. Agra
+D. Mumbai
+Q.89 Where was the Khelo India Winter Games 2025 second phase held?
+Ans
+ A. Auli
+B. Leh
+C. Manali
+D. Gulmarg
+Q.90 Which of the following financial bodies imposed a penalty of ₹54.78 crore on 353
+regulated entities in FY25?
+Ans
+ A. Reserve Bank of India (RBI)
+B. Securities and Exchange Board of India (SEBI)
+C. NSDL Payments Bank
+D. National Payments Corporation of India (NPCI)
+Q.91 What was the name of the bilateral Indo-French military drill held from 18 June to 1 July
+2025 at Camp Larzac?
+Ans
+ A. Prithvi 2025
+B. Trishul 2025
+C. Vikas 2025
+D. Shakti 2025
+Q.92 Which of the following ministries launched the Aadhaar Good Governance Portal to
+streamline approval process for Aadhaar authentication requests and to make Aadhaar
+more people-friendly, enable ease of living, and enable better access to services for
+people?
+Ans
+ A. Ministry of Personnel, Public Grievances and Pensions
+B. Ministry of Electronics and Information Technology
+C. Ministry of Statistics and Programme Implementation
+D. Ministry of Social Justice and Empowerment
+Q.93 Who among the following won the 2025 Abel Prize for contributions to algebraic
+analysis and representation theory?
+Ans
+ A. Terence Tao
+B. Joel Mokyr
+C. Philippe Aghion
+D. Masaki Kashiwara
+Q.94 During which of the following editions of the National Finite Element Developers’
+meeting did Indian Space Research Organisation (ISRO) unveil the latest version of
+Finite Element Analysis of Structures (FEAST) software in February 2025?
+Ans
+ A. 10th
+B. 4th
+C. 8th
+D. 6th
+"
+Q.95 Where were the 2025 Asian Athletics Championships held?
+Ans
+ A. India
+B. South Korea
+C. Bangladesh
+D. China
+Q.96 According to GS Krishnan, which of the following sectors are highlighted in the India
+BioEconomy Report, 2025?
+Ans
+ A. BioPharma, BioIndustrial, BioAgri, and BioServices
+B. BioPharma, BioAgri, BioServices, and Robotics Biotech
+C. BioAgri, BioPharma, Renewable Energy, and BioMedical
+D. BioEnergy, BioIndustrial, BioPharma, and BioServices
+Q.97 Which athlete set a new American outdoor record in the men's 5000 m with a time of 12
+: 45.27?
+Ans
+ A. Nico Young
+B. Cole Hocker
+C. Grant Fisher
+D. Yared Nuguse
+Q.98 In September 2025, Indian cricket team refused to accept the Asia Cup trophy from
+Asian Cricket Council president and Interior Minister of ______.
+Ans
+ A. Sri Lanka
+B. Pakistan
+C. Bangladesh
+D. Afghanistan
+Q.99 The 24th edition of the World Sustainable Development Summit 2025, organised by
+TERI, commenced in __________.
+Ans
+ A. New Delhi
+B. Bengaluru
+C. Hyderabad
+D. Mumbai
+Q.100According to a July 2025 report by the Centre for Science and Environment, all mega
+cities in India—including Kolkata, Bengaluru, Mumbai, Hyderabad and Chennai—saw
+high concentrations of which pollutant(s) during the summer of 2025?
+Ans
+ A. Nitrogen oxides
+B. Ground-level ozone
+C. Volatile organic compounds
+D. Black carbon

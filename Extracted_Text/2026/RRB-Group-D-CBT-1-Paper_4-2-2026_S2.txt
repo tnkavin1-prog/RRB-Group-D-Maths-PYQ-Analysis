@@ -1,0 +1,770 @@
+Q.1 In a 250 mL solution, 5 g of solute is dissolved. What is the concentration (mass by
+volume %) of the solution?
+Ans
+ A. 0.2%
+B. 2%
+C. 20%
+D. 5%
+Q.2 The Tyndall effect is observed when:
+Ans
+ A. light is scattered by very fine particles suspended in a medium
+B. light passes through a vacuum
+C. light is absorbed by particles in a solution
+D. light reflects from a mirror surface
+Q.3 What was the primary goal of the Chipko Movement of the Garhwal region?
+Ans
+ A. Grazing of forest
+B. Protection of the forest
+C. Aforestation
+D. Cutting of forest
+Q.4 In which of the following reactions does colour change, gas evolution, and solid
+residue formation, all occur simultaneously during decomposition?
+Ans
+ A. 2AgCl → 2Ag + Cl₂ 
+B. Pb(NO₃ )₂  → PbO + NO₂  + O₂ 
+C. CaCO₃  → CaO + CO₂ 
+D. 2KClO₃  → 2KCl + 3O₂ 
+Q.5 What is the correct definition of one unit of force (1 newton)?
+Ans
+ A. The force that causes a 1 g object to accelerate at 1 metre
+B. The force that causes a 1 kg object to accelerate at 1 m/s²
+C. The force needed to move a 1 kg object to a distance of 1 metre
+D. The force required to keep an object at rest
+Test Date 04/02/2026
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following statements is true about work done by a constant force?
+Ans
+ A. It is independent of displacement
+B. It depends on the path of motion
+C. It depends only on the initial and final positions
+D. It is always positive
+Q.7 Which of the following animals produces infrasound?
+Ans
+ A. Horses and cows
+B. Birds and snakes
+C. Dogs and cats
+D. Whales and elephants
+Q.8 The process of transfer of pollen grains from one flower to the stigma of another flower
+is called ______.
+Ans
+ A. germination
+B. pollination
+C. gestation
+D. guttation
+Q.9 Which of the following statements is correct about Ohm’s law?
+Ans
+ A. Current is directly proportional to voltage at constant temperature.
+B. Resistance remains constant only for non-ohmic conductors.
+C. Ohm’s law is applicable to all materials at all temperatures.
+D. Current is inversely proportional to voltage at constant temperature.
+Q.10 Which of the following statements is/are correct?
+a. Zinc granules when placed in dilute sulphuric acid, hydrogen gas is evolved.
+b. Zinc granules when placed in sodium hydroxide solution forms zinc hydroxide.
+c. Zinc granules when placed in sodium hydroxide forms sodium zincate.
+Ans
+ A. Only a
+B. a and c
+C. Only b
+D. a and b
+Q.11 A mixture differs from a compound in that:
+Ans
+ A. its components retain their properties
+B. it shows combined properties only
+C. it has fixed proportions of elements
+D. its components cannot be separated
+Q.12 If two daughter cells produced by cell division show minor differences in their
+structure, which process during DNA copying most likely caused these variations?
+Ans
+ A. The separation of DNA copies into new cells is incomplete
+B. Errors in protein synthesis after DNA copying
+C. The absence of DNA blueprints in the nucleus
+D. Minor variations occur during DNA copying due to the inherent unreliability of biochemical reactions
+Q.13 In wastewater treatment plant, the biogas is obtained from which of the following
+substance?
+Ans
+ A. Dried leaves
+B. Sludge
+C. Coconut husk
+D. Banana peels
+Q.14 In a laboratory, a student mixes starch in water and observes that the mixture is neither
+a true solution nor a suspension. What property of this mixture confirms it is a colloidal
+solution?
+Ans
+ A. The particles are visible to the naked eye.
+B. The mixture is completely transparent and does not scatter light.
+C. The particles scatter a beam of light but do not settle on standing.
+D. The particles settle down after some time.
+Q.15 Which proteins are essential for muscle contraction and relaxation?
+Ans
+ A. Myoglobin and haemoglobin
+B. Keratin and collagen
+C. Contractile proteins
+D. Elastin and fibrin
+Q.16 Which of the following features enables simple squamous epithelium to efficiently carry
+out diffusion?
+Ans
+ A. Presence of multiple layers of cells
+B. Flat, thin, and closely packed cells
+C. Cells with cilia for movement
+D. Thick cytoplasm with large nuclei
+Q.17 The principal focus of a spherical mirror is defined as:
+Ans
+ A. The point on the principal axis where parallel rays converge (or appear to diverge) after reflection
+B. The distance between object and image
+C. The center of the mirror’s reflecting surface
+D. The midpoint of the radius of curvature
+Q.18 In a hypotonic solution, which of the following statements is correct for animal tissues
+compared with plant tissues?
+Ans
+ A. Animal cells resist swelling due to a rigid wall .
+B. Animal cells have thicker cellulose walls than plants .
+C. Animal cells shrink more than plant cells in dilute media .
+D. Animal cells are more likely to lyse without an external wall .
+Q.19 What do the ovary and ovule form after fertilisation in plants?
+Ans
+ A. Ovary forms the fruit and ovule forms the cotyledons.
+B. Ovary forms the seed and ovule forms the embryo.
+C. Ovary forms the fruit and ovule forms the seed.
+D. Ovary forms the plumule and ovule forms the radicle.
+Q.20 Why is graphite a good conductor of electricity?
+Ans
+ A. It absorbs water easily.
+B. It forms strong ionic bonds.
+C. It has free-moving electrons.
+D. It melts at low temperatures.
+Q.21 An electric geyser has a power of 2200 W when it is operated at 220 V. How much will
+be the current flowing through the heater?
+Ans
+ A. 1100 A
+B. 10 A
+C. 1 A
+D. 100 A
+Q.22 When an iron nail is dipped in copper sulphate solution, which of the following
+observations confirms that a displacement reaction has occurred?
+Ans
+ A. The solution turns colourless, and hydrogen gas is released.
+B. The blue colour of the copper sulphate solution fades, and a reddish-brown deposit appears on the iron nail.
+C. The solution remains blue, and the iron nail remains shiny.
+D. A white precipitate is formed.
+Q.23 Starting from rest, a car attains a velocity of 10 m/s in 20 s. Braking reduces the
+velocity to 5 m/s in the next 5 s. What is the respective acceleration in the two
+scenarios?
+Ans
+ A. 0.5 m/s2 ; -1 m/s2
+B. 0.5 m/s2 ; 1 m/s2
+C. 1 m/s2 ; 0.5 m/s2
+D. -1 m/s2 ; 0.5 m/s2
+Q.24 If the value of the Universal Gravitational Constant (G), the mass of the Earth (M), and
+the radius of the Earth (R) are known, which equation is used to calculate the
+acceleration due to gravity (g) near the Earth's surface?
+Ans
+ A. g=GR/M2
+B. g=GM/R2
+C. g=GM/R
+D. R2/(GM)
+Q.25 An atom contains 17 electrons and 18 neutrons. Find the number of protons.
+Ans
+ A. 17
+B. 18
+C. 35.5
+D. 36
+Q.26 For 7 innings, a cricketer had an average of 59 runs. In the 8th inning, he scored 217
+runs. His average score increased by ______. (Round off the answer to the nearest
+whole number.)
+Ans
+ A. 20
+B. 11
+C. 29
+D. 19
+Section : Mathematics
+Q.27 If regular polygons of sides 6 and 5 are inscribed in a circle of radius R, then what is
+the ratio of their areas?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.28 The square of the expression 
+  is _____.
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.29
+Ans
+ A. 5.4
+B. 3.9
+C. 1.8
+D. 2.8
+Q.30 In a basketball game, a player scored 36 points using only 2-point shots and 3-point
+shots. She made 14 successful shots in total. How many 2-point and how many 3-point
+shots did she make?
+Ans
+ A. Number of 2-point shots = 7; Number of 3-point shots = 7
+B. Number of 2-point shots = 6; Number of 3-point shots = 8
+C. Number of 2-point shots = 8; Number of 3-point shots = 6
+D. Number of 2-point shots = 10; Number of 3-point shots = 4
+Q.31
+11134
+Ans
+ A. 30 minutes
+B. 34 minutes
+C. 23 minutes
+D. 28 minutes
+Q.32
+Ans
+ A. 3710
+B. 6740
+C. 2800
+D. 5180
+Q.33 Find the effective price percentage of the marked price after three consecutive
+discounts of 10%, 27% and 8% (rounded off to two decimal places).
+Ans
+ A. 62.64%
+B. 60.44%
+C. 59.64%
+D. 58.28%
+Q.34 If the fourth proportion to 5, X and 3 is 63, then find the value of X.4886
+Ans
+ A. 106
+B. 107
+C. 108
+D. 105
+Q.35 A person’s monthly income is ₹60,000. He spends 25% of his income on rent, 15% on
+groceries, 10% on transportation and saves the rest. How much money does he save
+every month?
+Ans
+ A. ₹45,000
+B. ₹40,000
+C. ₹30,000
+D. ₹25,000
+Q.36 Water flows through a cylindrical pipe of internal diameter 14 cm at 5 metre per second.
+Calculate the time (in minutes) the pipe would take to fill an empty rectangular tank 8 m
+× 6 m × 4.62 m.
+Ans
+ A. 48
+B. 50
+C. 46
+D. 44
+Q.37 The amount on a sum of ₹5,000 at 18% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹7,068
+B. ₹6,962
+C. ₹7,015
+D. ₹6,984
+Q.38 Simplify: (x + 5)(x − 5)
+Ans
+ A. x² + 25
+B. x² − 10x + 25
+C. x² + 10x + 25
+D. x² − 25
+Q.39 Two trains of lengths 316 m and 349 m are running at speeds of 58 km/h and 68 km/h,
+respectively, on parallel tracks in opposite directions. In how many seconds will they
+cross each other?
+Ans
+ A. 27 seconds
+B. 30 seconds
+C. 22 seconds
+D. 19 seconds
+Q.40 A is three times as old as B. If six years are subtracted from B's age and four years are
+added to A's age, then A's age will be five times B's age. How old was A two years ago?
+Ans
+ A. 40 years
+B. 36 years
+C. 54 years
+D. 49 years
+Q.41 One pipe can fill a tank in 6 minutes, while another pipe can empty the completely filled
+tank in 7 minutes. If both the pipes are opened together when the tank is empty, how
+many minutes will it take to fill one-half of the tank?
+Ans
+ A. 21
+B. 42
+C. 22
+D. 43
+Q.42 The mode of given list of numbers 115, 190, 110, 185, 85, 110, 115, 102, 90, 95, 85, 68, 85
+is:6536
+Ans
+ A. 85
+B. 110
+C. 68
+D. 92
+Q.43 The volume of the cube is 1728 cm3. Find its total surface area.
+Ans
+ A. 664 cm2
+B. 464 cm2
+C. 144 cm2
+D. 864 cm2
+Q.44
+Ans
+A. 
+B. 
+C. 
+D. 
+Q.45 A and B can complete a piece of work in 8 days and 12 days, respectively. A starts
+working on the task and after 3 days, B joins him. How many more days will it take to
+finish the work after B joins?
+Ans
+ A. 5 days
+B. 2 days
+C. 3 days
+D. 4 days
+Q.46 Bibha bought a number of bananas at 2 for a rupee and an equal number at 3 for a
+rupee. To make a profit of 40%, she should sell a dozen for ₹ .
+Ans
+ A. 7
+B. 8
+C. 6
+D. 5
+Q.47 The sum of the first 13 prime numbers is:
+Ans
+ A. 238
+B. 243
+C. 235
+D. 241
+Q.48 The cost of a washing machine is 25% less than the cost of a TV. If the cost of the
+washing machine increases by 75% and that of the TV decreases by 49%, then what is
+the percentage change in the total cost of 6 washing machines and 3 TVs?
+Ans
+ A. Decrease by 26.4%
+B. Increase by 24.5%
+C. Decrease by 19.5%
+D. Increase by 25.4%
+Q.49 ₹5,403 is divided among A, B, and C in such a way that if ₹79, ₹25, and ₹19 be deducted
+from their respective shares, they have money in the ratio 14:5:11. Find the difference
+between the B’s and C’s original shares.
+Ans
+ A. ₹1,206
+B. ₹1,156
+C. ₹1,050
+D. ₹956
+Q.50 A dealer marks his goods at 25% above the cost price and allows a discount of 68% on
+the marked price. What is his gain or loss percentage?
+Ans
+ A. 57% loss
+B. 58% loss
+C. 63% gain
+D. 60% loss
+Q.51 P, Q, R, S, and T are sitting around a circular table, facing the centre. R is sitting second
+to the right of P. T is sitting second to the right of S. P is to the immediate left of S. Who
+is to the immediate right of T?
+Ans
+ A. P
+B. S
+C. R
+D. Q
+Q.52 Refer to the following number series and answer the question that follows. Counting to
+be done from left to right only. (All numbers are single-digit numbers only.)
+(Left) 4 1 6 2 9 3 3 6 4 1 8 6 5 6 8 6 9 5 6 1 6 4 8 6 2 8 7 4 8 2 (Right)
+How many 6’s are there, each of which is immediately preceded by an odd number and
+also immediately followed by an even number?
+Ans
+ A. Two
+B. Three
+C. One
+D. More than three
+Section : General Intelligence and Reasoning
+Q.53 What should come in place of the question mark (?) in the given series?
+521 523 527 533 541 ?
+Ans
+ A. 553
+B. 549
+C. 551
+D. 555
+Q.54 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right.
+(Left) 9 8 7 4 5 2 5 3 8 4 3 6 2 1 5 7 9 3 1 5 7 4 6 2 3 7 4 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 5
+B. 6
+C. 3
+D. 4
+Q.55 What will come in the place of the question mark (?) in the following equation, if ‘+’ and
+‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+32 + 34 − 35 × 5 ÷ 22 = ?
+Ans
+ A. 154
+B. 153
+C. 150
+D. 152
+Q.56 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+KJN 72 RQU 63 YXB 54 FEI 45 ?
+Ans
+ A. MLP 36
+B. MMO 36
+C. MKO 35
+D. MUD 35
+Q.57 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+49 ÷ 5 + 153 × 3 − 314 = ?
+Ans
+ A. 508
+B. 521
+C. 505
+D. 512
+Q.58 In a certain code language, ‘PEARL’ is coded as ‘18723’ and ‘PAYER’ is coded as
+‘82736’. What is the code for ‘Y’ in that language?
+Ans
+ A. 3
+B. 8
+C. 2
+D. 6
+Q.59 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All crows are sparrows.
+No crow is a pigeon.
+Conclusions:
+(I): No sparrow is a pigeon.
+(II): Some pigeons are crows.
+Ans
+ A. Only conclusion (II) follows
+B. Neither conclusion (I) nor (II) follows
+C. Both conclusions (I) and (II) follow
+D. Only conclusion (I) follows
+Q.60 A, B, C, D, E and F are sitting around a circular table, facing the centre. B sits second to
+the left of E. D is an immediate neighbour of F. C sits to the immediate left of F. C sits
+second to the right of A. What is the position of E with respect to F?
+Ans
+ A. Second to the right
+B. Immediate left
+C. Immediate right
+D. Second to the left
+Q.61 Seven friends, B, C, D, T, U, V and W, are sitting in a straight line facing north. All
+friends sits to the left of C. Only three people sit between C and T. Only two people sit
+between T and V. B sits third to the left of D. W sits to the immediate right of D. How
+many people sit between U and V?
+Ans
+ A. Four
+B. One
+C. Three
+D. Two
+Q.62 In the following triad, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one which follows the same logic.
+DRAWING - ADRWGIN - RADWNGI
+FORMULA - RFOMAUL - ORFMLAU
+Ans
+ A. FASHION - SAFNHIO - FASONHI
+B. FASHION - SFAHNIO - ASFHONI
+C. FASHION - SFAHNOI - ASFIHNO
+D. FASHION - SAFHNIO - ASFHONI
+Q.63 In a certain code language, NSQE is coded as 165 and XIJA is coded as 132. What is the
+code for PEYO in that language?
+Ans
+ A. 170
+B. 183
+C. 188
+D. 179
+Q.64 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+7 ÷ 5 + 12 × 3 − 19 = ? + 5
+Ans
+ A. 55
+B. 50
+C. 45
+D. 60
+Q.65 Wamiq starts from point A and drives 78 km towards the west. He then takes a right
+turn, drives 81 km, turns right and drives 80 km. He then takes a right turn and drives
+90 km. He takes a final right turn, drives 2 km and stops at point P. How far (shortest
+distance) and towards which direction should he drive in order to reach point A again?
+(All turns are 90-degree turns only unless specified.)
+Ans
+ A. 7 km to the north
+B. 9 km to the north
+C. 11 km to the south
+D. 10 km to the south
+Q.66 PNHT is related to VILQ in a certain way based on the English alphabetical order. In the
+same way, MSDT is related to SNHQ. To which of the given options is IRUI related,
+following the same logic?
+Ans
+ A. ONYE
+B. PMZF
+C. PNZE
+D. OMYF
+Q.67 In a row of 19 people facing north, Geetha is 6th from the left end. If Divya sits 5th to the
+right of Geetha, then what is Divya’s position from the right end of the row?
+Ans
+ A. 11th
+B. 8th
+C. 9th
+D. 10th
+Q.68 A man is standing on the roof facing east. First, he turns 45 degrees clockwise, then 45
+degrees anticlockwise. He then turns 180 degrees anticlockwise. Finally, he turns 90
+degrees clockwise. In which direction is the man facing now?
+Ans
+ A. West
+B. South
+C. North
+D. East
+Q.69 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All bottles are cups.
+All bottles are glasses.
+Some glasses are teapots.
+Conclusions:
+(I): Some teapots are bottles.
+(II): Some glasses are cups.
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Only conclusion (II) follows
+C. Neither conclusion (I) nor (II) follows
+D. Only conclusion (I) follows
+Q.70 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE : Operations should be performed on the whole numbers, without breaking
+down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding
+/ subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed)
+19 - 2 - 21
+14 - 6 - 201418
+Ans
+ A. 30 - 11 - 43
+B. 19 - 10 - 29
+C. 15 - 4 - 21
+D. 9 - 13 - 24
+Q.71 In a row of 50 students facing north, Parash is 18th from the left end. If Aparna is 7th to
+the right of Parash, what is Aparna's position from the right end of the row?
+Ans
+ A. 25th
+B. 23rd
+C. 26th
+D. 24th
+Q.72 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+WZX−ZCA
+CFD−FIG
+Ans
+ A. DGE−FJG
+B. DGE−GJH
+C. DFC−GJH
+D. DFC−FIG
+Q.73 In a certain code language,
+A + B means ‘A is the sister of B’,
+A # B means ‘A is the brother of B’,
+A x B means ‘A is the wife of B’,
+A @ B means ‘A is the father of B’.
+Based on the above, how is L related to R if ‘L @ O x V # E + R’?
+Ans
+ A. Wife's father
+B. Brother's wife's brother
+C. Brother's wife's father
+D. Brother's son
+Q.74 What should come in place of the question mark (?) in the given series?
+16, 22, 34, 52, 76, ?
+Ans
+ A. 106
+B. 105
+C. 104
+D. 107
+Q.75 Refer to the given series and answer the question that follows (all numbers are single
+digit numbers only). Counting to be done from left to right only.
+(Left) 9 6 4 8 7 7 7 7 7 1 3 6 4 7 2 3 1 8 5 6 8 9 9 9 4 9 8 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 3
+B. 5
+C. 4
+D. 2
+Q.76 What should come in place of the question mark (?) in the given series?
+17 28 ? 50 61 72
+Ans
+ A. 39
+B. 40
+C. 31
+D. 36
+Q.77    Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. GJ - EH
+B. MP - KN
+C. JM - HK
+D. KN - IM
+Q.78 Refer to the following number series and answer the question that follows. Counting to
+be done from left to right only. (All numbers are single digit numbers only.)
+(Left) 5 4 4 2 6 3 6 4 6 4 7 9 4 5 8 8 2 5 3 1 7 4 8 5 9 4 1 2 7 4 (Right)
+How many such prime digits are there, each of which is immediately preceded by an
+even digit and also immediately followed by an even digit?
+Ans
+ A. More than three
+B. One
+C. Three
+D. Two
+Q.79 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group? (Note: The odd one out is not based on the number of consonants/vowels
+or their position in the letter-cluster.)
+Ans
+ A. MRL
+B. QVP
+C. TYR
+D. EJD
+Q.80 Which of the given letter-number clusters will replace the question mark (?) in the
+following series to make it logically complete?
+PGE 18, TEI 26, XCM 34, BAQ 42, ?
+Ans
+ A. FYU 50
+B. FCV 52
+C. FCU 52
+D. GYV 50
+Q.81 What is the name of the comprehensive strategic partnership treaty signed in January
+2025, between Russia and Iran, covering defense, energy, cybersecurity and regional
+cooperation?
+Ans
+ A. Iranian–Russian Treaty on Comprehensive Strategic Partnership
+B. Iranian–Russian Treaty on Coordination and Security Partnership
+C. Iran–Russia Treaty on Business and Strategic Cooperation Treaty
+D. Iran–Russia Treaty on Comprehensive Defence and Trade Partnership
+Q.82 In 2025, India raised concerns with China regarding the construction of a major
+upstream hydropower project, urging protection of downstream rights. This project is
+being developed on which river?
+Ans
+ A. Brahmaputra
+B. Sutlej
+C. Indus
+D. Kosi
+Q.83 What was India’s rank in the 2025 SDG Index released by the UN Sustainable
+Development Solutions Network?
+Ans
+ A. 121st
+B. 99th
+C. 78th
+D. 87th
+Q.84 At which competition did Gurindervir Singh break the national 100 m record?
+Ans
+ A. Asian Games
+B. Olympic Trials
+C. Indian Grand Prix 1
+D. South Asian Championships
+Q.85 Who set a new world indoor 5000 m race walk record at the Italian Indoor
+Championships in Ancona (Feb 2025)?
+Ans
+ A. Francesco Fortunato
+B. Toshikazu Yamanishi
+C. Matteo Giupponi
+D. Evan Dunfee
+Q.86 Which significant new financial institution was launched in June 2025 to support India’s
+maritime economy?
+Ans
+ A. Sagarmala Finance Corporation Ltd.
+B. Coastal Infrastructure Fund
+C. India Marine Credit Bank
+D. Blue Economy Bank
+Section : General Awareness and Current Affairs
+Q.87 At the Bharat Climate Forum 2026, Shri C. P. Radhakrishnan stated that effective
+climate action can help India in which of the following?
+Ans
+ A. Limiting population growth
+B. Focusing solely on fossil fuels
+C. Reducing agricultural exports
+D. Strengthening energy security
+Q.88 What is the name of India's first humanoid robot developed for space missions,
+announced in 2023?
+Ans
+ A. Vikram
+B. Aditya
+C. Suryamitra
+D. Vyommitra
+Q.89 At the World Governments Summit 2025 in Dubai, which of the following awards
+recognised pioneering government initiatives worldwide for innovation and social
+impact?
+Ans
+ A. Smart Governance Achievement Award
+B. Government Innovation Excellence Award
+C. Global Public Leadership Award
+D. Global Government Excellence Award
+Q.90 In April 2025, at the National Federation Cup Athletics held at Maharaja's College
+Ground in Ernakulam, which Indian long jumper broke Anju Bobby George's 23-year-
+old national record with a jump of 6.64 m?
+Ans
+ A. Priyanka Goswami
+B. D Sudha Singh
+C. Shaili Singh
+D. Ancy Sojan
+Q.91 When did/will the new FASTag annual plan become effective in India?
+Ans
+ A. 26 November 2025
+B. 2 October 2025
+C. 15 August 2025
+D. 1 September 2025
+Q.92 Which league launched in January 2025 featured international kabaddi teams and set
+up record-level participation?
+Ans
+ A. Kabaddi Premier Series
+B. World Kabaddi League
+C. Indian Super Kabaddi
+D. Global Indian Pravasi Kabaddi League
+Q.93 In July 2025, the Union Environment Ministry notified the Environment Protection
+Rules, 2025, for which sites?
+Ans
+ A. Crowded Sites
+B. Hilltop Sites
+C. Chemically Contaminated Sites
+D. Tourist Sites
+"
+Q.94 What approximate percentage of the Union Budget 2025-26 was allocated to gender-
+specific schemes to address women’s empowerment?
+Ans
+ A. 12.21%
+B. 2.68%
+C. 4.56%
+D. 8.86%
+Q.95 The 15th edition of the India‑ Vietnam Defence Policy Dialogue (DPD) was held in which
+of the following cities in November 2025?
+Ans
+ A. Hanoi
+B. Ho Chi Minh
+C. New Delhi
+D. Pune
+Q.96 Who co-chaired the AI Action Summit held in Paris in February 2025?
+Ans
+ A. Chancellor Olaf Scholz and President Emmanuel Macron
+B. Prime Minister Narendra Modi and President Joe Biden
+C. Prime Minister Narendra Modi and President Emmanuel Macron
+D. Prime Minister Rishi Sunak and President Emmanuel Macron
+Q.97 As of August 2025, who among the following was the Governor of the Reserve Bank of
+India?
+Ans
+ A. Shri Saugata Bhattacharya
+B. Shri Sanjay Malhotra
+C. Dr. Nagesh Kumar
+D. Dr. Poonam Gupta
+Q.98 On which date is Birsa Munda Martyr’s Day observed, as commemorated every year?
+Ans
+ A. 26th January
+B. 5th November
+C. 9th June
+D. 15th August
+Q.99 Which data collection method contributed to the accurate poverty estimates in India, as
+per the SBI report in June 2025?
+Ans
+ A. Mixed Recall Period
+B. Modified Mixed Recall Period
+C. Uniform Recall Period
+D. Periodic Recall Method
+Q.100Which tribal poet from Jharkhand received the Sahitya Akademi Yuva Puraskar in June
+2025 for ‘Phir Ugna’?
+Ans
+ A. Mayur Khavdu
+B. Akhil P Dharmajan
+C. Parvati Tirkey
+D. Kirtida Brahmbhatt

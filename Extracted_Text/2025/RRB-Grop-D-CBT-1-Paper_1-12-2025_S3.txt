@@ -1,0 +1,773 @@
+Q.1 Neutralisation reaction involves the combination of _________ from the acid and
+_________ from the base to form water molecules.
+Ans
+ A. OH+ ions and OH- ions, respectively
+B. OH+ ions and H- ions, respectively
+C. H- ions and OH+ ions, respectively
+D. H+ ions and OH- ions, respectively
+Q.2 For the life processes, the transfer of a source of energy from outside the body of the
+organism is called _______ .
+Ans
+ A. excretion
+B. respiration
+C. digestion
+D. nutrition
+Q.3 Which of the following nutrients is required in large quantities by plants?
+Ans
+ A. Zinc
+B. Iron
+C. Phosphorus
+D. Copper
+Q.4 The Golgi apparatus is associated with which of the following organelles?
+Ans
+ A. Nucleus
+B. Mitochondria
+C. Endoplasmic reticulum
+D. Plastids
+Q.5 What is the primary cause of reverberation in a hall or room?
+Ans
+ A. Absorption of sound by soft materials
+B. Bending of sound waves
+C. Multiple reflections of sound from hard surfaces
+D. Variation in air temperature
+Test Date 01/12/2025
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following is considered a major factor contributing to poor living
+standards in society?
+Ans
+ A. Overuse of technology in urban areas
+B. Only the level of education in society
+C. Only the rapid growth of the population
+D. Inequality in the distribution of resources
+Q.7 Which of the following organisms multiplies by the means of multiple fission mode of
+reproduction?
+Ans
+ A. Hibiscus
+B. Leishmania
+C. Garden pea
+D. Plasmodium
+Q.8 What is the chemical formula for Glucose?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.9 From the given compounds, which is used as a fuel additive?
+Ans
+ A. Ethanoic acid
+B. Ethanol
+C. Ethanal
+D. Ethane
+Q.10 In circuit diagrams, a zigzag line is used to represent which of the following?
+Ans
+ A. A resistor
+B. A switch
+C. A battery
+D. A fuse
+Q.11 A baby pulls a toy car along the ground. If the force and displacement are in the same
+direction, the work done is:
+Ans
+ A. equal to the speed of the car
+B. negative
+C. equal to the product of force and displacement
+D. equal to zero
+Q.12 Which of the following life processes is NOT essential to maintain the life of an
+individual organism?
+Ans
+ A. Reproduction
+B. Excretion
+C. Respiration
+D. Nutrition
+Q.13 The total resistance of 10 resistors of equal resistance R arranged in series
+arrangement is _____.
+Ans
+ A. R/10
+B. 10R
+C. R10
+D. 10/R
+Q.14 Which of the following is a general physical property of nonmetals?
+Ans
+ A. Malleability and ductility
+B. High electrical conductivity
+C. Dull appearance (non-lustrous)
+D. High melting and boiling points
+Q.15 Where should an object be placed in front of a convex lens to get a real image ofthe size of the object?
+Ans
+ A. Between infinity and the principal focus of the lens
+B. At the principal focus of the lens
+C. At infinity
+D. At twice the focal length
+Q.16 An object moves along a straight path from point O to point A (100 m away), then
+immediately reverses and stops at point B, which is 30 m away from A back towards O.
+What is the total distance covered and the magnitude of the displacement,
+respectively?
+Ans
+ A. 70 m, 70 m
+B. 130 m, 30 m
+C. 100 m, 70 m
+D. 130 m, 70 m
+Q.17 A triangular glass prism has how many rectangular lateral surfaces?
+Ans
+ A. Four
+B. Two
+C. One
+D. Three
+Q.18 A runner completes one round of a circular track of radius 175 m in 35 seconds. The
+average velocity after one round is _______.
+Ans
+ A. 10 m/s
+B. 20 m/s
+C. 5 m/s
+D. 0 m/s
+Q.19 Which of the following statements is correct about 'Bohr's model of an Atom'?
+Ans
+ A. While revolving in discrete orbits, the electrons do not exist.
+B. Only certain special orbits known as discrete orbits of electrons are allowed inside the atom.
+C. While revolving in discrete orbits, the electrons radiate energy.
+D. Only certain special orbits known as discrete orbits of electrons are allowed outside the atom.
+Q.20 Neurons have many short, branched parts or processes attached to cell body called
+________.
+Ans
+ A. nerve endings
+B. axons
+C. nuclei
+D. dendrites
+Q.21 What is corrosion?
+Ans
+ A. Neutralisation reaction
+B. Chemical change
+C. Endothermic reaction
+D. Physical change
+Q.22 Electrons revolve around the nucleus in fixed paths called:
+Ans
+ A. Quarks
+B. Nucleons
+C. Shells or orbitals
+D. Elliptical paths
+Q.23 Liquids have:
+Ans
+ A. no definite shape and no fixed volume
+B. no definite shape but have a fixed volume
+C. a definite shape and a fixed volume
+D. a definite shape and no fixed volume
+Q.24 A passenger standing in a moving bus suddenly falls forward when the bus stops
+abruptly. This illustrates which of the following laws?
+Ans
+ A. Law of gravitation
+B. Newton’s third law
+C. Newton’s second law
+D. Newton’s first law
+Q.25 Which of the following is/are controlled by the use of insecticides in crop protection
+management?
+Ans
+ A. Virus
+B. Weeds
+C. Insects
+D. Fungus
+Q.26 The average of 4, 12, 8, 10, 16, 14, 9, 20, 18, 22, 15 and K is 14. Find the value of K.
+Ans
+ A. 20
+B. 15
+C. 16
+D. 18
+Section : Mathematics
+Q.27 The diagonals of a quadrilateral are perpendicular bisectors of each other. If the length
+of one diagonal is 8 cm and the area of the quadrilateral is 48 cm2, find the length (in
+cm) of the other diagonal.
+Ans
+ A. 10
+B. 12
+C. 14
+D. 8
+Q.28 A cylindrical water tank has a diameter of 2.8 m and a height of 3.5 m. It is to be painted
+on both its outer curved surface and two circular ends. If the cost of painting is ₹25/m2,
+find the total cost of painting the tank. (Use π =
+)
+Ans
+ A. ₹1,290
+B. ₹1,160
+C. ₹1,220
+D. ₹1,078
+Q.29 Akriti earns ₹ 54,500 monthly and saves 17% of her salary. Find her monthly
+expenditure.
+Ans
+ A. ₹ 45,523
+B. ₹ 45,352
+C. ₹ 45,325
+D. ₹ 45,235
+Q.30
+Ans
+ A. 9
+B. 27
+C. 1
+D. 3
+Q.31 The cost of 1 litre milk is equal to the selling price of 800 ml milk. The percentage of
+profit is ____.
+Ans
+ A. 27.5%
+B. 22.5%
+C. 25%
+D. 20%
+Q.32 The arithmetic mean of the observations 79, 42, 47, 77, 49, 75, 56, 26 and 35 is:
+Ans
+ A. 54
+B. 45
+C. 64
+D. 49
+Q.33 The price per unit of lemon candy to strawberry candy is in the ratio 4 : 14, and a family
+consumes them in the ratio 23 : 2 by quantity. Find the ratio of the expenditure on
+strawberry candy to that on lemon candy.
+Ans
+ A. 7 : 24
+B. 10 : 24
+C. 8 : 26
+D. 7 : 23
+Q.34 The value of 
+  is:
+Ans
+ A. 0.75
+B. 0.95
+C. 0.99
+D. 0.65
+Q.35 A credit card payment that will settle a bill for 290 microwaves at ₹1,050 per microwave
+with successive discounts of 4% and 25%, with a further discount of 5% on card
+payment is:
+Ans
+ A. ₹2,08,290
+B. ₹2,08,278
+C. ₹2,08,260
+D. ₹2,08,292
+Q.36 For a trip of 600 km, a truck travels the first 300 km at a speed of 42 km/hr. At what
+speed (in km/hr) should it cover the remaining distance, so that the average speed for
+the entire journey is 63 km/hr?
+Ans
+ A. 126
+B. 141
+C. 101
+D. 106
+Q.37
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.38 Three men can dig a well 39 feet deep in 4 days. How many men can dig a well 78 feet
+deep in 12 days?
+Ans
+ A. 5
+B. 2
+C. 1
+D. 3
+Q.39 A 435-metre-long train crosses a platform thrice its length in 87 seconds. What is the
+speed of the train (in km/hr)?
+Ans
+ A. 76
+B. 68
+C. 80
+D. 72
+Q.40
+Ans
+ A. 0
+B. 63
+C. 42
+D. 21
+Q.41 Find the simple interest (in ₹) on ₹4,000 at 6% per annum rate of interest for the period
+from 21 February 2024 to 22 April 2024.
+Ans
+ A. 41
+B. 38
+C. 39
+D. 40
+Q.42 A typist takes 40 minutes to type 2 pages. How long (in minutes) will he take to type 81
+pages?2689
+Ans
+ A. 1630
+B. 1625
+C. 1620
+D. 1610
+Q.43 A shop that sells towels has offers going on, wherein customers can buy 2 towels and
+get 2 free. What is the percentage discount that customers get?
+Ans
+ A. 60%
+B. 55%
+C. 50%
+D. 45%
+Q.44 If 20% of a number is added to 102, then the result is the same number. 60% of the
+same number is:
+Ans
+ A. 106.5
+B. 96.5
+C. 86.5
+D. 76.5
+Q.45 P is any point inside the rectangle ABCD. If PA = 57 cm, PB = 9 cm, and PC = 54 cm,
+then the length PD (in cm) is equal to:
+Ans
+ A. 78
+B. 80
+C. 76
+D. 83
+Q.46 A and B working together can do a piece of work in 3 days. B alone can do the same
+work in 21 days. How long (in days) will A alone take to do double the work?
+Ans
+ A. 7
+B. 10
+C. 3.5
+D. 8
+Q.47 In a fruit basket, there are twice as many oranges as apples. If there are a total of 36
+fruits, how many oranges are there?
+Ans
+ A. 18
+B. 30
+C. 12
+D. 24
+Q.48 In a box containing blue, yellow, and orange tokens, the ratio of blue to yellow tokens
+was 13 : 19, while the ratio of orange to blue tokens was 10 : 3. What was the ratio of
+orange to yellow tokens?
+Ans
+ A. 132 : 59
+B. 130 : 57
+C. 137 : 61
+D. 134 : 62
+Q.49 Diana is thrice as old as Teresa and Homi is twice as old as Diana. If Diana's age is 4
+years less than the average age of all three, then Homi's age (in years) is:
+Ans
+ A. 78
+B. 70
+C. 68
+D. 72
+Q.50 At beginning of the poll, Rahul received 52% of the total votes and Leena received 48%
+of the total votes. The total voting was of 3,72,000 votes. How many votes did Leena
+earn above 1,00,000?
+Ans
+ A. 78,560 votes
+B. 1,00,000 votes
+C. 1,78,560 votes
+D. 37,20,000 votes
+Q.51 If ‘A’ stands for ‘+’, ‘B’ stands for ‘−’, ‘C’ stands for ‘÷’ and ‘D’ stands for ‘×’, what will
+come in place of the question mark (?) in the following equation?
+75 B 4 D 20 A 40 C 8 = ?
+Ans
+ A. 3
+B. 0
+C. 4
+D. 1
+Q.52 Refer to the given series and answer the question that follows. All numbers are single
+digit numbers only. (Counting to be done from left to right only)
+(Left) 6 4 9 2 3 2 7 7 9 8 3 8 7 9 9 9 7 9 5 8 9 9 1 (Right)
+How many such odd digits are there, each of which is immediately preceded by an even
+digit and also immediately followed by an odd digit?
+Ans
+ A. One
+B. Two
+C. None
+D. Three
+Q.53 Select the pair that follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+AWY−UQS
+RNP−LHJ
+Ans
+ A. PLN−IFG
+B. PLN−JFH
+C. PKL−JFH
+D. PKL−IEG
+Section : General Intelligence and Reasoning
+Q.54 In a row of people all facing north, Hirani is 17th from the left end, and Tushar is 32th
+from the left end. Tushar is exactly between Hirani and Kiran. If Kiran is 12th from the
+right end of the line, how many people are there in the row?
+Ans
+ A. 59
+B. 58
+C. 57
+D. 60
+Q.55 This question is based on the five, three-digit numbers given below.
+(Left) 567 862 426 326 749 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE: All operations to be done from left to right.)
+If 2 is added to the second digit of every number, in how many numbers will the second
+digit be exactly divisible by the third digit?
+Ans
+ A. Three
+B. Two
+C. Four
+D. One
+Q.56 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(34, 70, 1)
+(21, 92, 25)
+Ans
+ A. (17, 52, 9)
+B. (19, 63, 13)
+C. (2, 31, 14)
+D. (36, 73, 1)
+Q.57 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+VNQ UMP TLO SKN ?
+Ans
+ A. RIN
+B. RJN
+C. RJM
+D. RIM
+Q.58 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All lotions are creams.
+All creams are soaps.
+No cream is a facewash.
+Conclusions:
+(I) No soap is a facewash.
+(II) No lotion is a facewash.
+Ans
+ A. Only conclusion (II) follows.
+B. Neither conclusion (I) nor (II) follows.
+C. Only conclusion (I) follows.
+D. Both conclusions (I) and (II) follow.
+Q.59 What should come in place of the question mark (?) in the given series?
+ 214 217 222 229 238 ?
+Ans
+ A. 249
+B. 247
+C. 241
+D. 243
+Q.60 Refer to the number series given below and answer the question that follows. Counting
+to be done from left to right only.
+(NOTE: All numbers are single-digit numbers only.)
+(Left) 5 2 7 5 4 7 9 8 5 3 6 2 1 5 7 4 9 7 2 5 2 4 3 7 8 4 7 (Right)
+How many such odd digits are there, each of which is immediately preceded by an even
+digit and also immediately followed by an even digit?
+Ans
+ A. None
+B. Two
+C. More than two
+D. One
+Q.61 What should come in place of the question mark (?) in the given series?
+921 923 927 933 941 ?
+Ans
+ A. 951
+B. 953
+C. 955
+D. 949
+Q.62 What should come in place of the question mark (?) in the given series?
+161 165 173 185 201 ?
+Ans
+ A. 221
+B. 207
+C. 215
+D. 220
+Q.63 Ronak starts from Point A and drives 6 km towards the south. He then takes a left turn,
+drives 5 km, turns left and drives 14 km. He then takes a left turn and drives 11 km. He
+takes a final left turn, drives 8 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90-degree turns only unless specified.)
+Ans
+ A. 7 km to the east
+B. 6 km to the west
+C. 7 km to the west
+D. 6 km to the east
+Q.64 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements: All geysers are lights. No light is an oven.
+Conclusion (I): No geyser is an oven.
+Conclusion (II): Some ovens are lights.
+Ans
+ A. Only conclusion (II) follows.
+B. Neither conclusion (I) nor (II) follows.
+C. Both conclusions (I) and (II) follow.
+D. Only conclusion (I) follows.
+Q.65 Select the triad that follows the same pattern as the one followed by the two triads
+given below. Both triads follow the same pattern.
+LF-OI-RT
+NH-QK-TV
+Ans
+ A. OJ-SN-VY
+B. OJ-SM-VY
+C. PJ-SM-VY
+D. PJ-SM-VX
+Q.66 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. ILG
+B. LOI
+C. HKF
+D. QTO
+Q.67 A, B, C, E, F, P and Q are sitting around a circular table, facing the centre. F sits third to
+the left of C. Only one person sits between C and P when counted from the left of P.
+Only two people sit between B and E when counted from the right of E. A is an
+immediate neighbour of B. Who sits to the immediate left and right of Q, respectively?
+Ans
+ A. F and A
+B. P and C
+C. C and P
+D. P and B
+Q.68 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which is the letter-cluster that DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. UWR
+B. QRN
+C. WXT
+D. STP
+Q.69 Each of the digits in the number 4876231 is arranged in ascending order from left to
+right. What will be the sum of the digits which are second from the left and third from
+the right in the new number thus formed?
+Ans
+ A. 10
+B. 8
+C. 12
+D. 9
+Q.70 In the following triads, each group of letters is related to the subsequent one following
+a certain logic. Select from the given options, the one which follows the same logic.
+WEST - EWST - WSTE
+TOPS - OTPS - TPSO
+Ans
+ A. EXIT - XEIT - EITX
+B. LADS - ALDS - SADL
+C. OPEN - POEN - PENO
+D. HIRE - HRIE - ERIH
+Q.71 Mr. Zzz starts from Point A and drives 7 km towards the South. He then takes a left turn,
+drives 21 km, turns left and drives 16 km. He then takes a left turn and drives 26 km. He
+takes a final left turn, drives 9 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90 degrees turns only unless specified).
+Ans
+ A. 5 km to the East
+B. 2 km to the South
+C. 3 km to the West
+D. 4 km to the North
+Q.72 In a row of 50 students facing north, Neetu is 12th from the right end. If Kaden is 6th to
+the left of Neetu, what is Kaden's position from the left end of the line?
+Ans
+ A. 30th
+B. 33rd
+C. 32nd
+D. 31st
+Q.73 In a certain code language,
+A + B means ‘A is the sister of B’,
+A @ B means ‘A is the brother of B’,
+A - B means ‘A is the wife of B’,
+and A # B means ‘A is the father of B’.
+How is O related to V if ‘O @ P + T - G # V’?
+Ans
+ A. Mother's brother
+B. Mother's father
+C. Father
+D. Brother
+Q.74 In a particular coding system, 'house' is represented as '35791' and 'hose' is encoded
+as '3751'. How is 'u' represented in this coding system?
+Ans
+ A. 7
+B. 3
+C. 1
+D. 9
+Q.75 Refer to the following number series and answer the question that follows (all numbers
+are single digit numbers only). (Counting to be done from left to right only.)
+(Left) 6 3 1 1 2 3 2 8 5 7 6 1 3 7 2 6 9 6 9 2 4 6 2 8 6 3 1 (Right)
+How many such even numbers are there each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?4390
+Ans
+ A. 3
+B. 4
+C. 2
+D. 5
+Q.76 Which of the following letter-clusters will replace the question mark (?) in the given
+series to make it logically complete?
+BBO 2 ECM -4 HDK 8 KEI -16 ?
+Ans
+ A. NFG 32
+B. MKL 22
+C. MJJ 31
+D. KLI 33
+Q.77 What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘-‘ are interchanged
+and ‘x’ and ‘÷’ are interchanged?
+113 ÷ 6 + 98 x 2 - 156 = ?6381
+Ans
+ A. 775
+B. 785
+C. 779
+D. 798
+Q.78 A, B, C, R, S, T and U are sitting around a circular table facing the centre of the table.
+Only one person sits between S and T when counted from the left of T. R sits third to
+the right of A. U sits third to the left of C. R sits to the immediate right of U. B is not an
+immediate neighbour of U. How many people sit between B and T when counted from
+the right of B?
+Ans
+ A. Two
+B. Four
+C. Three
+D. One
+Q.79 In a certain code language, ‘PEARL’ is coded as ‘18723’ and ‘PAYER’ is coded as
+‘82736’. What is the code for ‘Y’ in the given code language?
+Ans
+ A. 8
+B. 3
+C. 6
+D. 2
+Q.80 Seven people, A, B, C, D, E, F, and G, are sitting in a row, facing the north. Only two
+people sit to the left of A. Only three people sit between A and G. D sits second to the
+right of A. Only two people sit between D and C. E sits at some place to the right of F
+but at some place to the left of B.
+How many people sit to the right of C?
+Ans
+ A. 4
+B. 5
+C. 3
+D. 2
+Section : General Awareness and Current Affairs
+Q.81 Which film by Aamir Khan was released in June 2025?
+Ans
+ A. Fateh
+B. Sky Force
+C. Raid 2
+D. Sitaare Zameen Par
+Q.82 Which of the following Indian Constitutional Amendment Acts is also known as Nari
+Shakti Vandan Adhiniyam?
+Ans
+ A. 104th Constitutional Amendment Bill
+B. 106th Constitutional Amendment Bill
+C. 107th Constitutional Amendment Bill
+D. 105th Constitutional Amendment Bill
+Q.83 Which of the following countries will be hosting the World Rowing Championships
+2025?
+Ans
+ A. Sydney, Australia
+B. Tokyo, Japan
+C. London, UK
+D. Shanghai, China
+Q.84 Which award did former cyclist Sucha Singh receive in 2025?
+Ans
+ A. MAKA Trophy
+B. Dronacharya Award
+C. Arjuna Award (Lifetime)
+D. Khel Ratna Award
+Q.85 In which state did the Defence Research and Development Organisation (DRDO)
+successfully test its indigenous Stratospheric Airship Platform on 3 May 2025?
+Ans
+ A. Gujarat
+B. Madhya Pradesh
+C. Rajasthan
+D. Andhra Pradesh
+Q.86 Which ministry released the 'Model Rules for Felling Trees in Agricultural Lands' in
+2025?
+Ans
+ A. Ministry of Rural Development
+B. Ministry of Home Affairs
+C. Ministry of Environment, Forest and Climate Change
+D. Ministry of Agriculture
+Q.87 The Lokpal of India celebrated its 1st Foundation Day on which date in 2025?
+Ans
+ A. 16 January
+B. 15 January
+C. 30 January
+D. 31 January
+Q.88 Who among the following was appointed as Deputy Chief Executive Officer (CEO) of
+SBI General Insurance in June 2025?
+Ans
+ A. Manish Jain
+B. Mohd. Arif Khan
+C. Ashok Mittal
+D. Rakesh Sharma
+Q.89 Who took over as the Chairperson of the Securities and Exchange Board of India (SEBI)
+in March 2025?
+Ans
+ A. Tuhin Kanta Pandey
+B. Shaktikanta Das
+C. Madhabi Puri Buch
+D. Arvind Panagariya
+Q.90 Which of the following platforms will provide training to the new recruits inducted
+during the 15th edition of the Rozgar Mela in April 2025, apart from formal skill
+programmes?
+Ans
+ A. e-Shram Portal
+B. iGOT Karmayogi
+C. National Career Service
+D. SWAYAM
+Q.91 In which of the following months, during the ‘Genomics Data Conclave’, was the
+'GenomeIndia Data' dedicated to the researchers by Narendra Modi, Prime Minister of
+India?
+Ans
+ A. June 2025
+B. March 2025
+C. January 2025
+D. April 2025
+Q.92 In which of the following months was the grand finale and prize distribution ceremony
+of the Defence Innovation Challenge for Excellence (DICE-2024) organised during Aero
+India 2025 in Bengaluru by the Marathwada Accelerator for Growth and Incubation
+Council (MAGIC)?
+Ans
+ A. March 2025
+B. April 2025
+C. February 2025
+D. June 2025
+Q.93 Finland became the _____ European country to exit the Ottawa landmine treaty in June
+2025.
+Ans
+ A. 3rd
+B. 4th
+C. 5th
+D. 6th
+Q.94 As per revised Reserve Bank of India guidelines in April 2025, from what minimum age
+can minors independently open and operate savings accounts?
+Ans
+ A. 15 years
+B. 8 years
+C. 10 years
+D. 12 years
+"
+Q.95 Which State Government inaugurated the Rajiv Gandhi Van Samvardhan Yojana on 2
+June 2025?
+Ans
+ A. Himachal Pradesh
+B. Uttar Pradesh
+C. Karnataka
+D. Telangana
+Q.96 How many total medals did India win at the 2025 World Boxing Cup?
+Ans
+ A. 10
+B. 11
+C. 8
+D. 9
+Q.97 In January 2025, the World Economic Forum annual meeting was held in ______.
+Ans
+ A. Zurich
+B. Davos
+C. Geneva
+D. Wengen
+Q.98 Which of the following is NOT a main feature of ‘Control of Water Pollution (Grant,
+Refusal or Cancellation of Consent) Guidelines', 2025?
+Ans
+ A. Stricter Location Criteria
+B. Air Pollution Prevention Penalties
+C. Streamlined Consent Process
+D. Clear Enforcement of Rules
+Q.99 Which athlete won the Arjuna Award for para-athletics in 2025?
+Ans
+ A. Avani Lekhara
+B. Navdeep Singh
+C. Sumit Antil
+D. Yogesh Kathuniya
+Q.100Approximately how many hectares are targeted for increased forest and tree cover by
+2030 as per the Revised Green India Mission (GIM) Plan released in 2025?
+Ans
+ A. 20 million
+B. 24.7 million
+C. 10 million
+D. 15.5 million

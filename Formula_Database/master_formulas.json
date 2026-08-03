@@ -1,0 +1,116 @@
+{
+  "percentage": {
+    "basic": "Percentage = (Part/Whole) \u00d7 100",
+    "increase": "New Value = Original \u00d7 (1 + rate/100)",
+    "decrease": "New Value = Original \u00d7 (1 - rate/100)",
+    "successive": "Net % = a + b + (ab/100)"
+  },
+  "profit_loss": {
+    "profit": "Profit = SP - CP",
+    "profit_percent": "Profit% = (Profit/CP) \u00d7 100",
+    "loss": "Loss = CP - SP",
+    "loss_percent": "Loss% = (Loss/CP) \u00d7 100",
+    "sp_from_cp": "SP = CP \u00d7 (100 + Profit%)/100",
+    "cp_from_sp": "CP = SP \u00d7 100/(100 + Profit%)",
+    "discount": "Discount% = (MP - SP)/MP \u00d7 100"
+  },
+  "si_ci": {
+    "simple_interest": "SI = (P \u00d7 R \u00d7 T)/100",
+    "amount": "A = P + SI = P(1 + RT/100)",
+    "compound_interest": "CI = P(1 + R/100)^T - P",
+    "amount_ci": "A = P(1 + R/100)^T"
+  },
+  "ratio_proportion": {
+    "basic": "a : b = a/b",
+    "proportion": "a : b :: c : d \u21d2 a/b = c/d \u21d2 ad = bc",
+    "compound_ratio": "(a:b) and (c:d) = ac : bd"
+  },
+  "average": {
+    "mean": "Average = Sum of observations / Number of observations",
+    "weighted": "Weighted Avg = (w1x1 + w2x2 + ...)/(w1 + w2 + ...)"
+  },
+  "time_speed_distance": {
+    "speed": "Speed = Distance/Time",
+    "avg_speed_equal_dist": "Average Speed = 2xy/(x+y) (for equal distances)",
+    "relative_speed_same": "Relative Speed (same direction) = |x - y|",
+    "relative_speed_opposite": "Relative Speed (opposite) = x + y",
+    "train_platform": "Time = (L1 + L2)/Relative Speed",
+    "km_to_ms": "km/hr to m/s: multiply by 5/18",
+    "ms_to_km": "m/s to km/hr: multiply by 18/5"
+  },
+  "time_work": {
+    "work_rate": "If A does work in n days, A's 1 day work = 1/n",
+    "together": "If A in x days, B in y days: Together = xy/(x+y) days",
+    "pipe_fill": "If pipe fills in x min: Rate = 1/x per min",
+    "pipe_empty": "If pipe empties in y min: Rate = -1/y per min",
+    "net_rate": "Net rate = Fill rate - Empty rate"
+  },
+  "number_system": {
+    "divisibility_2": "Last digit even",
+    "divisibility_3": "Sum of digits divisible by 3",
+    "divisibility_5": "Last digit 0 or 5",
+    "divisibility_9": "Sum of digits divisible by 9",
+    "divisibility_10": "Last digit 0",
+    "lcm_hcf": "LCM \u00d7 HCF = Product of two numbers"
+  },
+  "mensuration_2d": {
+    "rectangle_area": "Area = l \u00d7 b",
+    "rectangle_perimeter": "Perimeter = 2(l + b)",
+    "square_area": "Area = side\u00b2",
+    "square_perimeter": "Perimeter = 4 \u00d7 side",
+    "triangle_area": "Area = \u00bd \u00d7 base \u00d7 height",
+    "circle_area": "Area = \u03c0r\u00b2",
+    "circle_circumference": "Circumference = 2\u03c0r"
+  },
+  "mensuration_3d": {
+    "cube_volume": "Volume = side\u00b3",
+    "cube_surface": "Surface Area = 6 \u00d7 side\u00b2",
+    "cuboid_volume": "Volume = l \u00d7 b \u00d7 h",
+    "cuboid_surface": "Surface Area = 2(lb + bh + hl)",
+    "cylinder_volume": "Volume = \u03c0r\u00b2h",
+    "cylinder_curved": "Curved SA = 2\u03c0rh",
+    "cylinder_total": "Total SA = 2\u03c0r(r + h)",
+    "cone_volume": "Volume = \u2153\u03c0r\u00b2h",
+    "cone_curved": "Curved SA = \u03c0rl (l = slant height)",
+    "sphere_volume": "Volume = 4/3 \u03c0r\u00b3",
+    "sphere_surface": "Surface Area = 4\u03c0r\u00b2",
+    "hemisphere_volume": "Volume = 2/3 \u03c0r\u00b3",
+    "hemisphere_surface": "Surface Area = 3\u03c0r\u00b2"
+  },
+  "trigonometry": {
+    "sin": "sin \u03b8 = Perpendicular/Hypotenuse",
+    "cos": "cos \u03b8 = Base/Hypotenuse",
+    "tan": "tan \u03b8 = Perpendicular/Base",
+    "identity": "sin\u00b2\u03b8 + cos\u00b2\u03b8 = 1",
+    "tan_identity": "1 + tan\u00b2\u03b8 = sec\u00b2\u03b8",
+    "cot_identity": "1 + cot\u00b2\u03b8 = cosec\u00b2\u03b8"
+  },
+  "algebra": {
+    "(a+b)\u00b2": "(a+b)\u00b2 = a\u00b2 + 2ab + b\u00b2",
+    "(a-b)\u00b2": "(a-b)\u00b2 = a\u00b2 - 2ab + b\u00b2",
+    "a\u00b2-b\u00b2": "a\u00b2 - b\u00b2 = (a+b)(a-b)",
+    "(a+b)\u00b3": "(a+b)\u00b3 = a\u00b3 + b\u00b3 + 3ab(a+b)",
+    "(a-b)\u00b3": "(a-b)\u00b3 = a\u00b3 - b\u00b3 - 3ab(a-b)"
+  },
+  "age_problems": {
+    "present_age": "Present age + n years = Future age",
+    "past_age": "Present age - n years = Past age",
+    "ratio_method": "Use ratio units and solve equation"
+  },
+  "geometry": {
+    "triangle_sum": "Sum of angles = 180\u00b0",
+    "exterior_angle": "Exterior angle = Sum of opposite interior angles",
+    "pythagoras": "In right triangle: Hypotenuse\u00b2 = Base\u00b2 + Perpendicular\u00b2",
+    "rectangle_property": "For any point inside rectangle: PA\u00b2 + PC\u00b2 = PB\u00b2 + PD\u00b2"
+  },
+  "height_distance": {
+    "angle_elevation": "Angle formed when looking up from horizontal",
+    "angle_depression": "Angle formed when looking down from horizontal",
+    "application": "Use tan \u03b8 = height/distance for most problems"
+  },
+  "probability": {
+    "basic": "P(E) = Favorable outcomes / Total outcomes",
+    "complement": "P(not E) = 1 - P(E)",
+    "range": "0 \u2264 P(E) \u2264 1"
+  }
+}

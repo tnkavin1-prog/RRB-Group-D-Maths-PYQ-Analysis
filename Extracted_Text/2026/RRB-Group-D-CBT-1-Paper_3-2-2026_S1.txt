@@ -1,0 +1,763 @@
+Q.1 Why do fodder crops require tall plants with profuse branching?
+Ans
+ A. To provide maximum green matter for fodder
+B. To improve soil fertility
+C. To increase grain yield
+D. To reduce harvesting time
+Q.2 What is the primary characteristic that defines organic compounds?
+Ans
+ A. They always contain oxygen atoms.
+B. They are formed only by living organisms.
+C. They primarily consist of carbon and hydrogen atoms, forming covalent bonds.
+D. They are compounds that conduct electricity in their molten state.
+Q.3 Which of the following reacts with bases to form salt and water?
+Ans
+ A. Hydrogen gas
+B. Carbon dioxide
+C. Sodium oxide
+D. Calcium hydroxide
+Q.4 Which of the following activities CANNOT be taken as a defining characteristic of life?
+Ans
+ A. Molecular movement within the cells
+B. Growth-related movement of plants
+C. Breathing and internal maintenance of cells
+D. Visible movement like walking or running
+Q.5 Molecules of compounds are formed by:
+Ans
+ A. Mixing ions without forming any chemical bonds
+B. Different elements chemically bonded together
+C. Metals joined with metals through metallic bonds
+D. One type of atom only with identical properties
+Test Date 03/02/2026
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following is a double displacement reaction?
+Ans
+ A. CaCO₃  → CaO + CO₂ 
+B. AgNO₃  + NaCl → AgCl + NaNO₃ 
+C. 2Mg + O₂  → 2MgO
+D. Zn + CuSO₄  → ZnSO₄  + Cu
+Q.7 In which part of the female reproductive system does fertilisation take place?
+Ans
+ A. Uterus
+B. Ovary
+C. Cervix
+D. Oviduct (fallopian tube)
+Q.8 Which of the following is NOT an isotope of hydrogen atom?
+Ans
+ A. Deuterium
+B. Helium
+C. Tritium
+D. Protium
+Q.9 A constant force acts on an object of mass 4 kg for a duration of 2 s. It increases the
+object’s velocity from 2 m/s to 8 m/s. What is the magnitude of the applied force?
+Ans
+ A. 24 N
+B. 10 N
+C. 12 N
+D. 8 N
+Q.10 The law of refraction is valid for which range of the angle of incidence?
+Ans
+ A. i > 90°
+B. 0° < i < 60°
+C. 0° < i < 90°
+D. 0° < i < 45°
+Q.11 Which of the following devices works on the principle of force on a current-carrying
+conductor in a magnetic field?
+Ans
+ A. Electric generator
+B. Electric motor
+C. Transformer
+D. Resistor
+Q.12 Isobars are the atoms with:
+Ans
+ A. same mass number but different atomic number
+B. same refractive index but different melting point
+C. same atomic number but different mass number
+D. same melting point but different refractive index
+Q.13 In blood, oxygen is transported by _______.
+Ans
+ A. Blood platelets
+B. Lymph
+C. White blood corpuscles
+D. Red blood corpuscles
+Q.14 Match the following.
+Column A Column B
+1. Calyx a. Carpels
+2. Corolla b. Stamens
+3.
+Androecium
+c. Petals
+4.
+Gynoecium
+d. Sepals
+Ans
+ A. 1 - a, 2 - c, 3 - b, 4 – d
+B. 1 - d, 2 - b, 3 - c, 4 - a
+C. 1 - d, 2 - c, 3 - b, 4 - a
+D. 1 - c, 2 - d, 3 - b, 4 - a
+Q.15 What happens after fertilisation in a flowering plant?
+Ans
+ A. The ovule becomes a fruit, and the ovary forms the seed.
+B. The entire flower dries up and falls off without forming any new structures.
+C. The petals and stamens become the seed, and the ovary forms the embryo.
+D. The ovule becomes the seed, and the ovary becomes the fruit.
+Q.16 When OH⁻  ions are added to an acidic solution, the pH:
+Ans
+ A. becomes zero
+B. increases
+C. stays the same
+D. decreases
+Q.17 Which of the following is a molecule of a compound?
+Ans
+ A. H₂ O
+B. O₂ 
+C. N₂ 
+D. He
+Q.18 What is a major disadvantage of connecting an electric bulb and an electric heater in
+series, based on their required operating current?
+Ans
+ A. The total equivalent resistance would be zero
+B. The total voltage would decrease to zero
+C. The current through the heater would stop immediately
+D. They need currents of widely different values to operate properly
+Q.19 Which of the following structures acts as the basic filtration unit in the kidney?
+Ans
+ A. Alveolus
+B. Tracheid
+C. Villus
+D. Nephron
+Q.20 Which of the following is an example of uniform circular motion in daily life?
+Ans
+ A. A bus accelerating on a straight road
+B. A ceiling fan rotating at constant speed
+C. A ball rolling down an inclined plane
+D. A person walking in a straight line
+Q.21 Which of the following statements describes biological magnification?
+Ans
+ A. Energy increases as it flows from producers to consumers.
+B. Pollutants are completely broken down by decomposers in the ecosystem.
+C. Increase in concentration of harmful substances at higher trophic levels.
+D. Progressive increase in biological activities.
+Q.22 Which of the following statements is NOT correct?
+Ans
+ A. Sound can be produced by non-vibrating bodies
+B. Frequency of vibration determines the pitch of sound
+C. Amplitude of vibration affects loudness
+D. Vibrations create compressions and rarefactions in air
+Q.23 An object is dropped from a height. What is its initial velocity?
+Ans
+ A. 0 m/s
+B. 10 m/s
+C. Can’t be determined
+D. 9.8 m/s
+Q.24 If the power of an engine is doubled while the time remains constant, the work done will
+________.
+Ans
+ A. Remain the same
+B. Be doubled
+C. Be halved
+D. Be quadrupled
+Q.25 An object is placed at infinity in front of a convex lens. The image formed is:
+Ans
+ A. at the focal point, highly diminished (point-sized)
+B. between F and 2F, inverted
+C. at infinity, highly magnified
+D. at 2F, same size
+Q.26 A man buys apples at ₹15 per apple and plans to sell them at a 13% profit. How many
+apples must he sell to make a total profit of ₹195?
+Ans
+ A. 195
+B. 110
+C. 100
+D. 95
+Q.27 A sum of ₹33,600 is divided among X, Y and Z. X gets ₹4,000 more than Y and Z gets
+₹8,000 more than Y. Find the ratio of the amount received by X, Y and Z.
+Ans
+ A. 13 : 11 : 18
+B. 14 : 9 : 19
+C. 14 : 10 : 17
+D. 14 : 11 : 20
+Section : Mathematics
+Q.28 Find a number such that when 8 is subtracted from 4 times the number, the result is 6
+more than thrice the number.
+Ans
+ A. 9
+B. 14
+C. 23
+D. 18
+Q.29 Find the mean proportional of 17 and 272?
+Ans
+ A. 68
+B. 70
+C. 71
+D. 67
+Q.30
+Ans
+ A. 6200
+B. 6540
+C. 6552
+D. 5670
+Q.31 Due to water crisis, 28% of the initial population left the village and 50% of the
+remaining population left the village for pursuing jobs. If presently, 4450 people inhabit
+the village, what is the ratio of the initial population to the present population?
+Ans
+ A. 25:9
+B. 107:87
+C. 106:83
+D. 25:11
+Q.32 Three pipes A, B and C can fill an empty tank in 30 minutes, 40 minutes and 45 minutes,
+respectively. All three pipes are opened at the same time to disperse liquid chemicals X,
+Y and Z from pipes A, B and C respectively. After 5 minutes, what is the proportion of
+chemical Y in the tank?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.33 Find the greatest number that exactly divides 46, 98 and 74.
+Ans
+ A. 5
+B. 1
+C. 2
+D. 3
+Q.34 Two trains of lengths 346 m and 319 m are running with speeds of 67 km/h and 59 km/h,
+respectively, towards each other on parallel tracks. In how many seconds will they
+cross each other?
+Ans
+ A. 12
+B. 15
+C. 19
+D. 18
+Q.35
+Ans
+ A. 82
+B. 80
+C. 76
+D. 66
+Q.36 A train, 150 m long, takes 30 seconds to cross a platform 350 m long. Find the speed (in
+km/hr) of the train.
+Ans
+ A. 45
+B. 40
+C. 50
+D. 60
+Q.37 Two banks, A and B, offered loans at 3.5% and 7% per annum, respectively. Manjit
+borrowed an amount of ₹5,00,000 from each bank. Find the positive difference (in ₹)
+between the amounts of simple interest paid to the two banks by Manjit after 2 years.
+Ans
+ A. 36,500
+B. 35,000
+C. 36,000
+D. 34,500
+Q.38 A father’s current age is three times his son’s age. Together, their ages add up to 48
+years. How old is the son?
+Ans
+ A. 10 years
+B. 14 years
+C. 12 years
+D. 16 years
+Q.39 The area of a rectangle is 100.64 cm². If its breadth is 7.4 cm, find the perimeter of the
+rectangle.
+Ans
+ A. 42 cm
+B. 50.32 cm
+C. 46 cm
+D. 38.25 cm
+Q.40 P and Q together can fill a cistern with water in 9 hours. If P alone can fill the cistern
+with water in 36 hours, then in how many hours will Q alone fill three-fourth of the same
+cistern with water?1244
+Ans
+ A. 9
+B. 10
+C. 18
+D. 19
+Q.41 A solid cylinder of base diameter 4 cm is taken to cast a hollow cylinder of external
+diameter 12 cm, thickness 0.5 cm and height 15 cm. Find the height (in cm) of the solid
+cylinder (rounded off to 2 decimal places).
+Ans
+ A. 20.85
+B. 21.56
+C. 18.65
+D. 22.54
+Q.42 The number of prime numbers between 445 and 456 is:
+Ans
+ A. 3
+B. 2
+C. 0
+D. 1
+Q.43 A grocer marked his goods at 75% above their cost price and sold them at a discount of
+X%. If he gained 33% profit, then find the value of X.
+Ans
+ A. 27
+B. 23
+C. 24
+D. 26
+Q.44 An item with a marked price of ₹889 was sold for ₹278. What was the percentage of
+discount given? (Round off the answer to two decimal places.)
+Ans
+ A. 70.88%
+B. 67.92%
+C. 67.57%
+D. 68.73%
+Q.45 The average of 7 numbers is 23. If each number is increased by 4, what will the new
+average be?
+Ans
+ A. 31
+B. 7
+C. 23
+D. 27
+Q.46 If 5x+y = 3125 and 33x−y = 2187, then the value of 41x − 32y is:
+Ans
+ A. 55
+B. 59
+C. 53
+D. 57
+Q.47
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.48 In quadrilateral PQRS, the bisectors of ∠R and ∠S meet at the point T (inside the
+quadrilateral) and ∠STR = 27.5°. If the ratio of ∠P to ∠Q is 5 : 6, then what is the
+difference between the measures of ∠Q and ∠P?
+Ans
+ A. 8°
+B. 2°
+C. 3°
+D. 5°
+Q.49 The arithmetic mean of the observations 17, 64, 55, 37, 65, 12, 51, 18 and 59 is:
+Ans
+ A. 37
+B. 44
+C. 51
+D. 42
+Q.50
+Ans
+ A. 81.67%
+B. 76.67%
+C. 133.33%
+D. 66.67%
+Q.51 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+7 B 4 D 18 A 9 C 16 C 14 = ?
+Ans
+ A. 56
+B. 55
+C. 60
+D. 58
+Q.52 Refer to the following series and answer the question (all numbers are single digit
+numbers only). Counting to be done from left to right only.
+(Left) 3 4 3 3 1 4 7 2 9 4 8 2 7 4 4 2 2 5 2 6 9 9 3 2 7 9 8 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 5
+B. 3
+C. 6
+D. 4
+Q.53 Refer to the given series and answer the question that follows (all numbers are single
+digit numbers only). Counting to be done from left to right only.
+(Left) 3 8 2 3 7 6 4 2 6 9 2 7 2 3 6 1 4 2 3 5 5 7 9 7 2 6 6 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 4
+B. 1
+C. 2
+D. 3
+Section : General Intelligence and Reasoning
+Q.54 Hemant starts from point A and drives 62 km towards the east. He then takes a left turn,
+drives 40 km, turns left and drives 78 km. He then takes a left turn and drives 71 km. He
+takes a final left turn, drives 16 km and stops at point P. How far (shortest distance) and
+towards which direction should he drive in order to reach point A again? (All turns are
+90-degree turns only unless specified.)
+Ans
+ A. 33 km to the south
+B. 31 km to the north
+C. 32 km to the south
+D. 30 km to the north
+Q.55 In a certain code language, ‘LEGS’ is coded as ‘5483’ and ‘ALES’ is coded as ‘2348’.
+What is the code for ‘A’ in the given code language?
+Ans
+ A. 3
+B. 4
+C. 8
+D. 2
+Q.56 Town D is to the west of Town A. Town C is to the south of Town A. Town B is to the
+north of Town E. Town E is to the west of Town D. What is the position of Town B with
+respect to Town C?
+Ans
+ A. North-west
+B. East
+C. South-west
+D. North
+Q.57 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only.
+(Left) 5 3 $ 8 % © 1 % 8 * 5 5 4 # £ & 5 5 £ € 5 € (Right)
+How many such numbers are there, each of which is immediately preceded by a symbol
+and also immediately followed by a symbol?
+Ans
+ A. 6
+B. 3
+C. 5
+D. 4
+Q.58 In a certain code language,
+A + B means ‘A is the mother of B’,
+A – B means ‘A is the brother of B’,
+A x B means ‘A is the wife of B’,
+A % B means ‘A is the father of B’ and
+A # B means ‘A is the daughter of B’.
+How is C related to E if ‘C – Q x Y % R – E’?
+Ans
+ A. Mother’s brother
+B. Wife’s brother
+C. Sister’s son
+D. Sister’s husband
+Q.59 Read the given statements and conclusions carefully. You have to take the given
+statements to be true even if they seem to be at variance from commonly known facts.
+You have to decide which conclusion(s) logically follow(s) from the given statements.
+Statements:
+All hats are trousers.
+All trousers are pants.
+No pant is a coat.
+Conclusions:
+(I): No hat is a coat.
+(II): No trouser is a coat.
+Ans
+ A. Only conclusion (II) follows
+B. Only conclusion (I) follows
+C. Neither conclusion (I) nor (II) follows
+D. Both conclusions (I) and (II) follow
+Q.60 Five people, V, W, X, Y and Z, are sitting in a row, facing towards the north. W is sitting
+at the extreme left end of the row. There are only two people sitting between Z and W. V
+is an immediate neighbour of Z. X is an immediate neighbour of V. Exactly how many
+people are sitting between W and Y?
+Ans
+ A. One
+B. None
+C. Three
+D. Two
+Q.61 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(28, 56, 45)
+(41, 82, 71)
+Ans
+ A. (89, 178, 167)
+B. (77, 154, 142)
+C. (97, 194, 182)
+D. (54, 108, 99)
+Q.62 Z ranked 21st from the bottom and 63rd from the top in his class. How many students
+are there in his class?
+Ans
+ A. 82
+B. 83
+C. 80
+D. 81
+Q.63 What should come in place of the question mark (?) in the given series?
+2, 6, 12, 20, 30, ?
+Ans
+ A. 44
+B. 38
+C. 40
+D. 42
+Q.64 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+HNE MRH RVK WZN ?
+Ans
+ A. CER
+B. BDQ
+C. ACP
+D. BCR
+Q.65 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+42 × 6 − 12 + 3 ÷ 5 = ?
+Ans
+ A. 8
+B. 4
+C. 7
+D. 9
+Q.66 EKOV is related to WCGN in a certain way based on the English alphabetical order. In
+the same way, YEIP is related to QWAH. To which of the following options is AGKR
+related, following the same logic?
+Ans
+ A. SCJU
+B. SYCJ
+C. SCKP
+D. SCDE
+Q.67 What should come in place of the question mark (?) in the given series?
+50 44 40 34 ? 24
+Ans
+ A. 36
+B. 38
+C. 28
+D. 30
+Q.68 What should come in place of the question mark (?) in the given series?
+12 22 33 45 ? 721102
+Ans
+ A. 56
+B. 60
+C. 58
+D. 62
+Q.69 Refer to the given series and answer the question that follows (all numbers are single
+digit numbers only). Counting to be done from left to right only.
+(Left) 2 6 3 9 8 9 9 8 1 3 3 7 9 9 9 4 1 4 1 1 7 1 8 8 8 7 6 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 7
+B. 9
+C. 8
+D. 6
+Q.70 What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘-‘ are interchanged
+and ‘x’ and ‘÷’ are interchanged?
+231 ÷ 3 - 721 x 7 + 24 = ?
+Ans
+ A. 774
+B. 772
+C. 771
+D. 773
+Q.71 In a certain code language, ‘HELS’ is coded as ‘4695’ and ‘ALES’ is coded as ‘5749’.
+What is the code for ‘A’ in the given code language?
+Ans
+ A. 9
+B. 4
+C. 7
+D. 5
+Q.72    Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. OQ - JL
+B. LN - GI
+C. SU - NP
+D. PR - KN
+Q.73 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. JK−NO
+B. AB−EF
+C. NO−RS
+D. XY−AE
+Q.74 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some bells are pots.
+All pots are machines.
+Conclusions:
+(I): Some bells are machines.
+(II): All machines are pots.
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Only conclusion (I) follows
+C. Only conclusion (II) follows
+D. Neither conclusion (I) nor (II) follows
+Q.75 MNPM is related to NOQN in a certain way based on the English alphabetical order. In
+the same way, UVXU is related to VWYV. To which of the following is JKMJ related,
+following the same logic?
+Ans
+ A. KLMK
+B. KKMK
+C. KMMQ
+D. KLNK
+Q.76 In a row of 48 people facing north, Pari is 13th from the right end. If Vivek sits 16th to the
+left of Pari, what is Vivek’s position from the left end of the line?
+Ans
+ A. 19th
+B. 18th
+C. 21st
+D. 20th
+Q.77 EL 14 is related to BH 16 in a certain way. In the same way, PW 22 is related to MS 24. To
+which of the following is NU 27 related, following the same logic?
+Ans
+ A. KS 28
+B. JS 29
+C. JQ 28
+D. KQ 29
+Q.78 Seven friends, D, E, F, U, V, W and X, are sitting in a straight line, facing north. Only
+three people sit between U and F. V sits to the immediate left of F. No one sits to the
+right of X. Only two people sit between X and V. D sits to the immediate right of E. How
+many people sit between W and D?
+Ans
+ A. Two
+B. One
+C. Four
+D. Three
+Q.79 Piku, Aman, Krishna, Deepa, and Shrusti are sitting at a circular table facing the centre.
+Shrusti and Deepa are immediate neighbours. Piku is an immediate neighbour of both
+Deepa and Krishna. Who are the immediate neighbours of Aman?
+Ans
+ A. Shrusti and Krishna
+B. Piku and Shrusti
+C. Shrusti and Deepa
+D. Krishna and Deepa
+Q.80 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+PRT 28 VXZ 21 BDF 14 HJL 7 ?
+Ans
+ A. NRW -1
+B. NPR 0
+C. NQQ 0
+D. NOQ -1
+Section : General Awareness and Current Affairs
+Q.81 The BRICS Summit on 6–7 July 2025 was held in:
+Ans
+ A. Johannesburg, South Africa
+B. New Delhi, India
+C. Rio de Janeiro, Brazil
+D. Shanghai, China
+Q.82 How much funding was allocated to the Khelo India programme for the financial year
+2025-26?
+Ans
+ A. ₹100 crore
+B. ₹500 crore
+C. ₹1,000 crore
+D. ₹10,000 crore
+Q.83 Which of the following organisations formed a dedicated task force to support
+displaced female Afghan athletes or players?
+Ans
+ A. International Hockey Federation
+B. International Cricket Council
+C. International Federation of Association Football
+D. International Olympic Committee
+Q.84 Which All‑ India Financial Institution coordinates financing of Micro, Small and Medium
+Enterprises (MSME) according to the Dept of Financial Services Annual Report 2024‑ 25
+published in March 2025?
+Ans
+ A. National Bank for Agriculture and Rural Development (NABARD)
+B. Small Industrial Development Bank of India (SIDBI)
+C. Export -Import Bank of India (Exim Bank)
+D. National Bank for Financing Infrastructure and Development (NaBFID)
+Q.85 Which of the following banks was fined ₹29.6 lakh by the Reserve Bank of India (RBI)
+for violating regulations in June 2025?
+Ans
+ A. Canara Bank
+B. City Union Bank
+C. HDFC Bank
+D. Fino Payments Bank
+Q.86 At COP30 (November 2025), the “Baku–Belem Roadmap” aimed to scale climate
+finance to what annual level by 2035?
+Ans
+ A. US$10 trillion
+B. US$1.3 trillion
+C. US$2.5 trillion
+D. US$5.2 trillion
+Q.87 Who presented India’s Third Voluntary National Review (VNR) Report on Sustainable
+Development Goals (SDGs) in July 2025?
+Ans
+ A. Vice Chairman, NITI Aayog
+B. Prime Minister of India
+C. External Affairs Minister
+D. Finance Minister
+Q.88 Which of the following dignitaries inaugurated Asia’s largest telecom, media and
+technology event, the 9th edition of the India Mobile Congress (IMC) 2025, in New Delhi?
+Ans
+ A. CP Radhakrishnan
+B. Ashwini Vaishnaw
+C. Narendra Modi
+D. Droupadi Murmu
+Q.89 In October 2024, which minister from Andhra Pradesh met and invited Microsoft CEO
+Satya Nadella to Andhra Pradesh and sought Microsoft’s cooperation in improving e-
+governance and establishing IT hubs in the state?
+Ans
+ A. Vangalapudi Anitha
+B. N Chandrababu Naidu
+C. Kolusu Parthasarathy 
+D. Nara Lokesh
+Q.90 Manu Bhaker, who received the Major Dhyan Chand Khel Ratna Award in 2025, is
+primarily known for her achievements in which sport?
+Ans
+ A. Para-Athletics
+B. Badminton
+C. Hockey
+D. Shooting
+Q.91 Which cyclonic storm in November 2025 caused widespread flooding and prompted
+disaster relief responses in South India and Sri Lanka?
+Ans
+ A. Cyclone Amphan
+B. Cyclone Ditwah
+C. Cyclone Yaas
+D. Cyclone Tauktae
+Q.92 In July 2024, which Indian scientist was awarded with the Vikram Sarabhai Medal that
+honours outstanding space science research in developing countries?
+Ans
+ A. Umesh Varshney
+B. Anil Bhardwaj
+C. Govindarajan Padmanabhan
+D. Prahlad Chandra Agrawal
+Q.93 Rajasthan’s first Namo Biodiversity Park, inaugurated in October 2025, is located in
+which district?
+Ans
+ A. Kota District
+B. Alwar District
+C. Jaipur District
+D. Udaipur District
+Q.94 According to the Periodic Labour Force Survey (PLFS), May 2025, what was India’s
+overall unemployment rate reported by the Ministry of Statistics and Programme
+Implementation (MOSPI)?
+Ans
+ A. 5.1%
+B. 8.5%
+C. 6.6%
+D. 5.6%
+"
+Q.95 On which date was the 94th martyrdom day of Chandra Shekhar Azad observed in
+2025?
+Ans
+ A. 27th February
+B. 27th January
+C. 26th February
+D. 15th August
+Q.96 Which company signed an MoU with the Aeronautical Development Agency (ADA)
+during Aero India 2025, for the development of Flight Control Actuators for the AMCA
+programme?
+Ans
+ A. Tata Advanced Systems
+B. Hindustan Aeronautics Limited
+C. Bharat Dynamics Limited
+D. Godrej & Boyce Manufacturing Company Limited
+Q.97 The Income Tax Act, 2025, introduced a new concept to describe assets such as
+cryptocurrencies and tokenized assets. What is this new concept called?
+Ans
+ A. E-Assets
+B. Virtual Digital Assets
+C. Digital Currencies
+D. Crypto Tokens
+Q.98 Which Gujarati children’s poet won the Bal Sahitya Puraskar for Tinchak in June 2025?
+Ans
+ A. Akhil P Dharmajan
+B. Kirtida Brahmbhatt
+C. Parvati Tirkey
+D. Nandini Purandare
+Q.99 According to the National Commission for Women data released in January 2025, which
+Indian state reported the highest number of complaints of domestic violence in 2024?
+Ans
+ A. Uttar Pradesh
+B. Rajasthan
+C. Maharashtra
+D. Bihar
+Q.100Who was named the 2025 Laureus World Sportsman of the Year for his pole-vaulting
+record-breaking performances?
+Ans
+ A. Carlos Alcaraz
+B. Leon Marchand
+C. Max Verstappen
+D. Armand Duplantis

@@ -1,0 +1,783 @@
+Q.1 How can you identify a concave and a convex mirror based on the direction of their
+reflecting surfaces?
+Ans
+ A. A concave mirror has its reflecting surface curved inward; a convex mirror has its reflecting surface curved outward.
+B. A concave mirror and a convex mirror both reflect inward.
+C. A concave mirror reflects light outward, while a convex mirror reflects it inward.
+D. Both concave and convex mirrors have the same reflecting surface direction.
+Q.2 Which of the following is abiotic factor responsible for storage losses in agricultural
+produce?
+Ans
+ A. Insects
+B. Moisture
+C. Fungi
+D. Rodents
+Q.3 Why are grains first dried in sunlight and then in shade before storage?
+Ans
+ A. To reduce the colour of grains
+B. To reduce moisture content and prevent spoilage
+C. To save time
+D. To make them soft
+Q.4 An object is placed at 35.0 cm in front of a concave mirror of focal length 25.0 cm. At
+what distance from the mirror an image is formed?
+Ans
+ A. 10 cm
+B. 8.75 cm
+C. - 87.5 cm
+D. - 8.75 cm
+Q.5 Conventionally, what is the assigned direction of electric current in an electric circuit,
+given the flow of electrons?
+Ans
+ A. Same as the movement of molecules
+B. Opposite to the flow of electrons
+C. Opposite to the flow of positive charges
+D. Same as the movement of atoms
+Test Date 29/12/2025
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 The magnetic field around a straight current-carrying conductor:
+Ans
+ A. forms concentric circles around the conductor
+B. points along the conductor
+C. points radially outward
+D. is zero
+Q.7 Which of the following correctly represents the strength of attraction between particles
+in the three states of matter?
+Ans
+ A. Gas > Liquid > Solid
+B. Gas < Liquid < Solid
+C. Solid > Gas > Liquid
+D. Solid < Liquid < Gas
+Q.8 What name is given to the flat, stacked sacs that make up the Golgi apparatus?
+Ans
+ A. Cristae
+B. Thylakoids
+C. Cisternae
+D. Vesicles
+Q.9 If the frequency of a vibrating object is 50 Hz, what is its time period?
+Ans
+ A. 5 s
+B. 2 s
+C. 0.02 s
+D. 0.2 s
+Q.10 Which of the following is NOT applicable to the Law of Constant Proportion?
+Ans
+ A. Ionic Compounds
+B. Elements
+C. Compounds
+D. Mixtures
+Q.11 Ethanoic acid reacts with alcohols to form what compound?
+Ans
+ A. Ketone
+B. Esters
+C. Alcohols
+D. Aldehyde
+Q.12 Which structural feature contributes to the high reactivity of unsaturated organic
+compounds?
+Ans
+ A. Incomplete formation of the carbon atom backbone structure
+B. Presence of halogen atoms attached to the carbon framework
+C. Existence of double or triple bonds between carbon atoms
+D. Total absence of hydrogen atoms within the compound molecule
+Q.13 For uniformly accelerated motion, which of the following is true about the velocity–time
+graph?
+Ans
+ A. The graph is always curved because velocity changes irregularly.
+B. The graph is a straight line because velocity changes by equal amounts in equal intervals of time.
+C. The graph can have any shape depending on the motion.
+D. The graph is horizontal because velocity remains constant.
+Q.14 Consider the following statements and select the correct option.
+Statement A: Plants require specific soil pH for proper growth.
+Statement B: Farmers use pH values to decide the type of fertiliser to add.
+Ans
+ A. Statement A is incorrect but B is correct.
+B. Both statements A and B are incorrect.
+C. Statement A is correct but B is incorrect.
+D. Both statements A and B are correct.
+Q.15 Even though ovulation occurs regularly in a female, the uterus lining is shed during
+menstruation each month. What does this suggest about fertilisation?
+Ans
+ A. The uterus is rejecting the embryo
+B. Fertilisation is occurring each time
+C. Fertilisation is not occurring
+D. The ovary is not releasing eggs
+Q.16 Where does the heat energy go when the solid melts but its temperature remains the
+same?
+Ans
+ A. It is used to overcome the forces of attraction between the particles.
+B. It is used to overcome the forces of repulsion between the particles.
+C. It is lost to the surroundings while overcoming the forces of repulsion.
+D. It is lost to the surroundings while overcoming the forces of attraction.
+Q.17 A stone falls freely and covers a distance (s) 20 m in time (t) 2.0 s. What is the value of
+acceleration due to gravity (g)?
+Ans
+ A. 20.0 m/s2
+B. 8.0 m/s2
+C. 12.0 m/s2
+D. 10.0 m/s2
+Q.18 Isotopes of an element have the same number of __________.
+Ans
+ A. Neutrons
+B. Protons
+C. Nucleus
+D. Electrons
+Q.19 Why do passengers in a moving car tend to jerk forward when the brakes are suddenly
+applied?
+Ans
+ A. Because the brakes push the passengers forward
+B. Because of the inertia of motion that keeps the body moving forward
+C. Due to the force applied by the engine
+D. Because of the friction between the seat and the body
+Q.20 In human females, if the egg is not fertilised, the monthly shedding of the uterine lining
+is called which of the following?
+Ans
+ A. Menstruation
+B. Maturation
+C. Fertilisation
+D. Maintenance
+Q.21 Life on earth depends on ______ molecules as the main source of energy for all
+organisms.
+Ans
+ A. oxygen-based
+B. protein-based
+C. carbon-based
+D. nitrogen-based
+Q.22 Why are vesicles important in the functioning of the Golgi apparatus?
+Ans
+ A. They generate energy needed for packaging in Golgi apparatus
+B. They digest waste materials
+C. They help in forming the nucleus
+D. They carry materials to and from the Golgi apparatus
+Q.23 Which of the following is produced when a carbon compound undergoes complete
+combustion?
+Ans
+ A. Carbon monoxide and water
+B. Carbon and oxygen
+C. Carbon dioxide and hydrogen
+D. Carbon dioxide and water
+Q.24 A block of mass 1 kg is dropped from the top of a building of height 20 m. What will be
+the velocity with which the block hits the ground?
+(Take the value of g = 10 m/s2)
+Ans
+ A. 20 m/s
+B. 40 m/s
+C. √20 m/s
+D. √40 m/s
+Q.25 What happens in the female body if the egg is NOT fertilised?
+Ans
+ A. The uterine lining breaks down and is expelled as blood and mucous.
+B. The egg remains in the uterus and turns into an embryo.
+C. The ovary stops releasing eggs permanently.
+D. The thick uterine lining is retained permanently.
+Q.26 A water tank can be filled in 13 minutes using 46 identical pipes. How long (in minutes)
+will it take to fill the same tank if only 27 such pipes are used? (Round off the answer to
+two decimal places.)
+Ans
+ A. 13.33
+B. 20.82
+C. 22.15
+D. 15.63
+Q.27 The average age of 23 students of a class is 41 years. If the age of the teacher is also
+included, the average age of the whole group becomes 42 years. The age (in years) of
+the teacher is:
+Ans
+ A. 64
+B. 66
+C. 62
+D. 65
+Section : Mathematics
+Q.28 Radha has ₹10 and ₹5 coins. She has a total of 15 coins worth ₹85. How many coins of
+₹5 does she have?
+Ans
+ A. 8
+B. 13
+C. 7
+D. 5
+Q.29 A camp has provisions for 20 pupils for 13 days. In how many days will the same
+provisions be used up, if the strength of the camp is increased to 65 pupils?
+Ans
+ A. 5
+B. 3
+C. 4
+D. 7
+Q.30 A shopkeeper declares the following three schemes of discounts. Which scheme is the
+most beneficial to a customer?
+A. Buy 42 items and get 47 of the same items
+B. Two successive discounts of 16% and 36%
+C. Two successive equal discounts of 46%322
+Ans
+ A. Only A
+B. C and B both
+C. Only C
+D. Only B
+Q.31 A, B and C can do a piece of work in 3, 6 and 2 days, respectively. How long (in days)
+will they take to do twice the same work, working together?
+Ans
+ A. 6
+B. 4
+C. 3
+D. 2
+Q.32 A cylindrical pillar has a diameter of 10 cm and a height of 35 cm. The curved surface is
+to be painted at a cost of ₹12/cm2. If a 10% discount is offered on the total painting
+cost, how much will be paid? (Use π =
+)
+Ans
+ A. ₹11,550
+B. ₹11,660
+C. ₹11,880
+D. ₹11,770
+Q.33 For 5 innings, a cricketer has an average of 80 runs. In the 6th inning, he scores 194
+runs. His average score increased by _______.
+Ans
+ A. 21
+B. 26
+C. 29
+D. 19
+Q.34 A train travels at 84.6 km/hr. How many metres will it travel in 20 minutes?
+Ans
+ A. 28,200
+B. 26,200
+C. 26,400
+D. 24,600
+Q.35 The amount on a sum of ₹7,300 at 10% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹8,251
+B. ₹8,833
+C. ₹9,391
+D. ₹8,444
+Q.36
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.37
+11130
+Ans
+ A. 93 minutes
+B. 91 minutes
+C. 90 minutes
+D. 85 minutes
+Q.38 In an election, the winner gets 80% of the total valid votes. If 18% are invalid votes out
+of 2,00,000 votes, then the votes polled in favour of the winner are:6491
+Ans
+ A. 1,21,300
+B. 1,13,200
+C. 1,31,200
+D. 1,32,100
+Q.39 In quadrilateral PQRS, the bisectors of ∠R and ∠S meet at the point T (inside the
+quadrilateral) and ∠STR = 18°. If the ratio of ∠P to ∠Q is 2 : 7, then what is the
+difference between the measures of ∠Q and ∠P?
+Ans
+ A. 20°
+B. 16°
+C. 17°
+D. 13°
+Q.40 If the fourth proportional to 8, X and 15 is 135, then find the value of X.4888
+Ans
+ A. 71
+B. 73
+C. 74
+D. 72
+Q.41 The length of a rectangular field is (2x + y2) m and breadth is (2x − y2) m. Find the area
+of the rectangular field when x = 2 and y = 1.
+Ans
+ A. 26 m2
+B. 29 m2
+C. 15 m2
+D. 12 m2
+Q.42 The price of fuel decreases by 10%, 45% and 55% in three successive months, but
+increases by 55% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price? (Round off the
+answer to two decimal places.)
+Ans
+ A. Increases by 63.38%
+B. Decreases by 64.94%
+C. Increases by 70.18%
+D. Decreases by 65.47%
+Q.43
+Ans
+ A. 47.65 m3
+B. 36.35 m3
+C. 58.21 m3
+D. 28.31 m3
+Q.44 A shopkeeper buys 20 pens for a total of ₹200. He sells each pen for ₹12. What is his
+total profit?
+Ans
+ A. ₹20
+B. ₹30
+C. ₹60
+D. ₹40
+Q.45 Reena is 5 years older than Meena. Eight years ago from now, Reena's age was twice
+the age of Meena. Find the present age of Reena.
+Ans
+ A. 18 years
+B. 21 years
+C. 26 years
+D. 32 years
+Q.46 In triangle XYZ, sides XY = 12 cm, YZ = 15 cm and angle ∠Y = 120°. What is the length of
+side XZ?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.47 Raj’s monthly income is ₹50,000. He spends 40% of his income on household expenses
+and saves the remaining amount. If his income increases by 10%, and his expenditure
+on household expenses remains the same percentage of his income, calculate the
+amount (in ₹) he saves after the increment.6425
+Ans
+ A. 33,000
+B. 31,500
+C. 31,000
+D. 33,500
+Q.48 A dealer allowed a 23% discount on an article and was still able to manage a 44% profit.
+Find the ratio of the cost price to the listed price.
+Ans
+ A. 76 : 146
+B. 74 : 149
+C. 77 : 144
+D. 78 : 151
+Q.49 A total profit of ₹13,800 is to be distributed amongst A, B and C such that A : B = 20 : 2
+and B : C = 1 : 4. The share (in ₹) of B in the profit is:
+Ans
+ A. 820
+B. 1,070
+C. 870
+D. 920
+Q.50 Find the HCF of the numbers 4220, 5440 and 6880.
+Ans
+ A. 60
+B. 40
+C. 20
+D. 80
+Q.51 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+AQE3, DOH6, GMK9, ?
+Ans
+ A. KLN12
+B. JKM10 
+C. KLM10 
+D. JKN12
+Q.52 In a row of 50 people facing north, Amit sits 17th from the left end. If only 18 people sit
+to the right of Vilas, then how many people sit between Amit and Vilas?
+Ans
+ A. 12
+B. 16
+C. 14
+D. 15
+Q.53 In a row of all 95 students facing the north, Mr. Hepa is 9th from the right end. If Mr.
+Annu is 13th to the left of Mr. Hepa, what is Mr. Annu's position from the left end of the
+row?
+Ans
+ A. 76th
+B. 75th
+C. 73rd
+D. 74th
+Q.54 Select the triad which follows the same pattern as that followed by the two triads given
+below. Both triads follow the same pattern.
+NF-KC-HJ
+LD-IA-FH
+Ans
+ A. SL-QI-NO
+B. TL-QI-NO
+C. TL-QI-NP
+D. SL-RI-NO
+Section : General Intelligence and Reasoning
+Q.55 If ‘+’ means ‘−’, ‘−’ means ‘×’, ‘×’ means ‘÷’ and ‘÷’ means ‘+’, then what will come in
+place of the question mark (?) in the following equation?
+16 × 4 + 3 − 4 ÷ 8 = ?
+Ans
+ A. 13
+B. 4
+C. 0
+D. 8
+Q.56 What should come in place of the question mark (?) in the given series?
+102 80 58 36 14 ?
+Ans
+ A. −8
+B. −6
+C. −4
+D. 0
+Q.57 EIJI is related to JNON in a certain way based on the English alphabetical order. In the
+same way, PTUT is related to UYZY. To which of the given options is IMNM related,
+following the same logic?
+Ans
+ A. NRRR
+B. NSRY
+C. NQRR
+D. NRSR 
+Q.58 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only).
+(Left) 4 6 5 6 3 2 8 3 3 5 2 8 5 2 4 8 1 4 1 3 5 5 9 9 3 9 6 (Right)
+How many such odd numbers are there (from left to right), each of which is immediately
+preceded by an even number and also immediately followed by an even number?
+Ans
+ A. 6
+B. 4
+C. 3
+D. 5
+Q.59 Refer to the following series and answer the question that follows (all numbers are
+single digit numbers only). Counting to be done from left to right only.
+(Left) 4 3 3 5 3 9 5 4 4 3 8 7 9 8 8 1 1 3 2 5 9 1 8 7 1 5 6 (Right)
+How many such even numbers are there each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?6700
+Ans
+ A. 4
+B. 5
+C. 2
+D. 3
+Q.60 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All mangoes are artists.
+All kiwis are mangoes.
+Conclusions:
+(I): All kiwis are artists
+(II): Some artists are kiwis
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Neither conclusion (I) nor (II) follows
+C. Only conclusion (II) follows
+D. Only conclusion (I) follows
+Q.61 What should come in place of the question mark (?) in the given series?
+1101 1104 1108 1113 1119 ?
+Ans
+ A. 1124
+B. 1126
+C. 1123
+D. 1125
+Q.62 In a certain code language, DTWG is coded as 42 and RAYI is coded as 43. What is the
+code for OZES in that language?
+Ans
+ A. 28
+B. 37
+C. 31
+D. 35
+Q.63 A, B, C, D, E and F are sitting around a circular table facing the centre. D sits third to
+the right of C. A sits second to the left of C. E sits second to the right of F. B sits to the
+immediate right of E. How many people sit between A and F when counted from the left
+of A?
+Ans
+ A. Two
+B. Four
+C. None
+D. One
+Q.64 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only.
+(Left) 6 © % © 7 # 5 % 5 4 2 # © 5 6 2 © $ € 1 € 8 (Right)
+How many such symbols are there, each of which is immediately preceded by a number
+and also immediately followed by a number?
+Ans
+ A. 8
+B. 3
+C. 9
+D. 4
+Q.65 If 1 is added to each odd digit and 2 is subtracted from each even digit in the number
+63157842, how many digits will appear more than once in the new number thus
+formed?
+Ans
+ A. 2
+B. 3
+C. 1
+D. 4
+Q.66 Seven people, A, B, C, D, E, F and G, are sitting in a straight line, facing the north.
+A sits second from one of the extreme ends of the line. Only two people sit between A
+and B. C sits second to the right of B. Only three people sit between C and D. F sits
+second to the left of D. E sits at one of the positions to the right of G.
+How many people sit between A and G?
+Ans
+ A. One
+B. Two
+C. Three
+D. None
+Q.67 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+COP20 , WIJ27 , QCD34 , KWX41 , ?
+Ans
+ A. EQR48
+B. EOR48
+C. EQP48
+D. ELR48
+Q.68 In a certain code language,
+A x B means ‘A is the father of B’,
+A – B means ‘A is the mother of B’,
+A ÷ B means ‘A is the son of B’ and
+A + B means ‘A is the brother of B’.
+How is K related to Q if ‘K x M − N + P ÷ Q’?
+Ans
+ A. Daughter's son
+B. Wife's father
+C. Wife's brother
+D. Mother's father
+Q.69 Prayansh starts from point A and drives 34 km towards the north. He then takes a left
+turn, drives 41 km, turns left and drives 56 km. He then takes a left turn and drives 63
+km. He takes a final left turn, drives 22 km and stops at point P. How far (shortest
+distance) and towards which direction should he drive in order to reach point A again?
+(All turns are 90-degree turns only, unless specified.)
+Ans
+ A. 23 km to the west
+B. 20 km to the east
+C. 21 km to the east
+D. 22 km to the west
+Q.70 If 1 is added to each even digit and 2 is subtracted from each odd digit in the number
+4593867, which of the following digits will be second from the left in the new number
+thus formed?
+Ans
+ A. 5
+B. 3
+C. 8
+D. 9
+Q.71 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE : Operations should be performed on the whole numbers, without breaking
+down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding
+/ subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(17, 25, 59)
+(5, 13, 35)3161
+Ans
+ A. (9, 17, 25)
+B. (11, 19, 48)
+C. (13, 21, 51)
+D. (15, 7, 23)
+Q.72 In a certain code language, ‘HAVE’ is coded as ‘4579’ and ‘VOLT’ is coded as ‘2438’.
+What is the code for ‘V’ in the given code language?
+Ans
+ A. 8
+B. 2
+C. 4
+D. 7
+Q.73 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 3 4 4 9 8 8 6 8 4 2 1 1 8 5 9 8 5 7 1 8 6 2 7 2 9 2 6 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+even number and also immediately followed by an even number?
+Ans
+ A. 2
+B. 5
+C. 3
+D. 4
+Q.74 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All helmets are mats.
+All helmets are bottles.
+Conclusions:
+(I): Some mats are bottles.
+(II): All bottles are helmets.
+Ans
+ A. Only conclusion (II) follows
+B. Only conclusion (I) follows
+C. Neither conclusion (I) nor (II) follows
+D. Both conclusions (I) and (II) follow
+Q.75 Eight people (P, Q, R, S, T, U, V and W) are sitting around a circular table, facing
+towards the centre.
+There are exactly three people sitting between U and V. P is an immediate neighbour of
+both T and Q. Q sits to the immediate right of U. W is an immediate neighbour of both R
+and S. R sits second to the right of T.
+How many people sit between W and Q, when counted from the right of W?
+Ans
+ A. 1
+B. 3
+C. 4
+D. 2
+Q.76 What should come in place of the question mark (?) in the given series?
+28 39 52 67 84 ?
+Ans
+ A. 105
+B. 103
+C. 104
+D. 102
+Q.77 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. BG – EL
+B. KF – MK
+C. OP – QU
+D. SZ – UE
+Q.78 LHIG is related to DZAY in a certain way based on the English alphabetical order. In the
+same way, XTUS is related to PLMK. To which of the following is NJKI related, following
+the same logic?
+Ans
+ A. FCBK
+B. FBBA
+C. FBCA
+D. FABA
+Q.79 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. CF-JE
+B. AD-HB
+C. GJ-NI
+D. EH-LG
+Q.80 Sachin ran 15 metres east from the starting point A. He then took a left turn and ran 25
+metres, after which he took a right turn and ran another 5 metres. He took one last right
+turn and ran 25 metres until he reached point B. How far and in which direction should
+he run in order to reach point A? (All turns are 90-degree turns only, unless specified.)
+Ans
+ A. 20 metres towards the west
+B. 25 metres towards the east
+C. 22 metres towards the west
+D. 20 metres towards the east
+Q.81 Which international agency raised concerns leading to amendments in India’s anti-
+doping law in July 2025?
+Ans
+ A. International Olympic Committee (IOC)
+B. World Health Organization (WHO)
+C. World Anti-Doping Agency (WADA)
+D. United Nations Educational, Scientific and Cultural Organization (UNESCO)
+Section : General Awareness and Current Affairs
+Q.82 With which of the following government bodies, did the Reserve Bank of India (RBI)
+collaborate in June 2025 to curb spam loan and credit‑ card calls?
+Ans
+ A. Telecom Regulatory Authority of India (TRAI)
+B. Unique Identification Authority of India (UIDAI)
+C. Securities and Exchange Board of India (SEBI)
+D. Central Bureau of Investigation (CBI)
+Q.83 Who was named Sportsperson of the Year with a Disability at the 2025 Laureus
+Awards?
+Ans
+ A. Sophie Pascoe
+B. Ellie Simmonds
+C. Liu Yaxin
+D. Jiang Yuyan
+Q.84 In which of the following states was the Skill Development Centre inaugurated under
+the ‘Pradhan Mantri Jan Vikas Karyakram’ scheme in July 2025?
+Ans
+ A. Maharashtra
+B. Gujarat
+C. Punjab
+D. Kerala
+Q.85 Which two companies signed a Joint Venture Cooperation Agreement (JVCA) for the
+production of HAMMER smart precision guided Air-to-Ground weapons in India in
+November 2025?
+Ans
+ A. Bharat Dynamics Limited (BDL) & Thales Group
+B. Larsen & Toubro (L&T) & Raytheon Technologies Corporation
+C. Hindustan Aeronautics Limited (HAL) & Lockheed Martin Corporation
+D. Bharat Electronics Limited (BEL) & Safran Electronics and Defence (SED)
+Q.86 South Africa ended a 27-year wait for a major cricket title by winning which
+tournament?
+Ans
+ A. ICC T20 World Cup
+B. ICC Cricket World Cup
+C. World Test Championship
+D. Champions Trophy
+Q.87 The annual elephant rejuvenation camp held in September 2025 was conducted in
+which of the following tiger reserves of Madhya Pradesh?
+Ans
+ A. Sanjay Tiger Reserve
+B. Kanha Tiger Reserve
+C. Satpura Tiger Reserve
+D. Bandhavgarh Tiger Reserve
+Q.88 Which of the following measures did the Delhi government and IIT Kanpur attempt in
+October 2025 to clear smog that eventually proved unsuccessful due to low
+atmospheric moisture?
+Ans
+ A. Cloud-seeding to induce artificial rain
+B. Deploying large-scale air purifiers in all public parks
+C. Imposing a city-wide vehicle ban
+D. Restricting industrial operations for one week
+Q.89 In January 2025, Chief Minister Conrad K Sangma inaugurated the 6th Meghalaya
+Games at which venue in Jowai?
+Ans
+ A. Shillong Sports Complex
+B. Jawaharlal Nehru Stadium
+C. Tura Indoor Stadium
+D. Wahiajer Multi Sports Complex Stadium
+Q.90 Which city hosted the Kho Kho World Cup from 13 to 19 January 2025?
+Ans
+ A. Chennai
+B. New Delhi
+C. Mumbai
+D. Kolkata
+Q.91 According to the IMF World Economic Outlook, 2025, which of the following countries
+is projected to have the highest GDP growth among major economies?
+Ans
+ A. Japan
+B. The United States of America
+C. India
+D. China
+Q.92 Who was sworn in as the Chief Minister of Delhi following the 2025 elections?
+Ans
+ A. Atishi Marlena
+B. Rekha Gupta
+C. Manish Sisodia
+D. Arvind Kejriwal
+Q.93 Dr. C Anandharamakrishnan received the Rashtriya Vigyan Puraskar 2024 in the Vigyan
+Shri category for his contribution to the field of ______.
+Ans
+ A. Atomic Energy
+B. Medicine
+C. Agricultural Science
+D. Biological Science
+Q.94 In March 2025, the government of which of the following states announced to bring
+5,000 hectares under afforestation during the year 2025-2026?
+Ans
+ A. Kerala
+B. Himachal Pradesh
+C. Odisha
+D. West Bengal
+Q.95 Which new private reinsurer entered the Indian market in March 2025?
+Ans
+ A. General Re
+B. ABC Reinsurance
+C. Valueattics Reinsurance
+D. Falcon Re
+"
+Q.96 Which veteran actor and dancer, noted for her appearances in films like ‘Navrang’ and
+‘Pinjra’, passed away in October 2025?
+Ans
+ A. Sulakshana Pandit
+B. Jyoti Chandekar
+C. Sandhya Shantaram
+D. Madhumati
+Q.97 ‘Sanghatil Manavi Vyavasthapan’ offering RSS insights, was authored by which
+politician published in May 2025?
+Ans
+ A. Nitin Gadkari
+B. Yogi Adityanath
+C. Amit Shah
+D. Shashi Tharoor
+Q.98 Which of the following commands participated in the successful combat launch of the
+BrahMos Supersonic Cruise Missile by the Indian Army in December 2025 from a test
+range in the Bay of Bengal?
+Ans
+ A. Western Command
+B. Northern Command
+C. Eastern Command
+D. Southern Command
+Q.99 In November 2024, the Indian Space Research Organisation (ISRO) launched India’s
+inaugural analog space mission at __________ with an aim to simulate interplanetary
+habitat conditions and helping scientists explore the feasibility of establishing a
+sustainable base station beyond Earth.
+Ans
+ A. Chandipur
+B. Tawang
+C. Pokhran
+D. Leh
+Q.100The International Monetary Fund (IMF) sanctioned $2.3bn fund to which of the following
+countries in May 2025?
+Ans
+ A. Syria
+B. Sri Lanka
+C. Ukraine
+D. Pakistan

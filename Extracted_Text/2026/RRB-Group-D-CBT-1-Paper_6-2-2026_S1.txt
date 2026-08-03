@@ -1,0 +1,777 @@
+Q.1 Which of the following statements about Newton’s third law of motion is incorrect?
+Ans
+ A. When one object exerts a force on another, the second object exerts an equal and opposite force back.
+B. The forces are equal in magnitude but opposite in direction.
+C. The forces act simultaneously on two different objects.
+D. The action and reaction forces act on the same object.
+Q.2 Which part of the brain is primarily responsible for higher-level thought processes and
+complex interpretation of sensory information?
+Ans
+ A. The brainstem
+B. The cerebellum
+C. The spinal cord
+D. The forebrain
+Q.3 In a large population of sweet pea plants growing in stable conditions, which of the
+following best explains why genetic variation through sexual reproduction is still
+crucial for their long-term survival?
+Ans
+ A. Sweet pea plants reproduce faster sexually than asexually, ensuring more biomass production.
+B. Genetic variation ensures uniform flower color and height across future generations.
+C. Variation helps sweet pea plants avoid cross-pollination, maintaining purity of the parental line.
+D. Hidden (recessive) alleles in sweet peas may offer resistance against future environmental stress.
+Q.4 The resistance of a metal wire of length 2 m is 10 Ω at 25°C. If the diameter of the wire is
+0.4 mm, what will be the resistivity of the metal at that temperature?
+[Given, π = 3.14]
+Ans
+ A. 3.6 x 10-6 Ωm
+B. 1.55 x 10-6 Ωm
+C. 6.3 x 10-5 Ωm
+D. 6.3 x 10-7 Ωm
+Q.5 Which component of blood serves as the fluid matrix in which cells are suspended?
+Ans
+ A. White blood cells
+B. Platelets
+C. Plasma
+D. Red blood cells
+Test Date 06/02/2026
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following feature enables muscular tissue to produce movement in
+animals?
+Ans
+ A. Presence of contractile proteins
+B. Ability to transmit nerve impulses
+C. Storage of fat droplets
+D. Secretion of digestive enzymes
+Q.7 In plants that reproduce by budding, which process directly initiates the formation of a
+new individual?
+Ans
+ A. Development of seeds from flowers
+B. Fusion of gametes from different individuals
+C. Localized repeated cell division at a specific site
+D. Random cell death in tissues
+Q.8 A student wants to separate a heterogeneous mixture of mud and water collected from
+a pond. Based on your understanding of mixtures, which method would be most
+effective and why?
+Ans
+ A. Filtration, because the solid particles in mud are not dissolved in water
+B. Evaporation, because it removes the solvent
+C. Chromatography, because it separates based on movement in a medium
+D. Distillation, because it separates based on boiling points
+Q.9 A wire of resistivity ρ, has a length L and area of cross-section A. If the resistance of
+the wire is R, then which of the following is the correct relation for R?
+Ans
+ A. R = Aρ/L
+B. R = ρL/A
+C. R = ρLA
+D. R = L/ρA
+Q.10 When a force is applied at 90° to the direction of displacement of an object, the work
+done:
+Ans
+ A. is maximum
+B. cannot be determined
+C. is zero
+D. is minimum but not zero
+Q.11 The cellular organelles are suspended in a jelly called _________.
+Ans
+ A. Cytoplasm
+B. Lumen
+C. Nucleoplasm
+D. Stroma
+Q.12 What will the distance-time graph look like for an object moving with uniform speed?
+Ans
+ A. The graph is a zig zag line.
+B. The graph looks like a sine wave.
+C. The graph is a straight line.
+D. The graph cannot be drawn.
+Q.13 In plants, after fertilisation, the ovule develops into which of the following?
+Ans
+ A. Fruit
+B. Embryo
+C. Endosperm
+D. Seed
+Q.14 The way of obtaining fish from natural resources is called __________.
+Ans
+ A. Composite fishing
+B. Farming fishing
+C. Culture fishing
+D. Capture fishing
+Q.15 Consider the following statements and select the correct option.
+Statement A: Small quantities of ethanol cause drunkenness.
+Statement B: Intake of pure ethanol is safe for health.
+Ans
+ A. Both statements A and B are incorrect.
+B. Statement A is incorrect, but B is correct.
+C. Both statements A and B are correct.
+D. Statement A is correct, but B is incorrect.
+Q.16 What is ultrasonography used for during pregnancy?
+Ans
+ A. To detect birth defects and monitor the baby’s growth
+B. To find the blood group of the baby
+C. To measure the mother's weight
+D. To check the mother’s heartbeat
+Q.17 A ball is thrown up with a velocity of x m/s. The ball attains a maximum height of 50 m.
+What is the value of x? (Take the value of g as 10 m/s2)
+Ans
+ A. 10 m/s
+B. 10√10 m/s
+C. 1000 m/s
+D. 100 m/s
+Q.18 A substance is said to be reduced when:
+Ans
+ A. it loses hydrogen or gains oxygen
+B. it loses oxygen only
+C. it loses oxygen or gains hydrogen
+D. it gains hydrogen only
+Q.19 Which method is commonly used to prevent rusting of Iron?
+Ans
+ A. Melting
+B. Magnetising
+C. Galvanisation
+D. Heating
+Q.20 Which property best explains why solids have a definite shape and volume?
+Ans
+ A. The particles can move freely past each other.
+B. The particles have large spaces between them.
+C. The particles are closely packed in a fixed arrangement.
+D. The particles are randomly arranged.
+Q.21 Which gas is released when hydrochloric acid reacts with calcium carbonate?
+Ans
+ A. Carbon dioxide
+B. Nitrogen
+C. Hydrogen
+D. Oxygen
+Q.22 Which of the following statement(s) is/are true regarding a concave lens?
+(i) A concave lens is also called a diverging lens.
+(ii) A concave lens always forms a real and inverted image of the object placed
+anywhere in front of it.
+(iii) A concave lens always forms a virtual and erect image of the object placed
+anywhere in front of it.
+Ans
+ A. Only (iii)
+B. Both (i) and (iii)
+C. Only (ii)
+D. Both (i) and (ii)
+Q.23 Lenses are used in spectacles to correct vision because they work on the principle of
+__________.
+Ans
+ A. Diffraction
+B. Polarization
+C. Reflection
+D. Refraction
+Q.24 Which of the following is a straight-chain saturated hydrocarbon?
+Ans
+ A. Butane
+B. Cyclohexane
+C. Benzene
+D. Propene
+Q.25 A molecule of methane contains one carbon atom bonded to four hydrogen atoms.
+What is the chemical formula for methane?
+Ans
+ A. CH4
+B. CH3
+C. C4H
+D. C2H4
+Q.26 The arithmetic mean of the observations 67, 76, 97, 34, 38, 63, 95, 95 and 74 is:
+Ans
+ A. 63
+B. 62
+C. 71
+D. 68
+Q.27
+733
+Ans
+ A. 
+B. 
+C. 
+D. 
+Section : Mathematics
+Q.28
+Ans
+ A. 2
+B. 4
+C. 3
+D. 5
+Q.29
+Ans
+A. 
+B. 
+C. 
+D. 
+Q.30 The average of the first 10 odd natural numbers is:
+Ans
+ A. 10
+B. 10.5
+C. 9.5
+D. 11
+Q.31 A garrison of 1200 men has provisions for 13 days. How long (in days) will the
+provisions last if the garrison is increased by 360 men?2670
+Ans
+ A. 30
+B. 5
+C. 20
+D. 10
+Q.32 A person earns ₹40,000 per month. He allocates 25% of his income to rent, 15% to food,
+and 10% to transportation, and saves the remainder. How much does he save every
+month?
+Ans
+ A. ₹10,000
+B. ₹12,000
+C. ₹20,000
+D. ₹24,000
+Q.33 The amount on a sum of ₹8,400 at 15% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹11,109
+B. ₹11,668
+C. ₹11,339
+D. ₹10,837
+Q.34 The price of a faucet and a wash basin are ₹860 and ₹2900, respectively. If the price of
+the faucet and that of the wash basin is increased by 5% and 10%, respectively, then
+find the price of 6 faucets and 6 wash basins.6720
+Ans
+ A. ₹22,560
+B. ₹24,558
+C. ₹36,500
+D. ₹20,550
+Q.35 The LCM of two numbers 216 and 120 is 1080. Find the HCF of these numbers.
+Ans
+ A. 32
+B. 48
+C. 36
+D. 24
+Q.36 If sin θ = 3/5, then find the value of cos θ.
+Ans
+ A. 3/5
+B. 
+C. 5/4
+D. 4/5
+Q.37 If ₹2,443 is divided among 363 children such that each girl and each boy get ₹6 and ₹7,
+respectively, then how many boys are there?
+Ans
+ A. 285
+B. 325
+C. 225
+D. 265
+Q.38 A person covers a certain distance with a speed of 17 km/h in 8 min. If he wants to
+cover the same distance in 5 min, what should be his speed?
+Ans
+ A. 26.2 km/h
+B. 27.2 km/h
+C. 29.2 km/h
+D. 28.2 km/h
+Q.39 One pipe can fill a tank in 9 minutes, while another pipe can empty the completely filled
+tank in 12 minutes. If both the pipes are opened together when the tank is empty, how
+many minutes will it take to fill one-half of the tank?
+Ans
+ A. 18
+B. 19
+C. 37
+D. 36
+Q.40 The volume of a solid cylinder is 6776 cm3 and its height is 44 cm. What is the total
+surface area of the solid cylinder?
+Ans
+ A. 2244 cm2
+B. 2221 cm2
+C. 2227 cm2
+D. 2273 cm2
+Q.41 In an equilateral triangle ABC, point D lies on side BC such that, 3BD = BC. Which of the
+following relations is correct?
+Ans
+ A. 7AD2=9AB2
+B. 4AD2=3AB2
+C. 9AD2=7AB2
+D. 3AD2=4AB2
+Q.42 The income of Amit in 2019 was ₹22,200. He gets an increment of 10% every year. What
+was his income (in ₹) in 2021?
+Ans
+ A. 24,420
+B. 26,640
+C. 26,862
+D. 22,200
+Q.43 A basket contains 96 fruits consisting of mangoes and oranges. If there are 42 more
+mangoes than oranges, then how many mangoes are there?
+Ans
+ A. 49
+B. 59
+C. 69
+D. 79
+Q.44 A cistern has a leak at the bottom. A pipe can fill the cistern in 6 hours, but due to the
+leak, it takes 8 hours to fill the cistern. How long would the leak take to empty the full
+cistern?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.45
+Ans
+ A. 56.5 m
+B. 52.5 m
+C. 58.5 m
+D. 50.5 m
+Q.46 The marked price of a jeans was ₹7,750 but the shopkeeper offered successive
+discounts of 20% and 30%. Ultimately for how much did he sell the item?593
+Ans
+ A. ₹4,397
+B. ₹4,340
+C. ₹4,224
+D. ₹4,356
+Q.47 ₹12,986 is divided among A, B and C in such a way that if ₹33, ₹70 and ₹19 are
+deducted from their respective shares, they have money in the ratio 14:8:2. Find the
+difference between B’s and C’s original shares.
+Ans
+ A. ₹3,366
+B. ₹3,166
+C. ₹3,267
+D. ₹3,116
+Q.48 If ( 42 )a × ( 162 )2a × ( 34 )b × ( 92 )2b = 220 × ( 92 )6, find the values of a and b,
+respectively.
+Ans
+ A. 2, 1
+B. 3, 2
+C. 2, 3
+D. 1, 2
+Q.49 A shopkeeper offers the following four schemes.
+A) Two successive discounts of 19% and 19%
+B) Buy 2, get 10
+C) Discount of 11%
+D) Two successive discounts of 25% and 17%
+Which scheme is best for customers?
+Ans
+ A. D
+B. A
+C. C
+D. B
+Q.50
+Ans
+ A. 1,205
+B. 1,280
+C. 1,250
+D. 1,520
+Q.51 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All pencils are erasers.
+All pencils are rulers.
+All rulers are boxes.
+Conclusions:
+(I) All pencils are boxes.
+(II) Some rulers are erasers.
+Ans
+ A. Only conclusion (II) follows
+B. Only conclusion (I) follows
+C. Neither conclusion (I) nor (II) follows
+D. Both conclusions (I) and (II) follow
+Q.52 Six people G, H, I, Q, R and S are sitting in a straight line facing the north. Only three
+people are seated to the left of H. Only Q is seated to the right of S. Only three people
+are seated between Q and I. G is seated at some place to the right of R. How many
+people are seated between R and S?
+Ans
+ A. Two
+B. One
+C. Three
+D. Four
+Section : General Intelligence and Reasoning
+Q.53 All 36 students in a class are standing in a row, facing north. Priya is 9th from the left
+end while Neeraj is 27th from the right end. How many people stand between Priya and
+Neeraj?
+Ans
+ A. 3
+B. 1
+C. 0
+D. 2
+Q.54 What should come in place of ? in the given series?
+30 36 47 63 84 ?6042
+Ans
+ A. 112
+B. 109
+C. 111
+D. 110
+Q.55 Raman ranked 10th from the top and 5th from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 11
+B. 10
+C. 14
+D. 12
+Q.56 What should come in place of ‘?’ in the given series?
+153 164 177 192 209 ?
+Ans
+ A. 230
+B. 226
+C. 228
+D. 227
+Q.57 A, B, C, D, E, F and G are sitting around a circular table facing the centre. B sits second
+to the right of A. E sits to the immediate left of A. C is the immediate neighbour of F and
+G. D sits second to the left of F.
+How many people sit between E and G when counted from the left of E?
+Ans
+ A. None
+B. One
+C. Three
+D. Four
+Q.58 If 1 is added to each odd digit and 2 is subtracted from each even digit in the number
+5431786, what will be difference between the highest and lowest digits in the number
+thus formed?
+Ans
+ A. 6
+B. 14
+C. 8
+D. 10
+Q.59 Refer to the following series and answer the question (all numbers are single-digit
+numbers only) (Counting to be done from left to right only)
+(Left) 3 7 9 8 5 3 6 2 2 1 5 3 7 1 5 7 5 7 1 8 4 3 6 9 7 4 4 (Right)
+How many such odd digits are there, each of which is immediately preceded by an odd
+digit and also immediately followed by an odd digit?
+Ans
+ A. More than three
+B. Three
+C. One
+D. Two
+Q.60 What will come in the place of the question mark (?) in the following equation, if ‘+’ and
+‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+42 × 7 ÷ 8 − 16 + 9 = ?
+Ans
+ A. 50
+B. 52
+C. 60
+D. 55
+Q.61 Refer to the given series and answer the question that follows (all numbers are single
+digit numbers only). Counting to be done from left to right only.
+(Left) 6 6 8 6 7 4 5 9 9 1 7 6 8 1 4 5 4 7 1 4 1 1 4 3 5 4 3 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 3
+B. 1
+C. 0
+D. 2
+Q.62 This question is based on the five, three-digit numbers given below.
+(Left) 629 125 534 756 438 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+If all the numbers are arranged in ascending order, the position of how many numbers
+will remain unchanged?
+Ans
+ A. Three
+B. One
+C. None
+D. Two
+Q.63 LMUG is related to RHYD in a certain way. In the same way, JNSF is related to PIWC. To
+which of the following is HIVT related, following the same logic?
+Ans
+ A. MEZR
+B. MDYQ
+C. NEYR
+D. NDZQ
+Q.64 Refer to the following series and answer the question (all numbers are single digit
+numbers only).
+(Left) 8 6 5 6 7 2 5 9 8 6 3 2 3 3 4 4 4 6 1 4 4 1 4 5 2 6 6 (Right)
+How many such even numbers are there (from left to right) each of which is
+immediately preceded by an odd number and also immediately followed by an odd
+number?4397
+Ans
+ A. 5
+B. 3
+C. 6
+D. 4
+Q.65 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(5, 14, 35)
+(4,13, 33)3158
+Ans
+ A. (8, 17, 27)
+B. (10, 19, 45)
+C. (7, 16, 40)
+D. (16, 7, 21)
+Q.66 Ravi drove 20 km from his office towards the north. He then took a right turn and drove
+5 km. He took another right turn and drove 10 km, and then turned right, drove 5 km,
+and stopped at point A. How far is Ravi from his initial position?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. 15 km
+B. 5 km
+C. 20 km
+D. 10 km
+Q.67 What should come in place of the question mark (?) in the given series?
+158 169 191 224 268 ?
+Ans
+ A. 321
+B. 323
+C. 332
+D. 312
+Q.68 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some bats are nets.
+All cubs are nets.
+Conclusions:
+(I) Some bats are cubs.
+(II) All nets are cubs.
+Ans
+ A. Neither conclusion (I) nor (II) follows.
+B. Only conclusion (II) follows.
+C. Both conclusions (I) and (II) follow.
+D. Only conclusion (I) follows.
+Q.69 In a certain code language,
+A + B means ‘A is the sister of B’,
+A – B means ‘A is the father of B’,
+A × B means ‘A is the brother of B’ and
+A ÷ B means ‘A is the mother of B’.
+How is N related to S if ‘N ÷ O × P – Q + S’?
+Ans
+ A. Father's sister
+B. Mother's sister
+C. Father's mother
+D. Sister
+Q.70 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+FVO 18, DTM 29, BRK 40, ZPI 51, ?
+Ans
+ A. XNF 62
+B. WNH 61
+C. YNF 65
+D. XNG 62
+Q.71 What should come in place of ? in the given series in order to make it logically
+complete?
+AZ81 BC64 DG49 GL36 ?
+Ans
+ A. JT25
+B. KR16
+C. JS25
+D. KR25
+Q.72 ANTY is related to CKOZ in a certain way based on English alphabetical order. In the
+same way, UIQL is related to WFLM. To which of the following is DSNB related to,
+following the same logic?
+Ans
+ A. EPLD
+B. HPKD
+C. FPIC
+D. GPKC
+Q.73 If ‘I’ stands for ‘+’, ‘J’ stands for ‘×’, ‘K’ stands for ‘÷’ and ‘L’ stands for ‘−’, then what will
+come in place of question mark (?) in the following equation?
+59 J 4 K 2 I 150 J 2 L 102 K 2 L 15 K 5 L 10 = ?
+Ans
+ A. 298
+B. 376
+C. 354
+D. 312
+Q.74 In a certain code language, ‘YARN’ is coded as ‘5731’ and ‘ROSE’ is coded as ‘2148’.
+What is the code for ‘R’ in the given code language?
+Ans
+ A. 4
+B. 3
+C. 2
+D. 1
+Q.75 Anand starts from Point A and drives 43 km towards the south. He then takes a left turn,
+drives 40 km, turns left and drives 45 km. He then takes a left turn and drives 51 km. He
+takes a final left turn, drives 2 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90-degree turns only unless specified.)
+Ans
+ A. 11 km to the east
+B. 12 km to the west
+C. 13 km to the west
+D. 10 km to the east
+Q.76 Based on the English alphabetical order, three of the following four letter cluster pairs
+are alike in a certain way and thus form a group. Which is the one that does not belong
+to that group?
+(Note: The odd man out is not based on the number of consonants/vowels or their
+position in the letter cluster)
+Ans
+ A. VR - ZV
+B. DW - HA
+C. TG - XK
+D. BN - GS
+Q.77 Based on the alphabetical order, three of the following four are alike in a certain way
+and thus form a group. Which is the one that does not belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter cluster)
+Ans
+ A. TYC
+B. MRV
+C. WBF
+D. EIM
+Q.78 In a certain code language, ‘TEAR’ is coded as ‘5731’ and ‘POST’ is coded as ‘2148’.
+What is the code for ‘T’ in the given code language?
+Ans
+ A. 8
+B. 1
+C. 5
+D. 2
+Q.79 Seven people, S, Q, U, A, R, E and D are sitting in a row, facing north.
+Only two people sit to the left of U. Only three people sit between U and R. Only one
+person sits between R and S. E sits to the immediate left of A. D is not an immediate
+neighbor of R.
+How many people sit to the right of Q?
+Ans
+ A. Two
+B. Four
+C. Three
+D. One
+Q.80 JITD is related to EEQB in a certain way based on the English alphabetical order. In the
+same way, QHSB is related to LDPZ. To which of the following is TNYT related to
+following the same logic?
+Ans
+ A. PKVS
+B. OKUR
+C. OJVR
+D. PJUS
+Q.81 Which city hosted the 2024 National Boxing Championships from 6 to 13 January?
+Ans
+ A. Guwahati
+B. Patna
+C. Bareilly
+D. Jaipur
+Section : General Awareness and Current Affairs
+Q.82 The 11th edition of the Joint Military Exercise ‘MITRA SHAKTI‑ 2025’ between India and
+Sri Lanka was held in which of the following cities?
+Ans
+ A. Kochi
+B. Belagavi
+C. Jodhpur
+D. Chennai
+Q.83 As per the new Know Your Customer (KYC) relaxations of the Reserve Bank of India
+(RBI) notified in May 2025, low‑ risk customers are allowed to continue transactions
+without KYC until _____.
+Ans
+ A. 30 June 2026
+B. 30 June 2025
+C. 31 December 2025
+D. 31 March 2026
+Q.84 Which of the following was the first integrated multi-state mock drill in Delhi-NCR,
+simulating a large-scale earthquake across 55 locations, conducted from 1 August
+2025?
+Ans
+ A. Exercise Suraksha Chakra
+B. Exercise Surya Kiran
+C. Exercise Tristate Shakti
+D. Exercise Sahayata Setu
+Q.85 In September 2025, TDK Corporation inaugurated its Advanced Technologies Lithium-
+ion Battery Manufacturing Plant in which Indian state?
+Ans
+ A. Kerala
+B. Haryana
+C. Uttarakhand
+D. Rajasthan
+Q.86 Which of the following volcanoes, located in Ethiopia, was in the news in November
+2025 for erupting for the first time in recorded history?
+Ans
+ A. Krasheninnikov
+B. Kilauea
+C. Mount Semeru
+D. Hayli Gubbi
+Q.87 According to a US business intelligence report, who was the most popular democratic
+leader in July 2025?
+Ans
+ A. Amit Shah
+B. Nirmala Sitharaman
+C. Rahul Gandhi
+D. Narendra Modi
+Q.88 Under which Article of the Constitution of India was Justice Meenakshi Madan Rai
+appointed by the President to perform the duties of the Chief Justice of the Sikkim High
+Court in December 2025?
+Ans
+ A. Article 223
+B. Article 217
+C. Article 124
+D. Article 226
+Q.89 Who is the 2025 World Junior champion of the open section of Atomic Chess
+Championship held at Petrovac, Montenegro?
+Ans
+ A. Pranav Venkatesh
+B. GM Amar Elham
+C. Matic Lavrencic
+D. Pentala Harikrishan
+Q.90 Which international joint naval exercise in a disputed maritime region raised eyebrows
+in 2025?
+Ans
+ A. Exercise Ajeya Warrior in the Bay of Bengal
+B. India–Philippines naval drill in the South China Sea
+C. Exercise Malabar with India and Australia near the Malacca Strait
+D. Iron Fist Drill with Russia in the Indian Ocean
+Q.91 Which is the first fully indigenous microprocessor developed by C-DAC under the
+Microprocessor Development Programme in 2025?
+Ans
+ A. PRATYUSH55
+B. SHAKTI101
+C. PARAM32
+D. DHRUV64
+Q.92 Which group of people is expected to benefit the most from the removal of minimum
+balance penalties by Indian Bank and Punjab National Bank in July 2025?
+Ans
+ A. Urban business executives and corporate professionals
+B. College students and monthly salaried employees
+C. High-income investors and wealthy individuals
+D. Rural citizens and low-income account holders
+Q.93 What was the theme of India’s 76th Republic Day celebrated on 26 January 2025?
+Ans
+ A. Ek Bharat Shreshtha Bharat
+B. Digital India: Power to Empower
+C. Swarnim Bharat: Virasat aur Vikas
+D. Atmanirbhar Bharat: Udaan Nayi Soch Ki
+Q.94 Who scored 759 runs to win the IPL 2025 Orange Cap for Gujarat Titans?
+Ans
+ A. Virat Kohli
+B. Rajat Patidar
+C. Suryakumar Yadav
+D. Sai Sudharsan
+Q.95 In 2025, which ministry launched the Trade Intelligence and Analytics Portal to offer
+transparent and real-time trade data?
+Ans
+ A. Ministry of Finance
+B. Ministry of Statistics and Programme Implementation
+C. Ministry of Commerce and Industry
+D. Ministry of External Affairs
+"
+Q.96 In July 2025, which panel has suggested revising the ‘Guidelines for declaration of ESZ,
+2011' issued by the Ministry of Environment, Forest and Climate Change (MoEFCC)?
+Ans
+ A. The Standing Committee of the National Board for Wildlife
+B. The Standing Committee of Central Pollution Control Board
+C. The Standing Committee of Ministry of Rural Development
+D. The Standing Committee of National Tiger Conservation Authority
+Q.97 Who became the sixth male golfer in history to complete a career Grand Slam by
+winning the 2025 Masters Tournament?
+Ans
+ A. Jordan Spieth
+B. Phil Mickelson
+C. Tiger Woods
+D. Rory McIlroy
+Q.98 Which of the following countries is set to host the first ever Olympic Esports Games, as
+announced by the International Olympic Committee (IOC) in 2027?
+Ans
+ A. France
+B. Saudi Arabia
+C. Qatar
+D. China
+Q.99 Which of the following countries was among the 37 countries that presented its
+Voluntary National Review (VNR) at the High-Level Political Forum (HLPF) held in July
+2025?
+Ans
+ A. China
+B. India
+C. Nepal
+D. Sri Lanka
+Q.100In April 2025, the Securities and Exchange Board of India (SEBI) came out with the
+operational framework for PaRRVA. What is the purpose of PaRRVA?
+Ans
+ A. Approving mutual fund licences
+B. Verifying investment performance claims
+C. Settling trading disputes
+D. Tax auditing of listed firms

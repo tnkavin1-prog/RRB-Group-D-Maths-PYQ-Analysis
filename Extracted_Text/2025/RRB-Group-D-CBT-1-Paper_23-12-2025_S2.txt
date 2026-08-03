@@ -1,0 +1,795 @@
+Q.1 What are the main products formed when ethanol burns completely in air?
+Ans
+ A. Oxygen and methane
+B. Carbon monoxide and hydrogen
+C. Carbon dioxide and water
+D. Ethane and water
+Q.2 The sign convention for focal length of a concave lens _________.
+Ans
+ A. is positive
+B. is zero
+C. depends on object position
+D. is negative
+Q.3 Which of the following is a correct property of solids?
+Ans
+ A. Solids have no fixed shape.
+B. Solids diffuse easily.
+C. Solids are highly compressible.
+D. Solids have strong intermolecular forces.
+Q.4 Which type of connective tissue connects muscles to bones?
+Ans
+ A. Joints
+B. Blood
+C. Tendon
+D. Ligament
+Q.5 Which of the following is true for mixtures but NOT for compounds?
+Ans
+ A. Components are present in fixed ratio.
+B. Components lose their individual properties.
+C. New substances are formed.
+D. Components can be separated by physical methods.
+Test Date 23/12/2025
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following correctly describes parenchyma, a simple permanent tissue?
+Ans
+ A. Parenchyma cells are highly specialised and tightly packed with no space between them.
+B. Parenchyma consists of dead, thick-walled cells without intercellular spaces.
+C. Parenchyma is made of living, loosely arranged cells with thin walls that store food.
+D. Parenchyma is a complex tissue found only in vascular bundles.
+Q.7 A person ignores regular vehicle maintenance. Which of the following is most likely to
+happen?
+Ans
+ A. Poor engine performance
+B. Increased fuel efficiency
+C. Better tyre grip and less pollution
+D. Decreased pollution
+Q.8 Which of the following represents a straight chain hydrocarbon?
+Ans
+ A. Isobutane
+B. Cyclopentane
+C. Butane
+D. Benzene
+Q.9 Which pair of energy forms constitutes the total mechanical energy of an
+object?
+Ans
+ A. Heat energy and Chemical energy
+B. Nuclear energy and Sound energy
+C. Potential energy and Kinetic energy
+D. Electrical energy and Light energy
+Q.10 In a parallel combination of resistors, which of the following quantities remains the
+same across all the resistors?
+Ans
+ A. The electric current (I)
+B. The potential difference (V)
+C. The equivalent resistance (Req)
+D. The power consumed (P)
+Q.11 Four resistors of 5 Ω, 15 Ω, 20 Ω and 40 Ω are connected in series. The equivalent
+resistance is ______.
+Ans
+ A. 0.5 Ω
+B. 3 Ω
+C. 20 Ω
+D. 80 Ω
+Q.12 What is the main function of bile in human digestion?
+Ans
+ A. To mix food with saliva for easy swallowing
+B. To digest proteins completely in the stomach
+C. To make food alkaline and break down large fat globules
+D. To convert glucose into glycogen in the liver
+Q.13 According to Newton’s Second Law of Motion, force is given by the relation F = ma. If a
+body’s velocity changes from u (initial velocity) to v (final velocity) in time t, which of
+the following expressions correctly gives the force acting on the body?
+Ans
+ A. F=t(v-u)/m
+B. F=m(u-v)/t
+C. F=mt/(v-u)
+D. F=m(v-u)/t
+Q.14 An ultrasonic wave has a frequency of 33 kHz. What will be the wavelength of this
+wave, if its speed is 330 m/s?
+Ans
+ A. 0.1 m
+B. 0.01 m
+C. 100 m
+D. 10 m
+Q.15 What happens to the gravitational force between two objects if both of their masses are
+doubled?
+Ans
+ A. The force becomes double
+B. The force becomes four times greater
+C. The force becomes half
+D. The force becomes quadruple
+Q.16 When an object is placed at the principal focus of a convex lens, the image is formed:
+Ans
+ A. At 2F, inverted, and magnified.
+B. At the focus, inverted, and of same size.
+C. Between F and O, virtual and erect.
+D. At infinity, real, inverted, and highly enlarged.
+Q.17 Which method is commonly used for extracting moderately reactive metals such as
+iron from their ores?
+Ans
+ A. Direct heating of the metallic ore strongly in the presence of air
+B. Chemical reduction of the ore using carbon-based reducing agents
+C. Dissolving and melting of the ore material in concentrated acids
+D. Electrolysis performed on the molten form of metal oxide ores
+Q.18 A woman using a copper-T complains of abdominal pain and discomfort. What is the
+likely reason?
+Ans
+ A. Hormonal imbalance due to tablets
+B. Blockage in fallopian tube
+C. Uterine irritation caused by the IUD
+D. Infection in the stomach
+Q.19 What is the benefit of seed dispersal in plants?
+Ans
+ A. It makes more water available to plants.
+B. It promotes the availability of mineral nutrients to plants.
+C. It enables plants to expand their distribution.
+D. It increases competition between plants for sunlight.
+Q.20 A passenger in a moving bus falls forward when the bus suddenly stops. This is due to
+which of the following?
+Ans
+ A. Gravity
+B. Inertia of motion of the passenger
+C. Force applied by the bus
+D. Friction between seat and passenger
+Q.21 Which of the following events directly triggers the process of menstruation?
+Ans
+ A. Release of sperm into the vagina
+B. Fertilisation of the egg
+C. Non fertilisation of egg and hormonal changes
+D. Maturation of the egg
+Q.22 In the reaction between aqueous sodium sulphate and aqueous barium chloride, which
+compound forms the white precipitate?
+Ans
+ A. Barium sulphate (
+  )
+B. Sodium chloride (
+)
+C. Barium chloride (
+ )
+D. Sodium sulphate (
+  )
+Q.23 During evaporation, when the average kinetic energy of molecules decreases, what is
+the effect on temperature?
+Ans
+ A. No effect on temperature.
+B. It increases.
+C. It decreases.
+D. It will remain the same.
+Q.24 Consider the following statements and select the correct option.
+Statement A: Sugarcane juice can be fermented to give alcohol (ethanol).
+Statement B: Alcohol is added to petrol because it is a cleaner fuel.
+Ans
+ A. Statement A is incorrect, but B is correct.
+B. Both statements A and B are correct.
+C. Both statements A and B are incorrect.
+D. Statement A is correct, but B is incorrect.
+Q.25 Which of the following statements is true about movement in the plant 'Touch me not'?
+Ans
+ A. Plant movement happens due to growth of new xylem cells.
+B. Plant movement takes place because roots absorb minerals.
+C. Plant movement occurs because phloem transports food.
+D. Plant movement happens due to changes in water content in cells.
+Q.26 Two trains are travelling towards each other on parallel tracks, 9660 kilometres apart.
+Train A initially travels at 80 km/hr, and Train B initially travels at 60 km/hr. If Train A's
+speed is reduced by 10% and Train B's speed is increased by 10%, what is the ratio of
+the time taken for the trains to meet initially to the time taken after their speed
+adjustments?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Section : Mathematics
+Q.27 The amount on a sum of ₹8,800 at 10% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹10,648
+B. ₹11,225
+C. ₹10,012
+D. ₹9,757
+Q.28 The arithmetic mean of the observations 94, 59, 46, 34, 15, 55, 89, 98 and 68 is:
+Ans
+ A. 63
+B. 67
+C. 62
+D. 60
+Q.29
+Ans
+ A. 38,800
+B. 30,808
+C. 30,800
+D. 38,808
+Q.30
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.31
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.32 Ajay, Maya and Mohan started a business in partnership investing in the ratio of 11 : 16
+: 6, respectively. At the end of the year, they earned a profit of ₹69,300, which is 70% of
+their total investment. How much did Maya invest (in ₹)?
+Ans
+ A. 48,184
+B. 48,000
+C. 47,872
+D. 47,850
+Q.33 P and Q together can fill a cistern with water in 9 hours. If P alone can fill the cistern
+with water in 12 hours, then in how many hours will Q alone fill one-fourth of the same
+cistern with water?
+Ans
+ A. 9
+B. 18
+C. 10
+D. 19
+Q.34
+Ans
+ A. 11:8
+B. 7:8
+C. 7:9
+D. 8:9
+Q.35 An agent sells a pressure cooker with a marked price of ₹8,460 at a discount of 30%.
+What is the selling price (in ₹) of the pressure cooker?
+Ans
+ A. 6,166
+B. 5,922
+C. 6,768
+D. 6,367
+Q.36 ₹6,129 is divided among P, Q and R in such a way that if ₹71, ₹38 and ₹20 is deducted
+from their respective shares, they have money in the ratio 14:3:8. Find the difference
+between the original shares of Q and R.
+Ans
+ A. ₹1,182
+B. ₹1,100
+C. ₹1,050
+D. ₹1,150
+Q.37
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.38 A money box contains only ₹2 coins and ₹5 coins. There are 20 coins in total, and their
+combined value is ₹70. How many ₹2 coins are there?
+Ans
+ A. 5
+B. 15
+C. 12
+D. 10
+Q.39 A running track consists of two straight parallel segments, each 120 m long, connected
+at both ends by semicircular arcs. The inner perimeter of the track is 504 m. If the track
+has a uniform width of 18 m throughout, find the outer perimeter (in m, rounded off to
+the nearest tens) of the track.
+Ans
+ A. 610
+B. 600
+C. 590
+D. 620
+Q.40 A retailer offers the following discount schemes for buyers on an article. Which scheme
+will be the LEAST beneficial to the customer?
+i. A discount of 48%.
+ii. A discount of 31% followed by a discount of 44%.
+iii. Successive discounts of 32% and 21%.
+Ans
+ A. Scheme i
+B. Scheme ii
+C. Scheme iii and Scheme ii
+D. Scheme iii
+Q.41 In a quadrilateral IJKL, ∠I = 36° and ∠J = 44°. The bisectors of ∠K and ∠L meet at Z.
+What is the measure of ∠LZK?
+Ans
+ A. 54°
+B. 55°
+C. 34°
+D. 40°
+Q.42 Due to a water crisis, 40% of the initial population left the village and 35% of the
+remaining left the town to pursue a job. If presently 2340 people inhabit the village,
+what is the ratio of initial population to present population?
+Ans
+ A. 100:49
+B. 103:43
+C. 100:39
+D. 105:40
+Q.43 Two trains are running in opposite directions at speeds of 72 km/hr and 108 km/hr,
+respectively. The length of the first train is 150 m, and the length of the second train is
+200 m. How much time will they take to cross each other?
+Ans
+ A. 14 seconds
+B. 7 seconds
+C. 5 seconds
+D. 9 seconds
+Q.44 The number of prime numbers between 472 and 486 is:
+Ans
+ A. 2
+B. 4
+C. 1
+D. 3
+Q.45 Mohan is twice as old as Suresh. Four years ago, the sum of their ages was 40. What is
+the present age of Suresh?
+Ans
+ A. 16 years
+B. 18 years
+C. 32 years
+D. 24 years
+Q.46 The monthly incomes of two friends Rupesh and Manjit, are in the ratio 5 : 8,
+respectively, and each of them saves ₹84,000 every month. If the ratio of their monthly
+expenditure is 1 : 3, find the monthly income of Rupesh (in ₹).
+Ans
+ A. 1,68,000
+B. 1,21,000
+C. 1,19,000
+D. 1,20,000
+Q.47 A can complete a piece of work in 24 days, B in 18 days and C in 36 days. All of them
+started working together. After working for 4 days, A left the work. B and C continued,
+but B left 3 days before the completion of the work. How long (in days) did the work
+last?
+Ans
+ A. 14
+B. 13
+C. 11
+D. 12
+Q.48 What is the lowest form of the fraction 
+ obtained by cancelling the HCF of the
+numerator and denominator?
+Ans
+ A. 
+           
+B. 
+            
+C. 
+           
+D. 
+Q.49 Kiran spends 65% of his income. If he saves ₹42,000, then his income (in ₹) is:
+Ans
+ A. 27,300
+B. 1,19,000
+C. 1,20,000
+D. 1,21,000
+Q.50 A shopkeeper buys a bag for ₹850 and sells it for ₹1,020. Find his profit percentage.
+Ans
+ A. 40%
+B. 25%
+C. 20%
+D. 30%
+Section : General Intelligence and Reasoning
+Q.51 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+ASE KCO UMY EWI ?
+Ans
+ A. OGT
+B. OGY
+C. OGS
+D. OSG
+Q.52 Seven boxes, L, M, N, O, Q, R and S, are kept one over the other, but not necessarily in
+the same order. L is kept immediately above O. Only M is kept below R. N is kept
+immediately above Q. Only two boxes are kept above L. How many boxes are kept
+between S and N?
+Ans
+ A. Two
+B. One
+C. Four
+D. Three
+Q.53 What should come in place of the question mark (?) in the given series?
+119 110 102 95 ? 84 80
+Ans
+ A. 86
+B. 90
+C. 87
+D. 89
+Q.54 What should come in place of the question mark (?) in the given series?
+0 5 15 30 ? 75
+Ans
+ A. 40
+B. 55
+C. 45
+D. 50
+Q.55 This question is based on the five, three-digit numbers given below.
+(Left) 324 526 249 267 185 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE: All operations to be done from left to right.)
+What will be the resultant if the third digit of the highest number is added to the second
+digit of the lowest number?
+Ans
+ A. 12
+B. 14
+C. 11
+D. 13
+Q.56 In the following triads, each group of letters is related to the subsequent one following
+a certain logic. Select from the given options, the one which follows the same logic.
+DUAL – ULDA – ADUL
+RATE – AERT – TRAE
+Ans
+ A. ROAD – ODRA – AROD
+B. VIEW – WVIE – EWIV
+C. RENT – RTEN – ENRT
+D. GROW – ROWG – ORGW
+Q.57 LMQR is related to VWAB in a certain way based on the English alphabetical order. In
+the same way, IJNO is related to STXY. To which of the given options is HIMN related,
+following the same logic?
+Ans
+ A. RRVX
+B. RTVE
+C. RSWX
+D. RSVX
+Q.58 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+4 ÷ 2 + 15 × 5 − 8 = ? + 5
+Ans
+ A. 12
+B. 8
+C. 18
+D. 4
+Q.59 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some Mercuries are Venuses.
+All Venuses are Earths.
+No Earth is Mars.
+Conclusions:
+(I) Some Mercuries are Earths.
+(II) No Venus is Mars.
+Ans
+ A. Only conclusion (I) follows.
+B. Both conclusions (I) and (II) follow.
+C. Neither conclusion (I) nor (II) follows.
+D. Only conclusion (II) follows.
+Q.60 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only.
+(Left) 6 3 3 £ * 9 € £ € $ 9 @ 7 4 5 # 9 2 1 £ 7 5 (Right)
+How many such symbols are there, each of which is immediately preceded by a number
+and also immediately followed by a symbol?
+Ans
+ A. 2
+B. 3
+C. 4
+D. 1
+Q.61 Seven people, A, B, C, D, E, F and G, are sitting in a row, facing north. Only five people
+sit between D and B. C sits to the immediate left of B. Only one person sits between C
+and A. F sits at some place to the left of G but at some place to the right of E. How
+many people sit to the right of A?
+Ans
+ A. 1
+B. 3
+C. 2
+D. 4
+Q.62 In a certain code language, ‘trust brings peace’ is coded as ‘tg dx pm’ and ‘find trust
+within’ is coded as ‘pm av wj’. How is ‘trust’ coded in that language?
+Ans
+ A. pm
+B. tg
+C. av
+D. dx
+Q.63 A, B, C, D, E and F are sitting around a circular table, facing the centre. B sits third to
+the right of A. E sits to the immediate left of D. D is not an immediate neighbour of A. F
+sits to the immediate right of C. The position of how many persons will remain
+unchanged if all persons are arranged in alphabetical order in clockwise direction
+starting from A (including A)?
+Ans
+ A. One
+B. Three
+C. Two
+D. Four
+Q.64 What should come in place of the question mark (?) in the given series?
+1, 3, 7, 15, 31, ?
+Ans
+ A. 65
+B. 58
+C. 63
+D. 55
+Q.65 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some pens are combs.
+All shirts are tails.
+All combs are shirts.
+Conclusions:
+(I) Some tails are combs.
+(II) Some shirts are pens.
+Ans
+ A. Neither conclusion (I) nor (II) follows.
+B. Only conclusion (I) follows.
+C. Both conclusions (I) and (II) follow.
+D. Only conclusion (II) follows.
+Q.66 Seven boxes A, B, C, D, M, N and O are kept one over the other but not necessarily in
+the same order. B is kept second from the bottom. Only three boxes are kept between B
+and A. O is kept at one of the positions below B. Only C is kept between A and D. M is
+kept at one of the positions above A.
+How many boxes are kept between N and A?
+Ans
+ A. One
+B. Four
+C. Three
+D. Two
+Q.67 Refer to the following series and answer the question (all numbers are single digit
+numbers only). Counting to be done from left to right only.
+(Left) 8 2 2 4 3 9 4 3 8 9 5 5 6 5 3 7 5 3 9 6 6 5 3 1 8 1 8 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+even number and also immediately followed by an even number?
+Ans
+ A. 2
+B. 3
+C. 1
+D. 4
+Q.68 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+LR21 MS30 NT39 OU48 ?
+Ans
+ A. PU58
+B. PV57
+C. PU57
+D. PV58
+Q.69 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+ 
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. TZC
+B. OUX
+C. EKN
+D. FLQ
+Q.70 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+GAN : KVR
+OQV : SLZ
+Ans
+ A. LZA : QVF
+B. NEQ : RCU
+C. HTV : LQZ
+D. WGD : ABH
+Q.71 What will come in the place of the question mark (?) in the following equation, if ‘+’ and
+‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+59 ÷ 11 + 833 × 7 − 24 = ?
+Ans
+ A. 512
+B. 547
+C. 554
+D. 536
+Q.72 In a car park, vehicle A is to the west of vehicle B. Vehicle C is to the east of vehicle B.
+Vehicle D is to the north of vehicle B. Vehicle E is to the south of vehicle C. Vehicle F is
+to the north of vehicle C. What is the position of vehicle E with respect to vehicle A?
+Ans
+ A. East
+B. South-east
+C. South
+D. North-east
+Q.73 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. FD – MJ
+B. OM – VS
+C. DB – KH
+D. XV – AC
+Q.74 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(5, 3, 16)
+(7, 2, 15)
+Ans
+ A. (4, 3, 9)
+B. (3,4, 13)
+C. (8, 5, 30)
+D. (6, 8, 43)
+Q.75 Six people, A, B, C, D, E and F, are sitting in a row, facing north. Only two people sit to
+the left of F. Only one person sits between D and E. F sits to the immediate left of D. A
+sits to the immediate right of C. B sits third to the right of A. Who sits at the extreme left
+end of the line?
+Ans
+ A. C
+B. D
+C. A
+D. E
+Q.76 If ‘P’ stands for ‘×’, ‘Q’ stands for ‘÷’, ‘R’ stands for ‘-’ and ‘S’ stands for ‘+’, what will
+come in place of the question mark (?) in the following equation?
+3 P 9 R (14 Q 2) P 6 S 80 Q 5 S 4 P 10 = ?
+Ans
+ A. 41
+B. 52
+C. 33
+D. 59
+Q.77 Refer to the following number series and answer the question that follows. Counting to
+be done from left to right only. (All numbers are single-digit numbers only.)
+(Left) 4 8 7 6 3 9 3 2 8 2 9 4 5 6 5 4 1 3 5 9 7 9 9 4 2 5 3 6 1 7 2 (Right)
+How many such odd numbers are there, each of which is immediately preceded by a
+perfect square and also immediately followed by an even number? (NOTE: 1 is also a
+perfect square.)
+Ans
+ A. Two
+B. More than three
+C. One
+D. Three
+Q.78 In a certain code language,
+‘A x B’ means ‘A is the wife of B’,
+‘A – B’ means ‘A is the daughter of B’,
+‘A ÷ B’ means ‘A is the father of B’ and
+‘A + B’ means ‘A is the son of B’.
+How is L related to Q if ‘L + M − N x P ÷ Q’?
+Ans
+ A. Daughter's husband
+B. Sister's son
+C. Brother's son
+D. Daughter's son
+Q.79 In a certain code language, ‘video oak bell’ is coded as ' of br mw' and ‘hair bell dew’ is
+coded as ‘br ui ee’. How is ‘bell’ coded in the given language?
+Ans
+ A. of
+B. mw
+C. ui
+D. br
+Q.80 Mudit starts from Point Y and drives 92 km towards South. He then takes a left turn,
+drives 59 km, turns left and drives 38 km. He then takes a right turn and drives 28 km.
+He then turns left, drives 54 km to stop at Point Z. How far (shortest distance) and
+towards which direction should he drive in order to reach Point Y again?
+(All turns are 90° turns only unless specified.)
+Ans
+ A. 79 km towards east
+B. 91 km towards east
+C. 87 km towards west
+D. 84 km towards west
+Q.81 In the 2025 Asian Athletics Championships held in Gumi, South Korea, Tejaswin
+Shankar made history by becoming the first Indian to win two medals in which specific
+athletics event?
+Ans
+ A. Heptathlon
+B. Triathlon
+C. Pentathlon
+D. Decathlon
+Q.82 In 2025, which organisation reintroduced the SPREE initiative and launched the
+Amnesty Scheme – 2025 to expand social security coverage for workers?
+Ans
+ A. NITI Aayog
+B. Employees Provident Fund Organisation
+C. Employees’ State Insurance Corporation
+D. Ministry of Labour and Employment
+Q.83 According to the Sustainable Development Report, 2025, what is India's rank on the
+SDG Index and what is its approximate score?
+Ans
+ A. 79th with score ≈72.30
+B. 89th with score ≈70.10
+C. 99th with score ≈66.95
+D. 109th with score ≈62.00
+Section : General Awareness and Current Affairs
+Q.84 What new title did the Amendment give to the Waqf Act, 1995?
+Ans
+ A. Unified Waqf Empowerment Act and management of Waqf properties and boards, 1995
+B. United Waqf Management, Empowerment, Efficiency and Development Act, 1995
+C. United Waqf Administration Act, 1995
+D. Waqf Efficiency and Reform Act, 1995
+Q.85 Which former Olympic swimmer was elected as the first female and African President of
+the IOC in March 2025?
+Ans
+ A. Penny Heyns
+B. Inge de Bruijn
+C. Cathy Freeman
+D. Kirsty Coventry
+Q.86 In March 2025, the Parliament passed the Banking Laws (Amendment) Bill. It amended
+the Reserve Bank of India Act, 1934, and _________.
+Ans
+ A. Negotiable Instruments Act, 1881
+B. Banking Regulation Act, 1949
+C. Companies Act, 2013
+D. Payment and Settlement Systems Act, 2007
+Q.87 At which event was the ENDOVEDA platform for efficient endoscopy reporting unveiled
+in July 2025?
+Ans
+ A. India Health Conclave, New Delhi
+B. MedTech Expo 2025, Bengaluru
+C. Global Gastro Summit, Hyderabad
+D. Endocon 2025, Jaipur
+Q.88 In 2025, the maiden flight-tests of the Integrated Air Defence Weapon System (IADWS)
+by Defence Research and Development Organisation (DRDO) were conducted off the
+coast of which of the following states of India?
+Ans
+ A. Tamil Nadu
+B. Gujarat
+C. Odisha
+D. West Bengal
+Q.89 Which organisation expressed serious concerns about the potential escape of Ebola
+samples in Goma, Democratic Republic of Congo?
+Ans
+ A. United Nations Children's Fund (UNICEF)
+B. International Committee of the Red Cross (ICRC)
+C. World Health Organization (WHO)
+D. Doctors Without Borders
+Q.90 Which Indian cricketer became only the second wicketkeeper in Test history to score
+centuries in both innings during the first Test against England at Headingley in June
+2025?
+Ans
+ A. Ishan Kishan
+B. Rishabh Pant
+C. KL Rahul
+D. Wriddhiman Saha
+Q.91 Which former RBI Governor became PM’s Principal Secretary, signaling strong
+economic emphasis in February 2025?
+Ans
+ A. Manmohan Singh
+B. YV Reddy
+C. Urjit Patel
+D. Shaktikanta Das
+Q.92 In November 2025, the Supreme Court of India held that every arrested individual must
+be provided with the written grounds of arrest in which language?
+Ans
+ A. A language understood by the arrested person
+B. The language of the arresting officer’s choice
+C. English only
+D. Any official language of the state
+Q.93 Who was conferred the Padma Shri in 2025 for revitalising Kani shawl weaving in the
+field of Art and Literature?
+Ans
+ A. Stephen Knapp
+B. Bheru Singh Chouhan
+C. Farooq Ahmad Mir
+D. Bhimavva Doddabalappa Shillekyathara
+Q.94 According to the India Meteorological Department (IMD), in October 2025, severe
+cyclonic storm "Montha" crossed the Andhra Pradesh coast between which two
+locations?
+Ans
+ A. Machilipatnam and Kalingapatnam
+B. Paradip and Digha
+C. Visakhapatnam and Gopalpur
+D. Chennai and Puducherry
+Q.95 Which of the following sectors is given special focus under the Employment Linked
+Incentive (ELI) Scheme launched in 2025?
+Ans
+ A. Manufacturing
+B. Tourism
+C. Agriculture
+D. Banking
+Q.96 The Indian Space Research Organisation (ISRO) is seeking to collaborate with the
+European Space Agency (ESA) on which of the following missions to track and study
+the Apophis asteroid, which is slated to make a close encounter with Earth in 2029?
+Ans
+ A. Ramses mission
+B. Cristono mission
+C. Kopunegar mission
+D. Zuris mission
+Q.97 Where did the RBI relocate its Andhra Pradesh Regional Office in June 2025?
+Ans
+ A. Guntur
+B. Amaravati
+C. Vijayawada
+D. Visakhapatnam
+"
+Q.98 Which of the following teams was the runner-up of the 18th Edition of the Indian
+Premier League in 2025?
+Ans
+ A. Gujarat Titans
+B. Sunrisers Hyderabad
+C. Chennai Super Kings
+D. Punjab Kings
+Q.99 In which of the following Sustainable Development Goals (SDGs) is India on track or
+maintaining SDG achievement, as per the Sustainable Development Report 2025?
+Ans
+ A. SDG 9
+B. SDG 1
+C. SDG 13
+D. SDG 14
+Q.100For which novel did David Szalay receive the Booker Prize in 2025?
+Ans
+ A. Heart Lamp
+B. The Sea of Trees
+C. Flesh
+D. Last Empire

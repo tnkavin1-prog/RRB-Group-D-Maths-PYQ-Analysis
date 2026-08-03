@@ -1,0 +1,784 @@
+Q.1 What happens to an atom when it loses an electron?
+Ans
+ A. It becomes a cation
+B. It becomes an anion
+C. It becomes neutral
+D. It becomes a molecule
+Q.2 Which part of the Bryophyllum plant produces buds for vegetative propagation?
+Ans
+ A. Leaf margins
+B. Pedicel
+C. Tip of the leaf
+D. Flower
+Q.3 Complex tissues are made up of:
+Ans
+ A. more than one type of cells
+B. one type of cells
+C. no cells
+D. only one cell
+Q.4 If an object is at infinity in front of a convex lens, the image is formed:
+Ans
+ A. at infinity
+B. at 2F
+C. between F and 2F
+D. at F
+Q.5 Which of the following is a characteristic property of ionic compounds?
+Ans
+ A. Strong electrostatic forces between ions
+B. Low melting point
+C. Insoluble in water
+D. Poor electrical conductivity in molten state
+Test Date 04/02/2026
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 What is formed when ethanol is oxidised using an oxidising agent like alkaline KMnO₄ ?
+Ans
+ A. Methane
+B. Methanoic acid
+C. Ethanoic acid
+D. Acetone
+Q.7 What is the function of the secretions from the prostate gland and seminal vesicles in
+the male reproductive system?
+Ans
+ A. To eliminate waste from sperms
+B. To provide nutrition and aid in sperm transport
+C. To prevent mixing of urine and sperms
+D. To destroy weak sperms
+Q.8 A train starts from rest and reaches a velocity of 36 km/hr in 3 minutes with uniform
+acceleration. What is the distance covered by the train during this time?
+Ans
+ A. 250 m
+B. 900 m
+C. 750 m
+D. 500 m
+Q.9 In the electrolytic refining of copper, which of the following correctly describes the role
+of electrodes?
+Ans
+ A. Both electrodes are made of impure copper
+B. Impure copper is used as anode and pure copper as cathode
+C. Pure copper is used as anode and impure copper as cathode
+D. Both electrodes are made of pure copper
+Q.10 In daily life, the heating effect of electric current is used in which of the following?
+Ans
+ A. LED and torch
+B. Electric fan and motor
+C. Electric heater, electric iron, and fuse
+D. Electric bell and buzzer
+Q.11 Which of the following statements is correct?
+Ans
+ A. Magnetic field lines start from the south pole and end at the north pole.
+B. Magnetic field lines intersect each other.
+C. Magnetic field lines always emerge from the north pole of a magnet and enter the south pole outside the magnet.
+D. The magnetic field at a point is zero when field lines are dense.
+Q.12 Which of the following cell organelle is present ONLY in animal cells but not in plant
+cells?
+Ans
+ A. Mitochondria
+B. Vacuole
+C. Golgi apparatus
+D. Centrosome
+Q.13 What is the ratio of carbon to oxygen by mass, in carbon dioxide?
+Ans
+ A. 6:8
+B. 2:4
+C. 3:8
+D. 1:2
+Q.14 The velocity-time graph of a particle moving with uniform acceleration is a:
+Ans
+ A. straight line inclined to time axis
+B. vertical line
+C. curve concave upward
+D. horizontal line
+Q.15 Adding dilute hydrochloric acid to zinc granules produces hydrogen gas. This is an
+example of which of the following?
+Ans
+ A. Physical change
+B. Dissolution
+C. Chemical change
+D. Mixture formation
+Q.16 If the radius of the Earth is halved and the masses of both interacting objects are
+tripled, while keeping the distance between them unchanged, how will the gravitational
+force between them change?
+Ans
+ A. Increases 36 times
+B. Increases 3 times
+C. Decreases 3 times
+D. Increases 9 times
+Q.17 In stethoscopes, the sound of the heartbeat is transmitted to the doctor’s ears because:
+Ans
+ A. the sound waves are absorbed by the tube walls
+B. the sound waves are amplified by electricity
+C. the sound waves undergo successive refraction in the tube
+D. the sound waves are guided by multiple reflections in the tube
+Q.18 Ethanoic acid reacts with ethanol in the presence of concentrated H₂ SO₄  to form:
+Ans
+ A. acetone
+B. methanol
+C. ethyl ethanoate
+D. sodium acetate
+Q.19 What helps in the upward movement of water and minerals in plants?
+Ans
+ A. Conversion of sunlight into starch
+B. Diffusion of gases in stomata
+C. Transpiration pull and root pressure
+D. Active transport in leaf cells
+Q.20 Food items such as wheat, rice, vegetables, fruits and meat contain varying amounts of
+pesticide residues due to which of the following phenomena?
+Ans
+ A. Eutrophication
+B. Biological magnification
+C. Transpiration
+D. Photosynthesis
+Q.21 Which of the following are generally sensitive to touch and help plants in climbing?
+Ans
+ A. Thorns
+B. Flowers
+C. Tendrils
+D. Seeds
+Q.22 In plants, how does sexual reproduction leads to better survival in offspring?
+Ans
+ A. Offspring are exact clones
+B. Offspring are born faster
+C. Offspring show new genetic recombination
+D. Offspring do not show any variation
+Q.23 Which of the following statements is true regarding the twinkling of the stars?
+(i) The stars twinkle as they have light of their own.
+(ii) The stars twinkle due to reflection of light.
+(iii) There is apparent change in the position of the star during the night time.
+(iv) The stars twinkle due to atmospheric refraction.
+Ans
+ A. Both (ii) and (iii)
+B. Both (i) and (iv)
+C. Both (i) and (ii)
+D. Both (iii) and (iv)
+Q.24 Select the correct option regarding the following two statements labelled Assertion (A)
+and Reason (R).
+Assertion (A): Zinc can displace copper from copper sulphate solution.
+Reason (R): Zinc is less reactive than copper.
+Ans
+ A. A is false, but R is true.
+B. A is true, but R is false.
+C. Both A and R are true, and R is not the correct explanation of A.
+D. Both A and R are true, and R is the correct explanation of A.
+Q.25 What happens to the energy of an object just before it hits the ground while falling
+freely?
+Ans
+ A. Its kinetic energy becomes highest, and its potential energy becomes lowest.
+B. Its potential energy is at its highest, and its kinetic energy becomes lowest.
+C. It has equal amounts of potential and kinetic energy.
+D. Both its kinetic and potential energy become zero.
+Q.26 The amount on a sum of ₹2,400 at 20% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹3,705
+B. ₹3,456
+C. ₹3,206
+D. ₹3,280
+Q.27 Sachin bought 52 books for ₹1,120 from one shop and 47 books for ₹910 from another.
+What is the average price (in ₹, rounded off to two decimal places) he paid per book?
+Ans
+ A. 20.51
+B. 22.51
+C. 23.51
+D. 21.51
+Section : Mathematics
+Q.28 If 8 years ago from now, a grandmother's age was 13 times the age of her
+granddaughter and after 12 years from now, the grandmother's age will be 3 times her
+granddaughter's age, then what is the difference of their ages at present (in years)?
+Ans
+ A. 56
+B. 48
+C. 68
+D. 52
+Q.29 The monthly incomes of two friends Ashish and Kiran, are in the ratio 5 : 8,
+respectively, and each of them saves ₹75,000 every month. If the ratio of their monthly
+expenditure is 2 : 4, find the monthly income of Ashish (in ₹).
+Ans
+ A. 2,62,500
+B. 1,88,500
+C. 1,86,500
+D. 1,87,500
+Q.30 P and Q together can fill a cistern with water in 12 hours. If P alone can fill the cistern
+with water in 18 hours, then in how many hours will Q alone fill one-fourth of the same
+cistern with water?
+Ans
+ A. 9
+B. 18
+C. 10
+D. 19
+Q.31 The points scored by a basketball team in a series of matches are as follows: 17, 2, 7,
+27, 25, 5, 14, 18, 10, 24, 10, 8, 10, 12, 11. The value of the median is:
+Ans
+ A. 12
+B. 10
+C. 11
+D. 14
+Q.32 A man buys a sofa set for ₹24,000. He spends ₹3,000 on repairs and sells it for ₹30,000.
+He again buys it back for ₹28,000 and sells at a loss of ₹1,200. What is the overall
+profit?
+Ans
+ A. ₹1,800
+B. ₹1,200
+C. ₹1,400
+D. ₹1,600
+Q.33
+Ans
+ A. 174
+B. 154
+C. 184
+D. 164
+Q.34 The value of 163 - 103 is:
+Ans
+ A. 2957
+B. 3064
+C. 3096
+D. 2837
+Q.35
+Ans
+ A. 1.849
+B. 184.9
+C. 18.49
+D. 0.1849
+Q.36 In the first round of elections, Amit received 63% of the votes. In the second round, his
+support decreased by 24%. What percentage of the total votes did Amit receive after the
+second round?
+Ans
+ A. 49%
+B. 47.88%
+C. 39%
+D. 57.88%
+Q.37 ₹1,287 is divided among Rahul, Monika, and Yuvraj in such a way that if ₹36, ₹22, and
+₹29 are deducted from their respective shares, they have money in the ratio 17:7:16.
+Find the actual share of Monika.
+Ans
+ A. ₹160
+B. ₹260
+C. ₹232
+D. ₹60
+Q.38 Two pipes can fill a cistern, individually, in 100 min and 25 min, respectively. There is a
+pipe located at the bottom of the cistern to empty it. If all the three pipes are opened
+simultaneously, then the empty cistern gets filled in 40 min. How long will the pipe at
+the bottom of the tank take to empty the completely filled cistern if no other pipe is then
+open?
+Ans
+ A. 40 min
+B. 38 min
+C. 39 min
+D. 37 min
+Q.39
+Ans
+ A. 5
+B. 10.5
+C. 15.54
+D. 14.45
+Q.40 A shopkeeper offers the following four schemes.
+A) Two successive discounts of 19% and 25%
+B) Buy 7, get 6 free
+C) Single discount of 50%
+D) Two successive discounts of 3% and 39%
+Which scheme is the best for the shopkeeper?
+Ans
+ A. C
+B. D
+C. B
+D. A
+Q.41 In a test, B got 50 marks while A got 75 marks, out of 90 maximum marks. What
+percentage of A's marks was B's marks? (Round off the answer to two decimal places.)
+Ans
+ A. 66.67%
+B. 90.33%
+C. 83.33%
+D. 150.91%
+Q.42 A cuboid of dimensions 18 cm × 12 cm × 8 cm is melted and recast into smaller cubes
+each having an edge of 4 cm. Find the ratio of the total surface area of one small cube
+to that of the original cuboid.
+Ans
+ A. 2 : 19
+B. 3 : 19
+C. 2 : 21
+D. 1 : 10
+Q.43 A 6-digit number 648XYZ is divisible by 4, 9 and 10. Find the value of X + Z – Y, where Y
+is the smallest possible number.
+Ans
+ A. 2
+B. 0
+C. 7
+D. 5
+Q.44 A train can travel 60% faster than a car. Both start from point A at the same time and
+reach point B, which is 60 km away, simultaneously. However, the train loses 20
+minutes due to stops at stations. What is the speed of the car?
+Ans
+ A. 57.5 km/h
+B. 67.5 km/h
+C. 62.5 km/h
+D. 52.5 km/h
+Q.45 If regular polygons of side 6 and 5 are inscribed in a circle of radius R, then what is the
+ratio of their areas?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.46 The respective ratios between the numerical values of a curved surface area and the
+volume of a right circular cylinder is 1 : 7. If the respective ratio between the diameter
+and height of the cylinder is 7 : 6, what is the total surface area of the cylinder?
+Ans
+ A. 3434 unit²
+B. 3344 unit²
+C. 4433 unit²
+D. 4343 unit²
+Q.47
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.48 If 42 is the mean proportion between x and 294, what is the value of x?
+Ans
+ A. 8
+B. 4
+C. 7
+D. 6
+Q.49 Successive discounts of 12% and 13% are equivalent to what single discount?
+Ans
+ A. 22.2%
+B. 21.91%
+C. 20.7%
+D. 23.44%
+Q.50 The distance between points A and B is 966 km. Kamlesh travels from A to B at a speed
+of 52 km/hr and returns at a speed of 118 km/hr. Calculate Kamlesh’s average speed for
+the entire journey (round off the answer to two decimal places).
+Ans
+ A. 80.53 km/hr
+B. 69.63 km/hr
+C. 83.02 km/hr
+D. 72.19 km/hr
+Q.51 What should come in place of the question mark (?) in the given series?
+412 420 408 424 404 428 ?
+Ans
+ A. 408
+B. 424
+C. 400
+D. 432
+Section : General Intelligence and Reasoning
+Q.52 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusion(s) logically follow(s) from the
+statement(s).
+Statements:
+All mints are lamps.
+All mints are kites.
+All mints are jams.
+Conclusions:
+(I) All lamps are jams
+(II) Some jams are kites14197
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Both conclusions (I) and (II) follow
+C. Only conclusion (I) follows
+D. Only conclusion (II) follows
+Q.53 In a certain code language, WASO is coded as 65 and YKSB is coded as 64. What is the
+code for LEUC in that language?
+Ans
+ A. 52
+B. 50
+C. 57
+D. 48
+Q.54 What should come in place of the question mark (?) in the given series?
+15, 22, 36, 57, 85, ?
+Ans
+ A. 121
+B. 122
+C. 120
+D. 119
+Q.55 What should come in place of the question mark (?) in the given series?
+84 77 70 ? 56 49 42
+Ans
+ A. 60
+B. 66
+C. 63
+D. 68
+Q.56 54 people are standing in a row facing North. Junaid is 21st from the left end, while
+Sourav is 12th from the right end. How many people are there between Junaid and
+Sourav?
+Ans
+ A. 18
+B. 19
+C. 20
+D. 21
+Q.57 In a certain code language, ‘never judge people’ is coded as ‘gu uf ha’ and ‘don't ask
+people’ is coded as ‘kl td uf’. How is ‘people’ coded in that language? (All codes are
+two-letter codes.)
+Ans
+ A. gu
+B. ha
+C. td
+D. uf
+Q.58 Shubham starts from Point A and drives 11 km towards South. He then takes a right
+turn, drives 7 km, turns right and drives 14 km. He then takes a right turn and drives 11
+km. He takes a final right turn, drives 3 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. 5 km to the west
+B. 5 km to the east
+C. 4 km to the east
+D. 4 km to the west
+Q.59 Six people, A, B, C, D, E and F, are sitting in a row, facing towards the north.
+Only three people are sitting at the right of A. Only one person is sitting between A and
+C. E is sitting second from the extreme left end of the row. B is not the immediate
+neighbour of A. F is sitting to the immediate left to B. F is sitting to the immediate right
+to A.
+Who is sitting at the extreme left end of the row?
+Ans
+ A. D
+B. E
+C. C
+D. B
+Q.60 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+68 A 2 D 7 B 5 C (25 A 5) B 9 C 30 A 6 = ?
+Ans
+ A. 35
+B. 28
+C. 49
+D. 61
+Q.61 VHEP is related to OAXI in a certain way based on the English alphabetical order. In the
+same way, TFCN is related to MYVG. To which of the following options is YKHS related,
+following the same logic?
+Ans
+ A. RLDE
+B. RDSE
+C. RDAL
+D. RADE
+Q.62 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+DEA 48 CDZ 55 BCY 62 ABX 69 ?
+Ans
+ A. ZZV 75
+B. ZIS 75
+C. ZAW 76
+D. ZBV 76
+Q.63 Hitesh starts from Point A and drives 62 km towards the east. He then takes a left turn,
+drives 36 km, turns left and drives 78 km. He then takes a left turn and drives 71 km. He
+takes a final left turn, drives 16 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90-degree turns only unless specified.)
+Ans
+ A. 35 km to the north
+B. 36 km to the south
+C. 34 km to the north
+D. 37 km to the south
+Q.64 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+GDA IFC KHE MJG ?
+Ans
+ A. OKJ
+B. OKI
+C. OLI
+D. OLJ
+Q.65 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will
+come in place of the question mark (?) in the following equation?
+92 A 2 D (35 A 7) B 4 C 30 A 3 C 5 B 11 = ?
+Ans
+ A. 102
+B. 91
+C. 73
+D. 80
+Q.66 If 1 is added to each odd digit and 1 is subtracted from each even digit in the number
+3215674, what will be the sum of the digits which are first from the left and third from
+the right?
+Ans
+ A. 6
+B. 8
+C. 7
+D. 9
+Q.67 Select the pair that follows the same pattern as the one followed by the two pairs given
+below. Both pairs follow the same pattern.
+NJL−OKM
+CYA−DZB
+Ans
+ A. IDE−JFH
+B. IEG−IFG
+C. IEG−JFH
+D. IDE−IEG
+Q.68 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All forks are kettles.
+Some forks are spoons.
+Conclusions:
+(I): Some kettles are spoons.
+(II): All spoons are forks.
+Ans
+ A. Only conclusion (I) follows
+B. Neither conclusion (I) nor (II) follows
+C. Both conclusions (I) and (II) follow
+D. Only conclusion (II) follows
+Q.69 Mr. Hepa ranked 56th from the top and 71st from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 123
+B. 126
+C. 125
+D. 124
+Q.70 GBCI is related to YTUA in a certain way based on the English alphabetical order. In the
+same way, AVWC is related to SNOU. To which of the following options is CXYE related,
+following the same logic?
+Ans
+ A. UQWE
+B. UPQW
+C. UIOP
+D. UPNH
+Q.71 In a certain code language,
+‘A + B’ means ‘A is the mother of B’,
+‘A – B’ means ‘A is the brother of B’,
+‘A × B’ means ‘A is the wife of B’,
+‘A % B’ means ‘A is the father of B’ and
+‘A # B’ means ‘A is the daughter of B’.
+How is C related to R if ‘C # N × K % T + R’?
+Ans
+ A. Mother’s father
+B. Mother’s sister
+C. Sister’s daughter
+D. Mother’s mother
+Q.72 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 4 9 8 5 1 6 4 5 9 6 5 3 4 9 6 2 9 4 8 5 1 1 8 4 1 5 7 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 1
+B. 3
+C. 2
+D. 4
+Q.73 In the following number-pairs, the second number is obtained by applying certain
+mathematical operation(s) to the first number. Select the number-pair in which the
+numbers are related in the same way as are the numbers of the following pairs.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+19, 35
+28, 53
+Ans
+ A. 73, 145
+B. 42, 85
+C. 36, 69
+D. 85, 166
+Q.74 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only).
+(Left) 9 3 5 7 2 4 6 1 8 9 2 5 3 7 4 6 1 8 9 5 2 4 (Right)
+How many unique single-digit numbers in the series are divisible by 3 (each single-digit
+number counted only once, regardless of repetitions)?
+Ans
+ A. Three
+B. One
+C. Two
+D. None
+Q.75 This question is based on the five, three-digit numbers given below.
+(Left) 604, 895, 469, 742, 307 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+Note: All operations to be done from left to right.
+What will be the resultant if the third digit of the highest number is added to the second
+digit of the lowest number?\
+Ans
+ A. 12
+B. 16
+C. 5
+D. 9
+Q.76 Refer to the following series and answer the question that follows (all numbers are
+single digit numbers only). Counting to be done from left to right only.
+(Left) 2 1 7 9 4 5 3 4 4 1 8 2 2 4 4 9 7 6 9 9 4 6 2 9 9 8 7 (Right)
+How many such odd numbers are there (from left to right) each of which is immediately
+preceded by an odd number and also immediately followed by an odd number?6623
+Ans
+ A. 0
+B. 2
+C. 1
+D. 3
+Q.77 S, P, D, M, and R are sitting around a circular table facing the centre. Only two people
+are sitting between R and M when counted from the left of R. D is an immediate
+neighbour of M and R. P is sitting to the immediate left of R. Who are the immediate
+neighbours of S?
+Ans
+ A. R and P
+B. M and D
+C. D and R
+D. P and M
+Q.78 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. TXZ
+B. LPR
+C. HLP
+D. RVX
+Q.79 Based on the English alphabetical order, three of the following four are alike in a certain
+way and thus form a group. Which is the one that does not belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. HLQ
+B. ZDI
+C. KOT
+D. WAE
+Q.80 Seven friends D, E, F, U, V, W and X are sitting in a straight line facing the north. Only
+two people are seated between U and D. Only X is seated to the right of F. Only one
+person is seated between D and F. V is seated at some place to the right of E but at
+some place to the left of W. How many people are seated between W and E?
+Ans
+ A. Two
+B. Four
+C. Three
+D. One
+Q.81 What is a key aim of the Aravalli Green Wall Project launched on the World Environment
+Day in June 2025?
+Ans
+ A. Expanding green cover to combat desertification
+B. Establishing national parks across Himalayas
+C. Mounting vertical gardens in Mumbai
+D. Building embankments in Punjab
+Q.82 Which of the following is NOT included among the four Labour Codes implemented in
+2025?
+Ans
+ A. Industrial Relations Code, 2020
+B. Code on Social Security, 2020
+C. Code on Education, 2021
+D. Code on Wages, 2019
+Q.83 Who among the following was appointed as the Deputy Chief Executive Officer (Deputy
+CEO) of SBI General Insurance in June 2025?
+Ans
+ A. Anand Pejawar
+B. Indrani Dutta
+C. Mohd. Arif Khan
+D. Naveen Chandra Jha
+Q.84 Where was the 2025 Champions League final held?
+Ans
+ A. Camp Nou, Barcelona
+B. Wembley Stadium, London
+C. Santiago Bernabéu, Madrid
+D. Allianz Arena, Munich
+Q.85 Who inaugurated the football stadium at Police Complex, Chumoukedima near
+Dimapur, Nagaland, in January 2025?
+Ans
+ A. Neiphiu Rio
+B. Conrad Sangma
+C. N. Biren Singh
+D. Temjen Imna Along
+Section : General Awareness and Current Affairs
+Q.86 According to the October 2025 Monetary Policy Report of the Reserve Bank of India,
+what is the revised CPI inflation projection for FY 2025–26?
+Ans
+ A. 3.4%
+B. 3.1%
+C. 2.6%
+D. 2.2%
+Q.87 Accordioning to the Indian Government, by the June 2025, how many Khelo IndiaCentres (KICs) were established for grassroots sports training and athletedevelopment?
+Ans
+ A. 1045
+B. 1000
+C. 950
+D. 936
+Q.88 As per the Sustainable Development Report 2025, which rank did India secure in the
+Sustainable Development Goals (SDG) Index, marking its first entry into the “top 100”
+nations?
+Ans
+ A. 85
+B. 74
+C. 99
+D. 98
+Q.89 In November 2025, which organization delivered a human-rated Vikas engine to the
+Indian Space Research Organisation for the Gaganyaan mission?
+Ans
+ A. Godrej Aerospace
+B. Bharat Dynamics Limited
+C. Larsen & Toubro
+D. Hindustan Aeronautics Limited
+Q.90 Which of the following cyber security exercises was launched by the Indian Armed
+Forces in 2025 to simulate real-world threats and promote secure practices?
+Ans
+ A. Cyber Kavach
+B. Cyber Suraksha
+C. Raksha Netra
+D. Sainya SecureNet
+Q.91 The Chhattisgarh Chief Minister in August 2025 directed officials to extend assistance
+to families affected by floods in which of the following divisions?
+Ans
+ A. Bastar
+B. Raipur
+C. Bilaspur
+D. Surguja
+Q.92 Who won the prestigious Yuva Puraskar in Hindi for the poetry collection, Phir Ugna, in
+June 2025?
+Ans
+ A. Mayur Khavdu
+B. Subrat Senapati
+C. Parvati Tirkey
+D. Akhil P Dharmajan
+Q.93 When is Hindi Journalism Day celebrated every year in India?
+Ans
+ A. 30 May
+B. 5 May
+C. 9 April
+D. 18 February
+Q.94 Which among the following got a six-year support plan announced in Union Budget
+2025-2026 to reduce imports?
+Ans
+ A. Steel
+B. Oil seeds
+C. Pulses
+D. Electronics
+Q.95 Which of the following International events did India host in 2025 that is considered one
+of the largest gatherings of its kind and showcases India’s global standing in inclusive
+sports?
+Ans
+ A. FIFA Women’s World Cup 2025
+B. World Para Athletics Championships 2025
+C. Summer Universiade 2025
+D. Commonwealth Games 2026
+Q.96 In 2025, the UN General Assembly urged to grant UN membership as the 194th country
+to which of the following countries?
+Ans
+ A. Kosovo
+B. Vatican City
+C. South Sudan
+D. Palestine
+Q.97 In June 2025, Karnataka raised the housing reservation quota for religious minorities
+from 10% to what percentage?
+Ans
+ A. 20%
+B. 12%
+C. 18%
+D. 15%
+Q.98 Which city hosted the 28th National Conference on e-Governance in September 2025?
+Ans
+ A. Bengaluru
+B. Visakhapatnam
+C. Hyderabad
+D. New Delhi
+Q.99 At which event did the DRDO official announce the development of the new high-calibre
+Pinaka rocket with a range of 120 km?
+Ans
+ A. Defence Expo 2025
+B. Aero Expo 2025
+C. Aero India 2025
+D. International Defence Conference 2025
+"
+Q.100Which group set a Guinness World Record by performing 108 Surya Namaskars with
+over 22,000 tribal students?
+Ans
+ A. Gujarat volunteers
+B. Rajasthan school children
+C. Maharashtra yoga groups
+D. Andhra Pradesh tribal students

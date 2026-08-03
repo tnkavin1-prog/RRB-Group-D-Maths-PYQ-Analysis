@@ -1,0 +1,784 @@
+Q.1 Some organisms take in whole food material and break it down inside their bodies. This
+is called ________ nutrition.
+Ans
+ A. autotrophic
+B. saprophytic
+C. parasitic
+D. holozoic
+Q.2 What does the velocity-time graph look like for an object moving with uniform velocity?
+Ans
+ A. A curved line rising gradually
+B. A straight line sloping downwards
+C. A straight line parallel to the time axis
+D. A straight line sloping upwards
+Q.3 What happens when a solid is heated continuously?
+Ans
+ A. It shrinks
+B. It evaporates directly
+C. It melts and may later evaporate
+D. It expands and turns into a gas
+Q.4 Sodium hydroxide is formed by:
+Ans
+ A. Passing electricity through brine
+B. Passing chlorine through water
+C. Dissolving sodium in ethanol
+D. Reacting sodium with carbon dioxide
+Q.5 What will happen to a Hydra if it is cut into multiple pieces?
+Ans
+ A. Each piece will reproduce by budding.
+B. Only the head part will grow into a complete individual.
+C. Each piece will regenerate to form new individuals.
+D. All pieces will die immediately.
+Test Date 09/01/2026
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Select the correct option regarding the following two statements labelled Assertion (A)
+and Reason (R).
+Assertion (A): Calcium oxide reacts vigorously with water to form calcium hydroxide.
+Reason (R): In a combination reaction, two or more substances combine to form one
+product.
+Ans
+ A. Both A and R are true, and R is the correct explanation of A.
+B. Both A and R are true, and R is not the correct explanation of A.
+C. A is true, but R is false.
+D. A is false, but R is true.
+Q.7 In galvanisation, which metal is used to coat iron?
+Ans
+ A. Lead
+B. Aluminum
+C. Copper
+D. Zinc
+Q.8 Which of the following contributes directly to forest conservation?
+Ans
+ A. Social Forestry
+B. Logging
+C. Urbanization
+D. Mining
+Q.9 Select the INCORRECT statement regarding variation in plants.
+Ans
+ A. Individuals within a population are unique due to the variations.
+B. They are produced due to inaccuracy in the copying of DNA.
+C. Asexual reproduction is a regular source of variations in a population.
+D. They are produced during sexual reproduction.
+Q.10 Which of the following metals does NOT react with dilute hydrochloric acid under
+normal conditions?
+Ans
+ A. Iron
+B. Aluminium
+C. Copper
+D. Zinc
+Q.11 Which of the following relations is correct for expressing power in terms of voltage and
+resistance?
+Ans
+ A. P=R/V2
+B. P=I/VR
+C. P=VR/I
+D. P=V2/R
+Q.12 The total resistance of 5 resistors of equal resistance R arranged in a parallel
+arrangement is __________.
+Ans
+ A. R/5
+B. 5/R
+C. 5R
+D. R5
+Q.13 In the case of a convex lens, under what specific object position is the image formed at
+2F (F is the focal length) and has the same size as the object?
+Ans
+ A. At focus F
+B. At 2F
+C. Beyond 2F
+D. At infinity
+Q.14 When the temperature of air increases, the speed of sound waves:
+Ans
+ A. remains constant
+B. increases
+C. decreases
+D. becomes zero
+Q.15 Which of the following is a non-metal?
+Ans
+ A. Copper
+B. Chlorine
+C. Zinc
+D. Mercury
+Q.16 Which of the following statements explains why insectivorous plants evolved to trap
+insects?
+Ans
+ A. To take cellulose from plant tissues
+B. To compete with herbivores for space
+C. To supplement nitrogen and other nutrients
+D. To survive in habitats with low sunlight
+Q.17 In a neutral solution, red and blue litmus paper will:
+Ans
+ A. both turn green
+B. both turn blue
+C. both turn red
+D. both remain unchanged
+Q.18 The number of mitochondria in a cell varies depending on which of the following?
+Ans
+ A. The age of the organism
+B. The amount of DNA present in the cell
+C. The size of the nucleus
+D. The physiological activity of the cell
+Q.19 A constant force of ‘X’ N acts on a body such that the body undergoes a displacement
+of 5 m in the same direction as the force. If the work done due to the force is 500 J, then
+what is the value of X?
+Ans
+ A. 100 N
+B. 1/100 N
+C. 2500 N
+D. 250 N
+Q.20 A sealed packet has a mass of 500 g and a volume of 350 cm3. Given the density of
+water is 1 g cm⁻ ³, will the packet float or sink in water, and why?
+Ans
+ A. Float, because its density is less than water.
+B. Sink, because the total volume is high.
+C. Sink, because its density is greater than water's density.
+D. Float, because its mass is low.
+Q.21 Which of the following processes is a physical change?
+Ans
+ A. Fermentation
+B. Combustion
+C. Crystallisation
+D. Rusting
+Q.22 Which of the following situations demonstrates Newton’s Second Law of Motion?
+Ans
+ A. A man standing inside a lift
+B. A satellite moving around Earth
+C. A book lying still on the table
+D. A car speeding up on the road
+Q.23 Which of the following is a common category of agents that can cause diseases in
+poultry fowl?
+Ans
+ A. Viruses, bacteria, and fungi
+B. Sunlight exposure
+C. Vitamins and minerals only
+D. Purely genetic factors
+Q.24 Which of the following phenomena CANNOT be explained without dispersion of light?
+Ans
+ A. Rainbow formation.
+B. Twinkling of stars.
+C. Mirages.
+D. Advanced sunrise.
+Q.25 Which contraceptive method provides dual protection against pregnancy and most
+sexually transmitted diseases?
+Ans
+ A. Male condom
+B. Surgical methods
+C. Copper -T
+D. Oral contraceptive pills
+Q.26 The present age of Ramesh is 3 times that of Mahesh. Five years ago, the ratio of their
+ages was 4 : 1. What is the present age of Ramesh?
+Ans
+ A. 40 years
+B. 30 years
+C. 45 years
+D. 15 years
+Section : Mathematics
+Q.27 The sum of two numbers P and Q is 17 and their product is 56. Find the value of P2 +
+Q2.
+Ans
+ A. 146
+B. 162
+C. 177
+D. 158
+Q.28 A cyclist covers a distance of 800 m in 2 minutes. Find the speed (in km/hr) of the
+cyclist.
+Ans
+ A. 16
+B. 24
+C. 25
+D. 20
+Q.29 The amount on a sum of ₹4,900 at 10% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹6,684
+B. ₹6,509
+C. ₹5,988
+D. ₹5,929
+Q.30
+11129
+Ans
+ A. 120 minutes
+B. 117 minutes
+C. 121 minutes
+D. 129 minutes
+Q.31 An item with a marked price of ₹606 was sold for ₹304. What was the percentage of
+discount given? (Round off your answer to two decimal places.)
+Ans
+ A. 47.63%
+B. 49.83%
+C. 51.58%
+D. 50.65%
+Q.32 ₹6,874 is to be divided among three persons X, Y and Z. If the shares of X and Y are in
+the ratio 5 : 9 and that of Y and Z are in the ratio 9 : 7, what is the share (in ₹) of Y?
+Ans
+ A. 2,945
+B. 2,946
+C. 2,947
+D. 2,948
+Q.33 Find the single equivalent discount (rounded off to two decimal places) for successive
+discounts of 23%, 11%, and 29%.
+Ans
+ A. 50.12%
+B. 53.72%
+C. 51.34%
+D. 51.85%
+Q.34 Find the value of 5sec2θ – 5tan2θ.
+Ans
+ A. 0
+B. −5
+C. 5
+D. 1
+Q.35 In quadrilateral PQRS, the bisectors of ∠R and ∠S meet at the point T (inside the
+quadrilateral) and ∠STR = 48°. If the ratio of ∠P to ∠Q is 3 : 5, then what is the
+difference between the measures of ∠Q and ∠P?
+Ans
+ A. 22°
+B. 27°
+C. 29°
+D. 24°
+Q.36 The sum of twin prime numbers is 36. Find the product of the twin prime numbers.778
+Ans
+ A. 155
+B. 299
+C. 203
+D. 323
+Q.37 The expenditure of Sudha is 150% more than her savings. If her expenditure decreases
+by 7% and savings increase by 21%, then by what percentage does her income
+increase?
+Ans
+ A. 0.03%
+B. 5%
+C. 1%
+D. 6%
+Q.38 What is the Highest Common Factor (HCF) of 252 and 378?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.39 The mode of a distribution is 21 and the mean is 60. The value of its median is:
+Ans
+ A. 47
+B. 49
+C. 45
+D. 51
+Q.40 Keshav spends 70% of his income. If he saves ₹18,000, then his income (in ₹) is:
+Ans
+ A. 61,000
+B. 12,600
+C. 60,000
+D. 59,000
+Q.41 A wholesaler bought goods for ₹15,000 and sold them to a retailer at 20% profit. The
+retailer then sold the goods to customers at 25% profit. What is the final selling price to
+customers?
+Ans
+ A. ₹23,000
+B. ₹22,500
+C. ₹22,000
+D. ₹23,500
+Q.42 P and Q together can fill a cistern with water in 7 hours. If P alone can fill the cistern
+with water in 56 hours, then in how many hours will Q alone fill one-fourth of the same
+cistern with water?
+Ans
+ A. 5
+B. 3
+C. 2
+D. 4
+Q.43
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.44
+Ans
+ A. 6
+B. 7
+C. 16
+D. 17
+Q.45 What is the mode of the following data?
+53, 47, 53, 48, 53, 53, 40, 41, 50, 50, 55, 48, 54, 49, 49, 51, 46, 45
+Ans
+ A. 48
+B. 40
+C. 53
+D. 47
+Q.46 The monthly incomes of two friends Vipul and Vijay, are in the ratio 5 : 8, respectively,
+and each of them saves ₹84,000 every month. If the ratio of their monthly expenditure is
+1 : 4, find the monthly income of Vipul (in ₹).
+Ans
+ A. 1,06,000
+B. 1,04,000
+C. 1,47,000
+D. 1,05,000
+Q.47 A father’s current age is three times the age of his son. Five years ago from now, the
+father’s age was four times the age of his son at that time. What are their present ages?
+Ans
+ A. 45 years and 15 years
+B. 42 years and 14 years
+C. 40 years and 13 years
+D. 50 years and 17 years
+Q.48 'X' can complete the work order in 15 days and 'Y' can complete the same work order in
+12 days. With the help of 'F', the three of them finished the work in 5 days. How many
+days would 'F' take to complete the work alone?
+Ans
+ A. 20 days
+B. 5 days
+C. 15 days
+D. 10 days
+Q.49 A solid metallic sphere of radius 9 cm is melted and recast into 27 smaller solid
+spheres of equal size. Find the surface area of one small sphere.
+Ans
+ A. 42π cm2
+B. 48π cm2
+C. 36π cm2
+D. 24π cm2
+Q.50 The market prices of paddy and jowar are in the ratio 1 : 3, and a family consumes them
+in the ratio 5 : 7 by quantity. Find the ratio of expenditure on paddy to that on jowar.
+Ans
+ A. 9 : 25
+B. 6 : 22
+C. 5 : 21
+D. 7 : 23
+Q.51 Six friends — John, Alex, Priyanka, Sameer, Rohit and Neil — are sitting around a
+circular table facing the centre. John is an immediate neighbour of both Alex and
+Priyanka. Sameer is sitting second to the left of Priyanka. Neil is sitting to the
+immediate left of Sameer.
+Who is sitting to the immediate left of Neil?
+Ans
+ A. Alex
+B. Priyanka
+C. Rohit
+D. John
+Q.52 Aarav starts from Point A and drives 13 km towards east. He then takes a left turn,
+drives 8 km, turns left and drives 15 km. He then takes a left turn and drives 11 km. He
+takes a final left turn, drives 2 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. 3 km to the south
+B. 4 km to the south
+C. 3 km to the north
+D. 4 km to the north
+Q.53 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+PRT 28 VXZ 21 BDF 14 HJL 7 ?
+Ans
+ A. NRW -1
+B. NQQ 0
+C. NOQ -1
+D. NPR 0
+Section : General Intelligence and Reasoning
+Q.54 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+SWE `QUC `OSA `MQY `?
+Ans
+ A. KOI
+B. KWO
+C. KOW
+D. KIO
+Q.55 PSOK is related to VYUQ in a certain way based on the English alphabetical order. In
+the same way, EILJ is related to KORP. To which of the following is MPQT related,
+following the same logic?
+Ans
+ A. SVWY
+B. TUVZ
+C. SVWZ
+D. TUWY
+Q.56 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. RT - PV
+B. DF - BH
+C. MO - KQ
+D. IK - HJ
+Q.57 If ‘P’ stands for ‘×’, ‘Q’ stands for ‘÷’, ‘R’ stands for ‘−’ and ‘S’ stands for ‘+’, what will
+come in place of the question mark (?) in the following equation?
+17 P 3 S (16 Q 4) P 2 R 13 P 4 S 15 = ?
+Ans
+ A. 22
+B. 18
+C. 40
+D. 36
+Q.58 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(32, 16, 8)
+(48, 24, 12)
+Ans
+ A. (156, 78, 39)
+B. (188, 124, 48)
+C. (128, 64, 42)
+D. (196, 98, 46)
+Q.59 STPT is related to RSOS in a certain way based on the English alphabetical order. In the
+same way, RSOS is related to QRNR. To which of the following is BCYC related,
+following the same logic?
+Ans
+ A. ABXB
+B. ABWB
+C. AAWB
+D. ACWD
+Q.60 Refer to the following series and answer the question (all numbers are single digit
+numbers only). Counting to be done from left to right only.
+(Left) 8 4 6 4 6 1 9 6 7 2 2 2 2 1 5 5 1 6 6 7 2 5 5 (Right)
+How many such odd digits are there, each of which is immediately preceded by an odd
+digit and also immediately followed by an even digit?
+Ans
+ A. None
+B. Three
+C. One
+D. Two
+Q.61 Eight people (A, B, C, D, E, F, G and H) are sitting around a circular table, facing
+towards the centre.
+Exactly three people sit between D and C. Exactly three people sit between F and H. A
+sits second to the right of D. E sits to the immediate right of A. D is an immediate
+neighbour of both H and G. B sits to the immediate left of G.
+How many people sit between B and H, when counted from the left of H?
+Ans
+ A. 4
+B. 2
+C. 3
+D. 1
+Q.62 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 7 6 6 2 6 3 3 2 3 6 6 3 3 4 2 4 4 5 1 5 4 7 5 4 6 9 8 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+even number and also immediately followed by an even number?
+Ans
+ A. 2
+B. 4
+C. 3
+D. 1
+Q.63 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+DFC−ACZ
+UWT−RTQ
+Ans
+ A. EFB−BDA 
+B. EGD−ADZ 
+C. EFB−ACZ
+D. EGD−BDA 
+Q.64 In a certain code language,
+A + B means ‘A is the mother of B’,
+A – B means ‘A is the brother of B’,
+A x B means ‘A is the wife of B’,
+A % B means ‘A is the father of B’ and
+A # B means ‘A is the daughter of B’.
+How is Q related to R if ‘R – E % C # Q + V’?
+Ans
+ A. Brother’s son
+B. Brother’s wife
+C. Father’s brother
+D. Brother’s daughter
+Q.65 In a shopping mall, Shop A is to the north of Shop B. Shop F is to the east of Shop A.
+Shop E is to the west of Shop F and Shop A is to the east of Shop E. Shop D is to the
+north of Shop E. What is the position of Shop D with respect to Shop B?
+Ans
+ A. North
+B. West
+C. South-west
+D. North-west
+Q.66 What should come in place of the question mark (?) in the given series?
+45 58 63 76 81 94 ?
+Ans
+ A. 101
+B. 93
+C. 99
+D. 96
+Q.67 What should come in place of the question mark (?) in the given series?
+112 92 74 58 44 ?
+Ans
+ A. 34
+B. 30
+C. 28
+D. 32
+Q.68 John ranked 20th from the bottom and 33rd from the top in his class. How many
+students are there in his class?
+Ans
+ A. 50
+B. 51
+C. 52
+D. 53
+Q.69 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+76 × 4 – (80 ÷ 10) × 4 + 50 ÷ 2 = ?
+Ans
+ A. 95
+B. 146
+C. 119
+D. 128
+Q.70 Seven boxes, B, D, E, P, S, T and W, are kept one over the other, but not necessarily in
+the same order.
+No box is kept above P. Only three boxes are kept between P and B. Only one box is
+kept between D and S. S is kept immediately above B. Only four boxes are kept
+between D and T. E is kept at some place above W.
+Which box is kept second below E?
+Ans
+ A. D
+B. B
+C. T
+D. S
+Q.71 In a certain code language, ‘obey the lights’ is coded as ‘ro hm jw’ and ‘lights flash red’
+is coded as ‘ld yc hm’. How is ‘lights’ coded in the given language?
+Ans
+ A. jw
+B. hm
+C. ro
+D. ld
+Q.72 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will
+come in place of the question mark (?) in the following equation?
+80 A 4 C 15 B 6 D 9 B 3 C (18 A 6) B 10 = ?
+Ans
+ A. 113
+B. 129
+C. 150
+D. 138
+Q.73 In a certain code language, ‘TOUR’ is coded as ‘4139’ and ‘BRUT’ is coded as ‘4318’.
+What is the code for ‘B’ in that language?
+Ans
+ A. 3
+B. 4
+C. 1
+D. 8
+Q.74 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 7 4 1 2 4 9 8 5 3 6 1 5 4 6 7 4 8 3 9 6 5 2 3 9 1 4 2 (Right)
+How many such odd numbers are there, each of which is immediately preceded by a
+perfect square and immediately followed by an even number?
+(NOTE: 1 is also a perfect square.)
+Ans
+ A. One
+B. More than three
+C. Three
+D. Two
+Q.75 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All Reds are Blues.
+All Blues are Greens.
+Some Greens are Yellows.
+Conclusions:
+(I): All Blues are Yellows.
+(II): Some Greens are Reds.
+Ans
+ A. Both conclusions (I) and (II) are true
+B. Neither conclusion (I) nor (II) is true
+C. Only conclusion (I) is true
+D. Only conclusion (II) is true
+Q.76 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+ 
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. GJLP
+B. ILMR
+C. TWYC
+D. HKMQ
+Q.77 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All cakes are hearts.
+Some seats are hearts.
+No bats are hearts.
+Conclusions:
+(I): Some seats are not bats.
+(II): No cakes are seats.
+Ans
+ A. Only conclusion (II) follows
+B. Both conclusions (I) and (II) follow
+C. Only conclusion (I) follows
+D. Neither conclusion (I) nor (II) follows
+Q.78 Six people, A, B, C, D, E and F, are sitting in a row, facing north. A sits to the immediate
+right of E. F sits fourth to the left of E. Only one person sits between B and E. C sits to
+the immediate left of B. D sits second to the left of A. Three of the following four are
+alike in a certain way based on the given arrangement and thus form a group. Which is
+the one that does not belong to that group?
+Ans
+ A. FA
+B. DE
+C. BD
+D. CB
+Q.79 Refer to the given series and answer the question that follows (all numbers are single
+digit numbers only). Counting to be done from left to right only.
+(Left) 6 6 2 7 2 9 3 2 2 3 7 6 5 8 4 6 1 9 7 9 4 8 3 6 1 2 3 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 4
+B. 3
+C. 2
+D. 5
+Q.80 What should come in place of the question mark (?) in the given series?
+9012 9013 9011 9014 9010 ?
+Ans
+ A. 9015
+B. 9016
+C. 9014
+D. 9013
+Section : General Awareness and Current Affairs
+Q.81 _________ is the massive sports talent hunt introduced by Bihar CM Nitish Kumar in
+May 2025, designed for secondary and higher secondary school students.
+Ans
+ A. Mashal
+B. Lakshya
+C. Bihar Sports Samarthan Yojana
+D. Khel Pratibha Khoj Abhiyan
+Q.82 Which of the following countries hosted the Kabaddi World Cup, 2025, first time outside
+Asia?
+Ans
+ A. Qatar
+B. Italy
+C. Tajikistan
+D. England
+Q.83 In June 2025, which Indian state launched a state-level Clean Air Plan based on airshed
+scientific analysis?
+Ans
+ A. Bihar
+B. Uttar Pradesh
+C. Rajasthan
+D. Assam
+Q.84 Which of the following best characterises the India-Singapore Ministerial Roundtable
+(ISMR) framework?
+Ans
+ A. A high-level mechanism to deepen bilateral cooperation across strategic, economic, technological, and people-to-people
+sectors
+B. A cultural-exchange mechanism involving arts and heritage institutions only
+C. A platform limited to trade dispute settlement between the two countries
+D. A forum exclusively for defence procurement negotiations
+Q.85 The 2025 Wimbledon Championships took place in which city?
+Ans
+ A. Melbourne, Australia
+B. Paris, France
+C. New York, USA
+D. London, UK
+Q.86 Which of the following was launched by the Ministry of Women and Child Development
+during the National Consultation on Gender Budgeting in June 2025?
+Ans
+ A. National Resource Centre for Women
+B. Gender Budgeting Knowledge Hub portal
+C. One-Stop Centre scheme for women affected by violence
+D. Beti Bachao Beti Padhao Annual Report 2024
+Q.87 Which organisations jointly launched multi-agency rescue operations after the
+Uttarkashi floods in August 2025?
+Ans
+ A. ISRO, DRDO, BARC
+B. NSG, Coast Guard, NCC
+C. Railways, Navy, CBI
+D. Army, BRO, ITBP, NDRF, SDRF
+Q.88 Under the proposed Constitution (131st Amendment) Bill 2025, which seeks to include
+Chandigarh under Article 240, the Union Territory will be aligned with which category of
+regions?
+Ans
+ A. Union Territories without legislatures
+B. Union Territories with legislatures
+C. Union Territories with partial state powers
+D. Union Territories governed under special provisions
+Q.89 What is the 2025 Guinness World Record recently set by Nigerian chess master Tunde
+Onakoya?
+Ans
+ A. Most simultaneous chess games
+B. Longest blitz chess game
+C. Longest chess marathon
+D. Longest single chess move
+Q.90 By how many basis points did the Reserve Bank of India reduce the repo rate in April
+2025?
+Ans
+ A. 75 basis points
+B. 10 basis points
+C. 25 basis points
+D. 50 basis points
+Q.91 A 24-hour wildlife census using the waterhole method, which recorded the sighting of
+73 Great Indian Bustards, was conducted in June 2025 in which of the following
+national parks?
+Ans
+ A. Ranthambore National Park
+B. Kanha National Park
+C. Bandhavgarh National Park
+D. Desert National Park
+Q.92 What was the approximate monetary loss alleged by the State Bank of India (SBI) in its
+complaint against Anil Ambani and his company Reliance Communications Ltd, that
+triggered the Central Bureau of Investigation's (CBI) investigation in August 2025?
+Ans
+ A. ₹1,000 crore
+B. ₹10,000 crore
+C. ₹3,000 crore
+D. ₹1,900 crore
+Q.93 Lala Lajpat Rai, whose 160th birth anniversary was observed on 28 January 2025, was
+popularly known by which title?
+Ans
+ A. Punjab Kesari
+B. Deshbandhu
+C. Lokmanya Tilak
+D. Netaji
+Q.94 Which Ministry is responsible for the grant increase in national championships for
+high-priority sports?
+Ans
+ A. Ministry of Skill Development and Entrepreneurship
+B. Ministry of Youth Affairs and Sports
+C. Ministry of Human Resource Development
+D. Ministry of Education
+"
+Q.95 According to Tamil Nadu’s transgender policy (2025), what significant right is explicitly
+assured?
+Ans
+ A. Compulsory housing allotments for transgender households
+B. Horizontal reservation in government jobs
+C. Exclusive pension scheme for all transgender persons
+D. Inheritance rights and access to education and employment
+Q.96 What is the name given to the mobile application launched by the Government of India
+in October 2024 for registration of births and deaths, aimed to streamline and reduce
+the time required for these registrations?
+Ans
+ A. Central Registration System
+B. Civil Registration App
+C. Civil Registration System
+D. Birth and Death Registration System
+Q.97 What key capability of the Vertically-Launched Short-Range Surface-to-Air Missile
+(VLSRSAM) was established during its March 2025 flight-test?
+Ans
+ A. Underwater deployment capability
+B. Long-range high-altitude interception
+C. Near-boundary low-altitude engagement
+D. Mid-course ballistic target destruction
+Q.98 The Supreme Court declared in October 2025 that the principle of public trust extends
+to artificial lakes this ruling affirmed the directive of which of the following High Court
+benches?
+Ans
+ A. Jaipur Bench of the Rajasthan High Court
+B. Lucknow Bench of the Allahabad High Court
+C. Nagpur Bench of the Bombay High Court
+D. Madurai Bench of the Madras High Court
+Q.99 Prof. Syed Wajih Ahmad Naqvi, an outstanding Biogeochemical Oceanographer with
+national and international recognition, received the 2024 Rashtriya Vigyan Puraskar in
+which of the following categories?
+Ans
+ A. Vigyan Shri (VS) Award
+B. Vigyan Ratna (VR) Award
+C. Vigyan Yuva-Shanti Swarup Bhatnagar (VY-SSB) Award
+D. Vigyan Team (VT) Award
+Q.100Who received the Padma Vibhushan in 2025 for their contributions to the dance form,
+Kathak?
+Ans
+ A. Birju Maharaj
+B. Shobana Chandrakumar
+C. Kumudhini Lakhia
+D. Kelucharan Mohapatra

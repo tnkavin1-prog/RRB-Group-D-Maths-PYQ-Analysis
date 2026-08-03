@@ -1,0 +1,763 @@
+Q.1 When a gun is fired, the bullet moves forward because:
+Ans
+ A. the barrel exerts no force
+B. air resistance acts forward
+C. the recoil of the gun acts backward as reaction
+D. gravity pushes it forward
+Q.2 Which of the following observations best supports that liquids have a definite volume
+but no fixed shape?
+Ans
+ A. Air expands to fill the entire container
+B. A solid iron block retains its shape in any container
+C. A sponge changes its shape when squeezed
+D. Water takes the shape of its container but retains its volume
+Q.3 Which of the following methods involves coating steel and iron with a layer of zinc to
+prevent rusting?
+Ans
+ A. Passivation
+B. Cathodic protection
+C. Electroplating
+D. Galvanisation
+Q.4 Which among the following organic compounds is saturated?
+Ans
+ A. 2-Bromopropene
+B. Propene
+C. Propyne
+D. Bromopropane
+Q.5 Which of the following has straight-chain hydrocarbons?
+Ans
+ A. 3-Methylpentane
+B. 2-Methylpropane
+C. Butane
+D. Isobutane
+Test Date 27/11/2025
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 The relation between electric energy, power and time is:
+Ans
+ A. Energy = Time – Power
+B. Energy = Power / Time
+C. Energy = Power × Time
+D. Energy = Power + Time
+Q.7 The weight of a body on the moon is less than on Earth because:
+Ans
+ A. Gravitational acceleration on the moon is smaller
+B. Mass of the body decreases on the moon
+C. The moon has no atmosphere
+D. Mass of the moon is equal to Earth’s mass
+Q.8 When we hit a table lightly, the sound produced is soft because the:
+Ans
+ A. frequency of vibration is low
+B. amplitude of vibration is small
+C. speed of sound decreases
+D. wavelength becomes shorter
+Q.9 Which of the following statements is true about HIV transmission?
+Ans
+ A. HIV can be transmitted through aerosols.
+B. HIV can be transmitted through sexual acts.
+C. HIV can be transmitted through mosquito bites.
+D. HIV can be transmitted through casual contact.
+Q.10 Why can tiny molecules like oxygen easily pass through the cell membrane, but not the
+big ones like starch or proteins?
+Ans
+ A. Small molecules have special energy to push through.
+B. The cell membrane is permeable to selective substances.
+C. The cell membrane is completely solid.
+D. Big molecules have to break down for entry.
+Q.11 A car starts from rest and accelerates uniformly at 2 m/s² for 5 seconds. What is the
+final velocity of the car?
+Ans
+ A. 20 m/s
+B. 5 m/s
+C. 10 m/s
+D. 15 m/s
+Q.12 Generally which of the following trophic levels have the least number of organisms?
+Ans
+ A. Secondary consumers
+B. Tertiary consumers
+C. Primary consumers
+D. Producers
+Q.13 The distance between the pole and the centre of curvature of a convex mirror is + 40
+cm. What will be the distance between the pole and the focus of this mirror?
+Ans
+ A. −20 cm
+B. −40 cm
+C. + 20 cm
+D. + 40 cm
+Q.14 Which of the following human diseases can be transmitted during sexual act?
+Ans
+ A. Protein Energy Malnutrition
+B. Acquired Immuno Deficiency Syndrome
+C. Diabetes
+D. Cancer
+Q.15 Which of the following is a characteristic of gases?
+Ans
+ A. No fixed shape and no fixed volume
+B. Fixed shape and volume
+C. Compressible but not fluid
+D. No fixed shape but fixed volume
+Q.16 Magnification produced by a lens is related to object distance (u) and image distance (v)
+by the formula:
+Ans
+ A. m = v – u
+B. m = u / v
+C. m = u + v
+D. m = v / u
+Q.17 Which of the following has the highest acidity?
+Ans
+ A. Vinegar
+B. Water
+C. Milk
+D. Lemon juice
+Q.18 A body of mass ‘m’ kg is kept at a height of ‘h’ m from the surface of the Earth. What will
+be the potential energy possessed by this body?
+Ans
+ A. m2gh
+B. hg/m
+C. mh/g
+D. mgh
+Q.19 How much work (W) is done in moving a charge (Q) of 5 C across two points that have a
+potential difference of 15 V?
+Ans
+ A. 1/3 J
+B. 3 J
+C. 15 J
+D. 75 J
+Q.20 Which of the following cell organelles have enough surface area for ATP-generating
+chemical reactions?
+Ans
+ A. Cell wall
+B. Vacuoles
+C. Lysosomes
+D. Mitochondria
+Q.21 Mitochondria are special because they have their own DNA and ribosomes. What can
+they do on this basis?
+Ans
+ A. Move around the cell on their own
+B. Digest materials like lysosomes do
+C. Make food using sunlight like plants do
+D. Make some of their own proteins
+Q.22 Which of the following plants reproduces asexually by budding along the margins of a
+leaf?
+Ans
+ A. Mango
+B. Hydra
+C. Bryophyllum
+D. Spirogyra
+Q.23 Which of the following will show diffusion fastest?
+Ans
+ A. Liquid in gas
+B. Solid in liquid
+C. Gas in gas
+D. Solid in solid
+Q.24 How is intercropping beneficial over single crop farming?
+Ans
+ A. Utilises nutrients efficiently and prevents spread of diseases
+B. Increases irrigation needs
+C. Requires less land
+D. Reduces labour cost
+Q.25 __________ is precipitated, when carbon dioxide is passed through lime water.
+Ans
+ A. Ca(HCO3)2
+B. Ca(OH)2
+C. CaSO4
+D. CaCO3
+Q.26 Mohan buys a watch for ₹460 and sells it for ₹483. Find his percentage of profit.
+Ans
+ A. 5.5%
+B. 5%
+C. 4%
+D. 4.7%
+Q.27
+Ans
+ A. 0
+B. 2x
+C. 1
+D. x
+Q.28 Anmol and Ayushi together invested ₹46,600 in a business. At the end of the year, out of
+a total profit of ₹7,500, Anmol's share was ₹2,700. What was Anmol's investment?
+Ans
+ A. ₹16,080
+B. ₹17,240
+C. ₹16,776
+D. ₹18,740
+Q.29 A purse contains only ₹5 and ₹10 coins. The total number of coins is 118 and their total
+value is ₹855. How many coins of ₹5 are there?
+Ans
+ A. 53
+B. 56
+C. 65
+D. 55
+Section : Mathematics
+Q.30
+Ans
+ A. 3
+B. 7
+C. 1
+D. 5
+Q.31 The average age of 51 students in a class is 24 years. If the age of the teacher is also
+included, the average age of the whole group becomes 25 years. The age (in years) of
+the teacher is:
+Ans
+ A. 76
+B. 75
+C. 77
+D. 71
+Q.32 A, B and C can do a piece of work in 3, 8 and 24 days, respectively. How long (in days)
+will they take to do thrice the same work, working together?
+Ans
+ A. 6
+B. 18
+C. 12
+D. 7
+Q.33 A train P going at the speed of 84 km/hr completely passes train Q of length 447 m,
+going in the same direction on parallel tracks, at 54 km/hr, in 4.5 minutes. How much
+time (in seconds) will P take to completely cross train R of length 287 m, going at 87
+km/hr in the opposite direction?
+Ans
+ A. 36
+B. 39
+C. 44
+D. 34
+Q.34 The cost of a washing machine is 40% less than the cost of a TV. If the cost of the
+washing machine increases by 80% and that of the TV decreases by 22%, then what is
+the percentage change in the total cost of 7 washing machines and 6 TVs?
+Ans
+ A. Increase by 20%
+B. Increase by 21%
+C. Decrease by 15%
+D. Decrease by 18%
+Q.35
+Ans
+ A. 1
+B. 3
+C. 0
+D. 2
+Q.36 What is the average of the first 50 even natural numbers?2979
+Ans
+ A. 52
+B. 50
+C. 54
+D. 51
+Q.37
+Ans
+ A. 160%
+B. 165%
+C. 150%
+D. 300%
+Q.38 If the third proportional of 32 and 24 is x, then what is the value of x?
+Ans
+ A. 20
+B. 17
+C. 16
+D. 18
+Q.39 In a ΔPMN, ∠P = 76°. The bisectors of the exterior angles at M and N intersect each
+other at point O. The degree measure of ∠MON is:
+Ans
+ A. 128°
+B. 52°
+C. 104°
+D. 38°
+Q.40 A person saves 60% of his income. If his expenditure is ₹440, then his income (in ₹) is:
+Ans
+ A. 176
+B. 264
+C. 1,140
+D. 1,100
+Q.41 3 men can do a piece of work in 20 days. How many men will do it in 2 days?
+Ans
+ A. 30
+B. 31
+C. 33
+D. 32
+Q.42 11 men can dig a well 59 feet deep in 19 days. How many men can dig a well 118 feet
+deep in 2 days?
+Ans
+ A. 209
+B. 206
+C. 211
+D. 208
+Q.43 The amount on a sum of ₹6,500 at 20% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹9,431
+B. ₹10,274
+C. ₹9,360
+D. ₹8,411
+Q.44 The average age of four children I, J, K and L is 9 years and the average age of I, J, L, M
+is 12 years. K is 5 years old. The age of M (in years) is:
+Ans
+ A. 18
+B. 19
+C. 17
+D. 20
+Q.45 The ratio of the volume of a sphere to the total surface area of a hemisphere is 28 : 3. If
+the radii of the sphere and the hemisphere are equal, find the volume of the sphere (in
+cubic centimetres).
+Ans
+ A. 38,208
+B. 38,808
+C. 38,542
+D. 38,460
+Q.46 Two trains, measuring 267 metres and 153 metres in length, are moving in the same
+direction at speeds of 162 km/hr and 36 km/hr, respectively. How long will it take for the
+faster train to completely overtake the slower one?
+Ans
+ A. 18 seconds
+B. 12 seconds
+C. 17 seconds
+D. 22 seconds
+Q.47 After selling an article at a discount of 29%, the profit percentage obtained is 4%. What
+is the mark-up percentage (rounded off to two decimal places)?
+Ans
+ A. 48.51%
+B. 46.48%
+C. 47.05%
+D. 45.31%
+Q.48
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.49 If an item marked at ₹485 is sold for ₹293, then what is the discount percentage?
+(Round off your answer to two decimal places).
+Ans
+ A. 36.76%
+B. 42.85%
+C. 38.99%
+D. 39.59%
+Q.50 A triangular field has sides measuring 42 cm, 34 cm and 20 cm. What is the length of the
+altitude corresponding to the longest side?
+Ans
+ A. 15 cm
+B. 20 cm
+C. 16 cm
+D. 18 cm
+Section : General Intelligence and Reasoning
+Q.51 SDFH is related to VYIC in a certain way based on the English alphabetical order. In the
+same way, EJRN is related to HEUI. To which of the following options is NUAY related,
+following the same logic?9955
+Ans
+ A. QWET
+B. QPYU
+C. QPDT
+D. QSER
+Q.52 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 5 7 1 8 4 2 3 9 5 7 6 1 (Right)
+How many even numbers are there which are immediately followed by odd numbers?
+Ans
+ A. More than three
+B. Three
+C. Two
+D. One
+Q.53 What should come in place of the question mark (?) in the given series?
+834 840 848 ? 870 8844221
+Ans
+ A. 858
+B. 854
+C. 856
+D. 855
+Q.54 This question is based on the five, three-digit numbers given below.
+(Left) 742 912 853 657 154 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE: All operations to be done from left to right.)
+If all the numbers are arranged in descending order, the position of how many numbers
+will remain unchanged?
+Ans
+ A. Three
+B. Two
+C. One
+D. Four
+Q.55 In a certain code language,
+A + B means ‘A is the sister of B’,
+A @ B means ‘A is the brother of B’,
+A - B means ‘A is the wife of B’ and
+A # B means ‘A is the father of B’.
+Based on the above, how is O related to V if ‘O + P @ T - G # V’?
+Ans
+ A. Mother's sister
+B. Mother
+C. Sister
+D. Mother's mother
+Q.56 In the following triads, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one which follows the same logic.
+MIST - TIMS - ISMT
+HOPE - EOHP - OPHE
+Ans
+ A. WIDE - EIWD - DIWE
+B. BUSY - YUBS - USBY
+C. NUMB - NMUB - BMUN
+D. PUTS - UPTS - SUTP
+Q.57 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group? (Note: The odd one out is not based on the number of
+consonants/vowels or their position in the letter-cluster.)
+Ans
+ A. PS - LO
+B. MP - IL
+C. OR - KN
+D. IL - EL
+Q.58 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some paddy are rice.
+Some rice are wheat.
+Conclusions:
+(I) Some paddy are wheat.
+(II) All wheat are rice.
+Ans
+ A. Only conclusion (II) follows
+B. Neither conclusion (I) nor (II) follows
+C. Both conclusions (I) and (II) follow
+D. Only conclusion (I) follows
+Q.59 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will
+come in place of the question mark (?) in the following equation?
+21 B 16 C 20 D 26 A 2 = ?
+Ans
+ A. 341
+B. 342
+C. 343
+D. 340
+Q.60 Refer to the number series given below and answer the question that follows. Counting
+to be done from left to right only.
+(NOTE: All numbers are single-digit numbers only.)
+(Left) 3 1 3 9 6 3 4 1 1 5 6 9 9 6 8 9 7 5 6 6 2 (Right)
+How many such even digits are there each of which is immediately preceded by a
+perfect square and also immediately followed by an even digit?
+Ans
+ A. 2
+B. 1
+C. 3
+D. 4
+Q.61 In a certain code language, ‘nail post fish’ is coded as 'pl mg qn' and ‘fish urn knife’ is
+coded as ‘ix pl ko’. How is ‘fish’ coded in the given language?
+Ans
+ A. qn
+B. ix
+C. mg
+D. pl
+Q.62 Raman ranked 31st from the top and 12th from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 41
+B. 42
+C. 40
+D. 43
+Q.63 In a certain code language, ‘ROME’ is coded as ‘1398’ and ‘DEMO’ is coded as ‘4138’.
+What is the code for ‘D’ in the given code language?1745
+Ans
+ A. 4
+B. 3
+C. 1
+D. 8
+Q.64 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(3, -2, 11)
+(46, 2107, 9)
+Ans
+ A. (34, 1135, 21)
+B. (25, 607, 17)
+C. (38, 1433, 10)
+D. (33, 1081, 7)
+Q.65 What should come in place of the question mark (?) in the given series?
+267 237 209 183 159 ?
+Ans
+ A. 137
+B. 133
+C. 128
+D. 145
+Q.66 This question is based on the five, three-digit numbers given below.
+(Left) 593 784 358 631 296 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+What will be the resultant, if the third digit of the highest number is added to the second
+digit of the lowest number?
+Ans
+ A. 13
+B. 17
+C. 10
+D. 14
+Q.67 Seven boxes B, C, D, I, J, K and L are kept one over the other but not necessarily in the
+same order. Only I is kept above C. Only L is kept between C and J. Only K is kept below
+D. How many boxes are kept between B and I?7084
+Ans
+ A. Two
+B. Four
+C. One
+D. Three
+Q.68 Hemant starts from Point A and drives 3 km towards the east. He then takes a right turn,
+drives 5 km, turns right and drives 6 km. He then takes a right turn and drives 5 km. He
+takes a final left turn, drives 8 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90 degrees turns only unless specified).
+Ans
+ A. 11 km towards the east
+B. 11 km towards the west
+C. 7 km towards the north
+D. 5 km towards the south
+Q.69 Seven people, B, C, D, I, J, K and L, are sitting around a circular table, facing the centre
+of the table. I sits to the immediate left of D. J is the immediate neighbour of both B and
+K. K sits third to the left of D. L is not an immediate neighbour of K. Who sits second to
+the right of C?
+Ans
+ A. I
+B. K
+C. J
+D. D
+Q.70 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+GMP IOR KQT MSV ?
+Ans
+ A. OUX
+B. QVX
+C. PVX
+D. OUY
+Q.71 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+GKN19 HLO26 IMP33 JNQ40 ?
+Ans
+ A. KOR48
+B. KOS47
+C. KOS48
+D. KOR47
+Q.72 If + means −, − means ×, × means ÷ and ÷ means +, then what will come in place of the
+question mark (?) in the following equation?
+43 − 17 ÷ 147 + 362 × 2 = ?
+Ans
+ A. 697
+B. 699
+C. 691
+D. 695
+Q.73 A, B, C, R, S, T and U are sitting around a circular table facing the centre of the table.
+Only two people sit between C and U when counted from the left of U. B sits third to the
+left of A. T sits to the immediate right of A.T sits second to the left of C. R is not an
+immediate neighbour of B. Who sits third to the right of S?
+Ans
+ A. U
+B. T
+C. A
+D. C
+Q.74 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusion(s) logically follow(s) from the
+statements.
+Statements:
+Some oranges are peaches.
+No peach is a carrot.
+Conclusions:
+(I) Some oranges are carrots.
+(II) All carrots are peaches.
+Ans
+ A. Only conclusion (I) follows.
+B. Both conclusions (I) and (II) follow.
+C. Neither conclusion (I) nor (II) follows.
+D. Only conclusion (II) follows.
+Q.75 A, B, C, D, E, F and G are sitting around a circular table facing the centre. C sits third to
+the right of D. E sits second to the right of C. F is the immediate neighbour of B and C.
+G is not an immediate neighbour of D. How many people sit between A and G when
+counted from the left of G?
+Ans
+ A. Two
+B. Four
+C. Three
+D. One
+Q.76 Mukesh starts from Point A and drives 14 km towards the North. He then takes a left
+turn, drives 9 km, then turns left and drives 17 km. He then takes a left turn and drives
+13 km. He takes a final left turn, drives 3 km, and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only, unless specified.)
+Ans
+ A. 4 km to the east
+B. 4 km to the west
+C. 5 km to the west
+D. 5 km to the east
+Q.77 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. CIE
+B. GMJ
+C. IOL
+D. PVS
+Q.78 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+11 B 22 C 288 A 18 D 50 = ?
+Ans
+ A. 202
+B. 220
+C. 208
+D. 212
+Q.79 EFJL is related to HKMQ in a certain way based on the English alphabetical order. In the
+same way, QZVF is related to TEYK. To which of the following options is ZOEU related,
+following the same logic?10115
+Ans
+ A. CTHZ
+B. CTZS
+C. CGFR
+D. CTYU
+Q.80 What should come in place of the question mark (?) in the given series?
+2 4 12 24 72 ?3821
+Ans
+ A. 144
+B. 136
+C. 92
+D. 124
+Q.81 Indicating a strong push toward sustainable energy development, the installed
+renewable energy generating capacity in India increased from 64.04 watts per capita in
+2014-15 to what level per capita in 2024-25?
+Ans
+ A. 98.63 watts
+B. 110.36 watts
+C. 156.31 watts
+D. 85.21 watts
+Q.82 Which app was announced in June 2025 to identify sporting talent via videos?
+Ans
+ A. SAI Connect App
+B. Sports Talent Search App
+C. TOPS Talent App
+D. Khelo India App
+Q.83 In June 2025, the Reserve Bank of India introduced relaxed norms for project finance
+provisioning bringing significant relief to lenders, with effect from _______.
+Ans
+ A. 1 August 2025
+B. 1 October 2025
+C. 1 November 2025
+D. 1 September 2025
+Q.84 Which team won the Laureus World Team of the Year in 2025?
+Ans
+ A. Los Angeles Lakers
+B. Spain Olympic Football Team
+C. Barcelona
+D. Real Madrid
+Q.85 Which international day was observed for the first time on 12 April 2025, as declared by
+the United Nations?
+Ans
+ A. International Day of Clean Energy
+B. International Day of Human Space Flight
+C. International Day of Plant Health
+D. International Day for Dialogue Between Civilizations
+Section : General Awareness and Current Affairs
+Q.86 Which state High Court in January 2025 has mandated that individuals in live-in
+relationships must sign a legal contract outlining financial responsibilities and
+childcare provisions?
+Ans
+ A. Gujarat
+B. Maharashtra
+C. Goa
+D. Rajasthan
+Q.87 The theme of National Nurses Day 2025 was 'Our Nurses. Our Future. Caring for nurses
+strengthens economies'. When was this day celebrated in India?
+Ans
+ A. 7 June
+B. 12 May
+C. 6 July
+D. 7 August
+Q.88 With which of the following institutes did the Data Informatics and Innovation Division
+of the Ministry of Statistics and Programme Implementation (MoSPI), sign a
+Memorandum of Understanding under the Data Innovation lab initiative in January
+2025?
+Ans
+ A. National Institute of Technology Warangal
+B. International Institute of Information Technology – Hyderabad(IIIT-Hyderabad)
+C. National Institute of Technology Durgapur
+D. Indraprastha Institute of Information Technology (IIIT-Delhi)
+Q.89 Which rugby league legend became the first player in the sport's 130-year history to
+receive a knighthood, awarded by King Charles at Buckingham Palace in 2025?
+Ans
+ A. Ellery Hanley
+B. Billy Boston
+C. Martin Offiah
+D. Kevin Sinfield
+Q.90 Who received the Padma Shri in 2025 for their work in social service (North East India)?
+Ans
+ A. Jumde Yomgam
+B. Kiran Mazumdar-Shaw
+C. Anand Kumar
+D. Binalakshmi Nepram
+Q.91 The National Florence Nightingale Awards, conferred by the President of India in May
+2025, are given to which of the following?
+Ans
+ A. Teaching professionals
+B. Educational institutions
+C. Nursing professionals
+D. Doctors
+Q.92 The Prime Minister laid the foundation stone for the National Referral Centre for Wildlife
+in which city in 2025?
+Ans
+ A. Pune
+B. Ahmedabad
+C. Vadodara
+D. Junagadh
+Q.93 The ‘GenomeIndia’ project that has completed whole genome sequencing (WGS) on a
+database of thousands of individuals in April 2025 was launched in ____.
+Ans
+ A. 2019
+B. 2014
+C. 2023
+D. 2020
+Q.94 Which of the following organisations received the 2025 Zayed Sustainability Prize in the
+Health category in January 2025?
+Ans
+ A. PATH
+B. Doctors Without Borders
+C. Periwinkle Technologies
+D. Last Mile Health
+Q.95 Which two national parks achieved the highest scores of 92.97% in the Management
+Effectiveness Evaluation (MEE) 2020–2025 of National Parks and Protected Areas?
+Ans
+ A. Periyar and Sundarbans
+B. Gir and Kaziranga
+C. Bandipur and Kanha
+D. Eravikulam and Dachigam
+Q.96 With which country did India secure a $131 million deal in May 2025 to acquire
+'HawkEye 360’s cutting-edge surveillance technology to advance its maritime defense
+infrastructure?
+Ans
+ A. United States of America
+B. New Zealand
+C. South Africa
+D. Germany
+Q.97 Which Indian bowler took 25 wickets to win IPL 2025 Purple Cap?
+Ans
+ A. Jasprit Bumrah
+B. Arshdeep Singh
+C. Yuzvendra Chahal
+D. Prasidh Krishna
+Q.98 Which state emerged as India’s first fully literate state, following a major literacy drive
+under the ULLAS scheme, in May 2025?
+Ans
+ A. Mizoram
+B. Kerala
+C. Gujarat
+D. Goa
+Q.99 According to ICRA, India’s general insurance sector is expected to see a growth of how
+much percentage in FY26?
+Ans
+ A. 7.7%
+B. 5.7%
+C. 8.7%
+D. 6.7%
+"
+Q.100Which Indian personality headed the expert committee on digital competition law in
+2025?
+Ans
+ A. Manoj Govil
+B. Manoj Joshi
+C. Nandan Nilekani
+D. Ashwini Vaishnaw

@@ -1,0 +1,768 @@
+Q.1 Which cropping pattern involves growing two or more crops together on the same land
+at the same time, but in a defined row or spatial arrangement?
+Ans
+ A. Intercropping
+B. Crop rotation
+C. Mixed cropping
+D. Monocropping
+Q.2 The principal focus of a convex lens is _______.
+Ans
+ A. the point where diverging rays meet
+B. the point where parallel rays converge
+C. always at infinity
+D. the point behind the lens where rays diverge
+Q.3 Muscle cells show higher mitochondrial activity after exercise. The result indicates
+which of the following?
+Ans
+ A. Cells are becoming larger.
+B. More energy is required during activity.
+C. Cell division stops.
+D. Mitochondria cause fatigue.
+Q.4 What is the energy absorbed during change of state at constant temperature called?
+Ans
+ A. Latent heat
+B. Kinetic energy
+C. Thermal energy
+D. Specific heat
+Q.5 Which of the following cellular organelles performs the function of storage,
+modification and packaging of products in vesicles?
+Ans
+ A. Chloroplast
+B. Vacuoles
+C. Golgi Complex
+D. Ribosomes
+Test Date 26/12/2025
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 An object of mass 12 kg is located such that its potential energy relative to the ground
+is 480 J. Assuming g = 10 m s−2, what is the height (h) of the object?
+Ans
+ A. 2 m
+B. 4 m
+C. 120 m
+D. 40 m
+Q.7 Which of the following is a homogeneous mixture?
+Ans
+ A. Sand and iron
+B. Oil and water
+C. Water and ice
+D. Air
+Q.8 Hydrometers are tools used to measure the density of liquids. Which scientific principle
+are they based on?
+Ans
+ A. Universal law of Gravitation
+B. Newton’s First Law
+C. Archimedes’ Principle
+D. Pascal’s Law
+Q.9 If the length of a uniform metallic conductor is doubled, and simultaneously its area of
+cross-section is doubled, how does the resistance of the conductor change?
+Ans
+ A. It remains the same as the original resistance.
+B. It becomes four times the original resistance.
+C. It decreases to one-half of the original resistance.
+D. It doubles the original resistance.
+Q.10 Refer to the two statements given below and choose the correct option.
+Statement A: Acids react with all metals to form hydrogen gas.
+Statement B: Gold and platinum also react with acids to release hydrogen.
+Ans
+ A. Statement A is correct but B is incorrect.
+B. Statement A is incorrect but B is correct.
+C. Both statements A and B are correct.
+D. Both statements A and B are incorrect.
+Q.11 A sound wave has a wavelength of 0.5 m and frequency 680 Hz. The speed of sound is:
+Ans
+ A. 170 m/s
+B. 680 m/s
+C. 1360 m/s
+D. 340 m/s
+Q.12 When a more reactive metal is placed in the salt solution of a less reactive metal, it:
+Ans
+ A. gets oxidised
+B. displaces the less reactive metal
+C. gets reduced
+D. does not react
+Q.13 When an object is placed at the focus of a convex lens, the formation of image is
+________________.
+Ans
+ A. at the centre of curvature
+B. between F and 2F
+C. at infinity
+D. on the same side as the object
+Q.14 Which of the following best explains the importance of fertilisation in sexual
+reproduction?
+Ans
+ A. It increases the number of eggs in females
+B. It cleanses the reproductive tract
+C. It helps the uterus for menstrual flow
+D. It allows the formation of an embryo
+Q.15 Which of the following trophic levels is occupied by the tertiary consumers?
+Ans
+ A. First trophic level
+B. Second trophic level
+C. Fourth trophic level
+D. Third trophic level
+Q.16 What is the primary purpose of the process of nutrition in living organisms?
+Ans
+ A. To form oxygen molecules required for photosynthesis
+B. To obtain energy and raw materials from external sources
+C. To regulate visible movement and reproduction
+D. To produce carbon dioxide and other waste materials
+Q.17 What happens to the egg if it is NOT fertilised?
+Ans
+ A. It implants in the uterus.
+B. It survives for a week.
+C. It becomes an embryo.
+D. It lives for about one day and then disintegrates.
+Q.18 What does the term 'formula unit mass' refer to?
+Ans
+ A. Total mass of atoms in one mole of a compound
+B. Sum of atomic masses of all atoms in the compound
+C. Mass of a single proton in an atom
+D. Mass of one molecule of a covalent compound
+Q.19 Which of the following is NOT a typical characteristic of plants produced through
+vegetative propagation?
+Ans
+ A. They show variation in characteristics among offspring.
+B. They do not require pollination.
+C. They flower and fruit earlier than seed-grown plants.
+D. They are genetically identical to the parent.
+Q.20 A basic solution will have a pH:
+Ans
+ A. Less than 7
+B. Greater than 7
+C. Equal to 7
+D. That cannot be predicted
+Q.21 A body of mass 'm' experiences a force 'F', producing an acceleration 'a'. If the same
+force acts on a body of mass '2m', the acceleration produced will be:
+Ans
+ A. a
+B. a/4
+C. a/2
+D. 2a
+Q.22 Why is carbon able to form a large number of compounds?
+Ans
+ A. It shows catenation and tetravalency.
+B. It forms strong ionic bonds.
+C. It has high density.
+D. It is highly reactive.
+Q.23 Which quantity changes due to an unbalanced force?
+Ans
+ A. Mass
+B. Density
+C. Velocity
+D. Time
+Q.24 What determines the atomic number of an element?
+Ans
+ A. Number of neutrons in an isotope
+B. Difference between mass and charge
+C. Total number of protons in nucleus
+D. Number of electrons in all shells
+Q.25 Which of the following correctly describes the SI unit of electric power and the
+commercial unit of electrical energy, respectively?
+Ans
+ A. Volt (V); Joule (J)
+B. Kilowatt-hour (kWh); Watt (W)
+C. Watt (W); Kilowatt-hour (kWh)
+D. Watt (W); Joule (J)
+Q.26 Find the HCF of 44, 110 and 198.
+Ans
+ A. 33
+B. 22
+C. 11
+D. 44
+Q.27 A train covers a distance of 270 km in 4.5 hours. What is the speed of the train?
+Ans
+ A. 60 km/h
+B. 65 km/h
+C. 55 km/h
+D. 70 km/h
+Section : Mathematics
+Q.28 The price of fuel decreases by 50%, 40% and 20% in three successive months, but
+increases by 50% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price?
+Ans
+ A. Increases by 61%
+B. Increases by 65%
+C. Decreases by 62%
+D. Decreases by 64%
+Q.29
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.30 Raju has ₹50 more than Riya. Together they have ₹350. How much money does Raju
+have?
+Ans
+ A. ₹250
+B. ₹150
+C. ₹225
+D. ₹200
+Q.31
+Ans
+ A. 11490
+B. 8410
+C. 12730
+D. 9000
+Q.32 In a test, B got 50 marks while A got 75 marks, out of 85 maximum marks. What
+percentage of A's marks was B's marks? (Round off the answer to two decimal places.)
+Ans
+ A. 66.67%
+B. 150.28%
+C. 88.23%
+D. 85.79%
+Q.33 Two pipes, A and B, can fill a cistern in 6 hours and 8 hours, respectively. Pipe C can
+empty the cistern in 10 hours. Initially, pipes A and B are opened together to fill the
+cistern for 3 hours. After 3 hours, pipe A is closed, and pipes B and C are opened
+together. By what percentage was the time taken by pipes B and C to fill the remaining
+part of the cistern greater than the time taken by pipes A and B to fill it in the first 3
+hours?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.34 In a quadrilateral QRST, ∠Q = 96° and ∠R = 43°. The bisectors of ∠S and ∠T meet at E.
+What is the measure of ∠TES?
+Ans
+ A. 69.5°
+B. 70.5°
+C. 56°
+D. 78°
+Q.35 One pipe can fill a tank in 6 minutes, while another pipe can empty the completely filled
+tank in 12 minutes. If both the pipes are opened together when the tank is empty, how
+many minutes will it take to fill one-half of the tank?
+Ans
+ A. 12
+B. 6
+C. 13
+D. 7
+Q.36 An agent sells a turbo cooker with a marked price of ₹6,370 at a discount of 60%. What
+is the selling price (in ₹) of the turbo cooker?
+Ans
+ A. 2,549
+B. 2,548
+C. 2,547
+D. 2,546
+Q.37 If an item is bought for ₹800 and sold for ₹740, what is the loss percentage?
+Ans
+ A. 7.5%
+B. 6.5%
+C. 9.5%
+D. 8.5%
+Q.38
+Ans
+ A. 6
+B. 7
+C. 10
+D. 4
+Q.39 Find the simple interest (in ₹) on ₹2,000 at 7% per annum rate of interest for the period
+from 11 February 2023 to 25 April 2023.
+Ans
+ A. 26
+B. 27
+C. 29
+D. 28
+Q.40 The mean and the mode of a set of data are 86.7 and 51.3, respectively. Find the median
+of the data, using the empirical formula.
+Ans
+ A. 74.9
+B. 75.8
+C. 76.2
+D. 74
+Q.41 If the fourth proportional to P, 15 and 20 is 1, then find the value of P.
+Ans
+ A. 302
+B. 298
+C. 297
+D. 300
+Q.42
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.43 The difference between the ages of Girish and Rohan is 10 years. 15 years ago, Girish
+was twice as old as Rohan. Find Girish's present age.
+Ans
+ A. 37 years
+B. 35 years
+C. 39 years
+D. 32 years
+Q.44 A sphere is lowered into water which is filled up to the brim in a conical
+vessel of radius 12 cm and height 16 cm. The size of the sphere is such
+that when it touches the sides of the cone, the sphere is just immersed
+into the cone. Find the ratio of the volume of water that has overflown to
+the volume of water left in the cone.
+Ans
+ A. 5 : 7
+B. 3 : 5
+C. 2 : 7
+D. 4 : 5
+Q.45 ₹10,511 is divided among X, Y, and Z in such a way that if ₹87, ₹42, and ₹12 be deducted
+from their respective shares, they have money in the ratio 6 : 16 : 12. Find the
+difference between the Y’s and Z’s original shares.
+Ans
+ A. ₹1,120
+B. ₹1,320
+C. ₹1,250
+D. ₹1,370
+Q.46 The arithmetic mean of the observations 52, 40, 76, 99, 52, 27, 80, 27 and 24 is:
+Ans
+ A. 47
+B. 53
+C. 60
+D. 56
+Q.47
+Ans
+A. 
+B. 
+C. 
+D. 
+Q.48 Find a single discount (approximately) equal to three consecutive discounts of 11%,
+12% and 2%.
+Ans
+ A. 20.49%
+B. 25.59%
+C. 23.97%
+D. 23.25%
+Q.49
+11132
+Ans
+ A. 48 minutes
+B. 51 minutes
+C. 61 minutes
+D. 55 minutes
+Q.50 102 men have provisions for 30 weeks. They are joined by 78 men. How long (in weeks)
+will the provisions last?
+Ans
+ A. 19
+B. 15
+C. 17
+D. 21
+Q.51 A, B, C, D, E and F are sitting around a circular table, facing the centre. B sits third to
+the right of C. C sits second to the left of A. F sits third to the right of D. D sits to the
+immediate left of E. How many people sit between E and B, when counted from the left
+of E?
+Ans
+ A. One
+B. Two
+C. None
+D. Four
+Section : General Intelligence and Reasoning
+Q.52 Prakash starts from Point A and drives 35 km towards the south. He then takes a right
+turn, drives 38 km, turns right and drives 41 km. He then takes a right turn and drives
+54 km. He takes a final right turn, drives 6 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only unless specified.)
+Ans
+ A. 15 km to the west
+B. 17 km to the east
+C. 18 km to the east
+D. 16 km to the west
+Q.53 Anant starts from Point A and drives 32 km towards the south. He then takes a left turn,
+drives 34 km, turns left and drives 35 km. He then takes a left turn and drives 38 km. He
+takes a final left turn, drives 3 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90-degree turns only unless specified.)
+Ans
+ A. 5 km to the west
+B. 3 km to the east
+C. 6 km to the west
+D. 4 km to the east
+Q.54 In a row of 52 people facing north, Neena is 24th from the right end. If Mishti sits 15th to
+the left of Neena, what is Mishti’s position from the left end of the line?
+Ans
+ A. 16th
+B. 14th
+C. 15th
+D. 13th
+Q.55 Dayanand ranked 17th from the top and 11th from the bottom in his class. How many
+students are there in the class?
+Ans
+ A. 28
+B. 27
+C. 26
+D. 25
+Q.56 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+YCG 87 IMQ 95 SWA 103 CGK 111 ?
+Ans
+ A. MRT 119
+B. MPT 118
+C. MRX 118
+D. MQU 119
+Q.57 In a certain code language,
+‘A + B’ means ‘A is the brother of B’,
+‘A – B’ means ‘A is the sister of B’,
+‘A × B’ means ‘A is the mother of B’ and
+‘A ÷ B’ means ‘A is the son of B’.
+How is V related to Y if ‘V + W × X – Z ÷ Y’?
+Ans
+ A. Wife's brother
+B. Daughter's husband
+C. Father's father
+D. Brother's son
+Q.58 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will
+come in place of the question mark (?) in the following equation?
+65 B 7 D 912 A 6 C 98 = ?
+Ans
+ A. 471
+B. 410
+C. 401
+D. 444
+Q.59 What should come in place of the question mark (?) in the given series?
+191 181 182 172 173 163 ?
+Ans
+ A. 161
+B. 163
+C. 164
+D. 162
+Q.60 Seven friends, L, M, N, O, Q, R and S, are sitting in a straight line facing north. Only four
+people sit to the right of O. Only three people sit between O and S. Only one person sits
+between S and L. R sits to the immediate left of M. N is not an immediate neighbour of
+S. How many people sit to the right of Q?
+Ans
+ A. Three
+B. Two
+C. Four
+D. One
+Q.61 KNSM is related to ORWQ in a certain way based on the English alphabetical order. In
+the same way, NQVP is related to RUZT. To which of the given options is GJOI related,
+following the same logic?
+Ans
+ A. KOSM
+B. KOSL
+C. KNSL
+D. KNSM
+Q.62 Refer to the given series and answer the question that follows (all numbers are single
+digit numbers only). Counting to be done from left to right only.
+(Left) 7 2 6 9 7 6 5 7 7 8 8 3 6 3 6 8 3 2 5 5 2 3 1 4 6 1 8 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 3
+B. 5
+C. 4
+D. 6
+Q.63 Refer to the given number, symbol series and answer the question that follows.
+Counting to be done from left to right only. All numbers are single-digit numbers.
+(Left) 5 € $ 4 9 & & 4 € @ © 7 @ 7 9 1 8 # 8 % 5 £ (Right)
+How many such symbols are there, each of which is immediately preceded by a number
+and also immediately followed by a number?
+Ans
+ A. 3
+B. 4
+C. 8
+D. 9
+Q.64 What should come in place of the question mark (?) in the given series?
+63 72 82 93 105 ?
+Ans
+ A. 116
+B. 120
+C. 114
+D. 118
+Q.65 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(14, 28, 2)
+(13, 39, 3)
+Ans
+ A. (11, 55, 6)
+B. (16, 32, 3)
+C. (17, 65, 5)
+D. (15, 45, 3)
+Q.66 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some brinjals are peppers.
+Some peppers are turnips.
+Conclusions:
+(I) Some brinjals are turnips.
+(II) All turnips are peppers.
+Ans
+ A. Only conclusion (II) follows.
+B. Neither conclusion (I) nor (II) follows.
+C. Both conclusions (I) and (II) follow.
+D. Only conclusion (I) follows.
+Q.67 In a certain code language, "XANJ" is coded as "98" and "VLQG" is coded as "116".
+What is the code for "ZRHU" in that language?
+Ans
+ A. 139
+B. 146
+C. 130
+D. 141
+Q.68 A, B, C, D, E, F and G are sitting around a circular table, facing the centre.
+Only two people sit between F and C, when counted from the right of F. Only two people
+sit between C and A, when counted from the right of C. Only three people sit between F
+and G, when counted from the right of F. E sits to the immediate left of D.
+How many people sit between D and F, when counted from the right of D?
+Ans
+ A. 2
+B. 1
+C. 3
+D. 4
+Q.69 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+SWE UYG WAI YCK ?
+Ans
+ A. AME
+B. AEM
+C. ADE
+D. ASE
+Q.70 If 3 is added to each even digit and 2 is added to each odd digit in the number 3267541,
+what will be the sum of the last two and first two digits in the new number thus formed?
+Ans
+ A. 35
+B. 20
+C. 28
+D. 40
+Q.71 Select the triad which follows the same pattern as that followed by the two triads given
+below. Both triads follow the same pattern.
+CL-FO-IK
+EN-HQ-KM
+Ans
+ A. HP-JR-MN
+B. GP-JS-MN
+C. GP-JS-MO
+D. HP-JS-MN
+Q.72 Select the pair that follows the same pattern as the one followed by the two pairs given
+below. Both pairs follow the same pattern.
+JGF−GDC
+FCB−CZY
+Ans
+ A. BXV−YVU
+B. BYX−YVU
+C. BYX−XVT
+D. BXV−XUT
+Q.73 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+ 
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. WYA
+B. FHJ
+C. GIK
+D. UXY
+Q.74 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+17 ÷ 18 + 88 × 2 − 313 = ?
+Ans
+ A. 575
+B. 512
+C. 534
+D. 597
+Q.75 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 7 4 1 2 4 9 7 5 3 6 1 5 2 7 4 5 8 3 9 6 5 7 3 9 1 4 2 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+even number and also immediately followed by an even number?
+Ans
+ A. Three
+B. One
+C. None
+D. Two
+Q.76 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All fruits are vegetables.
+No vegetable is a pumpkin.
+Conclusions:
+(I): No fruit is a pumpkin.
+(II): Some pumpkins are vegetables.9927
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Only conclusion (II) follows
+C. Only conclusion (I) follows
+D. Both conclusions (I) and (II) follow
+Q.77 In a certain code language, "VACP" is coded as "126" and "MHTJ" is coded as "153".
+What is the code for "OGQE" in that language?
+Ans
+ A. 132
+B. 135
+C. 140
+D. 129
+Q.78 Which numbers should come in place of the question marks (?) in the same sequence
+to make the series logically complete?
+989 979 969 ? 949 ? 929
+Ans
+ A. 949 and 939, respectively
+B. 959 and 929, respectively
+C. 929 and 939, respectively
+D. 959 and 939, respectively
+Q.79 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+ 
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. ECG
+B. QOS
+C. KJM
+D. USW
+Q.80 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 7 9 5 6 8 9 2 9 7 2 9 4 3 1 5 4 5 8 2 4 1 4 3 1 4 8 1 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 5
+B. 7
+C. 4
+D. 6
+Q.81 Which team won the 2025 EFL Championship playoff final and secured promotion to
+the Premier League?
+Ans
+ A. Sheffield United
+B. Southampton
+C. Sunderland
+D. Leeds United
+Q.82 What is the title of Arundhati Roy’s latest book, released in September 2025?
+Ans
+ A. Mother Mary Comes to Me
+B. The Architecture of Modern Empire
+C. The Ministry of Utmost Happiness
+D. Azadi: Freedom. Fascism. Fiction
+Q.83 In November 2025, where will COP30 the UN Climate Change Conference be held?
+Ans
+ A. Belém, Brazil
+B. Quito, Ecuador
+C. Nairobi, Kenya
+D. Bangkok, Thailand
+Q.84 In March 2025, which 12-year-old swimmer set a record by completing the 17 km open-
+water swim from Gateway of India to Atal Setu?
+Ans
+ A. Rohan Mehta
+B. Vihaan Sharma
+C. Arjun Borse
+D. Tanay Tushar Lad
+Q.85 The West Bengal workplace safety guidelines (2025) specify that night shifts for women
+must include ________________.
+Ans
+ A. only women supervisors
+B. at least 10 women or one-third of the total staff, whichever is higher
+C. at least two-third female staff or 20 women, whichever is higher
+D. at least 50% female security personnel on every shift
+Q.86 The Central Pollution Control Board (CPCB) introduced a new Blue Category for
+industries through a circular in February 2025. Which industries fall under it?
+Ans
+ A. Textile and leather industries
+B. High-polluting industries like refineries
+C. Essential environmental services like waste-to-energy plants
+D. IT and software service providers such as Infosys
+Section : General Awareness and Current Affairs
+Q.87 On 24 July 2025, the Ministry of Ports, Shipping and Waterways hosted which event in
+New Delhi to deliberate on financial strategies for India’s maritime future?
+Ans
+ A. India Maritime Vision 2047 Conference
+B. Port & Shipping Investment Summit, 2025
+C. Maritime Financing Summit, 2025
+D. Maritime Development Forum, 2025
+Q.88 Which of the following organisations successfully flight-tested the nuclear-capable
+Agni-5 missile in August 2025?
+Ans
+ A. Indian Space Research Organisation (ISRO)
+B. Hindustan Aeronautics Limited (HAL)
+C. Bharat Dynamics Limited (BDL)
+D. Defence Research and Development Organisation (DRDO)
+Q.89 Which political party has won the bye elections to the constituency of Ludhiana west
+held in June 2025?
+Ans
+ A. Bhartiya Janata Party
+B. Punjab Seva Dal
+C. Indian National Congress
+D. Aam Aadmi Party
+Q.90 In April 2025, the Reserve Bank of India (RBI) mandated banks to move to the '.bank.in'
+domain by _____________.
+Ans
+ A. 31 October 2025
+B. 31 March 2026
+C. 30 May 2025
+D. 31 December 2025
+Q.91 Where was the World Health Summit Regional Meeting, 2025, held?
+Ans
+ A. Kolkata
+B. Patna
+C. New Delhi
+D. Guwahati
+Q.92 Which of the following institutions co-organised 'the Belém Health Action Plan' event
+with the WHO and other UN partners at COP30 in November 2025?
+Ans
+ A. World Trade Institute (WTI)
+B. National Institutes of Health (NIH)
+C. United Nations University (UNU)
+D. Global Institute of Public Health (GIPH)
+Q.93 In which of the following cities was the regional meeting with Waqf Boards held in
+October 2025?
+Ans
+ A. Hyderabad
+B. Mumbai
+C. Delhi
+D. Bengaluru
+"
+Q.94 Which of the following famous footballers was awarded the United States Presidential
+Medal of Freedom in January 2025, the highest civilian honour of the United States of
+America?
+Ans
+ A. Lionel Messi
+B. Luiz Suarez
+C. Neymar Jr.
+D. Christiano Ronaldo
+Q.95 In June 2025, Union Home Minister Amit Shah unveiled the Flood Hazard Zonation Atlas
+of which state?
+Ans
+ A. Gujarat
+B. Maharashtra
+C. Assam
+D. Himachal Pradesh
+Q.96 As per the Commission for Air Quality Management (CAQM)–revised Graded Response
+Action Plan (GRAP) for the entire NCR in November 2025, which measure was
+advanced from Stage II to Stage I?
+Ans
+ A. Ensuring uninterrupted power supply to discourage use of DG sets
+B. Allowing offices to work on 50% strength and the rest from home
+C. Staggering timings for public offices in Delhi and key NCR districts
+D. Complete ban on all construction activities across NCR
+Q.97 Which automobile company successfully conducted a launch and landing test of its
+first experimental reusable rocket on June 17, 2025, in Hokkaido, Japan?
+Ans
+ A. Honda
+B. Hyundai
+C. Mitsubishi
+D. Toyota
+Q.98 Who holds the record for most IPL fifty-plus scores as of 2025?
+Ans
+ A. Virat Kohli
+B. Rohit Sharma
+C. Shikhar Dhawan
+D. David Warner
+Q.99 "Operation Abhyaas", a nationwide civil defence mock drill held on 7 May 2025, was
+organized by which of the following in India?
+Ans
+ A. NITI Ayog
+B. Ministry of Home Affairs
+C. Indian Institute of Administrative Sciences
+D. Ministry of Finance
+Q.100In May 2025, the Reserve Bank of India (RBI) approved the renaming of the North East
+Small Finance Bank to ___________.
+Ans
+ A. Northeast Micro Finance Bank Limited
+B. Synergy Small Finance Bank Limited
+C. Slice Small Finance Bank Limited
+D. North East Regional Finance Bank Limited

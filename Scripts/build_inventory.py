@@ -2,7 +2,7 @@ import os, csv, re, io
 
 from pypdf import PdfReader
 
-ROOT = r"E:\RRB PYQ\RRB-Group-D-Maths-PYQ-Analysis"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PDF_ROOT = os.path.join(ROOT, "PDFs")
 OUT = os.path.join(ROOT, "inventory.csv")
 

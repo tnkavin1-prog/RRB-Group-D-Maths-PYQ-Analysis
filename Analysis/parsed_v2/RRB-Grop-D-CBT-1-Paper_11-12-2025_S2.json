@@ -1,0 +1,28 @@
+[
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_11-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 31,
+    "questionText": "\u0915\u094b \u0938\u0930\u0932 \u0915\u0940\u093f\u091c\u090f\u0964",
+    "options": {
+      "A": "17,500",
+      "B": "16,000",
+      "C": "15,500",
+      "D": "17,000"
+    },
+    "answer": ""
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_11-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 48,
+    "questionText": "\u0915\u094b \u0938\u0930\u0932 \u0915\u0930\u0000\u0964",
+    "options": {
+      "A": "EH - DG",
+      "B": "OR - NQ",
+      "C": "LO - KN",
+      "D": "QT - PT"
+    },
+    "answer": ""
+  }
+]

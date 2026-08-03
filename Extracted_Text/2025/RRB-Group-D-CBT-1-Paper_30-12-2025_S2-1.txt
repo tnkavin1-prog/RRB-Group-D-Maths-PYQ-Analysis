@@ -1,0 +1,781 @@
+Q.1 Which of the following is NOT a consequence of nutrient deficiency in plants?
+Ans
+ A. Affected reproduction
+B. Increased resistance to diseases
+C. Low yield
+D. Poor growth
+Q.2 What occurs when a detached leaf of Bryophyllum comes into contact with moist soil?
+Ans
+ A. It shows a loss of chlorophyll.
+B. It absorbs water and grows larger.
+C. It decomposes.
+D. It produces new plantlets from notches on the leaf margin.
+Q.3 Which of the following is an element?
+Ans
+ A. Air
+B. Sodium chloride
+C. Oxygen
+D. Water
+Q.4 The refractive indices of water, glass and diamond are 1.33, 1.5, and 2.42, respectively.
+Light travels:
+Ans
+ A. at the same speed irrespective of the medium
+B. the fastest in glass medium
+C. the fastest in diamond medium
+D. the fastest in water medium
+Q.5 In unicellular organisms, ______ is the method of reproduction.
+Ans
+ A. Rejuvenation
+B. Regeneration
+C. Fragmentation
+D. Fission
+Test Date 30/12/2025
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 What was Mendel’s contribution to genetics?
+Ans
+ A. Laws of Inheritance
+B. Inheritance of Acquired Traits
+C. Theory of Evolution
+D. Discovery of DNA
+Q.7 The __________ is a dark, spherical structure in the cell, surrounded by a __________
+membrane with pores for material exchange.
+Ans
+ A. nucleoid; double
+B. vacuole; single
+C. nucleus; double
+D. nucleoid; single
+Q.8 If the slope of a distance-time graph changes continuously, it indicates:
+Ans
+ A. uniform speed
+B. stationary object
+C. non-uniform speed
+D. instantaneous rest
+Q.9 When an acid reacts with a reactive metal, the products formed are:
+Ans
+ A. A metal oxide and nitrogen gas evolve
+B. A salt and hydrogen gas are produced
+C. An alkali and hydrogen peroxide form
+D. A salt and carbon dioxide gas form
+Q.10 Which of the following best defines a heterogeneous mixture?
+Ans
+ A. A mixture where components are not uniformly distributed and can be easily seen as separate.
+B. A compound formed by the chemical combination of two or more elements.
+C. A pure substance that cannot be broken down further by chemical means.
+D. A mixture where components are uniformly distributed and indistinguishable.
+Q.11 A satellite moves in a circular orbit of radius 42,250 km and completes one revolution in
+24 hours. If a new satellite orbits at half this radius but maintains the same period, how
+does the speed (vnew) compare to the original speed (vorig)?
+Ans
+ A. vnew = vorig
+B. vnew = 2vorig
+C. vnew = 0.5vorig
+D. vnew = 4vorig
+Q.12 The outermost orbit can hold maximum how many electrons?
+Ans
+ A. 8
+B. 2
+C. 5
+D. 16
+Q.13 Which of the following correctly describes the graphical representation of Ohm's law?
+Ans
+ A. A straight line through the origin
+B. A hyperbolic curve
+C. A straight line parallel to x-axis
+D. An elliptical curve
+Q.14 Which gas is evolved when a metal reacts with a dilute acid?
+Ans
+ A. Oxygen
+B. Carbon dioxide
+C. Nitrogen
+D. Hydrogen
+Q.15 Work is said to be positive when _________.
+Ans
+ A. no displacement occurs
+B. force and displacement are opposite
+C. force and displacement are in the same direction
+D. force is perpendicular to the displacement
+Q.16 Select the statement regarding cell organelles that is INCORRECT.
+Ans
+ A. They are found in Prokaryotic cells.
+B. They are found in Eukaryotic cells.
+C. They are membrane-bound structures.
+D. Each cell organelle performs a special function.
+Q.17 During an experiment, a cell is damaged and its lysosomes burst, releasing digestive
+enzymes into the cytoplasm. What is most likely to happen next?
+Ans
+ A. The mitochondria will produce more energy.
+B. The cell will grow in size.
+C. The nucleus will divide rapidly.
+D. The cell will destroy itself and die.
+Q.18 Which of the following is an example of a vibrating body producing sound?
+Ans
+ A. A stationary fan
+B. A moving car
+C. A pendulum swinging silently
+D. A ringing tuning fork
+Q.19 While cooking, steam escapes from a boiling pot and hits the cook’s hand. Why does
+she pull away her hand before feeling the burn?
+Ans
+ A. The spinal cord initiated a reflex action.
+B. The brain delayed the response.
+C. The heat evaporated quickly.
+D. Her hand muscles detect the steam.
+Q.20 In a redox displacement reaction, if element X loses electrons and element Y gains
+electrons, then:
+Ans
+ A. Both are oxidised
+B. X is reduced and Y is oxidised
+C. Both are reduced
+D. X is oxidised and Y is reduced
+Q.21 What is the name of the effect seen when light is scattered by tiny particles in a
+colloidal solution?
+Ans
+ A. Refraction
+B. Dispersion
+C. Reflection
+D. Tyndall Effect
+Q.22 Which of the following is INCORRECT?
+Ans
+ A. Buoyant force = weight of fluid displaced
+B. Buoyant force is maximum for fully submerged body.
+C. Buoyant force is independent of fluid density.
+D. Buoyant force acts upwards.
+Q.23 Salt dissolves in water because:
+Ans
+ A. It has lower density than water and floats easily
+B. It melts at room temperature forming a liquid
+C. It evaporates quickly in water during mixing
+D. Water has space between particles for ions to enter
+Q.24 An electric iron having resistance (R) has a power (P) associated with it when current (I)
+flows through it on applying potential difference (V) across its ends. Which of the
+following relations is NOT correct?
+Ans
+ A. P = VI
+B. P = I2R
+C. P = V2/R
+D. P = V/I
+Q.25 Which of the following is an allotrope of carbon with a cage-like structure?
+Ans
+ A. Graphite
+B. Fullerene
+C. Diamond
+D. Charcoal
+Q.26
+Ans
+ A. 2x − 5
+B. 10x − 5
+C. 2x + 5
+D. 10x + 5
+Q.27 In an election held in a city, the voting percentage was 72%. The winner got 27% of the
+polled votes, while the runner-up got 15% of the polled votes. If there were 1,20,000
+voters in that city, by how many votes did the winner win the election?
+Ans
+ A. 10,458
+B. 11,358
+C. 10,368
+D. 11,458
+Q.28 If the price of rice increases by 20% and a person reduces its consumption by 20%, by
+what percentage will his total expenditure on rice decrease?
+Ans
+ A. 4%
+B. 5%
+C. 3%
+D. 2%
+Section : Mathematics
+Q.29 Find the smallest number which when increased by 20 is completely divisible by 12, 20,
+15, 18 and 24.
+Ans
+ A. 320
+B. 330
+C. 340
+D. 310
+Q.30 Nisha goes to a shop to purchase a toy drum priced at ₹5,000. She is offered 4 discount
+options by the shopkeeper. Which of the following options should she opt for to gain
+maximum advantage of the discount offered?
+Ans
+ A. Two successive discounts of 23% each
+B. Two successive discounts of 7% and 45%
+C. Two successive discounts of 10% and 39%
+D. A single discount of 64%
+Q.31 Two pipes A and B fill a tank in 32 and 36 minutes, respectively and pipe C empties 13
+cubic units per minute. All three pipes together can fill the tank in 20 minutes. Find the
+capacity (in cubic units) of the tank.
+Ans
+ A. 720
+B. 1560
+C. 480
+D. 1440
+Q.32 If the number of sides of a regular polygon is 18, then what is the measure of the
+interior angle of the polygon?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.33 The capacity of a cylindrical vessel is 25.872 litres. If the height of the cylinder is three
+times the radius of its base, then what is the curved surface area of the cylinder?
+Ans
+ A. 4122 cm2
+B. 3696 cm2
+C. 3945 cm2
+D. 4276 cm2
+Q.34 The average of the first 9 even natural numbers is:
+Ans
+ A. 9
+B. 11
+C. 10
+D. 13
+Q.35 The average age of 34 students of a class is 29 years. If the age of the teacher is also
+included, the average age of the whole group becomes 30 years. The age (in years) of
+the teacher is:
+Ans
+ A. 68
+B. 66
+C. 64
+D. 70
+Q.36 The present age of a father is two times the age of his son. Fifteen years ago from now,
+the father was three times as old as his son was at that time. Find the present age of
+the father.
+Ans
+ A. 60 years
+B. 30 years
+C. 40 years
+D. 65 years
+Q.37 If the mean proportional of A and 27 is 18, then find the value of A.5768
+Ans
+ A. 12
+B. 11
+C. 10
+D. 13
+Q.38 P sells an item to R at a profit of 10%, and R sells it to Q at a profit of 5%. What would
+have been P's profit percentage if he had sold the item directly to Q at the price R sold
+it?
+Ans
+ A. 14.5%
+B. 15%
+C. 15.5%
+D. 16%
+Q.39 Which of the following pairs of numbers are relatively prime to each other?
+Ans
+ A. (52, 105)
+B. (68, 85)
+C. (102, 153)
+D. (65, 91)
+Q.40
+3030
+Ans
+ A. 10,800
+B. 10,200
+C. 10,100
+D. 10,900
+Q.41 A person observes an object on the ground from the top of a tower at an angle of
+depression 60°. If the distance between the foot of the tower and the object is 10√3 m,
+then find the height (in m) of the tower.
+Ans
+ A. 15√3
+B. 21.5
+C. 30
+D. 20√3
+Q.42 P and Q together can fill a cistern with water in 8 hours. If P alone can fill the cistern
+with water in 16 hours, then in how many hours will Q alone fill one-fourth of the same
+cistern with water?
+Ans
+ A. 8
+B. 5
+C. 4
+D. 9
+Q.43 A taxi service charges a fixed base fare plus a variable rate per kilometre. For a 10 km
+trip, Raju paid ₹230, and for a 15 km trip, Meena paid ₹330. What is the base fare and
+the per-kilometre charge?
+Ans
+ A. Base fare = ₹60; Per-kilometre Charge = ₹20
+B. Base fare = ₹40; Per-kilometre Charge = ₹18
+C. Base fare = ₹30; Per-kilometre Charge = ₹20
+D. Base fare = ₹50; Per-kilometre Charge = ₹18
+Q.44 Two trains, A and B, of lengths 457 m and 113 m are running at speeds of 18 m/s and 20
+m/s, respectively, towards each other on parallel tracks. In how much time will they
+cross each other?
+Ans
+ A. 12 seconds
+B. 5 seconds
+C. 23 seconds
+D. 15 seconds
+Q.45
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.46 The salaries of X, Y and Z are in the ratio 18:5:10. If the increments of 45%, 86% and
+89% are allowed, respectively, in their salaries, then what will be new ratio of their
+salaries?
+Ans
+ A. 89:37:64
+B. 90:34:66
+C. 85:38:67
+D. 87:31:63
+Q.47 A cyclist rides a 180 km course consisting of three segments. For the first 60 km, the
+cyclist rides at a speed of 20 km/hr. For the next 60 km, the cyclist rides at 30 km/hr. For
+the final 60 km, the cyclist rides at 60 km/hr. What is the cyclist's average speed for the
+entire journey?
+Ans
+ A. 29.14 km/hr
+B. 26 km/hr
+C. 30 km/hr
+D. 28.57 km/hr
+Q.48 If the radius of a sphere is 22 cm, then its surface area is:
+Ans
+ A. 1964 π cm2
+B. 1864 π cm2
+C. 1936 π cm2
+D. 2000 π cm2
+Q.49 The amount on a sum of ₹3,500 at 20% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹5,040
+B. ₹5,138
+C. ₹6,011
+D. ₹5,564
+Q.50 The marked price of a toy truck is ₹8,730, and its selling price is ₹5,940. Find the
+discount percentage. (Round off the answer to two decimal places.)
+Ans
+ A. 31.96%
+B. 31.89%
+C. 28.98%
+D. 35.12%
+Q.51 Rohit starts from point A and drives 2 km towards the east. He then takes a left turn,
+drives 5 km and then again turns left and drives 2 km. He then takes a final left turn and
+drives 3 km and stops at point E. How far and towards which direction should he drive
+in order to reach point A again? (All turns are 90-degree turns only unless specified.)
+Ans
+ A. 2 km towards the east
+B. 2 km towards the south
+C. 4 km towards the west
+D. 4 km towards the north
+Q.52 This question is based on the five, three-digit numbers given below.
+(Left) 672 323 561 307 529 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE - All operations to be done from left to right.)
+What will be the resultant if the second digit of the highest number is added to the third
+digit of the lowest number?
+Ans
+ A. 16
+B. 14
+C. 18
+D. 15
+Q.53 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. GKI
+B. MQO
+C. QUS
+D. OSU
+Q.54 BRMJ is related to XNIF in a certain way based on the English alphabetical order. In the
+same way, TQSN is related to PMOJ. To which of the given options is LDSK related,
+following the same logic?
+Ans
+ A. GXNF
+B. IZPH
+C. HZOG
+D. KAQI
+Q.55 All 81 people are standing in a row facing the north. Mr. Hepa is 11th from the left end,
+while Mr. Annu is 16th from the right end. How many people are there between Mr. Hepa
+and Mr. Annu?
+Ans
+ A. 56
+B. 54
+C. 58
+D. 55
+Section : General Intelligence and Reasoning
+Q.56 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+HEM JGO LIQ NKS ?
+Ans
+ A. PNV
+B. PMU
+C. PMV
+D. PNU
+Q.57 In a certain code language, ‘bring hot food’ is coded as ‘cf tk rg’ and ‘food is good’ is
+coded as ‘ml do cf’. How is ‘food’ coded in that language?
+Ans
+ A. cf
+B. ml
+C. do
+D. tk
+Q.58 Select the pair that follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+CZB−EBD
+IFH−KHJ
+Ans
+ A. DZA−FCE
+B. DAC−ECD
+C. DAC−FCE
+D. DZA−EBD
+Q.59 If 1 is added to each odd digit and 2 is subtracted from each even digit in the number
+8341756, then how many digits will appear more than once in the new number thus
+formed?
+Ans
+ A. None
+B. Two
+C. One
+D. Three
+Q.60 What should come in place of the question mark (?) in the given series?
+1011 1010 1007 1002 995 ?
+Ans
+ A. 986
+B. 987
+C. 985
+D. 984
+Q.61 What should come in place of the question mark (?) in the given series?
+2, 5, 10, 17, 26, ?
+Ans
+ A. 37
+B. 39
+C. 41
+D. 35
+Q.62 This question is based on the five, three-digit numbers given below.
+(Left) 624 859 742 154 348 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE: All operations to be done from left to right.)
+What will be the resultant if the third digit of the second highest number is added to the
+third digit of the second lowest number?
+Ans
+ A. 8
+B. 10
+C. 7
+D. 9
+Q.63 Town K is to the north of Town L. Town M is to the east of Town K. Town N is to the
+south of Town M. Town O is to the west of Town N. Town L is to the south-west of Town
+O. What is the position of Town K with respect to Town O?
+Ans
+ A. North-east
+B. North-west
+C. South-west
+D. South-east
+Q.64 Seven boxes, A, B, C, D, E, F and G, are kept one over the other, but not necessarily in
+the same order.
+Only three boxes are kept below D. Only two boxes are kept between D and E. Only C is
+kept immediately above A. F is kept at some place below B and at some place above G.
+How many boxes are kept below G?
+Ans
+ A. 4
+B. 1
+C. 2
+D. 3
+Q.65 Six people, A, B, C, D, E and F, are sitting in a row, facing the north. D sits to the
+immediate left of F. C sits third to the left of B. F is an immediate neighbour of C. E sits
+second to the right of C. A sits to the immediate left of E.
+Who sits at the extreme right end of the row?
+Ans
+ A. E
+B. F
+C. B
+D. A
+Q.66 In a certain code language, ‘MIST’ is coded as ‘5321’ and ‘KITS’ is coded as ‘5128’. What
+is the code for ‘K’ in that language?
+Ans
+ A. 8
+B. 1
+C. 2
+D. 5
+Q.67 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All glasses are tiles.
+All glasses are cups.
+All cups are mugs.
+Conclusions:
+(I): All glasses are mugs.
+(II): Some cups are tiles.
+Ans
+ A. Only conclusion (II) follows
+B. Only conclusion (I) follows
+C. Both conclusions (I) and (II) follow
+D. Neither conclusion (I) nor (II) follows
+Q.68 Refer to the following number series and answer the question that follows (all numbers
+are single digit numbers only). Counting to be done from left to right only.
+(Left) 8 9 4 1 2 3 7 3 1 4 6 (Right)
+How many such odd digits are there, each of which is immediately preceded by an odd
+digit and also immediately followed by an odd digit?9907
+Ans
+ A. One
+B. Two
+C. Three
+D. Four
+Q.69 This question is based on the five, three-digit numbers given below.
+(Left) 284 286 297 213 246 273 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE: All operations to be done from left to right.)
+What will be the resultant if the third digit of the highest number is added to the third
+digit of the lowest number?
+Ans
+ A. 10
+B. 13
+C. 8
+D. 9
+Q.70 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+SWE33 , LPX50 , EIQ67 , XBJ84 , ?
+Ans
+ A. QVC101
+B. QUC101
+C. QUD101
+D. OUC101
+Q.71 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(5, 20, 13)
+(9, 32, 25)
+Ans
+ A. (15, 50, 43)
+B. (20, 65, 72)
+C. (14, 37, 30)
+D. (12, 41, 48)
+Q.72 Six people G, H, I, Q, R and S are sitting in a straight line facing the north. Only two
+people are seated to the left of G. Only two people are seated between G and I. Only
+one person is seated between I and R. Q is seated to the immediate left of H. How many
+people are seated to the right of S?
+Ans
+ A. Four
+B. Two
+C. Three
+D. One
+Q.73 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some elephants are horses.
+No horse is a donkey.
+Conclusions:
+(I) No elephant is a donkey.
+(II) No horse is an elephant.
+Ans
+ A. Only I follows
+B. Neither follows
+C. Only II follows
+D. Both follow
+Q.74 In a certain code language,
+‘A ± B’ means ‘A is the wife of B’,
+‘A * B’ means ‘A is the daughter of B’,
+‘A ₹ B’ means ‘A is the father of B’ and
+‘A # B’ means ‘A is the brother of B’.
+How is D related to O if ‘D # R * A ± C ₹ O’?
+Ans
+ A. Husband
+B. Son
+C. Brother
+D. Father
+Q.75 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+WZX−TWU
+QTR−NQO
+Ans
+ A. YBZ−VYW
+B. YBZ−UYV
+C. YAX−VYW
+D. YAX−UXV
+Q.76 Six colleagues — Hussain, Anita, Manshaad, Emily, Sunita, and Shanti — are sitting
+around a circular table facing the centre. Hussain is sitting second to the right of Anita.
+Manshaad is an immediate neighbour of both Emily and Anita. Sunita is sitting second
+to the left of Manshaad. Who is sitting second to the left of Shanti?
+Ans
+ A. Emily
+B. Anita
+C. Manshaad
+D. Sunita
+Q.77 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+21 A 3 C 2 B 6 D 14 = ?
+Ans
+ A. 17
+B. 2
+C. 11
+D. 5
+Q.78 What should come in place of the question marks (?) in the given series?
+489 479 469 ? 449 ? 4291183
+Ans
+ A. 449 and 439 respectively
+B. 459 and 429 respectively
+C. 459 and 439 respectively
+D. 469 and 439 respectively
+Q.79 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. IM−LP
+B. VZ−YC
+C. ZD−BI
+D. BF−EI
+Q.80 What will come in the place of the question mark (?) in the following equation, if ‘+’ and
+‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+189 – 153 × 9 ÷ 3 + 195 = ?
+Ans
+ A. 40
+B. 46
+C. 45
+D. 44
+Q.81 Which city hosted the first Indian Grand Prix athletics meet in March 2025?
+Ans
+ A. Bhubaneswar
+B. Chennai
+C. Thiruvananthapuram
+D. Bengaluru
+Section : General Awareness and Current Affairs
+Q.82 On 26 May 2025, which government agency released a report titled 'Designing a Policy
+for Medium Enterprises', offering a comprehensive roadmap for transforming medium
+enterprises into future growth engines of India’s economy?
+Ans
+ A. State Bank of India
+B. Reserve Bank of India
+C. Securities and Exchange Board of India
+D. NITI Aayog
+Q.83 In March 2025, the Disaster Management (Amendment) Bill 2024 was passed in the Lok
+Sabha. This bill seeks to amend which of the following Acts?
+Ans
+ A. The Disaster Management Act, 2005
+B. The Epidemic Diseases Act, 1897
+C. The National Green Tribunal Act, 2010
+D. The Environmental Protection Act, 1986
+Q.84 Which sport is associated with Rafael Nadal, recipient of the 2025 Sporting Icon Award?
+Ans
+ A. Table Tennis
+B. Golf
+C. Tennis
+D. Athletics
+Q.85 Who was awarded the Nobel Peace Prize 2025?
+Ans
+ A. Svetlana Tikhanovskaya
+B. Malala Yousafzai
+C. Maria Corina Machado
+D. Greta Thunberg
+Q.86 In 2025, Uttar Pradesh and which other state hosted the Defence Industrial Corridor that
+together have attracted investments worth over ₹8,658 crore?
+Ans
+ A. Maharashtra
+B. Gujarat
+C. Tamil Nadu
+D. Karnataka
+Q.87 Who scored centuries in both innings of the 1st Test against England at Headingley in
+2025?
+Ans
+ A. Rishabh Pant
+B. Jasprit Bumrah
+C. KL Rahul
+D. Virat Kohli
+Q.88 Who won the 2025 Pulitzer Prize for Fiction with the novel 'James', a reimagining of
+'Huckleberry Finn' from Jim’s perspective?
+Ans
+ A. Percival Everett
+B. Charles McQueer
+C. Tim Minshall
+D. Danny Boy O’Connor
+Q.89 What was the penalty amount imposed by the Insurance Regulatory and Development
+Authority of India (IRDAI) on Acko General Insurance in May 2025?
+Ans
+ A. ₹50 lakh
+B. ₹1 crore
+C. ₹25 lakh
+D. ₹2 crore
+Q.90 In August 2025, DRDO's Defence Metallurgical Research Laboratory (DMRL) transferred
+the technology for manufacturing high-strength radomes to which of the following
+companies?
+Ans
+ A. Armoured Vehicles Nigam Limited (AVNL)
+B. Hindustan Aeronautics Limited (HAL)
+C. Bharat Dynamics Limited (BDL)
+D. Bharat Heavy Electricals Limited (BHEL)
+Q.91 Rebakanta Mahanta, who was awarded the Padma Shri in January 2025, is renowned
+for which art form?
+Ans
+ A. Pottery
+B. Bamboo mask-making
+C. Madhubani painting
+D. Kathakali
+Q.92 Which among the following technology-based methods of beneficiary registration
+under Poshan 2.0 was announced for implementation from 1st August 2025 during the
+Zonal Meeting at Kevadia, Gujarat, organised by the Ministry of Women and Child
+Development?
+Ans
+ A. Quick Response Code Scanning Process
+B. One-Time Password Verification Method
+C. Facial Recognition System
+D. Biometric Authentication System
+Q.93 The new FASTag Annual plan system is specifically NOT designed for which type of
+vehicles?
+Ans
+ A. Private cars
+B. Vans
+C. Commercial trucks
+D. Jeeps
+Q.94 Which of the following Ministries conferred the prestigious National Dhanwantari
+Ayurveda Awards in 2025 for distinguished practitioners for their exceptional
+contributions to the field of traditional Indian medicine?
+Ans
+ A. Ministry of Culture
+B. Ministry of Tribal Affairs
+C. Ministry of Education
+D. Ministry of AYUSH
+Q.95 Which of the following districts emerged as the best-performing district in the
+Northeastern Region according to the 2023–24 SDG Index released by NITI Aayog in
+July 2025?
+Ans
+ A. West Tripura (Tripura)
+B. Aizawl (Mizoram)
+C. Hnahthial (Mizoram)
+D. East Sikkim (Sikkim)
+"
+Q.96 The 6th edition of the UMAI National Muaythai Championship was held in June 2025.
+What was its host city?
+Ans
+ A. Raipur
+B. Ranchi
+C. Bhopal
+D. Rohtak
+Q.97 At the Eighth Session of the International Solar Alliance (ISA) Assembly held at Bharat
+Mandapam in October 2025, which of the following initiatives was launched to address
+solar waste and promote circularity in the solar sector?
+Ans
+ A. SUNRISE – Solar Upcycling Network for Recycling, Innovation & Stakeholder Engagement
+B. JYOTI – Joint Yearly Outlook for Technology and Innovation
+C. PRABHA – Programme for Rural and Bharat Household Access to Solar
+D. SURYA – Solar Urban Rooftop Yojana for Asia
+Q.98 On 1 September 2025, the rupee ___________ to a record low before recovering after
+likely RBI intervention.
+Ans
+ A. rose to ₹75 per USD
+B. stabilised at ₹80 per USD
+C. fell to ₹88.33 per USD
+D. rose to ₹88 per USD
+Q.99 In October 2024, which of the following companies was awarded the contract for
+design, manufacturing and commissioning of two high-speed trainsets by Integral
+Coach Factory (ICF) to be used in India’s first bullet train between Mumbai and
+Ahmedabad?
+Ans
+ A. Braithwaite and Co. Limited
+B. Bharat Earth Movers Limited (BEML)
+C. Modern Coach Factory (MCF) Raebareli
+D. Rail Coach Factory (RCF) Kapurthala
+Q.100Where was Asia's longest double-decker flyover inaugurated in October 2024?
+Ans
+ A. Bengaluru
+B. Hyderabad
+C. Chennai
+D. Nagpur

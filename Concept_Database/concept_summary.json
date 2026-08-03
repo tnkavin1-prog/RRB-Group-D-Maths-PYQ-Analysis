@@ -1,0 +1,266 @@
+{
+  "number_system": {
+    "count": 9,
+    "questionNumbers": [
+      29,
+      27,
+      29,
+      27,
+      26,
+      27,
+      27,
+      29,
+      27
+    ],
+    "papers": [
+      "RRB-Group-D-CBT-1-Paper_29-12-2025_S2.pdf",
+      "RRB-Grop-D-CBT-1-Paper_1-12-2025_S1.pdf",
+      "RRB-Grop-D-CBT-1-Paper_9-12-2025_S3.pdf",
+      "RRB-Group-D-CBT-1-Paper_16-12-2025_S2.pdf",
+      "RRB-Grop-D-CBT-1-Paper_11-12-2025_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_9-1-2026_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_22-12-2025_S3.pdf",
+      "RRB-Group-D-CBT-1-Paper_30-12-2025_S2-1.pdf",
+      "RRB-Group-D-CBT-1-Paper_19-12-2025_S2.pdf"
+    ]
+  },
+  "mensuration_2d": {
+    "count": 5,
+    "questionNumbers": [
+      27,
+      29,
+      28,
+      27,
+      28
+    ],
+    "papers": [
+      "RRB-Group-D-CBT-1-Paper_4-2-2026_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_8-1-2026_S1.pdf",
+      "RRB-Grop-D-CBT-1-Paper_4-12-2025_S3.pdf",
+      "RRB-Grop-D-CBT-1-Paper_1-12-2025_S3.pdf",
+      "RRB-Grop-D-CBT-1-Paper_14-12-2025_S2.pdf"
+    ]
+  },
+  "si_ci": {
+    "count": 7,
+    "questionNumbers": [
+      28,
+      28,
+      29,
+      33,
+      28,
+      27,
+      28
+    ],
+    "papers": [
+      "RRB-Group-D-CBT-1-Paper_4-2-2026_S3.pdf",
+      "RRB-Grop-D-CBT-1-Paper_3-12-2025_S1.pdf",
+      "RRB-Grop-D-CBT-1-Paper_10-12-2025_S3.pdf",
+      "RRB-Grop-D-CBT-1-Paper_8-12-2025_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_22-12-2025_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_23-12-2025_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_17-12-2025_S1.pdf"
+    ]
+  },
+  "profit_loss": {
+    "count": 8,
+    "questionNumbers": [
+      29,
+      29,
+      29,
+      28,
+      28,
+      28,
+      29,
+      29
+    ],
+    "papers": [
+      "RRB-Grop-D-CBT-1-Paper_8-12-2025_S3.pdf",
+      "RRB-Grop-D-CBT-1-Paper_4-12-2025_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_16-12-2025_S3.pdf",
+      "RRB-Group-D-CBT-1-Paper_24-12-2025_S3.pdf",
+      "RRB-Grop-D-CBT-1-Paper_2-12-2025_S1.pdf",
+      "RRB-Grop-D-CBT-1-Paper_12-12-2025_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_23-12-2025_S3.pdf",
+      "RRB-Grop-D-CBT-1-Paper_8-12-2025_S1.pdf"
+    ]
+  },
+  "mensuration_3d": {
+    "count": 6,
+    "questionNumbers": [
+      28,
+      28,
+      29,
+      28,
+      26,
+      28
+    ],
+    "papers": [
+      "RRB-Grop-D-CBT-1-Paper_2-12-2025_S3.pdf",
+      "RRB-Group-D-CBT-1-Paper_3-2-2026_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_9-2-2026_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_24-12-2025_S1.pdf",
+      "RRB-Grop-D-CBT-1-Paper_12-12-2025_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_26-12-2025_S2.pdf"
+    ]
+  },
+  "age_problems": {
+    "count": 1,
+    "questionNumbers": [
+      32
+    ],
+    "papers": [
+      "RRB-Grop-D-CBT-1-Paper_12-12-2025_S3.pdf"
+    ]
+  },
+  "trigonometry": {
+    "count": 12,
+    "questionNumbers": [
+      28,
+      27,
+      27,
+      28,
+      29,
+      29,
+      28,
+      27,
+      27,
+      28,
+      27,
+      27
+    ],
+    "papers": [
+      "RRB-Group-D-CBT-1-Paper_2-2-2026_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_5-2-2026_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_9-2-2026_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_24-12-2025_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_23-12-2025_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_3-2-2026_S3.pdf",
+      "RRB-Group-D-CBT-1-Paper_9-1-2026_S3.pdf",
+      "RRB-Grop-D-CBT-1-Paper_14-12-2025_S3.pdf",
+      "RRB-Group-D-CBT-1-Paper_21-12-2025_S3.pdf",
+      "RRB-Group-D-CBT-1-Paper_9-2-2026_S3.pdf",
+      "RRB-Group-D-CBT-1-Paper_29-12-2025_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_17-12-2025_S2.pdf"
+    ]
+  },
+  "percentage": {
+    "count": 9,
+    "questionNumbers": [
+      26,
+      27,
+      28,
+      27,
+      27,
+      28,
+      27,
+      27,
+      29
+    ],
+    "papers": [
+      "RRB-Grop-D-CBT-1-Paper_15-12-2025_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_2-2-2026_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_21-12-2025_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_26-12-2025_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_26-12-2025_S3.pdf",
+      "RRB-Group-D-CBT-1-Paper_27-11-2025_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_30-12-2025_S1-1.pdf",
+      "RRB-Group-D-CBT-1-Paper_16-12-2025_S1.pdf",
+      "RRB-Grop-D-CBT-1-Paper_27-11-2025_S2.pdf"
+    ]
+  },
+  "time_speed_distance": {
+    "count": 6,
+    "questionNumbers": [
+      29,
+      29,
+      27,
+      29,
+      28,
+      28
+    ],
+    "papers": [
+      "RRB-Group-D-CBT-1-Paper_4-2-2026_S1.pdf",
+      "RRB-Grop-D-CBT-1-Paper_2-12-2025_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_3-2-2026_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_27-11-2025_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_10-2-2026_S3.pdf",
+      "RRB-Grop-D-CBT-1-Paper_27-11-2025_S1.pdf"
+    ]
+  },
+  "average": {
+    "count": 3,
+    "questionNumbers": [
+      32,
+      27,
+      27
+    ],
+    "papers": [
+      "RRB-Grop-D-CBT-1-Paper_28-11-2025_S1.pdf",
+      "RRB-Group-D-CBT-1-Paper_19-12-2025_S3.pdf",
+      "RRB-Group-D-CBT-1-Paper_9-1-2026_S1.pdf"
+    ]
+  },
+  "time_work": {
+    "count": 2,
+    "questionNumbers": [
+      28,
+      28
+    ],
+    "papers": [
+      "RRB-Grop-D-CBT-1-Paper_9-12-2025_S2.pdf",
+      "RRB-Grop-D-CBT-1-Paper_3-12-2025_S2.pdf"
+    ]
+  },
+  "height_distance": {
+    "count": 2,
+    "questionNumbers": [
+      28,
+      37
+    ],
+    "papers": [
+      "RRB-Grop-D-CBT-1-Paper_3-12-2025_S3.pdf",
+      "RRB-Grop-D-CBT-1-Paper_8-12-2025_S3.pdf"
+    ]
+  },
+  "ratio_proportion": {
+    "count": 3,
+    "questionNumbers": [
+      27,
+      28,
+      27
+    ],
+    "papers": [
+      "RRB-Grop-D-CBT-1-Paper_5-12-2025_S3.pdf",
+      "RRB-Group-D-CBT-1-Paper_6-2-2026_S2.pdf",
+      "RRB-Group-D-CBT-1-Paper_5-2-2026_S3.pdf"
+    ]
+  },
+  "algebra": {
+    "count": 1,
+    "questionNumbers": [
+      27
+    ],
+    "papers": [
+      "RRB-Group-D-CBT-1-Paper_10-2-2026_S2.pdf"
+    ]
+  },
+  "probability": {
+    "count": 1,
+    "questionNumbers": [
+      28
+    ],
+    "papers": [
+      "RRB-Group-D-CBT-1-Paper_29-12-2025_S3.pdf"
+    ]
+  },
+  "geometry": {
+    "count": 1,
+    "questionNumbers": [
+      26
+    ],
+    "papers": [
+      "RRB-Group-D-CBT-1-Paper_30-12-2025_S3-1.pdf"
+    ]
+  }
+}

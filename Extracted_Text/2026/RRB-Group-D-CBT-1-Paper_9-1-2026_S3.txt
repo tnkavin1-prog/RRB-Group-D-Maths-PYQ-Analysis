@@ -1,0 +1,776 @@
+Q.1 An object is moving along a straight line with a velocity that is initially positive (+u) and
+non-zero, but the acceleration is non-uniform and negative, such that the velocity
+eventually becomes negative (−v). What does the negative final velocity signify?
+Ans
+ A. The object has constant but negative acceleration.
+B. The object is moving backward relative to its initial direction.
+C. The acceleration became positive at some point.
+D. The object is at rest.
+Q.2 Which part of the eye is responsible for converting light into electrical signals?
+Ans
+ A. Cornea
+B. Iris
+C. Retina
+D. Lens
+Q.3 What do we call the low-pressure area created when a vibrating object moves
+backward?
+Ans
+ A. Reflection
+B. Compression
+C. Wavelength
+D. Rarefaction
+Q.4 What is the chemical formula of aluminium oxide?
+Ans
+ A. Al2O3
+B. Al2O
+C. AlO
+D. AlO3
+Q.5 Which of the following is the phase during which reproductive tissues in humans start
+maturing?
+Ans
+ A. Menstruation
+B. Fertilization
+C. Puberty
+D. Childhood
+Test Date 09/01/2026
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following statements is correct about Ohm’s Law?
+Ans
+ A. It states that resistance decreases with voltage.
+B. It is valid for semiconductors and electrolytes.
+C. It is valid only for metallic conductors at constant temperature.
+D. It is valid for all conductors at all temperatures.
+Q.7 Which of the following is NOT true about kinetic energy?
+Ans
+ A. It depends on motion.
+B. It is a scalar quantity.
+C. It depends on direction of motion.
+D. It can never be negative.
+Q.8 What is the SI unit of universal gravitational constant (G)?
+Ans
+ A. kg/N
+B. Nm2/kg2
+C. Nm/kg
+D. N/kg2
+Q.9 Refer to the two statements given below and choose the correct option.
+Statement A: Sodium hydroxide is used in the manufacture of soaps and paper.
+Statement B: It is a weak base and neutral in nature.
+Ans
+ A. Statement A is incorrect but B is correct.
+B. Statement A is correct but B is incorrect.
+C. Both statements A and B are incorrect.
+D. Both statements A and B are correct.
+Q.10 Which of the following is a property of liquids?
+Ans
+ A. Fixed shape and fixed volume
+B. Fixed shape but no fixed volume
+C. No fixed shape and no fixed volume
+D. No fixed shape but fixed volume
+Q.11 When onion bulbs of different sizes are viewed under a microscope, all show similar
+rectangular structures. This proves that _________.
+Ans
+ A. all living things are made of cells
+B. only big onions have cells
+C. cells differ in a onion
+D. cork cells are living
+Q.12 What type of image is formed by a convex mirror when the object is placed at infinity?
+Ans
+ A. Highly diminished, virtual, erect and point-sized
+B. Enlarged, virtual and erect
+C. Same size, real and inverted
+D. Enlarged, real and inverted
+Q.13 Which flower parts usually shrivel and fall off after fertilisation?
+Ans
+ A. Petals, sepals, stamens, style and stigma
+B. Embryo and cotyledon
+C. Roots and leaves
+D. Ovule and ovary
+Q.14 How are ionic compounds formed between metals and non-metals?
+Ans
+ A. By sharing of electrons between atoms.
+B. By the formation of a sea of delocalised electrons.
+C. By transfer of electrons from metal atoms to non-metal atoms.
+D. By mutual attraction between positively charged nuclei
+Q.15 In a compound, the elements are combined:
+Ans
+ A. chemically
+B. by evaporation
+C. physically
+D. by filtration
+Q.16 What is the primary objective of implementing nutrient management practices in
+agriculture?
+Ans
+ A. Enhancing soil erosion
+B. Improving crop productivity and quality
+C. Pouring polluted water on crops
+D. Mixing plastic residues into the field
+Q.17 Which of the following modifications of seeds help in wind dispersal?
+Ans
+ A. Wing-like or hairy outgrowths
+B. Spiny or hook-like outgrowths
+C. Thick and fibrous coat
+D. Large size
+Q.18 In multicellular organisms, a lot of variation in the shape and size of cells makes an
+organism _______.
+Ans
+ A. perform poorly in adverse conditions
+B. less efficient with no division of labour among the cells
+C. more efficient with different cells performing different functions
+D. prone to infection and death
+Q.19 Which of the following statements about neutrons is correct?
+Ans
+ A. They are found in the nucleus of an atom.
+B. They revolve around the nucleus in fixed orbits.
+C. They determine the chemical properties of an atom.
+D. They have a positive charge.
+Q.20 Non-metallic oxides are considered acidic in nature. What is the approximate pH nature
+of the salt formed when a non-metallic oxide reacts with a strong base?
+Ans
+ A. Acidic
+B. Amphoteric
+C. Neutral
+D. Basic
+Q.21 In a lab, a student sees a large transparent sac filling most of a plant cell. What
+percentage of the cell’s volume does the vacuole occupy?
+Ans
+ A. 5–15%
+B. 20–30%
+C. 50–90%
+D. 100%
+Q.22 Which of the following statements is correct?
+Ans
+ A. Mass and inertia are unrelated.
+B. A lighter body resists change in motion more strongly.
+C. A body with larger mass has less inertia.
+D. Inertia of an object increases with its mass.
+Q.23 Which of the following is a non-biodegradable material?
+Ans
+ A. Paper
+B. Cotton cloth
+C. Vegetable peel
+D. Plastic bag
+Q.24 When an acid reacts with a non-carbonated base, what are the typical products formed
+in a neutralisation reaction?
+Ans
+ A. Salt and water
+B. Only a salt
+C. Carbon dioxide and water
+D. Only water
+Q.25 If the potential difference between two points is V and charge q moves between them,
+the work done is _________.
+Ans
+ A. W = V²/q
+B. W = q/V
+C. W = V/q
+D. W = V × q
+Q.26 The arithmetic mean of the observations 85, 73, 89, 29, 20, 52, 22, 25 and 55 is:
+Ans
+ A. 54
+B. 57
+C. 56
+D. 50
+Q.27 The mode and median of a data are 27.5 and 23, respectively. What is the mean of the
+data? (Use empirical formula.)
+Ans
+ A. 30.7
+B. 11.95
+C. 26.8
+D. 20.75
+Section : Mathematics
+Q.28 A car covers 100 km in the first hour, 150 km in the second hour, and 50 km in the third
+hour. If it continues at a speed of 60 km/hr for the next 2 hours, what is the average
+speed for the entire journey?
+Ans
+ A. 84 hm/hr
+B. 82 km/hr
+C. 86 km/hr
+D. 80 km/hr
+Q.29
+Ans
+ A. 36
+B. 25
+C. 16
+D. 49
+Q.30 The salaries of P, Q and R are in the ratio 10:8:2. If the increments of 11%, 20% and 35%
+are allowed, respectively, in their salaries, then what will be the new ratio of their
+salaries?
+Ans
+ A. 34:34:15
+B. 40:39:14
+C. 37:32:9
+D. 37:23:19
+Q.31 By selling a bicycle for ₹1,425, a shopkeeper gains 14%. If the profit is reduced to 8%,
+then the selling price will be:
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.32 A person who spends 60% of his monthly income is able to save ₹8,242 per month. His
+monthly expenses (in ₹) are:
+Ans
+ A. 12,268
+B. 12,285
+C. 12,363
+D. 12,379
+Q.33 What is the fractional value of 3. 627272727….?783
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.34
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.35 A room is one and a half times as long as it is wide. The cost of carpeting the floor at
+₹18 per square metre is ₹3,888, and the cost of whitewashing the four walls at ₹9 per
+square metre is ₹4,320. Find the volume of the room in cubic metres.
+Ans
+ A. 1782
+B. 1728
+C. 1696
+D. 1654
+Q.36 The fourth proportional to 12, a, and 2a is 54. What is the positive value of a?
+Ans
+ A. 18
+B. 17
+C. 19
+D. 20
+Q.37 Each exterior angle of a regular polygon is 24°. Find the number of diagonals in this
+polygon.
+Ans
+ A. 70
+B. 90
+C. 80
+D. 60
+Q.38 Two trains, A and B, of lengths 402 m and 286 m are running at speeds of 6 m/s and 37
+m/s, respectively, towards each other on parallel tracks. In how much time will they
+cross each other?
+Ans
+ A. 8 seconds
+B. 16 seconds
+C. 14 seconds
+D. 21 seconds
+Q.39
+Ans
+ A. 3
+B. 4
+C. 2
+D. 1
+Q.40 There are some rabbits and parrots in a farmhouse. The total number of animal heads
+is 180 and the total number of legs is 520. Find the number of rabbits in the farmhouse.
+Ans
+ A. 120
+B. 100
+C. 80
+D. 60
+Q.41 Rohit goes to a shop to purchase a truck priced at ₹6,900. He is offered 4 discount
+options by the shopkeeper. Which of these options should he opt for to gain maximum
+advantage of the discount offered?
+Ans
+ A. Single discount of 14%
+B. Two successive discounts of 14% each
+C. Two successive discounts of 38% and 46%
+D. Two successive discounts of 14% and 8%
+Q.42
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.43 Pipes A and B can fill an empty cistern in 46 minutes and 32 minutes, respectively. Both
+Pipe A and Pipe B are opened together. After how much time should Pipe B be turned
+off so that the empty cistern is completely filled in a total of 23 minutes?
+Ans
+ A. 10 minutes
+B. 12 minutes
+C. 16 minutes
+D. 20 minutes
+Q.44 Two banks, A and B, offered loans at 3.5% and 7% per annum, respectively. Gopal
+borrowed an amount of ₹5,00,000 from each bank. Find the positive difference (in ₹)
+between the amounts of simple interest paid to the two banks by Gopal after 3 years.
+Ans
+ A. 54,000
+B. 52,500
+C. 53,500
+D. 52,000
+Q.45 A circle of radius 3 cm is drawn with its centre at one of the vertices of a regular
+hexagon of side 6 cm. What is the area (in cm2) of the hexagon which is NOT
+overlapping with the circle?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.46 A, B and C can do a piece of work in 3, 4 and 12 days, respectively. How long (in days)
+will they take to do twice the same work, working together?
+Ans
+ A. 6
+B. 4
+C. 3
+D. 9
+Q.47 The price of fuel decreases by 55%, 40% and 15% in three successive months, but
+increases by 60% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price?
+Ans
+ A. Decreases by 63.28%
+B. Increases by 60.37%
+C. Decreases by 68.69%
+D. Increases by 67.93%
+Q.48 If 20% of a number is added to 66, then the result is the same number. 80% of the same
+number is:
+Ans
+ A. 66
+B. 86
+C. 76
+D. 96
+Q.49 The marked price of a painting was ₹6,400, but the shopkeeper offered a double
+discount in a successive manner of 25% and 12%. Ultimately for how much did he sell
+the item?608
+Ans
+ A. ₹4,291
+B. ₹4,320
+C. ₹4,161
+D. ₹4,224
+Q.50 The age of Ajay is 16 years more than that of Vijay. The sum of their ages 6 years ago
+was 56 years. Find Vijay's present age.
+Ans
+ A. 56 years
+B. 42 years
+C. 26 years
+D. 18 years
+Q.51 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All tables are golds.
+No table is a helmet.
+Conclusions:
+(I): Some helmets are golds.
+(II): All golds are helmets.
+Ans
+ A. Only conclusion (II) follows
+B. Only conclusion (I) follows
+C. Both conclusions (I) and (II) follow
+D. Neither conclusion (I) nor (II) follows
+Q.52 Six people, A, B, C, D, E and F, are sitting in a row, facing north. D sits to the immediate
+left of F. C sits third to the left of B. F is an immediate neighbour of C. E sits second to
+the right of C. A sits to the immediate left of E. Who sits at the extreme right end of the
+row?
+Ans
+ A. A
+B. B
+C. E
+D. F
+Q.53 Six people, A, B, C, D, E and F, are sitting in a row, facing north. A sits to the immediate
+right of E. B sits fourth to the left of E. Only one person sits between B and F. C sits to
+the immediate left of F. D sits second to the left of A. Three of the following four are
+alike in a certain way based on the given arrangement and thus form a group. Which is
+the one that does NOT belong to that group?
+Ans
+ A. CF
+B. FD
+C. DE
+D. BA
+Section : General Intelligence and Reasoning
+Q.54 Which of the following terms will replace the question mark (?) in the given series to
+make it logically complete?
+EQL 2 GMN 6 IIP 18 KER 54 ?
+Ans
+ A. MBS 158
+B. MBT 158
+C. MAS 168
+D. MAT 162
+Q.55 Refer to the following number series and answer the question that follows (all numbers
+are single digit numbers only). Counting to be done from left to right only.
+(Left) 9 9 3 9 2 4 4 1 9 1 6 9 4 9 9 6 3 2 6 1 7 9 8 3 9 8 7 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?4682
+Ans
+ A. 5
+B. 6
+C. 4
+D. 3
+Q.56 What should come in place of the question mark (?) in the given series?
+3 6 ? 144 1152 11520
+Ans
+ A. 20
+B. 24
+C. 28
+D. 22
+Q.57 Refer to the following number series and answer the question that follows. Counting to
+be done from left to right only. (All numbers are single-digit numbers only.)
+(Left) 2 4 8 4 7 1 5 7 4 3 4 2 8 7 4 3 6 8 5 4 9 1 6 9 3 5 2 4 8 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. Two
+B. More than three
+C. Three
+D. One
+Q.58 If 1 is added to each even digit and 1 is subtracted from each odd digit in the number
+542816379, how many digits will appear more than once in the new number thus
+formed?
+Ans
+ A. None
+B. One
+C. Two
+D. Three
+Q.59 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. HLNR
+B. NRTX
+C. QUWA
+D. PTWZ
+Q.60 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(5, 18, 11)
+(9, 26, 19)
+Ans
+ A. (25, 58, 50)
+B. (7, 22, 15)
+C. (10, 12, 5)
+D. (8 , 24, 31)
+Q.61 Rohit starts from Point A and drives 15 km towards west. He then takes a left turn,
+drives 11 km, turns left and drives 18 km. He then takes a left turn and drives 14 km. He
+takes a final left turn, drives 3 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. 4 km to the north
+B. 3 km to the north
+C. 4 km to the south
+D. 3 km to the south
+Q.62 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. FE−DC
+B. YX−WV
+C. UT−RT
+D. BA−ZY
+Q.63 What should come in place of the question mark (?) in the given series?
+48 66 83 99 114 ?
+Ans
+ A. 128
+B. 123
+C. 127
+D. 126
+Q.64 In a certain code language, ‘SKATE’ is coded as ‘51324’ and ‘ASKEW’ is coded as
+‘47315’. How is ‘W’ coded in that language?
+Ans
+ A. 4
+B. 7
+C. 5
+D. 3
+Q.65 What should come in place of the question mark (?) in the given series?
+210 212 209 213 208 ?
+Ans
+ A. 209
+B. 210
+C. 214
+D. 213
+Q.66 Seven people, A, B, C, D, E, F and G, are sitting in a straight line, facing the north.
+A sits third from the left end of the line. Only one person sits between A and B. Only
+three people sit between C and B. E sits to the immediate right of C. D sits to the
+immediate right of G.
+How many people sit to the right of F?
+Ans
+ A. One
+B. None
+C. Three
+D. Two
+Q.67 In a certain code language, ‘LEMA’ is coded as ‘4753’ and ‘MALT’ is coded as ‘3479’.
+What is the code for ‘T’ in the given code language?
+Ans
+ A. 4
+B. 7
+C. 9
+D. 3
+Q.68 MKBZ is related to SQHF in a certain way based on the English alphabetical order. In
+the same way, PDRW is related to VJXC. To which of the given options is UFLQ related,
+following the same logic?
+Ans
+ A. WHNS
+B. ALRW
+C. XIOT
+D. YZPU
+Q.69 Seven boxes, A, B, C, D, E, F and G, are kept one over the other, but not necessarily in
+the same order.
+Only three boxes are kept above G. Only one box is kept between B and G. Only three
+boxes are kept between B and C. C is kept at some place above G. F is kept
+immediately below C. E is kept at one of the places above D. A is not kept immediately
+above or below B.
+How many boxes are kept below E?
+Ans
+ A. 1
+B. 2
+C. 3
+D. 4
+Q.70 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+DHL : FKN
+QJM : SMO
+Ans
+ A. VTS:SDR
+B. SDK:LGI
+C. MPS:ASY
+D. AWN:CZP
+Q.71 If 1 is added to each even digit and 1 is added to each odd digit in the number 321854,
+what will be the sum of the first and last digits in the new number thus formed?
+Ans
+ A. 10
+B. 8
+C. 12
+D. 9
+Q.72 Nayan starts from Point A and drives 45 km towards the north. He then takes a right
+turn, drives 37 km, turns right and drives 60 km. He then takes a right turn and drives
+56 km. He takes a final right turn, drives 15 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only unless specified.)
+Ans
+ A. 20 km to the east
+B. 19 km to the east
+C. 22 km to the west
+D. 21 km to the west
+Q.73 In a certain code language,
+A + B means ‘A is the son of B’,
+A - B means ‘A is the brother of B’,
+A x B means ‘A is the wife of B’,
+and A & B means ‘A is the father of B’.
+How is K related to V if ‘K-T+R&ZxV’?
+Ans
+ A. Brother
+B. Father
+C. Wife's father
+D. Wife's brother
+Q.74 Refer to the following series and answer the question that follows (all numbers are
+single digit numbers only). Counting to be done from left to right only.
+(Left) 1 8 9 1 3 8 3 8 9 9 5 9 6 5 5 1 7 7 4 2 3 1 6 (Right)
+How many such even digits are there each of which is immediately preceded by an
+even digit and also immediately followed by an even digit?1749
+Ans
+ A. None
+B. Two
+C. Three
+D. One
+Q.75 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+ARJ KBT ULD EVN ?
+Ans
+ A. OOX
+B. OXD
+C. OXS
+D. OFX
+Q.76 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All soaps are oils.
+All oils are dispensers.
+Some dispensers are towels.
+Conclusions:
+(I) Some soaps are towels.
+(II) Some oils are towels.
+Ans
+ A. Only conclusion (I) follows
+B. Neither conclusion (I) nor (II) follows
+C. Both conclusions (I) and (II) follow
+D. Only conclusion (II) follows
+Q.77 Seven boxes, D, E, F, U, V, W and X, are kept one over the other, but not necessarily in
+the same order. D is kept immediately above V. W is kept immediately above F. Only U is
+kept above E. Only one box is kept between U and D. W is not kept at the third position
+from the bottom. How many boxes are kept between X and U?
+Ans
+ A. Four
+B. Two
+C. Three
+D. One
+Q.78 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 5 5 7 8 2 3 3 2 3 3 9 5 5 7 9 8 5 6 3 5 3 8 3 5 5 8 9 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 5
+B. 4
+C. 7
+D. 6
+Q.79 GWCL is related to PFLU in a certain way based on the English alphabetical order. In
+the same way, QGMV is related to ZPVE. To which of the given options is RHNW related,
+following the same logic?
+Ans
+ A. QAWE
+B. AQDF
+C. AQWF
+D. AQWE
+Q.80 What will come in the place of the question mark (?) in the following equation, if ‘+’ and
+‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+89 ÷ 8 + 684 × 6 − 87 = ?
+Ans
+ A. 615
+B. 685
+C. 692
+D. 634
+Q.81 According to the UNDP Human Development Report 2025 (based on 2023 data), what is
+India’s rank in the Human Development Index (HDI)?
+Ans
+ A. 141
+B. 130
+C. 138
+D. 125
+Q.82 Which retired Chief Justice of India was awarded the Padma Vibhushan in 2025 for
+Public Affairs?
+Ans
+ A. Ranjan Gogoi
+B. Dipak Misra
+C. HL Dattu
+D. Jagdish Singh Khehar
+Section : General Awareness and Current Affairs
+Q.83 Where was the 71st Senior National Men's Kabaddi Championship 2025 held?
+Ans
+ A. Gachibowli Indoor Stadium, Hyderabad
+B. Jawaharlal Nehru Indoor Stadium, Cuttack
+C. Kalinga Stadium, Bhubaneswar
+D. Indira Gandhi Indoor Stadium, Delhi
+Q.84 In May 2025, Union Sports Minister Mansukh Mandaviya opened a new multi-purpose
+Khelo India Hall in Kamle district. In which state is Kamle district located?
+Ans
+ A. Nagaland
+B. Arunachal Pradesh
+C. Assam
+D. Manipur
+Q.85 What did the Supreme Court say about Group A CAPF (Central Armed Police Forces)
+officers in May 2025?
+Ans
+ A. They are not important.
+B. They cannot get promotions.
+C. They are part of “Unorganised Services”.
+D. They are part of “Organised Services”.
+Q.86 Where was India’s first-ever Astro Tourism Festival successfully held in 2025?
+Ans
+ A. Spiti Valley
+B. Gulmarg
+C. Leh, Ladakh
+D. Kargil
+Q.87 Which agency is investigating the Mithi River Desilting Scam?
+Ans
+ A. Enforcement Directorate
+B. Mumbai Police
+C. Central Bureau of Investigation
+D. Delhi Police
+Q.88 The Sachet App, promoted in April 2025, was launched by _______________.
+Ans
+ A. Indian Meteorological Department
+B. National Institution for Transforming India (NITI) Aayog
+C. National Disaster Management Authority
+D. Ministry of Electronics and Information Technology
+Q.89 Which of the following agencies operates the Satish Dhawan Space Centre (SDSC),
+from where the NASA-ISRO Synthetic Aperture Radar (NISAR) mission was launched in
+July 2025?
+Ans
+ A. Indian Space Research Organisation (ISRO)
+B. National Remote Sensing Centre (NRSC)
+C. Defence Research and Development Organisation (DRDO)
+D. North-Eastern Space Applications Centre (NESAC)
+Q.90 Who received the P C Chandra Puraskaar 2025 in Kolkata?
+Ans
+ A. Amjad Ali Khan
+B. Kapil Dev
+C. Leander Paes
+D. Mary Kom
+Q.91 The Wisden Cricketers' Almanack 2025 named Jasprit Bumrah as the Leading Cricketer
+of the Year along with:
+Ans
+ A. Smriti Mandhana
+B. Rohit Sharma
+C. Virat Kohli
+D. Harmanpreet Kaur
+Q.92 In January 2025, which of the following Indian institutes/universities was selected as
+SDG Hub 6 (Clean Water & Sanitation) Co-Chair for the 2025–2027 term?
+Ans
+ A. Shiv Nadar University, Delhi NCR
+B. Indian Institute of Technology, Madras
+C. Jawaharlal Nehru University, New Delhi
+D. Indian Institute of Science, Bangalore
+Q.93 Which of the following cities served as the venue for the two-day FIBAC banking
+conference on ‘Charting New Frontiers’, co-hosted by FICCI and the Indian Banks’
+Association (IBA) on 25 and 26 August 2025?
+Ans
+ A. Mumbai
+B. Chennai
+C. New Delhi
+D. Kolkata
+Q.94 Where was the 2025 NATO Summit held on 24–25 June?
+Ans
+ A. Paris, France
+B. The Hague, Netherlands
+C. Brussels, Belgium
+D. Berlin, Germany
+Q.95 What was India's unemployment rate in May 2025, according to the Periodic Labour
+Force Survey (PLFS)?
+Ans
+ A. 5.1%
+B. 5.6%
+C. 7.0%
+D. 6.0%
+Q.96 Which of the following agreements did India sign in March 2024 with the European Free
+Trade Association (EFTA) countries (Iceland, Liechtenstein, Norway, Switzerland) that
+includes a commitment of US $100 billion investment over 15 years?
+Ans
+ A. India-EFTA Trade Exchange Agreement
+B. India-EFTA Trade and Economic Partnership Agreement
+C. India-EFTA Defence Cooperation Treaty
+D. India-EFTA Financial Services Pact
+Q.97 In August 2025, who among the following was appointed as the Executive Director at
+the International Monetary Fund (IMF) for a period of three years?
+Ans
+ A. Urjit Patel
+B. Krishnamurthy Subramanian
+C. Raghuram Rajan
+D. Shaktikanta Das
+"
+Q.98 Who won the 'Best FIFA Men's Player' award for the 2024 season at the Best FIFA
+Football Awards in December 2024?
+Ans
+ A. Erling Haaland
+B. Rodri
+C. Jude Bellingham
+D. Vinícius Jr.
+Q.99 According to the second edition of the North Eastern Region District SDG Index (2023-
+24) released in July 2025, which district recorded the highest SDG score in North East
+India, with a score of 81.43?
+Ans
+ A. Gomati
+B. Kohima
+C. Hnahthial
+D. Aizawl
+Q.100In June 2025, which of the following organisations launched NACH 3.0 to enable faster
+salary and EMI processing?
+Ans
+ A. Securities and Exchange Board of India (SEBI)
+B. National Payments Corporation of India (NPCI)
+C. State Bank of India (SBI)
+D. Reserve Bank of India (RBI)

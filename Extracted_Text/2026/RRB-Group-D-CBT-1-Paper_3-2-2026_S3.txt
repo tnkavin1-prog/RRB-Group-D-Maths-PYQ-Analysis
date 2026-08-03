@@ -1,0 +1,779 @@
+Q.1 According to Rutherford's model of an atom, the radius of an atom in metre is about:
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.2 Carbon has the unique ability to form bonds with other atoms of carbon, giving rise to
+large molecules. This property is called:
+Ans
+ A. unification
+B. addition
+C. catenation
+D. conjugation
+Q.3 Which of the following methods of reproduction simply involves the splitting of the
+parent cell into two daughter cells in the bacteria?
+Ans
+ A. Spore formation
+B. Fragmentation
+C. Budding
+D. Binary fission
+Q.4 Select the correct option regarding the following two statements labelled Assertion (A)
+and Reason (R).
+Assertion (A): Monoculture plantations often fail to meet the diverse needs of forest-
+dependent villagers.
+Reason (R): These plantations provide medicinal herbs, food and fuel for villagers.
+Ans
+ A. A is false, but R is true.
+B. A is true, but R is false.
+C. Both A and R are true, but R is not the correct explanation of A.
+D. Both A and R are true, and R is the correct explanation of A.
+Test Date 03/02/2026
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.5 What is the main purpose of cell division in multicellular organisms?
+Ans
+ A. Formation of vacuoles and maintenance of turgidity
+B. Absorption of nutrients and release of wastes
+C. Growth, repair, and replacement of damaged or old cells
+D. Transport of substances through the cell membrane
+Q.6 Which of the following organelles is the first to divide during binary fission in Amoeba?
+Ans
+ A. Nucleus
+B. Vacuole
+C. Cell wall
+D. Cytoplasm
+Q.7 Which of the following statements about ions is correct?
+Ans
+ A. Sodium chloride consists of neutral sodium and chloride atoms.
+B. A cation is a negatively charged species.
+C. Ions are formed only from non-metal atoms.
+D. A group of atoms carrying a net charge is called a polyatomic ion.
+Q.8 If the stigma of a flower is damaged, which process would most likely be affected?
+Ans
+ A. Fruit ripening
+B. Seed dispersal
+C. Formation of petals and sepals
+D. Pollination and fertilisation
+Q.9 Which of the following is a major environmental disadvantage of big dams?
+Ans
+ A. Increased biodiversity
+B. Submergence of forests
+C. Water conservation
+D. Creation of recreational spaces
+Q.10 Which of the following best explains why combination reactions are often exothermic?
+Ans
+ A. They involve the breaking of bonds only.
+B. They require light to proceed.
+C. They release energy due to stable product formation.
+D. They involve formation of bonds, which absorb energy.
+Q.11 A body weighs 60 kg wt on the surface of the moon. What will be the mass and the
+weight, respectively, of the body on the surface of the Earth?
+(Take the value of g on Earth as 10 m/s2)
+Ans
+ A. 600 kg and 360 kg wt
+B. 360 kg and 360 kg wt
+C. 60 kg and 36 kg wt
+D. 36 kg and 360 kg wt
+Q.12 If a body of mass m is raised to a height h in a gravitational field of acceleration g, its
+potential energy depends on:
+Ans
+ A. m only
+B. h only
+C. g only
+D. m, g and h
+Q.13 Which of the statement(s) is/are NOT true about the phenomenon of scattering of light:
+(i) The amount of scattering light undergoes is independent of the size of particles of
+the medium through which light is passing.
+(ii) The amount of scattering is directly proportional to the wavelength of light.
+(iii) The colour of the sky appears blue as blue light undergoes more scattering as
+compared to red light.
+(iv) The colour of danger signal is red as red colour undergoes least amount of
+scattering when passing through fog.
+Ans
+ A. Both (iii) and (iv)
+B. Both (i) and (ii)
+C. Both (ii) and (iii)
+D. Both (i) and (iii)
+Q.14 An object is placed beyond the centre of curvature (C) of a concave mirror. The image
+formed will be now:
+Ans
+ A. Real, inverted, and magnified
+B. Real, inverted, and diminished
+C. Real, inverted, and same size
+D. Virtual, erect, and magnified
+Q.15 What effect does an unbalanced force have on a moving object?
+Ans
+ A. It increases the weight of the object.
+B. It keeps the object at rest.
+C. It causes a change in speed or direction of motion.
+D. It stops the object immediately.
+Q.16 A car slows down uniformly when brakes are applied, producing an acceleration of 8
+m/s2 opposite to its motion. If the car comes to rest in 2s, what distance does it cover
+before stopping?
+Ans
+ A. 12 m
+B. 16 m
+C. 20 m
+D. 8 m
+Q.17 Which of the following is a homologous series?
+Ans
+ A. Methane, Ethane, Ethene
+B. Ethene, Ethyne, Ethane
+C. Methane, Ethane, Propane
+D. Methane, Methanol, Methanoic acid
+Q.18 ___________ is/are NOT selectively re-absorbed from the filtrate in the nephron.
+Ans
+ A. Glucose
+B. Urea
+C. Amino acids
+D. Salts
+Q.19 What is the equivalent of 1 kilowatt-hour (kWh) in joules?
+Ans
+ A. 1 kWh = 36 × 10-6 joules
+B. 1 kWh = 360 joules
+C. 1 kWh = 3.6 × 10⁶ joules
+D. 1 kWh = 3.6 × 10³ joules
+Q.20 The main purpose of designing a hall with curved walls and ceilings is _______.
+Ans
+ A. to make the hall look beautiful
+B. to reduce the speed of sound
+C. to make the sound louder only near the stage
+D. to ensure uniform sound distribution
+Q.21 Ethanoic acid is commonly known as acetic acid and has:
+Ans
+ A. No effect on litmus or metals
+B. A sharp, sour smell and taste
+C. A basic pH and slippery feel
+D. A strong fruity smell in water
+Q.22 Which colour do silver articles attain when they get corroded and form a coating of
+silver sulphide?
+Ans
+ A. White
+B. Reddish brown
+C. Remains silver
+D. Black
+Q.23 If the length of a conductor and area is halved, keeping material same, then its
+resistance will ________.
+Ans
+ A. Remain same
+B. Be doubled
+C. Be halved
+D. Become four times
+Q.24 Which of the following statements best differentiates a mixture from a compound?
+Ans
+ A. A compound shows the properties of its constituent elements.
+B. A mixture retains the individual properties of its constituents.
+C. A compound can be separated into its constituents by physical methods.
+D. A mixture always contains elements in a fixed ratio.
+Q.25 Through which of the following structures does urine go into the urinary bladder from
+kidneys?
+Ans
+ A. Ureters
+B. Vena cava
+C. Vein
+D. Artery
+Q.26 A brother is 2 years younger than his sister, and together their ages sum to 26 years.
+How old is the sister?
+Ans
+ A. 18 years
+B. 12 years
+C. 16 years
+D. 14 years
+Section : Mathematics
+Q.27 What price should Amit mark on a pair of jeans which cost him ₹7,700, so as to gain
+32% after allowing successive discounts of 16% and 20%?
+Ans
+ A. ₹14,997
+B. ₹14,993
+C. ₹15,125
+D. ₹15,183
+Q.28 Find the product of two numbers whose sum is 24 and whose difference is 8.
+Ans
+ A. 128
+B. 132
+C. 124
+D. 118
+Q.29
+Ans
+ A. 9
+B. 7
+C. 5
+D. 3
+Q.30 From a solid cylinder of height 48 cm and radius 14 cm, a conical cavity of radius 7 cm
+and height 24 cm is drilled out from one end of the cylinder. A hemisphere of radius 14
+cm is scooped out from the other end. Find the total surface area (in cm2) of the
+remaining solid.
+Ans
+ A. 6864
+B. 6870
+C. 6463
+D. 6468
+Q.31 Successive discounts of 20% and 29% are equivalent to a single discount of:
+Ans
+ A. 46.66%
+B. 46.44%
+C. 42.5%
+D. 43.2%
+Q.32 The monthly incomes of two friends, Vijay and Mohan, are in the ratio 5 : 9,
+respectively, and each of them saves ₹4,2000 every month. If the ratio of their monthly
+expenditure is 2 : 4, find the monthly income of Vijay (in ₹).
+Ans
+ A. 2,10,000
+B. 2,11,000
+C. 2,09,000
+D. 2,94,000
+Q.33 Find the value of r, if 25(r – 1) + 100 = 5(2r – 1)
+Ans
+ A. 3
+B. 2
+C. 1
+D. 4
+Q.34 The price of fuel decreases by 35%, 40% and 50% in three successive months, but
+increases by 45% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price? (Round off your
+answer to two decimal places.)
+Ans
+ A. Decreases by 71.73%
+B. Decreases by 70.64%
+C. Increases by 77.27%
+D. Increases by 76.37%
+Q.35 A man buys a watch for ₹1,200 and sells it at a 10% loss. What is the selling price?
+Ans
+ A. ₹1,080
+B. ₹1,220
+C. ₹1,240
+D. ₹1,180
+Q.36 In a quadrilateral ABCD, ∠A = 62° and ∠B = 19°. The bisectors of ∠C and ∠D meet at O.
+What is the measure of ∠DOC?
+Ans
+ A. 28.5°
+B. 50°
+C. 34°
+D. 40.5°
+Q.37 For 10 innings, a cricketer has an average of 76 runs. In the 11th innings, he scores 193
+runs. His average score increased by (rounded off to the nearest whole number):990
+Ans
+ A. 8
+B. 6
+C. 11
+D. 9
+Q.38
+758
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.39 A vertical pole stands on level ground. From a point 20 metres (m) away from the base
+of the pole, the angle of elevation to the top is 45°. What is the height of the pole?
+Ans
+ A. 15 m
+B. 10 m
+C. 25 m
+D. 20 m
+Q.40 If 54 : A :: A : 150, then find the positive value of A.
+Ans
+ A. 93
+B. 87
+C. 90
+D. 89
+Q.41 The amount on a sum of ₹7,100 at 10% per annum compound interest, compounded
+annually, in 2 years, will be:
+Ans
+ A. ₹8,468
+B. ₹8,828
+C. ₹8,591
+D. ₹9,031
+Q.42 The distance between points A and B is 964 km. Kamlesh travels from A to B at 48
+km/hr and returns at 52 km/hr. Find his average speed for the entire journey.
+Ans
+ A. 51.85 km/hr
+B. 48.86 km/hr
+C. 49.92 km/hr
+D. 50.69 km/hr
+Q.43 A, B and C can do a piece of work in 3, 8 and 24 days, respectively. How long (in days)
+will they take to do twice the same work, working together?
+Ans
+ A. 4
+B. 5
+C. 12
+D. 8
+Q.44
+The value of 
+  is:
+2974
+Ans
+ A. 141669
+B. 145214
+C. 131325
+D. 121966
+Q.45 The length of each side of a rhombus is 20 cm, and the length of one of the diagonals is
+24 cm. Find the area (in cm2) of the rhombus.
+Ans
+ A. 284
+B. 268
+C. 356
+D. 384
+Q.46 The arithmetic mean of the observations 18, 74, 33, 16, 35, 96, 40, 68 and 43 is:
+Ans
+ A. 47
+B. 43
+C. 41
+D. 44
+Q.47
+Ans
+ A. 666.67%
+B. 343.33%
+C. 333.33%
+D. 348.33%
+Q.48 Three taps, A, B and C, can fill a tank in 12 hours, 15 hours and 18 hours, respectively.
+If tap A is open all the time and tap B and C are opened for one-one hour each
+alternately starting with tap B first, in how many hours will the tank be filled?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.49 What is the minimum value that must be assigned to A so that the 8-digit number
+130A1568 is divisible by 8?
+Ans
+ A. 0
+B. 5
+C. 2
+D. 3
+Q.50 The ratio of three numbers is 10 : 21 : 16. If 60 percent of the first number is 12, then
+what would be 40 percent of the difference of third and second number? 5001
+Ans
+ A. 2
+B. 6
+C. 4
+D. 5
+Q.51 Which of the given letter-number clusters will replace the question mark (?) in the
+following series to make it logically complete?
+YCG 18 HLP 23 QUY 28 ZDH 33 ?
+Ans
+ A. IRB 37
+B. ILP 37
+C. IMQ 38
+D. INP 38
+Q.52 If 2 is added to each even digit and 1 is subtracted from each odd digit in the number
+31264759, then what will be the sum of the second digit from the left and the third digit
+from the right in the new number thus formed?
+Ans
+ A. 10
+B. 12
+C. 8
+D. 6
+Q.53 A, B, C and D opened shopping complexes in the same city. The shopping complex of A
+is 6 km west of the shopping complex of B. The shopping complex of C is 4 km north of
+the shopping complex of B. The shopping complex of D is 6 km west of the shopping
+complex of C. In which direction is the shopping complex of D from the shopping
+complex of A?
+Ans
+ A. East
+B. North
+C. West
+D. South
+Section : General Intelligence and Reasoning
+Q.54 In a row of 52 people facing north, Dimple sits 17th from the left end. If only 15 people
+sit to the right of Avni, then how many people sit between Dimple and Avni?
+Ans
+ A. 20
+B. 21
+C. 19
+D. 18
+Q.55    Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. XB−ZD
+B. PT−QX
+C. HL−JN
+D. MQ−OS
+Q.56 Eight people – A, B, C, D, E, F, G and H, are sitting around a circular table facing the
+centre. Only two people sit between A and G when counted from the left of G. B sits to
+the immediate left of G. Only three people sit between C and B when counted from the
+left of C. E sits to the immediate right of D. F is not an immediate neighbour of B. Who
+sits second to the right of H?
+Ans
+ A. E
+B. G
+C. C
+D. F
+Q.57 KNKM is related to LOLN in a certain way based on the English alphabetical order. In
+the same way, ILIK is related to JMJL. To which of the given options is OROQ related,
+following the same logic?
+Ans
+ A. PSPR
+B. PROR
+C. PSOR
+D. PTOX
+Q.58 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(57, 56.4, 58.4)
+(49, 48.4, 50.4)2922
+Ans
+ A. (91, 89.4, 91.4)
+B. (75, 74.4, 77.4)
+C. (83, 82.4, 84.4)
+D. (58, 57.4, 60.4)
+Q.59 In a certain code language, ‘rain hall pig’ is coded as ‘kq zz nl’ and ‘pig bean error’ is
+coded as ‘hu mt zz’. How is ‘pig’ coded in that language?
+Ans
+ A. nl
+B. hu
+C. zz
+D. kq
+Q.60 This question is based on the five, three-digit numbers given below.
+(Left) 128 945 371 539 276 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+What will be the resultant if the second digit of the highest number is added to the third
+digit of the lowest number.15166
+Ans
+ A. 9
+B. 12
+C. 8
+D. 11
+Q.61 Six people G, H, I, Q, R and S are sitting in a straight line facing the north. No one is
+seated to the left of R. Only three people are seated between R and G. Only three
+people are seated to the right of H. Q is seated to the immediate left of H. S is not an
+immediate neighbor of H. How many people are seated between S and I?
+Ans
+ A. Two
+B. One
+C. Four
+D. Three
+Q.62 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+42 A 6 D 5 B 3 C 18 = ?
+Ans
+ A. 6
+B. 10
+C. 13
+D. 18
+Q.63 If 1 is added to each odd digit and 1 is subtracted from each even digit in the number
+3215674, which of the following digits will be first from the right?
+Ans
+ A. 1
+B. 8
+C. 4
+D. 3
+Q.64 BYRS is related to LIBC in a certain way based on the English alphabetical order. In the
+same way, PMFG is related to ZWPQ. To which of the given options is TQJK related,
+following the same logic?
+Ans
+ A. DATU
+B. DATB
+C. DTRE
+D. DUTA
+Q.65 In a certain code language,
+‘A + B’ means ‘A is the brother of B’,
+‘A – B’ means ‘A is the husband of B’,
+‘A × B’ means ‘A is the sister of B’ and
+‘A ÷ B’ means ‘A is the mother of B’.
+How is P related to T if ‘P + Q – R ÷ S × T’?
+Ans
+ A. Father’s brother
+B. Father’s father
+C. Mother’s brother
+D. Mother’s father
+Q.66 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+HCU : LAY
+PYC : TWG
+Ans
+ A. WGD : ABH
+B. YCR : AYT
+C. TKG : XHK
+D. XUK : BSO
+Q.67 In a certain code language, ‘light reveals truth’ is coded as ‘rn ea kw’ and ‘truth guides
+paths’ is coded as ‘ib rn xu’. How is ‘truth’ coded in the given language?
+Ans
+ A. rn
+B. kw
+C. ea
+D. ib
+Q.68 Refer to the following series and answer the question that follows (all numbers are
+single digit numbers only). Counting to be done from left to right only.
+(Left) 9 1 8 6 9 1 8 4 8 2 6 9 7 2 6 5 9 8 4 7 1 9 1 6 9 6 5 (Right)
+How many such even numbers are there (from left to right) each of which is
+immediately preceded by an odd number and also immediately followed by an even
+number?6621
+Ans
+ A. 5
+B. 4
+C. 6
+D. 3
+Q.69 Seven people, A, B, C, D, E, F and G, are sitting in a row, facing north. B is seated third
+from the right end. G is third to the left of D. E is seated to the right of B and at one of
+the ends. Only two people are seated between F and E. A does not sit at any of the
+extreme ends. Who is seated at the extreme left end?
+Ans
+ A. F
+B. D
+C. G
+D. C
+Q.70 Town A is to the east of Town B. Town C is to the south of Town A. Town D is to the
+west of Town C. Town E is to the north of Town D. Town B is to the north-west of Town
+E. What is the position of Town A with respect to Town E?
+Ans
+ A. South-east
+B. North-west
+C. North-east
+D. South-west
+Q.71 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All potatoes are bananas.
+All bananas are apples.
+Conclusions:
+(I) All potatoes are apples.
+(II) Some apples are bananas.
+Ans
+ A. Both conclusions (I) and (II) follow.
+B. Neither conclusion (I) nor (II) follows.
+C. Only conclusion (II) follows.
+D. Only conclusion (I) follows.
+Q.72 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All bolts are screws.
+All bolts are nuts.
+All nuts are rivets.
+Conclusions:
+(I): All bolts are rivets.
+(II): Some nuts are screws.
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Only conclusion (II) follows
+C. Only conclusion (I) follows
+D. Both conclusions (I) and (II) follow
+Q.73 Which of the following letter-clusters will replace the question mark (?) in the given
+series to make it logically complete?
+XLD, AOG, DRJ, GUM, ?
+Ans
+ A. JYQ
+B. JXQ
+C. JYP
+D. JXP
+Q.74 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. EBC
+B. WTU
+C. LJJ
+D. DAB
+Q.75 What should come in place of the question mark (?) in the given series?
+168 181 196 209 224 ?
+Ans
+ A. 237
+B. 238
+C. 235
+D. 239
+Q.76 This question is based on the five, three-digit numbers given below.
+(Left) 562 428 653 154 749 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE: All operations to be done from left to right.)
+What will be the resultant if the second digit of the second highest number is added to
+the third digit of the second lowest number?
+Ans
+ A. 12
+B. 14
+C. 13
+D. 11
+Q.77 What should come in place of the question mark (?) in the given series?
+21 28 38 51 67 ?
+Ans
+ A. 84
+B. 87
+C. 86
+D. 85
+Q.78 Seven boxes, B, D, E, P, S, T and W, are kept one over the other but not necessarily in
+the same order. Only three boxes are kept below W. Only two boxes are kept between W
+and P. Only B is kept above D. T is kept at some place below E and at some place above
+S. Which box is kept at second position from the bottom?
+Ans
+ A. S
+B. T
+C. E
+D. P
+Q.79 What should come in place of the question mark (?) in the given series?
+808 818 829 841 854 ?
+Ans
+ A. 866
+B. 862
+C. 868
+D. 864
+Q.80 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only).
+(Left) 6 1 2 1 8 4 2 3 1 7 5 3 5 9 8 5 2 1 9 3 6 6 7 2 6 7 5 (Right)
+How many such even numbers are there (from left to right), each of which is
+immediately preceded by an odd number and also immediately followed by an odd
+number?
+Ans
+ A. 4
+B. 2
+C. 5
+D. 3
+Section : General Awareness and Current Affairs
+Q.81 In November 2025, 79 spotted deer were moved to which national park as part of
+conservation efforts in India?
+Ans
+ A. Keoladeo National Park
+B. Sultanpur National Park
+C. Chandoli National Park
+D. Kaziranga National Park
+Q.82 Which of the following bodies released the report titled ‘India’s Blue Economy: Strategy
+for Harnessing Deep-Sea and Offshore Fisheries’ in October 2025?
+Ans
+ A. Indian Ocean Research Institute
+B. Marine Products Export Development Authority
+C. NITI Aayog
+D. National Fisheries Development Board
+Q.83 Which edition of the WHO Global Summit on Traditional Medicine will be held in New
+Delhi in December 2025?
+Ans
+ A. 3rd Edition
+B. 2nd Edition
+C. 1st Edition
+D. 4th Edition
+Q.84 On 13 September 2025, the Ministry of Youth Affairs & Sports announced the second
+edition of which of the following events aimed at higher participation, new tracks, and
+broader outreach?
+Ans
+ A. Viksit Bharat Young Leaders Dialogue – 2026
+B. Viksit Bharat Youth Leadership Summit – 2026
+C. Viksit Bharat Young Innovators Conference – 2026
+D. Viksit Bharat Youth Development Forum – 2026
+Q.85 Which classical Bharatanatyam talent aged 14 received the Nritya Kala Bhushan Bal
+Puraskar in May 2025?
+Ans
+ A. Ravi Shankar
+B. Sudha Chandran
+C. Chetna V
+D. Malavika Nair
+Q.86 The Insurance Regulatory and Development Authority of India's (IRDAI) June 2025
+advisory on the Air India AI‑ 171 crash was issued to which of the following
+stakeholders?
+Ans
+ A. All Banks and NBFCs
+B. All Insurers and Reinsurers
+C. Only General Insurers
+D. Only Life Insurers
+Q.87 According to reports released in May 2025, DRR Dhan 100 (Kamala), a genome-edited
+rice variety developed by ICAR-IIRR, Hyderabad, is a derivative of which of the
+following rice varieties?
+Ans
+ A. MTU 1010
+B. IR64
+C. Swarna
+D. Samba Mahsuri
+Q.88 The U.S.–Turkey Nuclear Cooperation Agreement, signed in 2025, primarily focuses on
+developing which category of advanced nuclear reactors?
+Ans
+ A. Molten Salt Reactors
+B. Fast Breeder Reactors
+C. Fusion Reactors
+D. Small Modular Reactors
+Q.89 What was the Reserve Bank of India's repo rate in April 2025 after the 54th meeting of
+the Monetary Policy Committee (MPC)?
+Ans
+ A. 7.00%
+B. 6.50%
+C. 6.00%
+D. 6.75%
+Q.90 As of June 2025, how many times has the Indian men’s junior hockey team won the
+Junior Asia Cup?
+Ans
+ A. 7
+B. 4
+C. 5
+D. 1
+Q.91 Which level of school education had the best pupil-teacher ratio (PTR) according to the
+UDISE+, 2024–25, report?
+Ans
+ A. Preparatory (Classes 6–8)
+B. Secondary (Classes 9–12)
+C. Middle (Classes 6–8)
+D. Foundational (Classes 1–5)
+Q.92 At which institution was India's first AI teacher introduced?
+Ans
+ A. St. Thomas College, Thrissur
+B. Loyola College, Chennai
+C. Government College of Teacher Education, Thiruvananthapuram
+D. KTCT Higher Secondary School, Thiruvananthapuram
+Q.93 When was the 130th Constitutional Amendment Bill introduced in the Lok Sabha?
+Ans
+ A. July 2025
+B. August 2025
+C. April 2025
+D. January 2025
+Q.94 The ISSF World Cup is associated with which of the following sports?
+Ans
+ A. Squash
+B. Swimming
+C. Shooting
+D. Skiing
+"
+Q.95 In October 2025, which national park was in the news for launching India’s first-ever
+cheetah safari for tourists?
+Ans
+ A. Kuno National Park, Madhya Pradesh
+B. Jim Corbett National Park, Uttarakhand
+C. Ranthambore National Park, Rajasthan
+D. Kaziranga National Park, Assam
+Q.96 Which city hosted WWE’s 'Night of Champions' on 28 June 2025?
+Ans
+ A. Cairo, Egypt
+B. Istanbul, Turkey
+C. Riyadh, Saudi Arabia
+D. Dubai, UAE
+Q.97 Which of the following schemes is NOT converged into the Pradhan Mantri Virasat Ka
+Samvardhan scheme?
+Ans
+ A. Atal Pension Yojana
+B. Hamari Dharohar
+C. Seekho Aur Kamao
+D. Nai Roshni
+Q.98 Who defended the 100 m hurdles title and set a Championships record of 12.96 s at the
+Asian Athletics Championships in May 2025?
+Ans
+ A. Pooja Singh
+B. Jyothi Yarraji
+C. Anu Raghavan
+D. Vithya Ramraj
+Q.99 Which city ranked first in Category-1 (population of over 10 lakh) in the Swachh Vayu
+Sarvekshan Awards, 2025?
+Ans
+ A. Jabalpur
+B. Indore
+C. Surat
+D. Agra
+Q.100At the Asian Para-Badminton Championship 2025 held in Thailand, how many total
+medals did Indian shuttlers win?
+Ans
+ A. 25
+B. 30
+C. 20
+D. 27

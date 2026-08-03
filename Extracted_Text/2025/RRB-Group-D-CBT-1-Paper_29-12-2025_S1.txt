@@ -1,0 +1,779 @@
+Q.1 Which of the following statements is/are true for a domestic circuit?
+(i) All the appliances are connected in parallel.
+(ii) The live wire in the domestic circuit has green insulation on it.
+(iii) A fuse connected to the circuit allows excessive current to pass through the
+appliances.
+(iv) The neutral wire in the domestic circuits has black insulation on it.
+Ans
+ A. Both (i) and (iv)
+B. Both (ii) and (iv)
+C. Both (i) and (iii)
+D. Both (ii) and (iii)
+Q.2 According to Bohr's model, electromagnetic radiations possess dual character
+properties behaving like:
+Ans
+ A. sound and waves
+B. waves and particles
+C. mass and magnetic effect
+D. waves and electrons
+Q.3 The right-hand thumb rule is used to find which of the following?
+Ans
+ A. Resistance of the wire
+B. Direction of magnetic field around a current-carrying conductor
+C. Magnitude of current
+D. Direction of force on a current-carrying conductor
+Q.4 If a cell lacks a functional Golgi complex, it would mainly fail in __________.
+Ans
+ A. controlling cell division
+B. packaging and secretion
+C. formation of ATP
+D. protein synthesis only
+Q.5 Which description best defines cytoplasm?
+Ans
+ A. Genetic material present in the form of chromatin
+B. Fluid content inside the plasma membrane containing organelles
+C. Rigid layer outside the plasma membrane providing support
+D. Network of tubes involved in protein transport within the cell
+Test Date 29/12/2025
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 What are the products formed when metal carbonates react with an acid?
+Ans
+ A. Salt, water, carbon dioxide
+B. Salt, water, carbon monoxide
+C. Water, carbon dioxide
+D. Salt, carbon monoxide
+Q.7 At which location on the Earth's surface would a standard object experience the
+maximum acceleration due to gravity (g)?
+Ans
+ A. Tropic of Cancer
+B. The Poles
+C. Tropic of Capricorn
+D. The Equator
+Q.8 Which of the following is a characteristic of the onset of puberty in boys?
+Ans
+ A. Growth of hairs on head
+B. Growth of a moustache
+C. Growth of pineal gland
+D. Growth of liver
+Q.9 Where is a reflex arc formed in the body?
+Ans
+ A. Hind brain
+B. Muscle
+C. Spinal cord
+D. Fore brain
+Q.10 The stethoscope works on which principle?
+Ans
+ A. Dispersion of sound
+B. Diffraction of sound
+C. Refraction of sound
+D. Multiple reflection of sound
+Q.11 Stars appear to twinkle in the night sky because ______.
+Ans
+ A. Light from stars undergoes atmospheric refraction
+B. The distance between stars and Earth keeps varying
+C. Stars move rapidly in the sky
+D. They change their brightness continuously
+Q.12 The unicellular organism amoeba has a __________ shape.
+Ans
+ A. sleeper
+B. star
+C. changing
+D. fixed
+Q.13 Which of the following is an example of compound?
+Ans
+ A. Sugar
+B. Iron
+C. Hydrogen
+D. Mercury
+Q.14 What is the colour of copper oxide when it is added to the dilute sulphuric acid to
+forming a blue-green solution?
+Ans
+ A. Green
+B. Black
+C. Grey
+D. White
+Q.15 Which of the following statements is true about an unbalanced force acting on an
+object?
+Ans
+ A. It has no effect on the object’s state of motion.
+B. It keeps the object at rest.
+C. It brings the object in motion.
+D. It always increases the mass of the object.
+Q.16 Read the given assertion (A) and reason (R) and select the most appropriate option.
+(A): The onset of puberty in females occurs earlier than in males, but both attain their
+final height by 18–20 years of age.
+(R): Although puberty begins later in males, their growth spurt is more rapid than in
+females.
+Ans
+ A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+C. (A) is false but (R) is true
+D. (A) is true but (R) is false
+Q.17 For spherical mirrors of small apertures, the relation between the radius of curvature
+(R) and focal length (f) is:
+Ans
+ A. R = f/2
+B. R = f
+C. R = 2f
+D. R = 3f
+Q.18 Which of the following is the characteristic property of a non-metal?
+Ans
+ A. Sonorous
+B. High melting point
+C. Ductility
+D. Poor conductor of electricity
+Q.19 What is the mass number of an element defined as?
+Ans
+ A. Number of neutrons
+B. Sum of the number of electrons and protons
+C. Number of protons
+D. Sum of the number of protons and neutrons
+Q.20 Why are climate-resistance hybrid crop varieties important for future farming?
+Ans
+ A. Hybrid crops are easier to store
+B. Hybrid crops are unaffected by unpredictable weather
+C. Hybrid crops reduce the role of farmers
+D. Hybrid crops look more attractive
+Q.21 In uniform circular motion, the speed of the body:
+Ans
+ A. changes continuously
+B. depends on the radius only
+C. remains constant
+D. becomes zero at every point
+Q.22 Select the correct statement for asexual reproduction in plants.
+Ans
+ A. It involves formation of gametes.
+B. It occurs rapidly during unfavourable conditions.
+C. It is found in both lower and higher plants.
+D. It involves male and female flowers.
+Q.23 Why do we spread cloths while putting them for drying in open sky?
+a. Increasing the surface area will increase the rate of evaporation
+b. Increase in wind speed will not allow the cloth to fly
+c. To remove wrinkles
+Ans
+ A. Only a and c
+B. a, b and c
+C. Only a
+D. Only a and b
+Q.24 Bleaching powder is prepared by the reaction of:
+Ans
+ A. sodium hydroxide with chlorine gas
+B. calcium carbonate with chlorine gas
+C. calcium hydroxide with hydrochloric acid
+D. calcium hydroxide with chlorine gas
+Q.25 Which of the following is the correct unit for measuring the work done by a force?
+Ans
+ A. Pascal
+B. Newton
+C. Coulomb
+D. Joule
+Q.26 Preeti, Qadir and Reena invest sum in the ratio 2 : 8 : 13, respectively. If they earned
+total profit of ₹87,193 at the end of year, then what is the positive difference between
+share of Preeti and Reena?4910
+Ans
+ A. ₹41,703
+B. ₹41,701
+C. ₹41,702
+D. ₹41,704
+Q.27 The mode of the observations 21, 32, 34, 34, 34, 20, 32, 24, 34, 34, 20, 25, 29, 26 and 20
+is:4287
+Ans
+ A. 20
+B. 21
+C. 32
+D. 34
+Section : Mathematics
+Q.28 A seasoned marathoner, known for his steady pace, usually runs the first half of a race
+at 8 km/hr and the second half at 6 km/hr. However, due to fatigue and other factors, his
+overall speed drops by 30%. How long will it take him to complete a 120 km marathon
+under these reduced-speed conditions?
+Ans
+ A. 12.5 hours
+B. 25 hours
+C. 17.5 hours
+D. 15 hours
+Q.29
+Ans
+ A. 65%
+B. 100%
+C. 50%
+D. 60%
+Q.30 The expenditure of Sudha is 150% more than her savings. If her expenditure decreases
+by 3% and savings increase by 21.5%, then by what percentage does her income
+increase?
+Ans
+ A. 3%
+B. 1%
+C. 6%
+D. 4%
+Q.31 A, B and C can do a piece of work in 3, 3 and 3 days, respectively. How long (in days)
+will they take to do twice the same work, working together?
+Ans
+ A. 3
+B. 6
+C. 2
+D. 4
+Q.32 Ravi bought a watch for ₹4,800, spent ₹200 on its repair, and sold it for ₹6,000. What is
+his profit percentage?
+Ans
+ A. 25%
+B. 27%
+C. 20%
+D. 22%
+Q.33 The amount on a sum of ₹5,000 at 20% per annum compound interest, compounded
+annually, in 2 years, will be:
+Ans
+ A. ₹6,563
+B. ₹7,247
+C. ₹7,200
+D. ₹7,760
+Q.34 The volume of a rectangular block of wood is 10,368 cm3. Its length, breadth and height
+are in the ratio of 3 : 2 : 1. If its entire surface is polished at ₹2/cm2, then find the total
+cost of polishing.
+Ans
+ A. ₹6,336
+B. ₹7,135
+C. ₹6,436
+D. ₹6,356
+Q.35 Priya buys a mobile phone for her child. The phone is marked at ₹34,400 and is offered
+with two successive discounts of 13% and Z%, respectively. After receiving both
+discounts, she pays ₹22,446. Find the value of Z.
+Ans
+ A. 23
+B. 25
+C. 24
+D. 26
+Q.36 ₹8,200 is divided among A, B and C in such a way that if ₹19, ₹9 and ₹13 are deducted
+from their respective shares, they have money in the ratio 12:19:10. Find the difference
+between B’s and C’s original shares.
+Ans
+ A. ₹1,787
+B. ₹1,841
+C. ₹1,691
+D. ₹1,641
+Q.37 Two engines of trains 28 km apart start towards each other at speeds of 23 km/hr and 89
+km/hr, respectively. After how much time will they meet each other? (Assume the length
+of engine is negligible)3620
+Ans
+ A. 17 minutes
+B. 14 minutes
+C. 13 minutes
+D. 15 minutes
+Q.38 The sum of two numbers is 54 and their LCM is 195. The two numbers are:2609
+Ans
+ A. 37, 17
+B. 44, 10
+C. 32, 22
+D. 39, 15
+Q.39 In an election with two candidates, Candidate A received 75% of the total valid votes. If
+10% of the total 14,000 votes were declared invalid, how many valid votes did Candidate
+B receive?
+Ans
+ A. 3150
+B. 4450
+C. 3500
+D. 3750
+Q.40 A, B and C together can complete a piece of work in 12 days, while A alone can
+complete it in 20 days and C alone can complete it in 36 days. In how many days can B
+alone complete the work?
+Ans
+ A. 60 days
+B. 180 days
+C. 150 days
+D. 120 days
+Q.41
+Ans
+ A. 115
+B. 133
+C. 127
+D. 121
+Q.42 Three chairs and two tables together cost ₹600, two chairs and one table together cost
+₹350. The cost of four chairs is:
+Ans
+ A. ₹200
+B. ₹400
+C. ₹300
+D. ₹100
+Q.43 Seven years ago from now, a man was five times as old as his son. Seven years from
+now, the father will be three times as old as his son. Find the son's present age.
+Ans
+ A. 26 years
+B. 38 years
+C. 21 years
+D. 31 years
+Q.44 In a quadrilateral QRST, ∠Q = 74° and ∠R = 39°. The bisectors of ∠S and ∠T meet at E.
+What is the measure of ∠TES?
+Ans
+ A. 47°
+B. 43°
+C. 56.5°
+D. 61.5°
+Q.45 For 15 innings, a cricketer has an average of 94 runs. In the 16th inning, he scores 111
+runs. His average score increased by _____. (Round off the answer to the nearest whole
+number.)980
+Ans
+ A. 1
+B. 10
+C. 2
+D. 7
+Q.46
+Ans
+ A. 4
+B. 3
+C. 1
+D. 2
+Q.47 Sangeeta observes the top of a chimney at an angle of elevation of 45°. She is standing
+28.7 metres away from the base of the chimney, and her eye level is 1.3 metres above
+the ground. What is the total height (in metres) of the chimney?
+Ans
+ A. 60
+B. 28.7
+C. 30
+D. 27.4
+Q.48
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.49 If the listed price of a bag is 85% more than its cost price and a discount of 49% is
+announced on it, then find the loss percentage.
+Ans
+ A. 9.31%
+B. 9.12%
+C. 5.65%
+D. 5.42%
+Q.50 The number of prime numbers lying between 415 and 428 is:
+Ans
+ A. 7
+B. 6
+C. 4
+D. 2
+Q.51 Seven friends, L, M, N, O, Q, R and S, are sitting in a straight line facing north. Only
+three people sit to the left of M. Only two people sit between M and L. Only three people
+sit between S and N. S sits to the immediate left of L. O sits at some place to the left of
+R but at some place to the right of Q. How many people sit between Q and R?
+Ans
+ A. Three
+B. One
+C. Four
+D. Two
+Q.52 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. DYR
+B. AWO
+C. VQJ
+D. UPI
+Q.53 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+13 − 54 × 9 ÷ 7 + 32 = ?
+Ans
+ A. 24
+B. 26
+C. 22
+D. 23
+Q.54 In a row of 50 people facing north, Rahul is 15th from the left end. If Sumit sits 4th to the
+right of Rahul, what is Sumit’s position from the right end of the row?
+Ans
+ A. 31st
+B. 32nd
+C. 33rd
+D. 30th
+Section : General Intelligence and Reasoning
+Q.55 What should come in place of the question mark (?) in the given series?
+116 91 69 50 34 ?
+Ans
+ A. 21
+B. 23
+C. 19
+D. 17
+Q.56 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+RUS 36 PSQ 40 NQO 44 LOM 48 ?
+Ans
+ A. JLO 51
+B. JLJ 51
+C. JMK 52
+D. JNJ 52
+Q.57 If 2 is added to each even digit and 2 is added to each odd digit in the number 6345127,
+what will be the sum of the last two and first two digits in the new number thus formed?
+Ans
+ A. 28
+B. 22
+C. 26
+D. 24
+Q.58 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All geysers are fans.
+No fan is a refrigerator.
+Conclusions:
+(I): No geyser is a refrigerator.
+(II): Some refrigerators are fans.
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Only conclusion (I) follows
+C. Only conclusion (II) follows
+D. Neither conclusion (I) nor (II) follows
+Q.59 In a certain code language,
+‘A + B’ means ‘A is the mother of B’,
+‘A – B’ means ‘A is the brother of B’,
+‘A × B’ means ‘A is the wife of B’,
+‘A % B’ means ‘A is the father of B’ and
+‘A # B’ means ‘A is the daughter of B’.
+How is N related to T if ‘C % T # E + P x N’?
+Ans
+ A. Wife’s sister
+B. Wife’s mother
+C. Daughter’s husband
+D. Sister’s husband
+Q.60 Balram starts from Point A and drives 15 km towards south. He then takes a left turn,
+drives 12 km, turns left and drives 16 km. He then takes a left turn and drives 13 km. He
+takes a final left turn, drives 1 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again?
+(All turns are 90 degree turns only unless specified)7010
+Ans
+ A. 3 km to the east
+B. 4 km to the east
+C. 2 km to the east
+D. 1 km to the east
+Q.61 What should come in place of the question mark (?) in the given series?
+7 12 18 23 ? 34
+Ans
+ A. 30
+B. 28
+C. 29
+D. 32
+Q.62 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. KI−JH
+B. FD−EC
+C. WU−VT
+D. AY−YZ
+Q.63 A, B, C, D, E and F are sitting around a circular table, facing the centre. A and D are
+immediate neighbours of C. E is to the immediate left of D. A and F are not immediate
+neighbours. Who sits third to the right of A?
+Ans
+ A. E
+B. D
+C. F
+D. B
+Q.64 What should come in place of the question mark (?) in the given series?
+11, 36, 72, 121, 185, ?6344
+Ans
+ A. 268
+B. 267
+C. 265
+D. 266
+Q.65 In a certain code language, ‘drink fruit juice’ is coded as ‘if tg sd’ and ‘bring some fruit’
+is coded as ‘if td za’. How is ‘fruit’ coded in the given language?
+(All codes are two-letter codes)
+Ans
+ A. tg
+B. if
+C. td
+D. za
+Q.66 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+FLO DJM BHK ZFI ?
+Ans
+ A. DGX
+B. XDG
+C. XGD
+D. DXG
+Q.67 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(13, 2, 9)
+(18, 7, 14)
+Ans
+ A. (23, 12, 19)
+B. (19, 7, 16)
+C. (21, 9, 20)
+D. (27 , 39, 47)
+Q.68 In a certain code language, ‘book news leaf’ is coded as ‘rk qh aa’ and ‘leaf gum boat’ is
+coded as ‘vf rk xl’. How is ‘leaf’ coded in that language?
+Ans
+ A. aa
+B. vf
+C. rk
+D. qh
+Q.69 Six people, A, B, C, D, E and F are sitting in a row, facing north. D sits to the immediate
+left of B. C sits third to the left of B. E is an immediate neighbour of B. F sits to the
+immediate right of C. E sits to the immediate left of A. Who sits at the extreme right end
+of the line?
+Ans
+ A. B
+B. E
+C. A
+D. F
+Q.70 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 7 4 1 2 4 9 8 5 3 6 1 5 4 6 7 4 8 3 9 6 5 2 3 9 1 4 2 (Right)
+How many such even numbers are there, each of which is immediately preceded by a
+perfect square and immediately followed by an odd number?
+(NOTE: 1 is also a perfect square.)
+Ans
+ A. Three
+B. One
+C. More than three
+D. Two
+Q.71 Refer to the given series and answer the question that follows. All numbers are single-
+digit number only. Counting to be done from left to right,
+(Left) 4 7 1 5 9 2 6 3 8 4 7 1 9 5 2 6 8 3 7 9 1 5 2 6 8 (Right)
+How many such odd digits are there, each of which is immediately preceded by an odd
+digit and also immediately followed by an even digit?
+Ans
+ A. Three
+B. Four
+C. Two
+D. Five
+Q.72 This question is based on the five, three-digit numbers given below.
+(Left) 515 758 761 726 579 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7) (NOTE: All operations
+to be done from left to right.)
+What will be the resultant if the second digit of the highest number is added to the
+second digit of the lowest number?2426
+Ans
+ A. 9
+B. 7
+C. 6
+D. 13
+Q.73 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All markers are pens.
+All markers are sketches.
+All markers are chalks.
+Conclusions:
+(I): All pens are chalks.
+(II): Some chalks are sketches.
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Only conclusion (II) follows
+C. Only conclusion (I) follows
+D. Both conclusions (I) and (II) follow
+Q.74 Refer to the given series and answer the question that follows. (All numbers are single
+digit numbers only.) Counting to be done from left to right.
+(Left) 7 4 3 6 9 3 6 4 5 7 4 5 2 3 8 4 1 5 2 3 7 1 2 5 7 9 8 (Right)
+How many such even digits are there, each of which is immediately preceded by an odd
+digit and also immediately followed by an even digit?
+Ans
+ A. 1
+B. 2
+C. 3
+D. 4
+Q.75 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+132 A 11 C 5 B 4 D 8 = ?
+Ans
+ A. 50
+B. 24
+C. 40
+D. 32
+Q.76 In a row of 54 people facing north, Geeta sits 19th from the left end. If only 19 people sit
+between Barun and Geeta, then what is Barun’s position from the right end of the line?
+Ans
+ A. 16th
+B. 17th
+C. 18th
+D. 19th
+Q.77 LPBF is related to EIUY in a certain way based on the English alphabetical order. In the
+same way, JNZD is related to CGSW. To which of the given options is OSEI related,
+following the same logic?12877
+Ans
+ A. HBGF
+B. HLXB
+C. HLBX
+D. HBXL
+Q.78 Hanvi starts from Point L and drives 10 km towards the north. She then takes a right
+turn, drives 15 km, turns right and drives 17 km. She then takes a right turn and drives
+15 km. She takes a final right turn, drives 2 km and stops at Point P. How far (shortest
+distance) and towards which direction should she drive in order to reach Point L again?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. 2 km towards east
+B. 5 km towards south
+C. 5 km towards north
+D. 6 km towards south
+Q.79 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+DSV : HVX
+LYZ : PBB
+Ans
+ A. KSP : OXT
+B. UPG : YRK
+C. VPB : ATE
+D. TED : XHF
+Q.80 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+RQF : VTD
+SLS : WOQ
+Ans
+ A. UFY : YIV
+B. PLR : TOP
+C. RCT : VFQ
+D. OCN : SEL
+Section : General Awareness and Current Affairs
+Q.81 Which Indian official chaired the Standing Committee of the National Board for Wildlife
+(SC-NBWL) meetings, recommending the revision of blanket 10-km ESZ guidelines in
+mid-2025?
+Ans
+ A. Minister of Finance
+B. Chief Justice of India
+C. Minister of Environment
+D. Minister of Agriculture
+Q.82 Which Indian economist was awarded the Padma Vibhushan in 2025?
+Ans
+ A. Jagdish Bhagwati
+B. Jean Drèze
+C. Bibek Debroy
+D. Arvind Subramanian
+Q.83 What maximum sustained wind speed range was forecast for Cyclone Montha before
+landfall in October 2025?
+Ans
+ A. 60-70 km/h
+B. 120-130 km/h
+C. 140-150 km/h
+D. 90-100 km/h
+Q.84 On 8–9 November 2025, the Ministry of Home Affairs and the National Judicial Academy
+hosted a national conference in Bhopal focusing on which area?
+Ans
+ A. Environmental Laws
+B. Cybersecurity Regulations
+C. New Criminal Laws
+D. Labour Codes
+Q.85 As reported in May 2025, which of the following banks of India provided in-principle
+approval to PayPal and Worldline to operate as cross-border payment aggregators in
+India?
+Ans
+ A. Indian Bank
+B. Reserve Bank of India
+C. State Bank of India
+D. Bandhan Bank
+Q.86 Researchers from which institutions discovered a new prion called SNG2 in January
+2025?
+Ans
+ A. Delhi University and Council of Scientific & Industrial Research - Delhi
+B. Amity University - Mohali and Institute of Microbial Technology - Chandigarh
+C. IIT - Delhi and AIIMS - Delhi
+D. IISc - Bengaluru and NIPER - Mohali
+Q.87 In August 2025, which test marked the successful end-to-end demonstration of the
+parachute-based deceleration system for the Gaganyaan crew module by ISRO?
+Ans
+ A. Integrated Air Drop Test (IADT-01)
+B. Crew Escape System Test (CES-01)
+C. Crew Module Landing Test (CMLT-03)
+D. Pad Abort Test (PAT-02)
+Q.88 Which athlete set a pole vault world record with a clearance of 6.28 m in Wanda
+Diamond League meeting in Stockholm (June 2025)?
+Ans
+ A. Armand Duplantis
+B. Sam Kendricks
+C. Thiago Braz
+D. Renaud Lavillenie
+Q.89 At the 2025 Janusz Kusociński Memorial held in Poland, what rank did Neeraj Chopra
+achieve?
+Ans
+ A. First place
+B. Second place
+C. Third place
+D. Fourth place
+Q.90 Which SAI venue in Chennai was scheduled to host the Athletics selection trials on 1
+February 2025?
+Ans
+ A. Anna University
+B. Jawaharlal Nehru Stadium
+C. SDAT Nehru Park
+D. Velachery Grounds
+Q.91 Where is the Nomadic Elephant 2025 exercise held?
+Ans
+ A. Kathmandu
+B. Thimphu
+C. New Delhi
+D. Ulaanbaatar
+Q.92 What proportion of women’s participation in police recruitment has been mandated
+under the Uttar Pradesh government’s women empowerment policy, Mission Shakti 5.0,
+launched in September 2025?
+Ans
+ A. 25%
+B. 10%
+C. 15%
+D. 20%
+Q.93 Who was appointed as the youngest US Ryder Cup captain since 1963?
+Ans
+ A. Dustin Johnson
+B. Phil Mickelson
+C. Keegan Bradley
+D. Tiger Woods
+Q.94 What was the theme for World Environment Day (5 June 2025)?
+Ans
+ A. Save the Oceans
+B. Beat Plastic Pollution
+C. End Deforestation
+D. Clean Air Now
+Q.95 Published in May 2025, Pavan K Varma’s Echoes of Eternity explores themes from
+which of the following?
+Ans
+ A. Indian thought from Rigveda onward
+B. Indian economy
+C. Fictional mythology
+D. Political satire
+"
+Q.96 When did the Reserve Bank of India make its first repo rate cut since May 2020?
+Ans
+ A. December 2024
+B. February 2025
+C. June 2025
+D. April 2025
+Q.97 According to the Sustainable Development Goals – National Indicator Framework
+Progress Report, 2025, released by the Ministry of Statistics and Programme
+Implementation, what was the forest cover in India as a percentage of its total
+geographical area in 2023?
+Ans
+ A. 22.74%
+B. 21.76%
+C. 19.79%
+D. 23.56%
+Q.98 In the November 2025 bye-elections, which of the following political parties won the
+bye-election from Nagrota (Jammu & Kashmir)?
+Ans
+ A. Aam Aadmi Party (AAP)
+B. People's Democratic Party (PDP)
+C. Bharatiya Janata Party (BJP)
+D. Indian National Congress (INC)
+Q.99 Who became the fastest cricketer to reach 13,000 test runs as of June 2025?
+Ans
+ A. Virat Kohli
+B. Rohit Sharma
+C. Joe Root
+D. Jacques Kallis
+Q.100Which body emphasised safety audits for women in public spaces during a symposium
+in June 2025?
+Ans
+ A. National Commission for Women
+B. Supreme Court of India
+C. Ministry of Home Affairs
+D. National Human Rights Commission

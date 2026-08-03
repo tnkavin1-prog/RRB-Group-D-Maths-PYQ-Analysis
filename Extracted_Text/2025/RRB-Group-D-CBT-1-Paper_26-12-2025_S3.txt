@@ -1,0 +1,770 @@
+Q.1 100 J of heat is produced in an electrical geyser when 1 A current flows through it for 10
+secs. How much is the resistance of the geyser?
+Ans
+ A. 0.1 Ω
+B. 10 Ω
+C. 1 Ω
+D. 100 Ω
+Q.2 Which of the following practices would conserve the natural forest cover and different
+forest products?
+Ans
+ A. Deforestation
+B. Burning of forest
+C. Promoting afforestation
+D. Grazing in green forest
+Q.3 Which of the following refining methods is very important commercially?
+Ans
+ A. Ionic methods
+B. Chemical methods
+C. Electrochemical methods
+D. Physical methods
+Q.4 Which of the following processes represents the most specific purpose of meiotic cell
+division?
+Ans
+ A. Digestion
+B. Excretion
+C. Respiration
+D. Reproduction
+Q.5 For a body moving in a straight line, if the distance covered from point A to point B is 10
+km, then which of the following statements is true regarding the displacement of the
+body from point A to point B?
+Ans
+ A. The displacement must be greater than 10 km.
+B. The displacement is always zero.
+C. The displacement is always less than 10 km.
+D. The displacement is equal to 10 km.
+Test Date 26/12/2025
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 The correct IUPAC name of CH₃ COCH₃  is:
+Ans
+ A. propanone, a ketone with the carbonyl on the middle carbon
+B. propanal, with an aldehyde group on a three-carbon chain
+C. propene, an alkene with a double bond between two carbons
+D. propanoic acid, with a carboxylic acid at the terminal carbon
+Q.7 The strength of the magnetic field around a straight wire depends on:
+Ans
+ A. Resistance of the wire
+B. Voltage applied
+C. Current and distance from the wire
+D. Length of the wire only
+Q.8 Which enzyme is responsible for the breakdown of complex sugar molecules into
+simple glucose in human beings?
+Ans
+ A. Pepsin
+B. Lipase
+C. Bile Juice
+D. Amylase
+Q.9 Which of the following is the correct sequence of events of sexual reproduction?
+Ans
+ A. Embryo → Zygote → Fertilisation → Foetus
+B. Foetus → Embryo → Zygote → Fertilisation
+C. Zygote → Fertilisation → Embryo → Foetus
+D. Fertilisation → Zygote → Embryo → Foetus
+Q.10 A rainbow, which is a natural spectrum appearing in the sky after a rain shower, is
+primarily caused by which action of water droplets on sunlight?
+Ans
+ A. Only total internal reflection
+B. Internal reflection followed by scattering
+C. Light bending due to changes in air density
+D. Refraction and dispersion, followed by internal reflection, and then final refraction
+Q.11 Heating calcium carbonate produces calcium oxide and carbon dioxide. This is an
+example of which type of chemical reaction?
+Ans
+ A. Decomposition
+B. Double displacement
+C. Displacement
+D. Combination
+Q.12 Which type of molecule of an element is characterised by having only one type of
+atom?
+Ans
+ A. Diatomic
+B. Polyatomic
+C. Monoatomic
+D. Triatomic
+Q.13 Select the option that is true regarding the following two statements labelled Assertion
+(A) and Reason (R).
+Assertion (A): Precipitation reactions produce soluble salts.
+Reason (R): Precipitation reactions involve exchange of ions in solution.
+Ans
+ A. Both A and R are true, and R is the correct explanation of A.
+B. A is true, but R is false.
+C. Both A and R are true, and R is not the correct explanation of A.
+D. A is false, but R is true.
+Q.14 Which of the following is NOT correct?
+Ans
+ A. Pressure in a fluid depends on the shape of the container
+B. Pressure in a fluid acts in all directions
+C. Pressure = force/area
+D. Pressure in a fluid increases with depth
+Q.15 Which of the following organisms may help in pollination of a flower?
+Ans
+ A. Amoeba
+B. Honey bee
+C. Euglena
+D. Plasmodium
+Q.16 Which of the following suits the best for the order of budding in organisms?
+1. Bud Formation
+2. Cytoplasmic Division
+3. Nucleus Division
+4. Detachment of Bud
+Ans
+ A. 1 – 2 – 3 – 4
+B. 3 – 1 – 2 – 4
+C. 1 – 3 – 2 – 4
+D. 2 – 1 – 3 – 4
+Q.17 Which type of muscular tissue is present in the wall of the stomach?
+Ans
+ A. Cardiac muscle tissue
+B. Skeletal muscle tissue
+C. Smooth muscle tissue
+D. Fluid connective tissue
+Q.18 Which of the following performs the function of reflex action?
+Ans
+ A. Spinal cord
+B. Cranium
+C. Hypothalamus
+D. Pituitary gland
+Q.19 Which of the following shows the correct chain of events when a vibrating body
+produces sound?
+Ans
+ A. Vibration → Particles of medium vibrate → Sound wave propagates → Sound is heard
+B. Vibration → Electricity → Sound
+C. Sound → Vibration → Medium vibration → Ear detects
+D. Vibration → Light → Heat → Sound
+Q.20 Which statement accurately describes a key difference between mixtures and
+compounds regarding separation?
+Ans
+ A. They have a sharp melting and boiling point.
+B. They are always formed with an absorption of heat.
+C. Their components can be separated by physical methods.
+D. The identity of the original substances is lost.
+Q.21 Why does the Sun appear to rise earlier and set later than it actually does?
+Ans
+ A. Because the Sun moves faster near the horizon
+B. Due to the Earth’s rotation slowing down during sunrise and sunset
+C. Because of atmospheric refraction
+D. Due to the Moon’s gravitational influence on sunlight
+Q.22 Which of the following statements is correct about acceleration?
+Ans
+ A. Acceleration is positive when it is opposite to the direction of velocity.
+B. Acceleration is negative when it acts opposite to the direction of velocity.
+C. The SI unit of acceleration is m/s.
+D. Acceleration is always positive, regardless of direction.
+Q.23 Which of the following is a form of mechanical energy?
+Ans
+ A. Heat energy
+B. Sound energy
+C. Kinetic energy
+D. Chemical energy
+Q.24 In galvanisation process, which of the following metals is used to depositing the layer
+on iron?
+Ans
+ A. Zinc
+B. Iron
+C. Platinum
+D. Silver
+Q.25 Which of the following reactions is an example of a precipitation reaction?
+Ans
+ A. Zn + H₂ SO₄  → ZnSO₄  + H₂ ↑
+B. AgNO₃  + NaCl → AgCl↓ + NaNO₃ 
+C. NaOH + HCl → NaCl + H₂ O
+D. CaCO₃  → CaO + CO₂ ↑
+Q.26 A grocer marked his goods at 80% above their cost price and sold them at a discount of
+X%. If he gained 8% profit, then find the value of X.
+Ans
+ A. 40
+B. 37
+C. 38
+D. 41
+Section : Mathematics
+Q.27 If 20% of a number is added to 60, then the result is the same number. 70% of the same
+number is:
+Ans
+ A. 72.5
+B. 82.5
+C. 62.5
+D. 52.5
+Q.28 Find the simple interest (in ₹) on ₹2,000 at 7% per annum rate of interest for the period
+from 4 February 2023 to 18 April 2023.
+Ans
+ A. 28
+B. 29
+C. 27
+D. 26
+Q.29 A person buys a book for ₹300 and sells it for ₹335. What will be his gain percentage?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.30
+Ans
+ A. 7.3
+B. 5.5
+C. 12.7
+D. 3.8
+Q.31
+Ans
+ A. 24.09%
+B. 18.18%
+C. 9.09%
+D. 19.09%
+Q.32 A total profit of ₹27,600 is to be distributed amongst A, B and C such that A : B = 18 : 6
+and B : C = 7 : 12. The share (in ₹) of C in the profit is:
+Ans
+ A. 8,430
+B. 8,230
+C. 8,280
+D. 8,180
+Q.33 For 12 innings, a cricketer has an average of 52 runs. In the 13th inning, he scores 183
+runs. His average score increased by _____. (Round off the answer to the nearest whole
+number.)
+Ans
+ A. 16
+B. 7
+C. 10
+D. 18
+Q.34 A local cinema charges ₹150 per youth ticket and ₹250 per adult ticket. One evening, the
+theater sold a total of 200 tickets, collecting ₹38,000 in revenue. Find out how many
+youth tickets and how many adult tickets were sold?
+Ans
+ A. 100 youth tickets and 100 adult tickets
+B. 90 youth tickets and 110 adult tickets
+C. 120 youth tickets and 80 adult tickets
+D. 80 youth tickets and 120 adult tickets
+Q.35
+Ans
+ A. 28
+B. 30
+C. 33
+D. 31
+Q.36 In △ABC, BD ⟂ AC at D and ∠DBC = 33°. E is a point on BC such that ∠CAE = 70°. What
+is the measure of ∠AEB?
+Ans
+ A. 135°
+B. 132°
+C. 127°
+D. 131°
+Q.37 After allowing a discount of 54% on the marked price of an article, it is sold for ₹29,946.
+Find its marked price (in ₹).
+Ans
+ A. 65,322
+B. 65,144
+C. 65,100
+D. 64,998
+Q.38 Arun and Manish can do a piece of work in 15 days. Manish and Tarun can do the same
+work in 12 days and Tarun and Arun can do it in 10 days. Find the time taken by Arun
+alone to complete the same work.
+Ans
+ A. 18 days
+B. 22 days
+C. 25 days
+D. 24 days
+Q.39
+865
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.40
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.41 If x − y = 3 and xy = 18, what is x2 − y2?
+Ans
+ A. 22
+B. 25
+C. 27
+D. 20
+Q.42 If the cost of painting the whole surface area of a cubical structure, at the rate of 23
+paise per cm2, is ₹1,006.02, then find the volume of the cubical structure (in cm3).
+Ans
+ A. 19,691
+B. 19,683
+C. 19,676
+D. 19,688
+Q.43 Two trains are running in opposite directions at the same speed. If the length of each
+train is 968 m and they cross each other in 22 seconds, then what is the speed of each
+train?
+Ans
+ A. 48 m/s
+B. 44 m/s
+C. 38 m/s
+D. 35 m/s
+Q.44 A point lies on the ground such that its distance from the top of a building is twice its
+distance from the bottom, which is 15 units. Find the height (in units) of the building.
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.45 Which of the following numbers is divisible by 3?
+Ans
+ A. 245
+B. 123
+C. 557
+D. 781
+Q.46
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.47 A teacher is currently four times as old as one of her students. Five years ago, she was
+seven times as old as the same student was at that time. What is the teacher’s current
+age (in years)?
+Ans
+ A. 35
+B. 45
+C. 40
+D. 50
+Q.48 The arithmetic mean of the observations 42, 29, 42, 58, 18, 39, 41, 79 and 93 is:
+Ans
+ A. 58
+B. 46
+C. 49
+D. 47
+Q.49 P and Q together can fill a cistern with water in 12 hours. If P alone can fill the cistern
+with water in 30 hours, then in how many hours will Q alone fill one-fourth of the same
+cistern with water?
+Ans
+ A. 10
+B. 6
+C. 11
+D. 5
+Q.50 The price of fuel decreases by 30%, 25% and 45% in three successive months, but
+increases by 45% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price? (Round off the
+answer to two decimal places.)
+Ans
+ A. Decreases by 57.65%
+B. Increases by 64.88%
+C. Decreases by 58.13%
+D. Increases by 59.54%
+Q.51 In a certain code language, ‘will you go’ is coded as ‘rt sj mn’ and ‘ will kill you’ is coded
+as ‘sj rt pr’. How is ‘kill' coded in the given language?4157
+Ans
+ A. rt
+B. sj
+C. pr
+D. mn
+Q.52 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only.
+(Left) 3 3 > + / \ ^ # + @ 7 9 3 6 $ \ + 9 > 6 & (Right)
+How many such symbols are there, each of which is immediately preceded by a number
+and also immediately followed by a number?
+Ans
+ A. None
+B. Two
+C. Three
+D. One
+Q.53 ACEH is related to GIKN in a certain way based on the English alphabetical order. In the
+same way, KMOR is related to QSUX. To which of the given options is JLNQ related,
+following the same logic?
+Ans
+ A. PSSB
+B. PQSW
+C. PRTW
+D. PRSW
+Section : General Intelligence and Reasoning
+Q.54 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+HNF LSJ PXN TCR ?
+Ans
+ A. WHU
+B. YGW
+C. XHV
+D. WIV
+Q.55 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. OQ−MO
+B. DF−BD
+C. UW−SU
+D. IK−FK
+Q.56 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+41 C 9 B 12 A 4 D 10 = ?
+Ans
+ A. 54
+B. 50
+C. 58
+D. 64
+Q.57 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+FEA 40 EDZ 32 DCY 24 CBX 16 ?
+Ans
+ A. BEI 7
+B. BBV 8
+C. BZV 7
+D. BAW 8
+Q.58 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some bins are tins.
+All tins are pins.
+Conclusions:
+(I): Some bins are pins.
+(II): All pins are tins.
+Ans
+ A. Only conclusion (II) follows
+B. Only conclusion (I) follows
+C. Both conclusions (I) and (II) follow
+D. Neither conclusion (I) nor (II) follows
+Q.59 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some silver are gold.
+Some silver are cash.
+Some gold are fortune.
+Conclusions:
+(I): Some silver are fortune.
+(II): Some gold are cash.
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Only conclusion (II) follows
+C. Only conclusion (I) follows
+D. Both conclusions (I) and (II) follow
+Q.60 If 1 is added to each odd digit and 1 is subtracted from each even digit in the number
+632517, what will be the sum of the greatest and smallest digits in the new number thus
+formed?
+Ans
+ A. 8
+B. 10
+C. 7
+D. 9
+Q.61 In a row of all 91 students facing north, Mr. Akte is 33rd from the left end. If Mr. Memi is
+22nd to the right of Mr. Akte, what is Mr. Memi's position from the right end of the row?
+Ans
+ A. 36th
+B. 37th
+C. 35th
+D. 38th
+Q.62 Refer to the given series and answer the question that follows. (All numbers are single
+digit numbers only.) Counting to be done from left to right only.
+(Left) 5 5 1 7 4 4 7 5 9 5 5 3 2 2 2 7 1 1 3 9 3 5 2 8 5 1 9 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 12
+B. 13
+C. 14
+D. 11
+Q.63 Seven people, P, Q, R, S, T, U and V, are sitting in a row, facing north. Q is seated third
+from the right end. V is third to the left of S. T is seated to the right of Q and at one of
+the ends. Only two people are seated between U and T. P does not sit at any of the
+extreme ends.
+Who is seated second from the right end?
+Ans
+ A. U
+B. Q
+C. V
+D. S
+Q.64 What should come in place of the question mark (?) in the given series?
+3 ? 18 38 78 158
+Ans
+ A. 5
+B. 8
+C. 6
+D. 10
+Q.65    Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. HE−GD
+B. XU−WT
+C. AX−YY
+D. KH−JG
+Q.66 In a row of people all facing north, Jimmy is 19th from the left end. Shlok is 23rd from
+the left end and Shlok is exactly between Jimmy and Ray. If Ray is 9th from the right end
+of the row, how many people are there in the row?
+Ans
+ A. 31
+B. 35
+C. 33
+D. 34
+Q.67 Five people, A, B, C, D and E, are sitting in a row, facing north. Only two people sit
+between A and B. Only B sits between D and E. E sits second to the left of A. Who sits at
+the extreme left end of the row?
+Ans
+ A. E
+B. D
+C. B
+D. C
+Q.68 This question is based on the five, three-digit numbers given below.
+(Left) 192 574 563 189 567 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE: All operations to be done from left to right.)
+What will be the resultant if the third digit of the highest number is added to the second
+digit of the lowest number?
+Ans
+ A. 12
+B. 15
+C. 13
+D. 11
+Q.69 What should come in place of the question mark (?) in the given series?
+16 40 64 88 112 ?
+Ans
+ A. 134
+B. 135
+C. 133
+D. 136
+Q.70 Pramod starts from Point A and drives 43 km towards the north. He then takes a left
+turn, drives 45 km, turns left and drives 56 km. He then takes a left turn and drives 64
+km. He takes a final left turn, drives 13 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only unless specified.)
+Ans
+ A. 20 km to the east
+B. 22 km to the east
+C. 17 km to the west
+D. 19 km to the west
+Q.71 Tufail walks 100 m towards the north. From there, he turns right and walks 220 m.
+Again, he turns right and walks 121 m. In which direction is he with reference to his
+starting point?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. Southeast
+B. Northwest
+C. Southwest
+D. Northeast
+Q.72 ESQZ is related to JXVT in a certain way based on the English alphabetical order. In the
+same way, MGHM is related to RLMG. To which of the given options is LKJN related,
+following the same logic?
+Ans
+ A. QPOH
+B. OPQH
+C. OQOI
+D. QQQI
+Q.73 In a certain code language,
+‘A + B’ means ‘A is the mother of B’,
+‘A – B’ means ‘A is the brother of B’,
+‘A × B’ means ‘A is the wife of B’,
+‘A % B’ means ‘A is the father of B’ and
+‘A # B’ means ‘A is the daughter of B’.
+How is T related to P if ‘T # Q % C % N # P’?
+Ans
+ A. Brother’s wife
+B. Husband’s sister
+C. Father’s sister
+D. Husband’s father
+Q.74 IGFG is related to ECBC in a certain way based on the English alphabetical order. In the
+same way, TRQR is related to PNMN. To which of the given options is FDCD related,
+following the same logic?
+Ans
+ A. BYXZ
+B. BZYZ
+C. BZXZ
+D. BAXG
+Q.75 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only).
+(Left) 7 3 1 4 9 2 6 5 8 3 7 1 9 4 2 5 6 8 7 3 9 4 (Right)
+How many unique numbers in the series are greater than 7 (each number counted only
+once, regardless of repetitions)?
+Ans
+ A. Three
+B. One
+C. Two
+D. None
+Q.76 Six neighbours — Amrita, Maria, Ruhi, Sunita, Ishaan and Vaibhav — are sitting around
+a circular table, facing the centre. Amrita is sitting second to the left of Maria. Ruhi is an
+immediate neighbour of both Maria and Sunita. Ishaan is sitting second to the right of
+Vaibhav.
+Who is sitting between Amrita and Maria, when counted from the right of Amrita?
+Ans
+ A. Sunita
+B. Ruhi
+C. Ishaan
+D. Vaibhav
+Q.77 What should come in place of the question mark (?) in the given series?
+6 9 14 23 40 ?
+Ans
+ A. 85
+B. 81
+C. 73
+D. 79
+Q.78 In a certain code language, YISB is coded as 110 and PKJQ is coded as 108. What is the
+code for CNXR in that language?
+Ans
+ A. 120
+B. 113
+C. 118
+D. 111
+Q.79 What will come in the place of the question mark (?) in the following equation, if ‘+’ and
+‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+12 ÷ 5 + 22 × 2 − 6 = ? + 5 3133
+Ans
+ A. 60
+B. 55
+C. 45
+D. 65
+Q.80 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding /
+subtracting / multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and
+then performing mathematical operations on 1 and 3 is not allowed.)
+(86, 154, 120)
+(98, 172, 135)
+Ans
+ A. (156, 240, 298)
+B. (104, 156, 130)
+C. (116, 158, 139)
+D. (168, 270, 229)
+Q.81 Under the Pradhan Mantri Jan Dhan Yojana (PMJDY), what key activity did the Reserve
+Bank of India mandate during July–September 2025?
+Ans
+ A. Account closures
+B. Loan disbursements
+C. Fee hikes
+D. Re‑ KYC of accounts
+Section : General Awareness and Current Affairs
+Q.82 Which massive sports talent hunt, launched by Bihar CM Nitish Kumar in May 2025,
+involves participation from students of secondary and higher secondary schools?
+Ans
+ A. Lakshya
+B. Yuva Shakti
+C. Mashal
+D. Khel Jyoti
+Q.83 Which date has been declared as ‘National Space Day’ in India?
+Ans
+ A. 23 August
+B. 28 February
+C. 20 July
+D. 11 May
+Q.84 Which of the following international organisations approved a programme to support
+women’s employment in Tamil Nadu in 2025?
+Ans
+ A. World Bank
+B. United Nations
+C. Asian Development Bank
+D. International Monetary Fund
+Q.85 In September 2025, heavy rains caused flash floods and landslides in the Nandanagar
+block of which district, forcing a massive NDRF/SDRF operation?
+Ans
+ A. Chamoli
+B. Rudraprayag
+C. Almora
+D. Pithoragarh
+Q.86 Chhannulal Mishra, who passed away in October 2025, was noted for his contributions
+to which of the following fields?
+Ans
+ A. Sanskrit and Vedic studies
+B. Folk music traditions
+C. Kathak dance
+D. Hindustani classical music
+Q.87 Who became the first male field athlete to win the Laureus World Sportsman of the Year
+award in April 2025?
+Ans
+ A. Jakob Ingebrigtsen
+B. Neeraj Chopra
+C. Armand Duplantis
+D. Max Verstappen
+Q.88 The Greenhouse Gas Emission Intensity (GEI) Target Rules, 2025, notified in October
+2025 apply to which of the following industrial sectors?
+Ans
+ A. Cement, aluminium, chlor-alkali, pulp & paper
+B. Iron & steel, aluminium, coal, cement
+C. Steel, cement, aluminium, textiles
+D. Coal, power generation, cement, chemicals
+Q.89 In 2025, under which scheme did Odisha CM Mohan Charan Majhi distribute ₹5,000
+crore to around one crore women?
+Ans
+ A. Lakhpati Didi
+B. Mission Shakti
+C. Odisha Women Upliftment Programme
+D. Subhadra Yojana
+Q.90 At the 25th IIFA Awards held in March 2025, which film won the Best Picture award?
+Ans
+ A. Article 370
+B. Laapataa Ladies
+C. Bhool Bhulaiyaa 3
+D. Stree 2
+Q.91 India has improved its Sustainable Development Goals (SDG) ranking by how many
+places in the 2025 edition of the Sustainable Development Report in comparison with
+2024?
+Ans
+ A. 19
+B. 6
+C. 10
+D. 14
+Q.92 Who won the most Grand Prix races from January to June 2025?
+Ans
+ A. Lando Norris
+B. Max Verstappen
+C. Oscar Piastri
+D. Lewis Hamilton
+Q.93 Which of the following organisations has successfully developed a new generation of
+man-portable autonomous underwater vehicles (MP-AUVs) for underwater mine
+detection missions, as per the Ministry of Defence announcement in November 2025?
+Ans
+ A. Defence Research and Development Organisation (DRDO)
+B. Indian Space Research Organisation (ISRO)
+C. Bharat Electronics Limited (BEL)
+D. Hindustan Aeronautics Limited (HAL)
+Q.94 As per Union Budget 2025-26, how much borrowing is planned via gross market
+borrowings in FY2025–26?
+Ans
+ A. ₹12.95 lakh crore
+B. ₹14.82 lakh crore
+C. ₹13 lakh crore
+D. ₹16 lakh crore
+Q.95 Which missile was showcased and debuted during Republic Day, 2025?
+Ans
+ A. Agni-V
+B. BrahMos NG
+C. Pralay
+D. Nirbhay
+Q.96 Where was the 2024 Abu Dhabi Grand Prix held in December 2024?
+Ans
+ A. Yas Marina Circuit on Yas Island
+B. Suzuka International Racing Course
+C. Circuit de Monaco
+D. Silverstone Circuit
+"
+Q.97 In the November 2025 bye-elections, which of the following political parties won the by-
+election from Budgam (Jammu & Kashmir)?
+Ans
+ A. Bharatiya Janata Party
+B. Aam Aadmi Party
+C. Jammu & Kashmir Peoples Democratic Party
+D. Indian National Congress
+Q.98 Who won Player of the Match in IPL 2025 final for RCB?
+Ans
+ A. Krunal Pandya
+B. Prasidh Krishna
+C. Virat Kohli
+D. Rajat Patidar
+Q.99 Who among the following Indian scientists was awarded the COSPAR Harrie Massey
+Award in 2024?
+Ans
+ A. K Radhakrishnan
+B. G Madhavan Nair
+C. Prahlad Chandra Agrawal
+D. Udupi Ramachandra Rao
+Q.100Who among the following is the Secretary-General of the United Nations as of 9
+November 2025?
+Ans
+ A. Michelle Bachelet
+B. Kofi Annan
+C. Ban Ki-moon
+D. António Guterres

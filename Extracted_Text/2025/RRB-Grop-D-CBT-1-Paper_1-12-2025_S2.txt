@@ -1,0 +1,768 @@
+Q.1 The band of seven colours obtained on a screen due to dispersion is called _________.
+Ans
+ A. Spectrum
+B. Reflection pattern
+C. Shadow
+D. Image
+Q.2 When a hydrocarbon is burnt in excess of air, the final product is always:
+Ans
+ A. carbon dioxide and water
+B. carbon dioxide and hydrogen
+C. carbon monoxide and water
+D. carbon monoxide and hydrogen
+Q.3 Which of the following is responsible for the dispersion of white light through a glass
+prism?
+Ans
+ A. White light contains only one colour.
+B. Different colours of light travel at different speeds in glass.
+C. The prism absorbs some colours.
+D. Different colours of light travel at the same speed in glass.
+Q.4 A swimmer pushes water backwards. The reaction force that propels the swimmer
+forward is:
+Ans
+ A. Water pushes the swimmer forward
+B. Water pushes the swimmer backward
+C. Gravity pushes the swimmer forward
+D. Air pushes the swimmer
+Q.5 Which of the following statements is correct for the mass and weight of an object?
+Ans
+ A. Mass is constant and Weight is variable
+B. Both Mass and Weight are constant
+C. Mass is variable and Weight is constant
+D. Both Mass and Weight are variable
+Test Date 01/12/2025
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 When the velocity of a body is increased to twice its original value, its kinetic energy
+becomes _________.
+Ans
+ A. twice the original value
+B. the same as before
+C. half the original value
+D. four times the original value
+Q.7 Neutralisation reaction is best described as __________.
+Ans
+ A. Acid + Base → Salt + Water
+B. Acid + Salt → Water
+C. Base + Oxide → Salt + Water
+D. Acid + Metal → Salt + Hydrogen
+Q.8 Why is variation primarily important in a population of organisms?
+Ans
+ A. It helps organisms reproduce faster
+B. It always gives instant result within the same generation.
+C. It increases the chance of survival under changing environmental conditions
+D. It ensures that all individuals are identical
+Q.9 Nucleons are subatomic particles found inside the atom. They consist of:
+Ans
+ A. protons and neutrons
+B. electrons
+C. only neutrons
+D. only protons
+Q.10 Which of the following statements defines Formula Unit?
+Ans
+ A. Mass of one molecule
+B. Mass of one mole of a compound
+C. Mass of an atom
+D. Sum of atomic masses of all atoms in the formula unit of an ionic compound
+Q.11 What is the exact location of the kidneys in human beings?
+Ans
+ A. In the abdomen, on either side of the intestine
+B. In the chest region, on either side of the lungs
+C. In the chest region, just below the heart
+D. In the abdomen, on either side of the back bone
+Q.12 Which of the following is an example of growing two or more crops simultaneously on
+the same land field in a definite pattern?
+Ans
+ A. Monocropping
+B. Inter-cropping
+C. Hydroponics
+D. Aeroponics
+Q.13 What is used as the anode during electrolytic refining?
+Ans
+ A. A rod of graphite
+B. A strip of pure metal to be refined
+C. A strip of impure metal to be refined
+D. An inert electrode
+Q.14 Due to presence of which particle, does Rough Endoplasmic Reticulum (RER) look
+rough under a microscope?
+Ans
+ A. Centrosome
+B. Peroxisome
+C. Ribosome
+D. Lysosome
+Q.15 A solution is said to be stable when:
+Ans
+ A. the solute particle forms a separate layer with solvent particles
+B. the solute particles settle down when left undisturbed
+C. the solute particles float on the surface of solution when left undisturbed
+D. the solute particles do not settle down when left undisturbed
+Q.16 The removal of which of the following weeds from agricultural land will be beneficial for
+farmers?
+Ans
+ A. Parthenium
+B. Soybean
+C. Wheat
+D. Sunflower
+Q.17 Fleming’s Left-Hand Rule is used to determine the direction of motion in an electric
+motor. Which finger represents the direction of the force or motion?
+Ans
+ A. Little finger
+B. Middle finger
+C. Thumb
+D. Index finger
+Q.18 Compared to a soft sound, a louder sound wave of the same frequency is characterised
+by __________.
+Ans
+ A. Smaller speed
+B. Higher pitch
+C. Smaller wavelength
+D. Larger amplitude
+Q.19 Roots of which of the following plants can give rise to new plants?
+Ans
+ A. Maize
+B. Gram
+C. Potato
+D. Sweet potato
+Q.20 A person is standing in a bus that suddenly stops. The person tends to fall forward.
+Which of the following laws of motion is directly responsible for this phenomenon?
+Ans
+ A. Newton's First Law of Motion.
+B. The Law of Conservation of Momentum.
+C. Newton's Second Law of Motion.
+D. Newton's Third Law of Motion.
+Q.21 Which of the following is in accordance with Law of constant proportions?
+a. In water, the ratio of the mass of hydrogen to the mass of oxygen is always 1 : 8.
+b. The ration of carbon and oxygen in carbon dioxide is always 3 : 8 by mass.
+c. In ammonia, nitrogen and hydrogen are always present in the ratio 14 : 1 by mass.
+Ans
+ A. Only a
+B. a, b and c
+C. Only a and b
+D. Only b and c
+Q.22 Which of the following is a part of the human male reproductive system?
+Ans
+ A. Fallopian tube
+B. Vagina
+C. Uterus
+D. Prostate gland
+Q.23 Which of the following is NOT a part of the structural organisation of a cell?
+Ans
+ A. Heart
+B. Mitochondria
+C. Cytoplasm
+D. Cell wall
+Q.24 An electric heater of resistance 20 Ω operates for 10 minutes when connected to a 220
+V supply. The heat produced is:
+Ans
+ A. 1.45 × 10⁵ J
+B. 1.45 × 10⁶ J
+C. 2.9 × 10⁴ J
+D. 2.9 × 10⁵ J
+Q.25 Consider the unbalanced reaction:
+___C2H6 + ___O2 → ___CO2 + ___H2O
+Which of the following is the correct set of coefficients to balance this equation?
+Ans
+ A. 1, 3, 2, 3
+B. 2, 5, 4, 6
+C. 1, 5, 3, 4
+D. 2, 7, 4, 6
+Q.26 If a 1533 m long train crosses a pole in 73 seconds, then find the time (in seconds)
+taken by the train to cross a 420 m long platform.
+Ans
+ A. 84
+B. 93
+C. 86
+D. 96
+Q.27 A, B and C can do a piece of work in 3, 2 and 6 days, respectively. How long (in days)
+will they take to do thrice the same work, working together?2513
+Ans
+ A. 3
+B. 4
+C. 9
+D. 6
+Section : Mathematics
+Q.28
+Ans
+ A. 56 cm
+B. 58 cm
+C. 52 cm
+D. 54 cm
+Q.29
+Ans
+ A. 4
+B. -1
+C. -4
+D. 1
+Q.30
+Ans
+ A. 330
+B. 360
+C. 270
+D. 134
+Q.31
+Ans
+ A. 3
+B. 2
+C. 0
+D. 1
+Q.32 The cost price of an article is ₹10,720. It was sold for ₹9,862.40. Find the loss
+percentage.
+Ans
+ A. 10%
+B. 6%
+C. 5%
+D. 8%
+Q.33 If mode of data 8, 7, 8, 7, 9, 10, 2, 8, 9, 7, 5, 10 and x is 7, then the value of x is:
+Ans
+ A. 7
+B. 5
+C. 9
+D. 8
+Q.34 Pushpraj and Himani together invested ₹17,800 in a business. At the end of the year,
+out of a total profit of ₹5,600, Pushpraj's share was ₹2,100. What was the investment of
+Pushpraj?
+Ans
+ A. ₹6,090
+B. ₹4,720
+C. ₹7,690
+D. ₹6,675
+Q.35 The amount on a sum of ₹7,700 at 10% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹10,109
+B. ₹9,317
+C. ₹8,936
+D. ₹9,494
+Q.36 In a bag containing red, green and pink tokens, the ratio of red to green tokens was 14 :
+8 while the ratio of pink to red tokens was 2 : 6. What was the ratio of green to pink
+tokens?5288
+Ans
+ A. 7 : 12
+B. 12 : 7
+C. 11 : 14
+D. 9 : 11
+Q.37 A 24-metre-long wire is broken into three pieces. The largest piece has length thrice the
+length of the smallest piece. The difference between lengths of two larger pieces is
+equal to the difference between the lengths of two smaller pieces. The length of the
+largest piece is ____ metres.
+Ans
+ A. 12
+B. 10
+C. 15
+D. 18
+Q.38 A woman travelled at a speed of 20 m/min for 80 min, and at a speed of 55 m/min for 60
+min. Her average speed (in m/min) is:
+Ans
+ A. 39
+B. 35
+C. 28
+D. 41
+Q.39 A solid metallic sphere of radius 10.5 cm is melted and recast into smaller spherical
+balls, each of radius 3.5 cm. Find the ratio of the total surface area of all the smaller
+spheres to the surface area of the original sphere.
+Ans
+ A. 6 : 1
+B. 12 : 1
+C. 9 : 1
+D. 3 : 1
+Q.40 The sides of a triangle are 75 cm, 34 cm and 61 cm. What is the length of its altitude
+corresponding to the side with the length of 34 cm?
+Ans
+ A. 60 cm
+B. 63 cm
+C. 20 cm
+D. 68 cm
+Q.41
+3200
+Ans
+ A. 58 m
+B. 56 m
+C. 57 m
+D. 59 m
+Q.42 A credit card payment that will settle a bill for 250 mixers at ₹1,014 per mixer with
+successive discounts of 30% and 15%, with a further discount of 20% on card payment,
+is:
+Ans
+ A. ₹1,20,664
+B. ₹1,20,666
+C. ₹1,20,696
+D. ₹1,20,678
+Q.43 The average age of 35 students of a class is 13 years. If the age of the teacher is also
+included, the average age of the whole group becomes 14 years. The age (in years) of
+the teacher is:
+Ans
+ A. 53
+B. 49
+C. 51
+D. 47
+Q.44 If 20% of a number is added to 72, then the result is the same number. 80% of the same
+number is:343
+Ans
+ A. 102
+B. 92
+C. 82
+D. 72
+Q.45 If an item marked at ₹4,000 is sold for ₹280, then what is the discount percentage?
+Ans
+ A. 93%
+B. 91%
+C. 95%
+D. 94%
+Q.46 The income of Raman is ₹12,000. He saves 27% of his income. If his income increases
+by 20% and expenditure increases by 15%, then his savings will:4747
+Ans
+ A. decrease by ₹1,089
+B. decrease by ₹1,085
+C. increase by ₹1,088
+D. increase by ₹1,086
+Q.47 Find the total prime numbers between 146 and 196.
+Ans
+ A. 13
+B. 10
+C. 11
+D. 12
+Q.48
+Ans
+ A. 50%
+B. 70%
+C. 35%
+D. 45%
+Q.49
+Ans
+ A. 54.5
+B. 49.2
+C. 46.3
+D. 51.6
+Q.50 In a family consisting of a father, mother, son, and daughter, the age difference between
+the son and the daughter is 3 years, which is the same as the age difference between
+the father and the mother. The total age of the family is 144 years. The father is the
+eldest and the son is the youngest. The son's age is half the age of the mother. What is
+the age (in years) of the daughter?
+Ans
+ A. 22
+B. 20
+C. 26
+D. 23
+Q.51 Refer to the following number series and answer the question that follows. Counting to
+be done from left to right only. (All numbers are single-digit numbers only.)
+(Left) 2 3 8 1 7 9 1 7 7 5 5 3 7 8 6 9 6 9 2 5 1 9 1 (Right)
+How many such even digits are there, each of which is immediately preceded by an
+even digit and also immediately followed by an odd digit?
+Ans
+ A. Four
+B. Three
+C. One
+D. Two
+Q.52 LW 3 is related to QV −10 in a certain way. In the same way, JU 6 is related to OT −7. To
+which of the following is PU 4 related, following the same logic?
+Ans
+ A. HU −4
+B. KO −5
+C. YT −2
+D. UT −9
+Q.53 M, N, O, P, W, X and Y are sitting around a circular table facing the centre of the table.
+Only two people sit between X and W when counted from the right of X. Only two
+people sit between W and M when counted from the right of W. Only three people sit
+between X and N when counted from the right of X. P sits to the immediate left of Y.
+Who sits third to the left of O?
+Ans
+ A. P
+B. X
+C. Y
+D. M
+Q.54 Which letter cluster will replace the question mark (?) to complete the given series?
+ECO HFN KIM ? QOK
+Ans
+ A. MNJ
+B. LPO
+C. NLL
+D. KLI
+Section : General Intelligence and Reasoning
+Q.55 A, B, C, D, W, X and Y are sitting in a straight line facing north. No one sits to the left of
+D. Only four people sit between D and C. Only three people sit to the right of Y. X sits to
+the immediate left of A. W is not an immediate neighbour of Y. Who sits third to the left
+of W?
+Ans
+ A. X
+B. A
+C. C
+D. Y
+Q.56 What should come in place of the question mark (?) in the given series?
+15 17 21 23 27 ?
+Ans
+ A. 29
+B. 30
+C. 33
+D. 31
+Q.57 Each of the digits in the number 3241586 is arranged in the ascending order from left to
+right. The position(s) of how many digits will remain unchanged as compared to that in
+the original number?
+Ans
+ A. One
+B. Two
+C. Three
+D. None
+Q.58 In a certain code language,
+‘A ? B’ means ‘A is the daughter of B’
+‘A = B’ means ‘A is the son of B’
+‘A @ B’ means ‘A is the father of B’
+‘A √ B’ means ‘A is the sister of B’
+Based on the above, how is C related to L if 'C = D √ E ? F @ L'?
+Ans
+ A. Sister's son
+B. Mother's brother
+C. Brother's son
+D. Son
+Q.59 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+GRK 45, KMG 54, OHC 63, SCY 72, ?
+Ans
+ A. WXU 81
+B. XWV 81
+C. VYU 83
+D. VXT 83
+Q.60 In the following triads, each group of letters is related to the subsequent one following
+a certain logic. Select from the given options, the one which follows the same logic.
+JOBS - JSBO - SBOJ
+OILY - OYLI - YLIO
+Ans
+ A. GAVE - AGVE - EAVG
+B. EARN - ENRA - NRAE
+C. IDEA - IDAE - DEAI
+D. KIDS - KDIS - SDIK
+Q.61 Refer to the following number, symbol series and answer the question. Counting to be
+done from left to right only. All numbers are single-digit numbers.
+(Left) 5 $ 5 7 $ $ @ & * € 3 # 8 # $ 5 © 7 £ 4 & * (Right)
+How many such numbers are there each of which is immediately preceded by a number
+and also immediately followed by a symbol?
+Ans
+ A. Three
+B. Two
+C. Zero
+D. One
+Q.62 Shubham starts from Point A and drives 10 km towards West. He then takes a right
+turn, drives 8 km, turns right and drives 14 km. He then takes a right turn and drives 12
+km. He takes a final right turn, drives 4 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90 degrees turns only unless specified)
+Ans
+ A. 5 km to the North
+B. 4 km to the North
+C. 5 km to the South
+D. 4 km to the South
+Q.63 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some shade are roof.
+All ceiling are roof.
+Conclusions:
+(I): Some shade are ceiling.
+(II): All roof are ceiling.
+Ans
+ A. Only conclusion (II) follows.
+B. Only conclusion (I) follows.
+C. Neither conclusion (I) nor (II) follows.
+D. Both conclusions (I) and (II) follow.
+Q.64 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 1 2 4 5 7 2 9 6 7 3 4 1 6 6 9 8 4 7 6 1 7 3 4 9 7 (Right)
+How many such numbers are there, each of which is immediately preceded by a perfect
+square and also immediately followed by an odd number?
+(Note: 1 is also a perfect square)?
+Ans
+ A. One
+B. Four
+C. Three
+D. Two
+Q.65 Rashmi starts from Point A and drives 5 km towards west. She then takes a right turn,
+drives 4 km, turns right and drives 3 km. She then takes a left turn and drives 4 km. She
+takes a final right turn, drives 2 km and stops at Point P. How far (shortest distance) and
+towards which direction should she drive in order to reach Point A again? (All turns are
+90 degrees turns only unless specified)
+Ans
+ A. 4 km towards north
+B. 6 km towards east
+C. 8 km towards west
+D. 8 km towards south
+Q.66 ZWRM is related to WRUR in a certain way based on the English alphabetical order. In
+the same way, NCDG is related to KXGL. To which of the following options is ENMV
+related, following the same logic?10114
+Ans
+ A. BAPL
+B. BIPA
+C. BPLO
+D. BIAP
+Q.67 In a certain code language, ‘nice large land’ is coded as ‘cd ak pi’, ‘land is fertile’ is
+coded as ‘rf pc ak’, and ‘cost is high’ is coded as ‘si ig pc’. How is ‘fertile’ coded in the
+given language?
+Ans
+ A. pc
+B. ak
+C. cd
+D. rf
+Q.68 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some pillows are mats.
+Some mats are cushions.
+Conclusions:
+(I): Some pillows are cushions.
+(II): All cushions are mats.
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Both conclusions (I) and (II) follow
+C. Only conclusion (II) follows
+D. Only conclusion (I) follows
+Q.69 Refer to the following series and answer the question (all numbers are single digit
+numbers only). Counting to be done from left to right only.
+(Left) 2 8 1 7 3 6 6 6 1 5 5 3 4 1 5 5 3 9 7 7 7 (Right)
+How many such even digits are there each of which is immediately preceded by an
+even digit and also immediately followed by an odd digit?4106
+Ans
+ A. 1
+B. 4
+C. 3
+D. 2
+Q.70 What should come in place of the question mark (?) in the given series?
+1211 1212 1215 1210 1219 1208 ? 1206 1227
+Ans
+ A. 1223
+B. 1220
+C. 1225
+D. 1227
+Q.71 What should come in place of the question mark (?) in the given series?
+256 211 166 121 76 ?
+Ans
+ A. 31
+B. 32
+C. 27
+D. 33
+Q.72 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(39, 117, 13)
+(48, 99, 1)
+Ans
+ A. (8, 42, 10)
+B. (35, 138, 24)
+C. (27, 117, 21)
+D. (19, 106, 24)
+Q.73 Sumedha ranked 9th from the top and 23rd from the bottom in his class. How many
+students are there in the class?
+Ans
+ A. 35
+B. 31
+C. 27
+D. 37
+Q.74 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+104 − 176 × 16 ÷ 9 + 192 = ?
+Ans
+ A. 11
+B. 14
+C. 12
+D. 18
+Q.75 Tanay ranked 24th from the top and 56th from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 77
+B. 78
+C. 79
+D. 80
+Q.76 In a certain code language, ‘AUTO’ is coded as ‘2683’ and ‘TOUR’ is coded as ‘8136’.
+What is the code for ‘R’ in the given code language?2227
+Ans
+ A. 8
+B. 3
+C. 6
+D. 1
+Q.77 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+409 ÷ 2 + 416 × 8 − 76 = ?
+Ans
+ A. 843
+B. 842
+C. 844
+D. 841
+Q.78 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. IO – ND
+B. KQ – QE
+C. RX – WM
+D. YE – DT
+Q.79 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. XYA
+B. FHI
+C. MNP
+D. EFH
+Q.80 A, B, C, D, E, F and G are sitting around a circular table facing the centre.
+B sits to the immediate right of C. Only three people sit between B and A when counted
+from the left of B. Only three people sit between C and D when counted from the left of
+C. G sits to the immediate right of F. How many people sit between A and C when
+counted from the right of C?
+Ans
+ A. 2
+B. 1
+C. 3
+D. 4
+Q.81 Who was Madison Keys' opponent in the final when she won her first Grand Slam title
+at the Australian Open 2025?
+Ans
+ A. Aryna Sabalenka
+B. Coco Gauff
+C. Elena Rybakina
+D. Iga Świątek
+Q.82 The Supreme Court (Amendment) Rules, 2025 include changes to Order II, Rules 1 to 3
+of the Supreme Court Rules, passed in the year _____.
+Ans
+ A. 1983
+B. 2013
+C. 2003
+D. 1993
+Q.83 Which two countries signed a treaty in late May 2025, transferring sovereignty over the
+Chagos Archipelago?
+Ans
+ A. US and Mauritius
+B. UK and India
+C. UK and Mauritius
+D. Mauritius and India
+Section : General Awareness and Current Affairs
+Q.84 Which para-swimmer received the Arjuna Award (Lifetime) in 2025?
+Ans
+ A. Sharath Gayakwad
+B. Murlikant Petkar
+C. Prasanta Karmakar
+D. Suyash Jadhav
+Q.85 In February 2025, who won the men’s title at the 2025 Asian Snooker Championship
+held in Doha, Qatar?
+Ans
+ A. Pankaj Advani
+B. Narantuya Bayarsaikhan
+C. Chang Yu Kiu
+D. Amir Sarkosh
+Q.86 The Chagos Archipelago Sovereignty Agreement was signed between which of the
+following two countries in May 2025?
+Ans
+ A. United Kingdom and Mauritius
+B. United Kingdom and India
+C. United Kingdom and United States
+D. United Kingdom and Australia
+Q.87 The Union Minister of Communications, Mr. Jyotiraditya Scindia, during his keynote at
+the World Wi-Fi Day Conference in June 2025, projected Wi-Fi to become a ₹1,83,000
+crores (US$ 21.2 billion) sector in India by ______.
+Ans
+ A. 2045
+B. 2035
+C. 2030
+D. 2040
+Q.88 In March 2025, according to the Ministry of Earth Sciences, how many earthquakes
+were recorded in India during November 2024 to February 2025?
+Ans
+ A. 136
+B. 159
+C. 213
+D. 197
+Q.89 Which athlete won the Arjuna Award for athletics in January 2025?
+Ans
+ A. Neeraj Chopra
+B. Jyothi Yarraji
+C. Tajinderpal Singh Toor
+D. Avinash Sable
+Q.90 Which Indian union territory assembly first adopted the National e‑ Vidhan Application
+(NeVA) on 9 June 2025?
+Ans
+ A. Chandigarh
+B. Lakshadweep
+C. Delhi
+D. Puducherry
+Q.91 As per the Economic Survey, 2024–25, under which housing scheme were over 89 lakh
+houses completed in urban areas as of 25 November 2024?
+Ans
+ A. Shelter for Urban Homeless (SUH)
+B. Pradhan Mantri Awas Yojana – Urban (PMAY-U)
+C. Smart Cities Mission
+D. Indira Awas Yojana
+Q.92 According to the IMF's April 2025 World Economic Outlook, what is India’s projected
+GDP growth rate for the year 2025?
+Ans
+ A. 6.5%
+B. 5.9%
+C. 6.2%
+D. 6.0%
+Q.93 What was the urban poverty rate in India for FY24 as per SBI’s January 2025 report?
+Ans
+ A. 4.6%
+B. 1.1%
+C. 13.7%
+D. 4.09%
+Q.94 Which of the following ministers conducted surprise raids on seed and fertiliser
+godowns in Rajasthan in June 2025?
+Ans
+ A. Kirori Lal Meena
+B. Mallikarjun Kharge
+C. Yogi Adityanath
+D. Mamta Banerjee
+Q.95 Which state government launched India’s first jungle safari train equipped with a
+Vistadome coach in May 2025?
+Ans
+ A. Uttar Pradesh
+B. Andhra Pradesh
+C. Himachal Pradesh
+D. Arunachal Pradesh
+Q.96 Vikram 3201 and Kalpana 3201 microprocessors, developed for space applications, are
+what type of microprocessors?
+Ans
+ A. 8-bit microprocessors
+B. 16-bit microprocessors
+C. 32-bit microprocessors
+D. 64-bit microprocessors
+Q.97 Which of the following regions is included in the list of vulnerable landscapes under
+the Revised Green India Mission (GIM) Plan released in 2025?
+Ans
+ A. Aravalli Mountain Range
+B. Indo-Gangetic Plain
+C. Thar Desert
+D. Deccan Plateau
+"
+Q.98 In April 2025, which of the following rules came into force?
+Ans
+ A. Hazardous and Other Wastes (Management & Trans boundary Movement) Amendment Rules
+B. Bio-medical Waste (Management & Handling) Rules
+C. Environment Protection (End-of-Life Vehicles) Rules
+D. Plastic Waste Management (Amendment) Rules
+Q.99 What unique feature does the New Pamban Bridge (Tamil Nadu, India) include to
+facilitate maritime traffic?
+Ans
+ A. Bascule mechanism
+B. Swing bridge
+C. Suspension cables
+D. Vertical‑ lift
+Q.100Where did Union Minister Ashwini Vaishnaw inaugurate the nation’s pioneering 3nm
+chip design centres in May 2025?
+Ans
+ A. Jaipur and Delhi
+B. Hyderabad and Lucknow
+C. Chennai and Ahmedabad
+D. Noida and Bengaluru

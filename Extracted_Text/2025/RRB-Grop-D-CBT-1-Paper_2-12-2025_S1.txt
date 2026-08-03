@@ -1,0 +1,756 @@
+Q.1 Which of the following is NOT an example of a tissue of an organism?
+Ans
+ A. Bone
+B. Neuron
+C. Blood
+D. Muscle
+Q.2 Oxidation is defined as:
+Ans
+ A. loss of electrons
+B. loss of protons
+C. gain of electrons
+D. gain of neutrons
+Q.3 A car moving at a speed of 720 km/hr comes to a stop in 4 seconds after the brakes are
+applied. If the total mass of the car and passengers is 80 kg, what is the force applied
+by the brakes?
+Ans
+ A. – 14,400 N
+B. – 2000 N
+C. 4000 N
+D. – 4000 N
+Q.4 Which of the following statements about a spherical lens is NOT correct?
+Ans
+ A. A concave lens also possesses two centres of curvature.
+B. The optical centre coincides with the centre of curvature.
+C. Every spherical lens has two centres of curvature.
+D. The line joining the two centres of curvature is called the principal axis.
+Q.5 The speed of sound in air is approximately 340 m/s. If a reflecting surface is 17 m away,
+how long does it take for an echo to return to the source?
+Ans
+ A. 1 s
+B. 0.05 s
+C. 0.5 s
+D. 0.1 s
+Test Date 02/12/2025
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following is related to human females in the same manner as vasectomy is
+related to human males?
+Ans
+ A. Coitus interruptus
+B. Copper-T
+C. Tubectomy
+D. Cervical caps
+Q.7 What are the primary functions of xylem and phloem tissues in a plant?
+Ans
+ A. Both xylem and phloem transport water and minerals.
+B. Xylem transports food, phloem transports water and minerals.
+C. Xylem transports water and minerals, phloem transports food.
+D. Both xylem and phloem transport food.
+Q.8 What happens to the pH of a solution when the concentration of H+ ions increases?
+Ans
+ A. It decreases.
+B. It cannot be determined.
+C. It increases.
+D. It remains the same.
+Q.9 Which of the following statements is correct about acceleration due to gravity?
+Ans
+ A. It increases as we go inside the Earth
+B. It remains constant with depth
+C. It is the same everywhere on Earth
+D. It decreases with altitude
+Q.10 Which of the following is the chemical formula of fullerene carbon allotropes?
+Ans
+ A. C60
+B. C0
+C. C
+D. C6
+Q.11 In which of the following states of matter do particles possess the highest speed of
+rapid random motion?
+Ans
+ A. Solid only
+B. Liquid and solid both
+C. Liquid only
+D. Gas
+Q.12 A body of mass 2 kg is moving with a speed of 3 m/s. Its kinetic energy is _________.
+Ans
+ A. 9 J
+B. 3 J
+C. 6 J
+D. 18 J
+Q.13 A solenoid behaves like a magnet because:
+Ans
+ A. Current in its turns produces a magnetic field
+B. It stores electricity
+C. It contains iron inside
+D. It has a high resistance
+Q.14 Which of the following muscular structures is/are responsible for modifying the
+curvature and thus changing the focal length of the fibrous, jelly-like eye lens?
+Ans
+ A. Retina
+B. Pupil
+C. Iris
+D. Ciliary muscles
+Q.15 Which equation correctly represents the reaction of aluminum with hydrochloric acid?
+Ans
+ A. Al + HCl → AlCl + H₂ 
+B. 2Al + 6HCl → 2AlCl₃  + 3H₂ 
+C. Al + HCl → AlCl₃  + H₂ 
+D. 2Al + 3HCl → 2AlCl₃  + 3H₂ 
+Q.16 Which of the following methods of reproduction ensures rapid increase in population?
+Ans
+ A. Asexual reproduction
+B. Self pollination
+C. Internal fertilisation
+D. Cross poliination
+Q.17 Which of the following is a diatomic molecule formed by a non-metallic element?
+Ans
+ A. Na
+B. O₂ 
+C. Mg
+D. He
+Q.18 A force that changes the state of motion of an object is called:
+Ans
+ A. Frictional force
+B. Balanced force
+C. Unbalanced force
+D. Gravitational force
+Q.19 Which of the following functional groups is represented by -OH in carbon compounds?
+Ans
+ A. Aldehyde
+B. Carboxylic acid
+C. Ketone
+D. Alcohol
+Q.20 Where is the embryo implanted after fertilisation in the human female body under
+normal conditions?
+Ans
+ A. Cervix
+B. Oviduct
+C. Uterus lining
+D. Ovary
+Q.21 On which of the following does resistivity of a material depend?
+Ans
+ A. Length and area of the conductor
+B. Current passing through it
+C. Nature of the material
+D. Shape of the conductor
+Q.22 Which of the following statement is true regarding big dams and flood control?
+Ans
+ A. Big dams can help in flood control by regulating river flow.
+B. Big dams are never used for flood control.
+C. Big dams completely eliminate the possibility of floods.
+D. Big dams do not increase the risk of floods.
+Q.23 Which of the following organs is present in chest cavity?
+Ans
+ A. Pancreas
+B. Pharynx
+C. Lungs
+D. Liver
+Q.24 The main thinking part of the human brain is located in the:
+Ans
+ A. Mid-brain
+B. Fore-brain
+C. Medulla
+D. Spinal cord
+Q.25 Which of the following statements best explains why isotopes of an element have
+identical chemical properties but different physical properties?
+Ans
+ A. Isotopes have the same atomic number but differ in their number of neutrons, which affects physical properties like mass.
+B. Isotopes have the same number of protons and neutrons but different numbers of electrons.
+C. Isotopes differ in the number of protons, leading to different behaviours in chemical reactions.
+D. Isotopes have completely different atomic structures, affecting both their physical and chemical properties.
+Q.26 The sum of the first 16 prime numbers is:
+Ans
+ A. 381
+B. 382
+C. 377
+D. 383
+Q.27 The median of the data 4, 23, 11, 7, 6, 9, (K + 5), 15, 20 and 16 is 12. Find the value of K.
+Ans
+ A. 7
+B. 8
+C. 5
+D. 6
+Q.28
+Ans
+ A. 4620
+B. 7200
+C. 3800
+D. 6880
+Section : Mathematics
+Q.29 An article was bought for ₹2,600. Its price was marked up by 20%. Thereafter, it was
+sold at a discount of 10% on the marked price. What was the profit percentage on the
+transaction?
+Ans
+ A. 10%
+B. 9%
+C. 7%
+D. 8%
+Q.30 The sum of three numbers is 8784. If the ratio between the first and second numbers is
+20 :18 and that of between second and third is 21 : 12, then find the difference between
+the first and the third number.
+Ans
+ A. 1687
+B. 1768
+C. 1678
+D. 1786
+Q.31 After selling an article at a discount of 20%, the profit percentage obtained is 32%. What
+is the markup percentage?
+Ans
+ A. 61%
+B. 69%
+C. 71%
+D. 65%
+Q.32 The ratio of the present age of Sunil and Shyam is 3 : 4. The ratio of their age after 25
+years from now, will be 8 : 9. What is the present age of Sunil?
+Ans
+ A. 18 years
+B. 16 years
+C. 15 years
+D. 14 years
+Q.33 19 men and 13 women can complete a piece of work in 12 days, while 17 men and 9
+women can complete the same work in 14 days. The work of how many women is
+equivalent to that of one man?
+Ans
+ A. 2
+B. 5
+C. 4
+D. 3
+Q.34 Simplify the following.
+6 × 6 + 6 × (8 − 5) ² ÷ 3 × 9
+Ans
+ A. 138
+B. 164
+C. 192
+D. 198
+Q.35
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.36 A train passes two tunnels of length 2708 m and 2195 m in 88 seconds and 76 seconds,
+respectively. What is the length of the train?
+Ans
+ A. 1063 m
+B. 1054 m
+C. 1064 m
+D. 1048 m
+Q.37 Two banks, A and B, offered loans at 3.5% and 7.5% per annum, respectively. Nirmal
+borrowed an amount of ₹2,40,000 from each bank. Find the positive difference (in ₹)
+between the amounts of simple interest paid to the two banks by Nirmal after 3 years.
+Ans
+ A. 29,800
+B. 30,300
+C. 28,300
+D. 28,800
+Q.38 Ravi spends ₹80 more than Raj. If together they spend ₹380, how much does Raj
+spend?
+Ans
+ A. ₹110
+B. ₹140
+C. ₹150
+D. ₹120
+Q.39
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.40 The insect population in a building was 9580 in 2015. It increased by 12% in 2016,
+decreased by 8% in 2017, and again increased by 8% in 2018. Find the insect population
+in 2018, rounded off to the nearest integer.
+Ans
+ A. 10,665
+B. 10,661
+C. 11,661
+D. 11,665
+Q.41 The sides of a triangle are 41 cm, 21 cm, and 50 cm. What is the length of its altitude
+corresponding to the side with a length of 21 cm?
+Ans
+ A. 22 cm
+B. 40 cm
+C. 54 cm
+D. 85 cm
+Q.42 A shopkeeper buys an article for ₹12,000 and sells it for ₹13,500. Find his profit
+percentage.
+Ans
+ A. 20%
+B. 12.5%
+C. 10.5%
+D. 15%
+Q.43 A, B and C can complete a piece of work in 3, 9 and 18 days, respectively. How long (in
+days) will they take to complete thrice the same work, working together?2522
+Ans
+ A. 12
+B. 7
+C. 18
+D. 6
+Q.44 The average age of 25 students of a class is 33 years. If the age of the teacher is also
+included, the average age of the whole group becomes 34 years. The age (in years) of
+the teacher is:
+Ans
+ A. 55
+B. 56
+C. 59
+D. 61
+Q.45 A solid metallic sphere of radius 10.5 cm is melted and recast into smaller spherical
+balls of radius 1.5 cm each. If the surface area of the original sphere is S, what is the
+total surface area of all the small balls combined?
+Ans
+ A. 7S
+B. 8S
+C. 6S
+D. 5S
+Q.46 Which of the following numbers is divisible by 41?
+Ans
+ A. 7575438
+B. 7397665
+C. 7132975
+D. 7497194
+Q.47 In an election between two candidates, 80% of the total voters cast their votes. Out of
+the total votes cast, 10% were declared invalid. If Candidate A secured 70% of the valid
+votes and Candidate B received the rest, and the total number of eligible voters was
+50,000. How many votes did candidate A receive?4351
+Ans
+ A. 26,200
+B. 26,500
+C. 25,500
+D. 25,200
+Q.48 A jeep travels 80 km at the speed of 40 km/hr and the next 32 km at the speed of 16
+km/hr. What is its average speed (in km/hr)?3318
+Ans
+ A. 34
+B. 32
+C. 22
+D. 28
+Q.49
+Ans
+ A. 11 m
+B. 10 m
+C. 15 m
+D. 12 m
+Q.50 If the third proportional of 8 and 56 is x, then what is the value of x?
+Ans
+ A. 390
+B. 394
+C. 392
+D. 393
+Q.51 Seven boxes, A, B, C, D, I, J and K, are kept one over the other, but not necessarily in
+the same order. Only two boxes are kept below I. Only one box is kept above J. Only
+one box is kept between J and K. B is kept immediately above C. D is kept at some
+place below A.
+How many boxes are kept between A and B?
+Ans
+ A. Four
+B. Two
+C. Three
+D. One
+Q.52 KP 15 is related to NL 7 in a certain way. In the same way, BL 5 is related to EH −3. To
+which of the given options is RP 18 related, following the same logic?
+Ans
+ A. VK 10
+B. VL 8
+C. UK 8
+D. UL 10
+Q.53 What should come in place of the question mark (?) in the given series?
+532 530 526 520 512 ?3901
+Ans
+ A. 502
+B. 499
+C. 501
+D. 498
+Q.54 PO 8 is related to SM -5 in a certain way. In the same way, QW 12 is related to TU -1. To
+which of the following is CJ 18 related, following the same logic?
+Ans
+ A. EG 5
+B. FH 5
+C. FG 7
+D. EH 7
+Q.55 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. GD−EB
+B. CZ−ZZ
+C. CZ−AX
+D. DA−BY
+Section : General Intelligence and Reasoning
+Q.56 Naveen starts from Point A and drives 11 km towards the south. He then takes a left
+turn, drives 5 km, turns left and drives 4 km. He then takes a right turn and drives 6 km.
+He takes a final left turn, drives 7 km and stops at Point P. How far (shortest distance)
+and towards which direction should he drive in order to reach Point A again? (All turns
+are 90 degrees turns only unless specified).
+Ans
+ A. 5 km towards the east
+B. 5 km towards the north
+C. 11 km towards the west
+D. 11 km towards the south
+Q.57 Refer to the given number series and answer the question that follows. Counting to be
+done from left to right only. All numbers are single-digit numbers.
+(Left) 1 1 9 6 4 1 5 3 1 1 8 2 3 2 1 4 5 9 3 9 5 5 4 6 9 3 1 (Right)
+How many such odd numbers are there each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 8
+B. 9
+C. 10
+D. 11
+Q.58 If ‘A’ stands for ‘÷’ , ‘B’ stands for ‘x’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘-‘ , what will
+come in place of the question mark ‘?’ in the following equation?
+8 D 14 A 2 C 3 B 9 = ?
+Ans
+ A. 26
+B. 27
+C. 25
+D. 28
+Q.59 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+UXZ 79, QTV 77, MPR 75, ILN 73, ?
+Ans
+ A. FGJ 71
+B. FHJ 71
+C. EGJ 71
+D. EHJ 71
+Q.60 M, N, O, P, W, X and Y are sitting around a circular table facing the centre of the table.
+Only two people sit between P and O when counted from the left of O. W sits third to the
+left of N. Y sits to the immediate right of N. Y sits second to the left of P. X is not an
+immediate neighbour of W. Who sits third to the right of M?
+Ans
+ A. N
+B. Y
+C. O
+D. W
+Q.61 Refer to the following series and answer the question that follows (all numbers are
+single digit numbers only). Counting to be done from left to right only.
+(Left) 5 1 3 8 4 5 1 6 3 7 1 9 2 5 9 4 8 5 5 3 1 2 2 1 6 2 8 (Right)
+How many such odd numbers are there each of which is immediately preceded by an
+odd number and also immediately followed by an even number?15356
+Ans
+ A. 7
+B. 5
+C. 6
+D. 4
+Q.62 What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘ ÷ ‘ are
+interchanged and ‘ - ’ and ‘ x ’ are interchanged?
+312 + 6 x 5 - 32 ÷ 300 = ?
+Ans
+ A. 179
+B. 192
+C. 180
+D. 186
+Q.63 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will
+come in place of the question mark (?) in the following equation?
+12 C 16 B 15 A 8 D 14 = ?3842
+Ans
+ A. 23
+B. 27
+C. 29
+D. 28
+Q.64 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statement(s).
+Statements:
+Some teachers are writers.
+All writers are professionals.
+Conclusions:
+(I) Some professionals are teachers.
+(II) All teachers are professionals.12100
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Only conclusion (I) follows
+C. Only conclusion (II) follows
+D. Both conclusions (I) and (II) follow
+Q.65 Roshan ranked 54th from the top and 18th from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 70
+B. 73
+C. 71
+D. 72
+Q.66 What should come in place of the question mark (?) in the given series?
+5 7 11 19 ? 67
+Ans
+ A. 20
+B. 34
+C. 35
+D. 44
+Q.67 Rahul starts from Point A and drives 9 km towards North. He then takes a right turn,
+drives 6 km, turns right and drives 14 km. He then takes a right turn and drives 9 km. He
+takes a final right turn, drives 5 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90 degrees turns only unless specified)
+Ans
+ A. 4 km to the east
+B. 3 km to the west
+C. 3 km to the east
+D. 4 km to the west
+Q.68 Read the given statements and conclusions carefully. Assuming that theinformation given in the statements is true, even if it appears to be at variancewith commonly known facts, decide which of the given conclusions logicallyfollow(s) from the statements.
+Statements:All fruits are candies.All fruits are sprouts.
+Conclusions:(I): Some candies are sprouts.(II): All sprouts are fruits.
+Ans
+ A. Only conclusion (I) follows
+B. Both conclusions (I) and (II) follow
+C. Only conclusion (II) follows
+D. Neither conclusion (I) nor (II) follows
+Q.69 In a certain code language, ‘ROUT’ is coded as ‘1625’ and ‘AUTO’ is coded as ‘1546’.
+What is the code for ‘A’ in the given code language?
+Ans
+ A. 5
+B. 4
+C. 6
+D. 1
+Q.70 Refer to the given number, symbol series and answer the question that follows.
+Counting to be done from left to right only. All numbers are single-digit numbers.
+(Left) $ 9 $ 6 7 8 £ 5 1 8 2 £ 9 3 4 6 9 # 8 8 7 7 (Right)
+How many such numbers are there, each of which is immediately preceded by a symbol
+and also immediately followed by a symbol?
+Ans
+ A. 2
+B. 1
+C. 3
+D. 0
+Q.71 In a certain code language,
+A + B means ‘A is the sister of B’,
+A − B means ‘A is the mother of B’,
+A × B means ‘A is the husband of B’ and
+A ÷ B means ‘A is the brother of B’.
+Based on the above, how is T related to J if ‘T + K ÷ S × U - J’?
+Ans
+ A. Mother’s sister
+B. Father’s sister
+C. Father’s mother
+D. Mother’s mother
+Q.72 A, B, C, D, E, F and G are sitting around a circular table facing the centre. Only two
+people sit between F and B when counted from the right of F. Only two people sit
+between B and A when counted from the right of B. Only three people sit between F and
+E when counted from the right of F. D sits to the immediate left of C. How many people
+sit between F and G when counted from the left of F?
+Ans
+ A. Three
+B. Two
+C. Four
+D. One
+Q.73 In a certain code language, ‘queen area add’ is coded as ' mk ng uk' and ‘game queen
+ant’ is coded as ‘ng oz ie’. How is ‘queen’ coded in the given language?
+Ans
+ A. mk
+B. uk
+C. oz
+D. ng
+Q.74 What should come in place of the question mark (?) in the given series?
+113 99 85 71 57 ?
+Ans
+ A. 39
+B. 45
+C. 47
+D. 43
+Q.75 Select the letter-cluster from among the given options that can replace the question
+mark (?) in the following series.
+PPR NQO LRL ? HTF
+Ans
+ A. JSI
+B. KJU
+C. LKJ
+D. IJG
+Q.76 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+ 
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. DFL
+B. FHM
+C. ACI
+D. LNT
+Q.77 In the following number-pairs, the second number is obtained by applying certain
+mathematical operation(s) to the first number. Select the number-pair in which the
+numbers are related in the same way as are the numbers of the following pairs.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+16, 29
+25, 47
+Ans
+ A. 95, 186
+B. 84, 79
+C. 78, 152
+D. 62, 121
+Q.78 SG 11 is related to VH −6 in a certain way. In the same way, NM 19 is related to QN 2. To
+which of the given options is ON 2 related, following the same logic?
+Ans
+ A. RO −15
+B. SP −18
+C. SO −18
+D. QP −15
+Q.79 Five people, A, B, C, D and E are sitting in a row, facing north. D sits third from the left
+end of the line. E sits fifth from the left end of the line. B sits between A and D. Who sits
+at the extreme left end of the line?6098
+Ans
+ A. C
+B. A
+C. B
+D. E
+Q.80 This question is based on the five, three-digit numbers given below.
+(Left) 458 569 248 671 349 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE: All operations to be done from left to right.)
+If 2 is added to the first digit of every number, in how many numbers will the first digit
+be exactly divisible by the second digit?
+Ans
+ A. Four
+B. Two
+C. One
+D. Three
+Q.81 As of April 2025, which Ministry/Department approved 10 Plastic Parks in different
+states under the Scheme for Setting up of Plastic Parks in India?
+Ans
+ A. Department of Pharmaceuticals
+B. Department of Chemicals and Petro-Chemicals
+C. Ministry of Power
+D. Ministry of Environment, Forest and Climate Change
+Q.82 How many indigenously developed weapon systems were released by Defence
+Research and Development Organization (DRDO) in June 2024 to Indian armed forces
+under the emergency procurement clause?
+Ans
+ A. 38
+B. 18
+C. 28
+D. 48
+Q.83 Which Pakistani female cricketer was inducted into the ICC Hall of Fame in June 2025?
+Ans
+ A. Diana Baig
+B. Nida Dar
+C. Sana Mir
+D. Bismah Maroof
+Q.84 Which of the following services have been integrated into the newly revamped Mission
+Vatsalya Portal launched by the Ministry of Women and Child Development in July
+2025?
+Ans
+ A. Beti Bachao Beti Padhao and Childline 1098
+B. TrackChild and Khoya-Paya Services
+C. Pradhan Mantri Matru Vandana Yojana and Sakhi
+D. Poshan Abhiyaan and Ujjawala Scheme
+Section : General Awareness and Current Affairs
+Q.85 Who was named the Men's Player of the Year at the AIFF Awards 2025?
+Ans
+ A. Khalid Jamil
+B. Subhasish Bose
+C. Brison Fernandes
+D. Vishal Kaith
+Q.86 Who among the following was appointed as a Whole-time Member (Life) at the
+Insurance Regulatory and Development Authority of India (IRDAI) in March 2025?
+Ans
+ A. Ramesh B Iyer
+B. Ajay Kumar Bhalla
+C. Swaminathan S Iyer
+D. Dinesh Khara
+Q.87 Which of the following female runners won the women’s race in the Paris Marathon
+2025?
+Ans
+ A. Letesenbet Gidey
+B. Angela Tanui
+C. Dera Dida
+D. Bedatu Hirpa
+Q.88 How much carbon sink does the Revised Green India Mission (GIM) Plan released in
+2025 aim to create by 2030?
+Ans
+ A. 2.5 billion tonnes
+B. 1 billion tonnes
+C. 3.39 billion tonnes
+D. 4 billion tonnes
+Q.89 What is the name of Google’s largest campus in India, unveiled in February 2025, that
+marks a milestone in the ongoing seismic shift in technology?
+Ans
+ A. Mahakaya
+B. Ananta
+C. Vishaal
+D. Kshitij
+Q.90 Who inaugurated the newly established Hedging Desk in Pune in 2025?
+Ans
+ A. Sharad Pawar
+B. Eknath Shinde
+C. Devendra Fadnavis
+D. Uddhav Thackeray
+Q.91 Which of the following labs under the Defence Research and Development Organisation
+(DRDO), successfully conducted high-altitude trials of the Indigenous On-Board Oxygen
+Generating System (OBOGS)-based Integrated Life Support System (ILSS) for the LCA
+Tejas aircraft, on March 04, 2025?
+Ans
+ A. Defence Laboratory Jodhpur (DLJ)
+B. Defence Bio-Engineering & Electro Medical Laboratory (DEBEL)
+C. Aerial Delivery Research and Development Establishment (ADRDE)
+D. Defence Electronics Research Laboratory (DLRL)
+Q.92 Who joined as the Mission Director of Atal Innovation Mission under NITI Aayog in
+2025?
+Ans
+ A. Poonam Gupta
+B. B S Subrahmanyam
+C. V. K. Paul
+D. Deepak Bagla
+Q.93 Which of the following is the goal of the India AI Safety Institute set up in January 2025?
+Ans
+ A. Ensuring safe and ethical AI
+B. Developing quantum computers
+C. Promoting online gaming
+D. Regulating social media ads
+Q.94 In 2025, which Union Minister inaugurated the Khelo India multipurpose hall in Kamle
+district, Arunachal Pradesh?
+Ans
+ A. Anurag Thakur
+B. Kiren Rijiju
+C. Dharmendra Pradhan
+D. Mansukh Mandaviya
+Q.95 As per Union Budget 2025–26, for how many years has the Cotton Mission been
+planned to enhance cotton productivity, especially in extra-long staple varieties?
+Ans
+ A. 10 years
+B. 2 years
+C. 5 years
+D. 12 years
+Q.96 In June 2025, the Government of India launched which of the following new disaster
+management tech platforms?
+Ans
+ A. Indian Control Room for Emergency Response
+B. Integrated Control Room for Emergency Response
+C. Integrated Common Response for Emergency Response
+D. Integrated Centre Room for Emergency Response
+Q.97 Where was India’s first wooden Gurdwara, Sri Nanak Niwas, constructed in Punjab in
+July 2025?
+Ans
+ A. Fazilka
+B. Khanna
+C. Abohar
+D. Moga
+Q.98 In July 2025, which investigative authority unearthed over ₹24 crore in unaccounted
+assets in Karnataka?
+Ans
+ A. Karnataka Lokayukta
+B. Central Bureau of Investigation
+C. Enforcement Directorate
+D. Income Tax Department
+"
+Q.99 World Ocean Day 2025, observed on 8 June, emphasised which of the following
+themes?
+Ans
+ A. Sustain the Sea
+B. Blue Future, Green Planet
+C. Revive Ocean Life
+D. Wonder: Sustaining what sustains us
+Q.100In June 2025, the Bonn Climate Change Conference 2025 was held in:
+Ans
+ A. Germany
+B. Switzerland
+C. Paris
+D. France

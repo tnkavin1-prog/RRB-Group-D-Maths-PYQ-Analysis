@@ -1,0 +1,774 @@
+Q.1 Which of the following statements best explains why hormonal contraceptive pills can
+have side effects?
+Ans
+ A. They disrupt the natural hormonal balance, affecting other physiological functions.
+B. They destroy the egg inside the ovary.
+C. They prevent the sperm from reaching the egg mechanically.
+D. They interfere with the body’s immune system.
+Q.2 Two resistors of 15 Ω and 5 Ω are connected in series with a 12 V battery. How much
+current will flow in the circuit?
+Ans
+ A. 0.65 A
+B. 0.5 A
+C. 0.45 A
+D. 0.6 A
+Q.3 Which of the following statements is true according to Thomson's Model of Atom?
+Ans
+ A. Electrons are fixed in the orbits.
+B. Electrons are concentrated in the nucleus.
+C. Electrons are spread randomly in a positively charged sphere.
+D. Electrons are attached to neutrons.
+Q.4 A poultry farmer wants birds that consume less feed, tolerate high heat, and produce
+quality chicks. Which strategy should he follow?
+Ans
+ A. Feed birds twice a day
+B. Cross-breed exotic and local poultry
+C. Shift to fish farming
+D. Use only indigenous birds
+Test Date 28/11/2025
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.5 Consider a ray of light travelling obliquely from air into a glass slab. Which of the
+following statement(s) is/are true?
+(i) The angle of incidence is smaller than the angle of refraction.
+(ii) The angle of incidence is greater than the angle of emergence.
+(iii) The speed of light decreases as the light ray enters from air to glass.
+(iv) The incident ray and the emergent ray are parallel to each other.
+Ans
+ A. Both (i) and (iv)
+B. Both (i) and (ii)
+C. Both (iii) and (iv)
+D. Both (ii) and (iii)
+Q.6 Select the correct option regarding the following two statements labelled Assertion and
+Reason.
+Assertion: Sound waves are non-mechanical waves.
+Reason: Sound waves require a material medium for their propagation.
+Ans
+ A. Assertion is false but reason is true.
+B. Both assertion and reason are true and reason is the correct explanation of assertion.
+C. Assertion is true but reason is false.
+D. Both assertion and reason are false.
+Q.7 Which of the following correctly explains why gases can be compressed easily
+compared to solids and liquids?
+Ans
+ A. Gases have high mass and density
+B. Gases do not occupy space
+C. Gases have loosely packed particles with large intermolecular spaces
+D. Gases have low kinetic energy
+Q.8 In reproductive health, the aim of contraception is _________.
+Ans
+ A. to have more babies
+B. to make babies healthy
+C. to prevent unplanned pregnancies
+D. to make twin babies
+Q.9 What is the effective diameter of the circular outline of a spherical lens called?
+Ans
+ A. Focal length
+B. Radius of curvature
+C. Optical centre
+D. Aperture
+Q.10 A bullet of small mass and high velocity can penetrate a target deeper than a heavy
+stone thrown at the same speed because:
+Ans
+ A. it is smaller in size
+B. it has less inertia
+C. it has greater mass
+D. it is sharper
+Q.11 Archimedes' principle states that when a body is immersed in a fluid, it experiences
+___________.
+Ans
+ A. A downward force equal to the weight of fluid displaced by the body
+B. An upward force equal to the weight of fluid displaced by the body
+C. No change in its weight
+D. An upward force equal to the weight of the body
+Q.12 The plant cell wall is primarily composed of:
+Ans
+ A. suberin
+B. cellulose
+C. chitin
+D. N-Acetyl glucosamine
+Q.13 Why does growth in plants occur only in specific regions?
+Ans
+ A. Only some parts of the plant receive sunlight.
+B. Gravity prevents growth in certain regions.
+C. Water reaches only the upper parts of the plant.
+D. Meristematic tissue is located only in specific regions.
+Q.14 Which of the following is/are NOT consequence(s) of large dams?
+Ans
+ A. Deforestation
+B. Afforestation
+C. Economic problems
+D. Social problems
+Q.15 Ethanol on heating at 443 K in excess concentrated sulphuric acid gives ethene. The
+chemical change taking place is:
+Ans
+ A. oxidation
+B. dehydration
+C. reduction
+D. halogenation
+Q.16 Which of the following sexually transmitted diseases is caused by a bacterium?
+Ans
+ A. HIV-AIDS
+B. Typhoid
+C. Warts
+D. Gonorrhoea
+Q.17 What happens when a pendulum bob swings from its mean position to extreme
+position?
+Ans
+ A. Potential energy increases, kinetic energy decreases
+B. Both kinetic and potential energies increase
+C. Total energy decreases
+D. Potential energy decreases, kinetic energy increases
+Q.18 Which of the following equations of motion is independent of the final velocity of a
+particle?
+Ans
+ A. v2 - u2 = 2as
+B. v = ut + a
+C. s = ut + 1/2 at2
+D. v = u + at
+Q.19 Which of the following correctly identifies an element that DOES NOT exist as a
+molecule in nature?
+Ans
+ A. Hydrogen
+B. Iodine
+C. Chlorine
+D. Helium
+Q.20 Which of the following is a process in which absorbed substances from alimentary
+canal is transported to different organs where they are used to build complex
+substances?
+Ans
+ A. Transpiration
+B. Digestion
+C. Assimilation
+D. Photosynthesis
+Q.21 In the context of carbon compounds, what characterises a 'branched chain' structure?
+Ans
+ A. Carbon atoms are attached to the main carbon chain, forming side groups.
+B. Carbon atoms are arranged in a continuous, straight line.
+C. Carbon atoms form a closed ring structure.
+D. Carbon atoms are bonded to four different atoms.
+Q.22 Which of the following statements is/are correct?
+a. Olfactory indicators are used to check the acidic or basic nature of a compound.
+b. Clove oil is an olfactory indicator.
+c. Clove oil is used to check the purity of any compound.
+Ans
+ A. a, b and c
+B. a and b only
+C. a only
+D. a and c only
+Q.23 What is the product formed when ethene reacts with bromine?
+Ans
+ A. Ethane
+B. Bromoethane
+C. Ethanol
+D. 1,2-dibromoethane
+Q.24 Which of the following metals is purified by distillation?
+Ans
+ A. Zinc
+B. Copper
+C. Iron
+D. Silver
+Q.25 Which of the following is a characteristic property of a material?
+Ans
+ A. Resistance
+B. Resistivity
+C. Voltage
+D. Current
+Q.26 A trader buys 80 pens at ₹8 each. He sells 60 of them at ₹12 each and the remaining at a
+25% loss. What is the overall profit or loss?
+Ans
+ A. ₹200 Profit
+B. ₹200 Loss
+C. ₹240 Loss
+D. ₹210 Profit
+Section : Mathematics
+Q.27
+Ans
+ A. 76
+B. 46
+C. 66
+D. 56
+Q.28 A camp has provisions for 48 persons for 12 days. In how many days will the same
+provisions finish off if the strength of the camp is increased to 72 persons?
+Ans
+ A. 6
+B. 7
+C. 11
+D. 8
+Q.29 If the ratio of the present ages of Parul and her mother is 5 : 13 and the product of their
+ages is 585, find the ratio of their ages after 9 years.
+Ans
+ A. 3 : 5
+B. 1 : 2
+C. 2 : 5
+D. 4 : 7
+Q.30
+Ans
+ A. 60°
+B. 90°
+C. 45°
+D. 30°
+Q.31 In a bag containing red, green and pink tokens, the ratio of red to green tokens was 9 :
+6, while the ratio of pink to red tokens was 18 : 16. What was the ratio of green to pink
+tokens?5287
+Ans
+ A. 16 : 27
+B. 15 : 23
+C. 17 : 28
+D. 14 : 31
+Q.32 The average age of 35 students of a class is 46 years. If the age of the teacher is also
+included, the average age of the whole group becomes 47 years. The age (in years) of
+the teacher is:
+Ans
+ A. 85
+B. 83
+C. 82
+D. 84
+Q.33 Simplify: (2x + 3)(x − 5) − (x − 2)(3x + 4)
+Ans
+ A. −x2 +5x −7
+B. x2 −5x −7
+C. −x2 −5x −7
+D. −x2 −5x +7
+Q.34 If 20% of a number is added to 96, then the result is the same number. 75% of the same
+number is:
+Ans
+ A. 100
+B. 120
+C. 110
+D. 90
+Q.35 The ratio of two numbers is 2 : 3 and their HCF is 6. Find their LCM.
+Ans
+ A. 18
+B. 36
+C. 32
+D. 12
+Q.36 The price of fuel decreases by 20%, 30% and 20% in three successive months but
+increases by 40% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price?
+Ans
+ A. Increases by 41.98%
+B. Increases by 36.01%
+C. Decreases by 33.02%
+D. Decreases by 37.28%
+Q.37 A can complete a piece of work in 77 days. B is 75% less efficient than A. C is 40% more
+efficient than B. If B and C work together for 30 days, A alone will complete the
+remaining work in:
+Ans
+ A. 60 days
+B. 57 days
+C. 54 days
+D. 59 days
+Q.38 A class of 100 students took a Physics test. 37 students had an average score of 84.
+The other students had an average score of 96. What is the average score (rounded off
+to one decimal place) of the whole class?
+Ans
+ A. 89.7
+B. 91.6
+C. 97.5
+D. 85.5
+Q.39 The marked price of a bench is ₹374, which is 22% above the cost price. If the profit
+percentage is 13%, find the discount percentage (rounded off to two decimal places).
+Ans
+ A. 8.91%
+B. 6.66%
+C. 6.94%
+D. 7.38%
+Q.40 P is any point inside the rectangle ABCD. If PA = 79 cm, PB = 61 cm and PC = 17 cm,
+then the length of PD (in cm) is equal to:
+Ans
+ A. 54
+B. 48
+C. 57
+D. 53
+Q.41 If the total surface area of a cylinder is 4 times the area of two circular faces, and the
+volume of the cylinder is 192 π cm3, then the height of the cylinder is:
+Ans
+ A. 16 cm
+B. 8 cm
+C. 12 cm
+D. 9 cm
+Q.42 If an item marked at ₹594 is sold for ₹155, then what is the discount percentage?
+(Round off your answer to two decimal places).
+Ans
+ A. 72.91%
+B. 74.35%
+C. 77.24%
+D. 73.91%
+Q.43
+Ans
+ A. 48
+B. 60
+C. 72
+D. 96
+Q.44 The price of a shirt is first increased by 18% and then decreased by 18%. What is the
+overall percentage decrease in its price?
+Ans
+ A. 3.45%
+B. 2.98%
+C. 2.89%
+D. 3.24%
+Q.45 What would be the annual interest accrued on a deposit of ₹95,950 in a bank that pays a
+9% per annum rate of simple interest?
+Ans
+ A. ₹8,635.50
+B. ₹8,455.50
+C. ₹8,855.50
+D. ₹8,035.50
+Q.46 A metal rod is divided into three parts, A, B and C. The lengths of A and B are in the
+ratio 4 : 8, and the lengths of C and B are in the ratio 10 : 18. If the difference between
+the lengths of A and C is 48 cm, determine the total length (in cm) of the metal rod.
+Ans
+ A. 1782
+B. 1764
+C. 1798
+D. 1176
+Q.47 A field in the shape of a trapezium has parallel sides of 60 m and 77 m. The non-parallel
+sides are 25 m and 26 m. What is the area of the field?
+Ans
+ A. 1,720 m2
+B. 1,812 m2
+C. 1,644 m2
+D. 1,524 m2
+Q.48 A and B working together can do a piece of work in 4 days. B alone can do the same
+work in 8 days. How long (in days) will A alone take to do double the work?
+Ans
+ A. 17
+B. 8
+C. 16
+D. 19
+Q.49 Two trains are moving in opposite directions at speeds of 100 km/hr and 140 km/hr. The
+length of one train is 490 m. The time taken by them to cross each other is 22 seconds.
+The length (in m) of the other train, rounded off to 2 decimal places, is:
+Ans
+ A. 982.47
+B. 972.33
+C. 976.67
+D. 974.27
+Q.50 The ratio of the speeds of two trucks is 7 : 3. The time taken by the faster truck to cover
+a distance of 147 km is 7 hours less than the other. Find the speed of the slower truck.
+Ans
+ A. 22 km/hr
+B. 12 km/hr
+C. 9 km/hr
+D. 4 km/hr
+Q.51 In a certain code language, ‘OVAL’ is coded as ‘6729’ and ‘LEVO’ is coded as ‘7946’.
+What is the code for ‘E’ in the given code language?1634
+Ans
+ A. 7
+B. 6
+C. 4
+D. 9
+Q.52 In a certain code language, ‘steak equal thing’ is coded as 'wb vl yn' and ‘thing yard
+house’ is coded as ‘vl za ha’. How is ‘thing’ coded in the given language?
+Ans
+ A. za
+B. wb
+C. vl
+D. yn
+Q.53 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusion(s) logically follow(s) from the
+statements.
+Statements:
+All flowers are plants.
+Some plants are trees.
+Conclusions:
+(I) Some trees are flowers.
+(II) All flowers are trees.
+Ans
+ A. Only conclusion (I) follows.
+B. Both conclusions (I) and (II) follow.
+C. Only conclusion (II) follows.
+D. Neither conclusion (I) nor (II) follows.
+Section : General Intelligence and Reasoning
+Q.54 In the following triads, each group of letters is related to the subsequent one following
+a certain logic. Select from the given options, the one which follows the same logic.
+WASH - HSWA - WSAH
+CORE - ERCO - CROE
+Ans
+ A. INKS - SKIN - IKNS
+B. LEAP - LAEP - PAEL
+C. DARE - ARDE - ARED
+D. FINE - ENFI - INFE
+Q.55 A, B, C, D, E, F and G are sitting around a circular table, facing the centre. F sits second
+to the right of B. A sits third to the left of F. C is the immediate neighbour of E and A. G
+is not an immediate neighbour of B. How many people sit between D and E when
+counted from the left of D?
+Ans
+ A. Four
+B. Two
+C. One
+D. Three
+Q.56 Refer to the following number, symbol series and answer the question. Counting to be
+done from left to right only. All numbers are single-digit numbers.
+(Left) © @ 7 € $ 5 $ & * & 7 5 2 $ 8 $ © 7 © 4 6 £ (Right)
+How many such symbols are there each of which is immediately preceded by a number
+and also immediately followed by a symbol?
+Ans
+ A. Two
+B. Three
+C. Five
+D. Four
+Q.57 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only.
+(Left) ? * + ? \ & 3 # 9 % 4 1 6 * @ 5 4 8 8 $ \ (Right)
+How many such numbers are there, each of which is immediately preceded by another
+number and also immediately followed by a symbol?
+Ans
+ A. Two
+B. Four
+C. Three
+D. One
+Q.58 Select the triad which follows the same pattern as that followed by the two triads given
+below. Both triads follow the same pattern.
+PI-MF-KN
+SL-PI-NQ
+Ans
+ A. WO-SK-QU
+B. WO-SL-QU
+C. VO-SL-QU
+D. VO-SL-QT
+Q.59 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which is the letter-cluster that DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. QRN
+B. STP
+C. UWR
+D. WXT
+Q.60 In a code language,
+A + B means ‘A is the sister of B’
+A - B means ‘A is the father of B’
+A * B means ‘A is the brother of B’
+A ÷ B means ‘A is the mother of B’
+Based on the above, how is P related to E if ‘P - T * C + D ÷ E’?
+Ans
+ A. Father’s father
+B. Mother’s brother
+C. Brother
+D. Mother’s father
+Q.61 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(22, 66, 61)
+(35, 105, 100)6783
+Ans
+ A. (74, 222, 216)
+B. (14, 42, 37)
+C. (41, 123, 117)
+D. (85, 255, 249)
+Q.62 What should come in place of the question mark (?) in the given series?
+12 ? 29 39 50 623819
+Ans
+ A. 16
+B. 18
+C. 22
+D. 20
+Q.63 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. BH-TQ
+B. SY-KH
+C. HM-ZW
+D. WC-OL
+Q.64 Refer to the following series and answer the question (all numbers are single-digit
+numbers only).
+(Left) 9 1 6 3 7 4 1 8 5 9 2 (Right)
+How many such even numbers are there (from left to right), which are immediately
+followed by an even number?
+Ans
+ A. Two
+B. None
+C. One
+D. Three
+Q.65 HN 9 is related to LK −3 in a certain way. In the same way, NY 4 is related to RV −8. To
+which of the given options is OU 13 related, following the same logic?
+Ans
+ A. HY 3
+B. SR 1
+C. HU 5
+D. TY 2
+Q.66 Each of the digits in the number 1732596 is arranged in ascending order from left to
+right. The position(s) of how many digits will remain unchanged as compared to that in
+the original number?
+Ans
+ A. One
+B. Three
+C. Two
+D. None
+Q.67 Yogesh ranked 34th from the top and 38th from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 70
+B. 73
+C. 71
+D. 72
+Q.68 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘÷’
+are interchanged and ‘−’ and ‘×’ are interchanged?
+850 + 34 × 15 − 12 ÷ 400 = ?
+Ans
+ A. 239
+B. 233
+C. 245
+D. 240
+Q.69 Refer to the following series and answer the question (all numbers are single-digit
+numbers only).
+(Left) 2 8 1 5 7 9 4 2 3 8 6 1 (Right)
+How many such odd numbers are there (from left to right) which are immediately
+followed by an even number?
+Ans
+ A. One
+B. Three
+C. More than three
+D. Two
+Q.70 60 people are standing in a row facing north. Shivani is 40th from the right end while
+Sneha is 26th from the left end. How many people are there between Shivani and
+Sneha?
+Ans
+ A. 3
+B. 4
+C. 1
+D. 2
+Q.71 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements: All Tractors are Motorcycles. Some Motorcycles are Minivans. No Minivans
+are Hovercrafts.
+Conclusion (I):Some Hovercrafts are Motorcycles
+Conclusion (II): Some Minivans are Tractors
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Only conclusion (I) follows
+C. Neither conclusion (I) nor (II) follows
+D. Only conclusion (II) follows
+Q.72 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+VDE97, BJK74, HPQ51, NVW28, ?
+Ans
+ A. TUC5
+B. TBC5
+C. TBG5
+D. IBC5
+Q.73 Seven people B, C, D, I, J, K and L are sitting in a straight line facing north. No one sits
+to the left of K. Only four people sit between K and J. L sits second to the left of J. D
+sits to the immediate left of B. C is not an immediate neighbour of L. How many people
+sit between L and C?7075
+Ans
+ A. One
+B. Four
+C. Two
+D. Three
+Q.74 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+DWV LED TML BUT ?
+Ans
+ A. JBC
+B. JIO
+C. IBH
+D. JCB
+Q.75 Seven people, A, B, C, D, E, F and G, are sitting in a row, facing north. Only six people
+sit to the right of C. Only four people sit to the left of B. D sits to the left of A but right of
+B. F sits second to the right of G. How many people sit to the right of E?4
+Ans
+ A. Two
+B. One
+C. Three
+D. Four
+Q.76 If ‘A’ stands for ‘÷’ , ‘B’ stands for ‘x’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘-‘ , what will
+come in place of the question mark ‘?’ in the following equation?
+25 C 15 A 3 D 9 B 3 = ?
+Ans
+ A. 1
+B. 2
+C. 4
+D. 3
+Q.77 What should come in place of the question mark (?) in the given series?
+510 511 500 501 491 492 ?3903
+Ans
+ A. 482
+B. 483
+C. 481
+D. 490
+Q.78 Piya starts from point A and drives 33 km towards south. She then takes a right turn,
+drives 45 km, turns right and drives 41 km. She then takes a right turn and drives 56
+km. She takes a final right turn, drives 8 km and stops at point P. How far (shortest
+distance) and towards which direction should she drive in order to reach point A again?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. 12 km to the east
+B. 13 km to the east
+C. 11 km to the west
+D. 10 km to the west
+Q.79 Leander starts from Point A and drives 6 km towards east. He then takes a left turn,
+drives 4 km, turns left and drives 3 km. He then takes a right turn and drives 3 km. He
+takes a final left turn, drives 3 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90 degrees turns only unless specified)
+Ans
+ A. 3 km towards south
+B. 7 km towards south
+C. 6 km towards west
+D. 6 km towards north
+Q.80 What should come in place of the question mark (?) in the given series?
+36 41 51 66 86 ?
+Ans
+ A. 111
+B. 117
+C. 100
+D. 107
+Q.81 When was the Retired Sportsperson Empowerment Training (RESET) Programme
+officially launched by the Ministry of Youth Affairs and Sports?
+Ans
+ A. 2024
+B. 2022
+C. 2023
+D. 2025
+Section : General Awareness and Current Affairs
+Q.82 What is the name of the initiative launched by Union Ministry of Tribal Affairs in June
+2025, which is aimed at strengthening the delivery of tribal welfare schemes by training
+and inspiring a new generation of dedicated implementers?
+Ans
+ A. Adi Varnada
+B. Adi Karmyogi
+C. Adi Vamsha
+D. Adi Gotra
+Q.83 Which border check-post of India and Pakistan was closed by the Government of India,
+following the Pahalgam terror attack in April 2025?
+Ans
+ A. Attari-Wagah border
+B. Khokhrapar-Munabao border
+C. Radcliffe Line
+D. Ganda Singh Wala-Hussainiwala border
+Q.84 In March 2025, under which of the following schemes did the government identify 100
+coastal fishermen villages to be developed into Climate‑ Resilient Coastal Fishermen
+Villages?
+Ans
+ A. Pradhan Mantri Matsya Sampada Yojana (PMMSY)
+B. Blue Revolution Yojana
+C. National Coastal Mission
+D. Kisan Samman Nidhi Yojana (KSNY)
+Q.85 According to the StartupBlink Global Startup Ecosystem Index, 2025, which Indian city
+is top ranked among the world’s top startup cities in 2025?
+Ans
+ A. Delhi
+B. Bengaluru
+C. Hyderabad
+D. Pune
+Q.86 In 2025, where has India’s first zoo-based wildlife bio bank been established?
+Ans
+ A. Mahendra Chaudhury Zoological Park
+B. Padmaja Naidu Himalayan Zoological Park
+C. Nehru Zoological Park
+D. Nandankanan Zoological Park
+Q.87 Which team was the runner-up in the 2025 Kalinga Super Cup?
+Ans
+ A. Bengaluru FC
+B. Jamshedpur FC
+C. Kerala Blasters FC
+D. Hyderabad FC
+Q.88 Which team was honoured as “Team of the Year” at the Laureus World Sports Awards
+in April 2025?
+Ans
+ A. Bayern Munich
+B. Flamengo
+C. Real Madrid
+D. Manchester City
+Q.89 As informed by Union Minister Dr. Jitendra Singh on 1 January 2025, India’s
+biotechnology sector has experienced extraordinary growth, skyrocketing from a $10
+billion industry in 2014 to over _____ in 2024.
+Ans
+ A. $130 billion
+B. $100 billion
+C. $80 billion
+D. $140 billion
+Q.90 In July 2025, which investigative authority unearthed over ₹24 crore in unaccounted
+assets in Karnataka?
+Ans
+ A. Central Bureau of Investigation
+B. Income Tax Department
+C. Enforcement Directorate
+D. Karnataka Lokayukta
+Q.91 Who became the 52nd Chief Justice of India on 14 May 2025?
+Ans
+ A. Madan Lokur
+B. Bidyut Ranjan Sarangi
+C. Bhushan Ramkrishna Gavai
+D. Sanjiv Khanna
+Q.92 According to the World Happiness Report, 2025, released in March 2025, which of the
+following countries ranked as the happiest country in the world?
+Ans
+ A. Finland
+B. New Zealand
+C. Switzerland
+D. Canada
+Q.93 Who received the UNESCO/Guillermo Cano World Press Freedom Prize in May 2025?
+Ans
+ A. Mazen Darwish
+B. Maria Ressa
+C. Narges Mohammadi
+D. La Prensa
+Q.94 As notified in June 2025, which among the following launched India’s first-of-its-kind
+premium financing solution tailored for corporate insurance?
+Ans
+ A. Credit Access Life Insurance
+B. BimaPay Finsure
+C. JM Financial Mutual Fund
+D. Reliance Nippon Life Insurance
+Q.95 Who announced the ₹50,000 mass marriage incentive scheme for minorities in the
+Karnataka 2025–26 state budget?
+Ans
+ A. DK Shivakumar
+B. BS Yediyurappa
+C. Basavaraj Bommai
+D. Siddaramaiah
+"
+Q.96 What is the name of the Mega Disaster Management Drill conducted in the Delhi–NCR
+(National Capital Region) from 29 July to 1 August 2025?
+Ans
+ A. Exercise Suraksha Chakra
+B. Exercise Surakshit Bharat
+C. Exercise Raksha Kavach
+D. Exercise Disaster Mitra
+Q.97 Who set the world record for the farthest distance swum in 48 hours (female) in a 25 m
+pool, covering an astonishing 149.02 km (92.59 miles) in just 2 days?
+Ans
+ A. Karolina Szczepaniak
+B. Diana Nyad
+C. Sarah Thomas
+D. Katie Ledecky
+Q.98 What is the new domain to which all banks must migrate by October 31, 2025, as per
+the directive of the Reserve Bank of India?
+Ans
+ A. .rbi.in
+B. .bank.in
+C. .fin.in
+D. .gov.in
+Q.99 In 2025, a state-of-the-art automated healthcare machine, a self-service digital health
+kiosk for basic testing and diagnostics, was installed at Lucknow. What is it called?
+Ans
+ A. Med Kiosk
+B. e-Clinic Booth
+C. Health ATM
+D. Health Pod
+Q.100In 2025, the World Hindi Day was celebrated in India on which date?
+Ans
+ A. 10 January
+B. 21 February
+C. 9 May
+D. 17 February

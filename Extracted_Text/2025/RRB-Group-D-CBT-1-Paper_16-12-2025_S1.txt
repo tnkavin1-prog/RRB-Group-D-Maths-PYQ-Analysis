@@ -1,0 +1,776 @@
+Q.1 Which of the following statements is NOT correct?
+Ans
+ A. Reverberation helps improve clarity of sound.
+B. Reverberation is common in large halls with hard walls.
+C. Excessive reverberation can disturb speech.
+D. Reverberation occurs due to multiple reflections of sound.
+Q.2 How does surface area affect the rate of evaporation?
+Ans
+ A. Evaporation only occurs with liquids in closed containers
+B. Larger surface area increases evaporation
+C. Smaller surface area increases evaporation
+D. Surface area has no effect
+Q.3 Two resistors, R1  and R2, are connected in parallel. Their equivalent resistance is 5 Ω.
+When one of them is removed, the resistance of the circuit increases to 10 Ω. Which of
+the following is the correct value of the other resistor?
+Ans
+ A. 5 Ω
+B. 20 Ω
+C. 15 Ω
+D. 10 Ω
+Q.4 The discovery of which subatomic particle led to the development of Thomson's
+model?
+Ans
+ A. Neutron
+B. Proton
+C. Positron
+D. Electron
+Q.5 Which metal is placed at the starting of the reactivity series?
+Ans
+ A. Potassium
+B. Aluminium
+C. Gold
+D. Iron
+Test Date 16/12/2025
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following statements about sexual reproduction in animals is correct?
+Ans
+ A. Sexual reproduction involves the fusion of male and female gametes.
+B. All animals reproduce sexually during their entire life span.
+C. Sexual reproduction involves only one parent and produces identical offspring.
+D. Fertilisation in animals always occurs outside the female body.
+Q.7 A convex lens produces a magnification of (− 2), when an object is placed at a distance
+X cm from it. If the image distance is 40 cm, then what is the value of X?
+Ans
+ A. − 80 cm
+B. − 20 cm
+C. + 20 cm
+D. + 80 cm
+Q.8 Which of the following is NOT an example of a heterogenous mixture?
+Ans
+ A. Sand and salt
+B. Vinegar
+C. Water in oil
+D. Sand and sugar
+Q.9 Which type of compound is formed when sodium reacts with chlorine?
+Ans
+ A. Coordinate compound
+B. Covalent compound
+C. Metallic compound
+D. Ionic compound
+Q.10 Why clove oil is used as an olfactory indicator?
+Ans
+ A. It gives a different smell in acidic and basic medium.
+B. It gives a different colour in acidic and basic medium.
+C. Different colour effervescences are observed in acidic and basic medium.
+D. Vigorous fuming of different colours is observed in acidic and basic medium.
+Q.11 The centre of curvature of a concave mirror is:
+Ans
+ A. The point where parallel rays of light meet after reflection
+B. The point on the principal axis where image of an object at infinity is formed
+C. The midpoint of the mirror’s aperture
+D. The geometric centre of the spherical surface of which the mirror is a part
+Q.12 If a current of 4 A flows through a resistor of 50 Ω for 8 minutes, the heat produced is
+_________.
+Ans
+ A. 96 kJ
+B. 384 kJ
+C. 288 kJ
+D. 192 kJ
+Q.13 Which of the following is parenchyma type and present in aquatic plants, with large air
+cavities to help them float?
+Ans
+ A. Tracheid
+B. Chlorenchyma
+C. Companion cell
+D. Aerenchyma
+Q.14 Ozone protects the Earth from ________ radiation of the sun.
+Ans
+ A. gamma
+B. ultraviolet
+C. infrared
+D. cosmic
+Q.15 Which of the following statements is true about ligaments?
+Ans
+ A. Ligaments do not connect bones to bones and are very elastic.
+B. Ligaments are not highly flexible connective tissues connecting two bones.
+C. Ligaments connect muscles to bones and are highly flexible.
+D. Ligaments connect bones to bones and are very elastic with little matrix.
+Q.16 The correct order of reactivity of the following metals is:
+K, Mg, Al, Zn
+Ans
+ A. K > Al > Mg > Zn
+B. Mg > K > Zn > Al
+C. K > Mg > Al > Zn
+D. Zn > Mg > Al > K
+Q.17 Which of the following instruments is NOT based on Archimedes’ principle?
+Ans
+ A. Lactometer
+B. Ammeter
+C. Submarine
+D. Hydrometer
+Q.18 From the collected samples of the following solutions from the science laboratory, the
+correct acid-base pair may be categorised as:
+Ans
+ A. calcium hydroxide [Ca(OH)2] and potassium hydroxide (KOH)
+B. magnesium hydroxide [Mg(OH)2] and ammonium hydroxide (NH4OH)
+C. acetic acid (CH3COOH) and sodium hydroxide (NaOH)
+D. sulphuric acid (H2SO4) and nitric acid (HNO3)
+Q.19 Contraceptive devices such as the loop or the copper-T are placed in which part of the
+human body?
+Ans
+ A. Uterus
+B. Heart
+C. Ovary
+D. Kidney
+Q.20 Which of the following is NOT a membrane bound organelle in eukaryotic cells?
+Ans
+ A. Chromoplast
+B. Vacuole
+C. Lysosome
+D. Ribosome
+Q.21 If the velocity of an object changes from an initial value u to the final value v in time (t),
+then what will be the acceleration (a)?
+Ans
+ A. a = (v - u)/t
+B. a = (v - u)×t
+C. a = t/(v - u)
+D. a = v/(u - t)
+Q.22 In a running race, a boy starts at rest and reaches 60 m/s velocity in 5 min. If
+acceleration is uniform, the acceleration and distance covered by the boy during this
+period are _______ and _____, respectively.
+Ans
+ A. 12 m/s2 and 9000 m
+B. 0.2 m/s2 and 600 m
+C. 0.2 m/s2 and 9 km
+D. 20 m/s2 and 9 km
+Q.23 If the speed of an object is doubled, its kinetic energy ________.
+Ans
+ A. becomes four times
+B. remains the same
+C. becomes double
+D. becomes half
+Q.24 During inheritance studies, how many copies of the factor was proposed by Mendel,
+which was controlling traits present in sexually reproducing organisms?
+Ans
+ A. Two
+B. One
+C. Three
+D. Four
+Q.25 Which of the following cells change shape by changing the amount of water in them?
+Ans
+ A. Plant cell
+B. Cardiac muscle cell
+C. Striated muscle cell
+D. Smooth muscle cell
+Q.26 A dealer marks his goods at 50% above the cost price and allows a discount of 52% on
+the marked price. What is his loss percentage?
+Ans
+ A. 28%
+B. 27%
+C. 26%
+D. 29%
+Q.27 The mother of two sons is 20 years older than her elder son. Five years from now, the
+elder son will be twice as old as the younger son, and the ratio of their current ages is 3
+: 1. What is the current age (in years) of the mother?
+Ans
+ A. 40
+B. 25
+C. 35
+D. 30
+Section : Mathematics
+Q.28 The price of fuel decreases by 35%, 60% and 10% in three successive months but
+increases by 65% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price?
+Ans
+ A. Increases by 63.54%
+B. Decreases by 61.39%
+C. Decreases by 60.08%
+D. Increases by 67.46%
+Q.29 A byke travels 80 km at the speed of 40 km/hr and the next 30 km at the speed of 10
+km/hr. What is its average speed (in km/hr)?
+Ans
+ A. 28
+B. 16
+C. 26
+D. 22
+Q.30 If 20% of a number is added to 96, then the result is the same number. 80% of the same
+number is:
+Ans
+ A. 96
+B. 116
+C. 126
+D. 106
+Q.31
+Ans
+ A. 140
+B. 130
+C. 120
+D. 110
+Q.32
+Ans
+ A. 3287.43
+B. 3272.73
+C. 3200.75
+D. 3460.25
+Q.33 Zubeda’s income is ₹1,20,000. She spends 20% on accommodation, 35% on household
+expenses, and 25% on other activities. She saves the remaining amount. What are her
+total savings?
+Ans
+ A. ₹26,000
+B. ₹29,000
+C. ₹24,000
+D. ₹30,000
+Q.34 ₹3,596 is to be divided among three persons M, N and T. If the shares of M and N are in
+the ratio 6 : 8 and that of N and T are in the ratio 9 : 6, what is the share (in ₹) of N?
+Ans
+ A. 1,486
+B. 1,487
+C. 1,489
+D. 1,488
+Q.35
+Ans
+ A. 16x + 7
+B. −16x
+C. 8x + 7
+D. 7
+Q.36 Two banks, A and B, offered loans at 3.5% and 7.5% per annum, respectively. Nirmal
+borrowed an amount of ₹2,40,000 from each bank. Find the positive difference (in ₹)
+between the amounts of simple interest paid to the two banks by Nirmal after 2 years.
+Ans
+ A. 18,700
+B. 19,200
+C. 20,700
+D. 20,200
+Q.37 Find the smallest number to be added to 1000 so that 45 divides the sum exactly.1265
+Ans
+ A. 25
+B. 10
+C. 35
+D. 30
+Q.38 Which of the following ratios is equivalent to 5 : 3?
+Ans
+ A. 53 : 31
+B. 125 : 85
+C. 48 : 33
+D. 50 : 30
+Q.39 A shopkeeper buys a toy for ₹200 and sells it for ₹280. What is his profit percentage?
+Ans
+ A. 40%
+B. 30%
+C. 45%
+D. 35%
+Q.40 One pipe can fill a tank in 8 minutes, while another pipe can empty the completely filled
+tank in 16 minutes. If both the pipes are opened together when the tank is empty, how
+many minutes will it take to fill one-half of the tank?
+Ans
+ A. 9
+B. 17
+C. 8
+D. 16
+Q.41 A hole can empty a full tank in 1 hour. To maintain the level of water in the tank, 3 filling
+pipes of equal efficiency are required. How many more such filling pipes are required
+so that an empty tank gets filled in 3 hours?
+Ans
+ A. 2
+B. 0
+C. 1
+D. 3
+Q.42 Two trains, 163 m and 117 m long, are moving in the same direction at speeds of 93
+km/hr and 33 km/hr, respectively. How much time will the faster train take to completely
+cross the slower one?
+Ans
+ A. 8 seconds
+B. 18 seconds
+C. 15 seconds
+D. 16.8 second
+Q.43
+Ans
+ A. 152
+B. 148
+C. 158
+D. 162
+Q.44 A solid wooden cuboid of dimensions 60 cm × 45 cm × 30 cm is cut completely into
+smaller cubes of side 5 cm each. Find the number of smaller cubes formed.
+Ans
+ A. 584
+B. 622
+C. 920
+D. 648
+Q.45 The arithmetic mean of the observations 35, 26, 56, 41, 56, 46, 34, 16 and 68 is:
+Ans
+ A. 43
+B. 39
+C. 42
+D. 50
+Q.46 P is any point inside the rectangle ABCD. If PA = 87 cm, PB = 12 cm and PC = 96 cm,
+then the length of PD (in cm) is equal to:
+Ans
+ A. 124
+B. 126
+C. 129
+D. 130
+Q.47 The cost price of a box of marker is ₹3,300. The shopkeeper gives 75% of discount on
+the cost price. What will be the selling price (in ₹)?
+Ans
+ A. 883
+B. 812
+C. 825
+D. 865
+Q.48 The value of 
+  is:
+Ans
+ A. 100
+B. 1
+C. 0.44
+D. 10
+Q.49 2 pens and 3 pencils cost ₹35, and 3 pens and 2 pencils cost ₹40. Find the cost of 3
+pencils.
+Ans
+ A. ₹30
+B. ₹12
+C. ₹18
+D. ₹15
+Q.50
+Ans
+ A. 7/5
+B. 2/5
+C. 9/5
+D. 4/5
+Q.51 If ‘E’ stands for ‘+’, ‘F’ stands for ‘-’, ‘G’ stands for ‘×’ and ‘H’ stands for ‘÷’, what will
+come in place of question mark ‘?’ in the following equation?
+50 E 36 H 6 F 8 G 2 = ?
+Ans
+ A. 44
+B. 40
+C. 42
+D. 38
+Q.52 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+QCW, SDU, UES, WFQ, ?
+Ans
+ A. XGP
+B. YHP
+C. XHO
+D. YGO
+Q.53 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All teas are golds.
+No tea is a helmet.
+Conclusions:
+(I): Some helmets are golds.
+(II): All golds are helmets.
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Only conclusion (I) follows
+C. Only conclusion (II) follows
+D. Both conclusions (I) and (II) follow
+Section : General Intelligence and Reasoning
+Q.54 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All hammers are jacks.
+All hammers are metals.
+Conclusions:
+(I) Some jacks are metals.
+(II) All metals are hammers.
+Ans
+ A. Only conclusion (II) follows.
+B. Only conclusion (I) follows.
+C. Neither conclusion (I) nor (II) follows.
+D. Both conclusions (I) and (II) follow.
+Q.55 Town P is to the west of Town Q. Town R is to the north of Town P. Town S is to the east
+of Town R. Town T is to the south of Town S. Town Q is to the southeast of Town T.
+What is the position of Town P with respect to Town T?
+Ans
+ A. Southeast
+B. Northwest
+C. Southwest
+D. Northeast
+Q.56 WPGB is related to AKKW in a certain way based on the English alphabetical order. In
+the same way, MVWH is related to QQAC. To which of the following options is YGIS
+related, following the same logic?9954
+Ans
+ A. CBMN
+B. CNJI
+C. CBMJ
+D. CBNJ
+Q.57 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+441 D 444 C 21 A 21 B 441 = ?
+Ans
+ A. 525
+B. 450
+C. 665
+D. 438
+Q.58 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+CER121, IKX98, OQD75, UWJ52, ?
+Ans
+ A. BCP29
+B. ACP29
+C. ADP29
+D. ACQ29
+Q.59 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(5, 28, 15)
+(29, 102, 17)
+Ans
+ A. (4, 20, 5)
+B. (7, 34, 10)
+C. (37, 115, 1)
+D. (47, 142, 3)
+Q.60 Seven boxes M, N, O, P, Q, R and S are kept one over the other but not necessarily in
+the same order. Only two boxes are kept between M and O. Only N is kept above S. No
+box is kept below O. R is kept at some place below P but at some place above Q. Which
+box is kept third above Q?
+Ans
+ A. S
+B. N
+C. P
+D. M
+Q.61 All 20 students in a class are standing in a row facing north. Raveena is 10th from the
+right end while Deepa is 4th from the left end. How many people stand between
+Raveena and Deepa?
+Ans
+ A. 5
+B. 8
+C. 7
+D. 6
+Q.62 A group of numbers/symbols is coded using letter codes as per the codes given below
+and the conditions that follow. The correct combination of codes following the
+conditions is your answer.
+Note: If none of the conditions apply, then the codes for the respective number/symbol
+are to be followed directly as given in the table.
+Conditions:
+(i) If the first element is a symbol and the last element a perfect square, the codes for
+these two (the first and last elements) are to be interchanged.
+(ii) If both the second and third elements are symbols, the third element is to be coded
+as the code for the second element.
+(iii) If the first element is a symbol and the fourth element is an odd number, the first
+and fourth elements are to be coded as ©.
+What will be the code for the following group?
+% 5 * 7 $
+Ans
+ A. © J F © E
+B. © J F S ©
+C. E J F S U
+D. U J J S E
+Q.63 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will
+come in place of the question mark (?) in the following equation?
+36 B 39 A 39 D 48 C 20 = ?
+Ans
+ A. 7
+B. 10
+C. 9
+D. 8
+Q.64 Seven people B, C, D, I, J, K, and L are sitting around a circular table facing the centre
+of the table. L sits third to the left of I. Only one person sits between K and B, when
+counted from the left of B. C sits third to the right of D. C sits to the immediate right of
+L. J is not an immediate neighbour of L. How many people sit between J and B, when
+counted from the right of J?
+Ans
+ A. Three
+B. Two
+C. One
+D. Four
+Q.65 Refer to the following series and answer the question (all numbers are single digit
+numbers only). Counting to be done from Left to Right only.
+(Left) 5 8 7 7 6 3 5 4 8 8 6 2 5 9 2 7 2 4 4 9 9 (Right)
+How many such odd digits are there each of which is immediately preceded by a
+perfect square and also immediately followed by an odd digit?4101
+Ans
+ A. Three
+B. One
+C. Two
+D. Four
+Q.66 Refer to the following number and symbol series and answer the question that follows
+(all numbers are single-digit numbers only). Counting to be done from left to right only.
+(Left) 1 5 7 8 = 6 9 2 + 5 7 3 % 7 8 $ 4 1 5 # 8 @ & 4 9 6 (Right)
+How many such symbols are there, each of which is immediately preceded by an odd
+number and also immediately followed by an even number?516
+Ans
+ A. Four
+B. Two
+C. Three
+D. One
+Q.67 Refer to the following number, symbol series and answer the question. Counting to be
+done from left to right only. All numbers are single-digit numbers.
+(Left) 3 & 6 © 3 6 © € % 6 & 4 9 5 4 % € £ $ % 9 1 (Right)
+How many such numbers are there each of which is immediately preceded by a symbol
+and also immediately followed by a symbol?
+Ans
+ A. 3
+B. 4
+C. 2
+D. 1
+Q.68 What should come in place of the question mark (?) in the given series?
+221 223 227 233 241 ?
+Ans
+ A. 253
+B. 255
+C. 249
+D. 251
+Q.69 What should come in place of the question mark (?) in the given series?
+88 91 97 106 118 ?
+Ans
+ A. 133
+B. 135
+C. 131
+D. 125
+Q.70 In the following triad, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one which follows the same logic.
+SINK - ISNK - KISN
+PLAY - LPAY - YLPA
+Ans
+ A. WAIT - WIAT - TIAW
+B. NAME - ANME - EAMN
+C. READ - ERAD - DERA
+D. YOUR - OYUR - OURY
+Q.71 Seven people, A, B, C, D, E, F and G, are sitting in a row, facing the north.
+Only two people sit to the left of A. Only three people sit between A and G. D sits
+second to the right of A. Only two people sit between D and C. E sits at some place to
+the right of F but at some place to the left of B.
+How many people sit to the right of C?
+Ans
+ A. 2
+B. 4
+C. 3
+D. 5
+Q.72 In a certain code language,
+P + Q means ‘P is the mother of Q’,
+P # Q means ‘P is the sister of Q’,
+P & Q means ‘P is the brother of Q’ and
+P % Q means ‘P is the father of Q’.
+How is D related to W if ‘D & E # F % L & W’?
+Ans
+ A. Father's brother
+B. Mother's father
+C. Mother's brother
+D. Father's mother
+Q.73 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. KP – ML
+B. DM – FI
+C. LS – JO
+D. RJ – TF
+Q.74 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. IL - FI
+B. OR - LO
+C. QT - NP
+D. MP - JM
+Q.75 Six people, A, B, C, D, E and F, are sitting in a row, facing north. Only two people sit to
+the left of E. Only one person sits between A and C. F sits to the immediate left of E. A
+sits to the immediate right of D. C sits third to the right of B.
+Who sits at the extreme left end of the row?
+Ans
+ A. D
+B. C
+C. E
+D. B
+Q.76 In a certain code language, ‘shirt mug care’ is coded as 'eu cp zi' and ‘zebra shirt ghost’
+is coded as ‘cp eb il’. How is ‘shirt’ coded in the given language?
+Ans
+ A. cp
+B. eu
+C. eb
+D. zi
+Q.77 Refer to the given series and answer the question that follows (all numbers are single
+digit numbers only). Counting to be done from left to right only.
+(Left) 5 6 6 4 1 8 4 9 6 4 9 7 2 2 7 1 4 1 8 7 3 (Right)
+How many such odd digits are there, each of which is immediately preceded by an even
+digit and also immediately followed by an odd digit?
+Ans
+ A. 2
+B. 1
+C. 3
+D. 4
+Q.78 Aditya starts from Point A and drives 10 km towards the north. He then takes a right
+turn, drives 10 km, turns right and drives 20 km. He then takes a right turn and drives
+10 km. He takes a final right turn, drives 3 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90 degrees turns only, unless specified.)
+Ans
+ A. 3 km towards west
+B. 9 km towards south
+C. 7 km towards east
+D. 7 km towards north
+Q.79 What should come in place of the question mark (?) in the given series?
+273 274 266 267 259 260 ?
+Ans
+ A. 253
+B. 252
+C. 251
+D. 250
+Q.80 VK 12 is related to ZP 16 in a certain way. In the same way, RG 15 is related to VL 19. To
+which of the following is MB 24 related, following the same logic?
+Ans
+ A. QG 28
+B. PJ 28
+C. SG 29
+D. PH 29
+Q.81 The 10th Governing Council Meeting of NITI Aayog on 24 May 2025 was held in which
+city of India?
+Ans
+ A. Jaipur
+B. Mumbai
+C. Surat
+D. New Delhi
+Q.82 What is the name of India’s proposed space station?
+Ans
+ A. Vyom Station
+B. Bharatiya Antariksh Station
+C. Indian Orbital Base Station
+D. ISRO Sky Lab Station
+Q.83 In 2025, which ministry of the Government of India organised Swachh Vayu Sarvekshan
+for ranking air quality in Indian cities?
+Ans
+ A. Ministry of Home Affairs
+B. Ministry of Finance
+C. Ministry of Environment
+D. Ministry of Education
+Q.84 What is the new upper limit for no personal income tax payable under the new tax
+regime as per Union Budget 2025–26?
+Ans
+ A. ₹11 lakh
+B. ₹13 lakh
+C. ₹12 lakh
+D. ₹10 lakh
+Q.85 Which Paralympic swimmer won a Laureus award in 2025 for disability sport?
+Ans
+ A. Anna Grimaldi
+B. Chloe Kim
+C. Jiang Yuyan
+D. Yuto Horigome
+Q.86 What was the name of the new Indian Army Research Cell inaugurated at IIT Madras in
+August 2025?
+Ans
+ A. Agnishodh
+B. Agnivira
+C. Agni Kavach
+D. Agnipath
+Section : General Awareness and Current Affairs
+Q.87 In which city were the Khelo India Para Games 2025, a significant event under the Khelo
+India scheme, held?
+Ans
+ A. New Delhi
+B. Kolkata
+C. Mumbai
+D. Chennai
+Q.88 On which date was World Malaria Day 2025 observed with the theme Malaria Ends with
+Us: Reinvest, Reimagine, Reignite?
+Ans
+ A. May 5
+B. April 25
+C. April 10
+D. March 22
+Q.89 Which of the following has been declared a Tiger Reserve in 2025?
+Ans
+ A. Parambikulam Tiger Reserve
+B. Ranipur Tiger Reserve
+C. Madhav Tiger Reserve
+D. Dholpur – Karauli Tiger Reserve
+Q.90 Which Indian Navy ships took part in Operation Brahma in March 2025?
+Ans
+ A. INS Vikramaditya and INS Vishal
+B. INS Vikrant and INS Arihant
+C. INS Chennai and INS Kesari
+D. INS Satpura and INS Savitri
+Q.91 Who set a new world record by becoming the first man to cross 75 metres in discus
+throw at the World Athletics Continental Tour in Ramona, April 2025?
+Ans
+ A. Kristjan Čeh
+B. Gerd Kanter
+C. Mykolas Alekna
+D. Robert Harting
+Q.92 With which government did the Ministry of Environment, Forest and Climate Change
+sign a Memorandum of Cooperation on Joint Crediting Mechanism (JCM) under Article
+6.2 of the Paris Agreement on Climate Change, in August 2025?
+Ans
+ A. Japan
+B. Germany
+C. Belgium
+D. Brazil
+Q.93 As of July 2025, what was the total quantity of narcotics seized in Jammu & Kashmir
+since 2018, under the Narcotic Drugs and Psychotropic Substances Act (NDPSA)?
+Ans
+ A. 19,353 kg
+B. 1,12,000 kg
+C. 87,713 kg
+D. 27,000 kg
+"
+Q.94 As per the Economic Survey 2024–25, which scheme electrified over 18,000 villages in
+rural India?
+Ans
+ A. Deen Dayal Upadhyaya Gram Jyoti Yojana (DDUGJY)
+B. Ujwal Discom Assurance Yojana (UDAY)
+C. Pradhan Mantri Nayi Roshni Yojana (PMNRY)
+D. Unnat Jyoti by Affordable LEDs for All (UJALA)
+Q.95 In 2025, why did National Bank for Agriculture and Rural Development (NABARD) and
+Indian Council of Agricultural Research (ICAR) sign an agreement?
+Ans
+ A. To train people for emergencies
+B. To study city temperatures
+C. To launch online banking websites
+D. To improve farming that can handle climate change
+Q.96 Who among the following was awarded the Arjuna Award in 2025 for their performance
+in para-athletics?
+Ans
+ A. Deepthi Jeevanji
+B. Harmanpreet Singh
+C. Manu Bhaker
+D. Gukesh D
+Q.97 The Indian Navy’s home-built Shivalik-class stealth frigate equipped with guided
+missiles that took part in the JAIMEX-25 naval exercise held from 16 to 18 October 2025
+was ______.
+Ans
+ A. INS Sahyadri
+B. INS Shivalik
+C. INS Satpura
+D. INS Kolkata
+Q.98 In June 2025, with which of the following countries did Kolkata-based Garden Reach
+Shipbuilders and Engineers Limited (GRSE) sign an MoU to build the India’s first ever
+Polar Research Vessel (PRV) indigenously?
+Ans
+ A. Austria
+B. Belgium
+C. Malta
+D. Norway
+Q.99 Which of the following two countries hosted the Second G20 Anti-Corruption Working
+Group in June 2025?
+Ans
+ A. Indonesia and Brazil
+B. Brazil and South Africa
+C. India and South Africa
+D. South Africa and Germany
+Q.100In 2025, which of the following new mottos was adopted by the Lokpal of India?
+Ans
+ A. Transparency for All
+B. Empower Citizens, Expose Corruption
+C. Fight Corruption, Build Nation
+D. Integrity is Strength

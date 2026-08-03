@@ -1,0 +1,780 @@
+Q.1 When a raised hammer falls on a nail and drives it into wood, the work done by the
+force of the hammer on the nail is positive. In this same scenario, which statement
+would describe negative work?
+Ans
+ A. The work done by the force of gravity acting on the nail as it moves into the wood.
+B. The work done by the force exerted by the nail on the hammer.
+C. The work done by the potential energy stored in the hammer.
+D. The work done by the force of gravity acting on the hammer as it falls.
+Q.2 Which device relies on the heating effect of current to protect circuits and appliances
+by intentionally melting to break the circuit when the current exceeds a specified limit?
+Ans
+ A. Electric iron coil
+B. Electric bulb filament
+C. Rheostat
+D. Electric fuse
+Q.3
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.4 Spring balance A is attached at one end to spring balance B, whose other end is fixed to
+a rigid support. A force is applied to the free end of spring balance A. Both balances
+show the same reading. What does this observation indicate?
+Ans
+ A. Both balances exert forces in the same direction.
+B. The force exerted by A on B is equal and opposite to the force exerted by B on A.
+C. Only spring balance A exerts force on B.
+D. The force exerted by A on B is greater than that by B on A.
+Q.5 Which of the following statements correctly describes plastids in plant cells?
+Ans
+ A. They are present only in animal cells and absent in plant cells
+B. They are found in prokaryotic cells like bacteria for photosynthesis
+C. They are present in both plant and animal cells in equal amount
+D. They are present only in plant cells and absent in animal cells
+Test Date 24/12/2025
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which combination reaction also demonstrates the neutralisation of atmospheric
+pollution components?
+Ans
+ A. CaO + CO₂  → CaCO₃ 
+B. CO + O₂  → CO₂ 
+C. SO₂  + H₂ O → H₂ SO₃ 
+D. Fe + S → FeS
+Q.7 What is the nature of the distance-time graph for an object in non-uniform motion?
+Ans
+ A. A curved line
+B. A horizontal line
+C. A straight line
+D. A vertical line
+Q.8 Which of the following happens when the distances between roots and leaves become
+large in plants?
+Ans
+ A. Diffusion becomes insufficient.
+B. Diffusion becomes faster.
+C. More chlorophyll is produced.
+D. Roots absorb no water.
+Q.9 Which of the following statements is correct about gravitational force?
+Ans
+ A. It depends on the medium between the objects.
+B. It depends on the charge of the objects.
+C. It can be both attractive and repulsive.
+D. It is always attractive in nature.
+Q.10 Alloys, air, lemonade, and soda water are examples of which of the following categories
+of solutions?
+Ans
+ A. Suspension
+B. Colloids
+C. Heterogeneous mixture
+D. Homogeneous mixture
+Q.11 Which of the following rules determines the direction of the magnetic field produced by
+a current carrying circular loop?
+Ans
+ A. Fleming's Right-Hand rule
+B. Left-Hand Thumb rule
+C. Right-Hand Thumb rule
+D. Fleming's Left-Hand rule
+Q.12 After fertilisation, when other parts of the flower fall off, the ovary grows into what
+form?
+Ans
+ A. Pollen tube
+B. Style
+C. Fruit
+D. Anther
+Q.13 What is the relationship between the radius of curvature and the focal length for
+spherical mirrors with small apertures?
+Ans
+ A. Radius of curvature is equal to twice the focal length
+B. Radius of curvature is equal to the focal length
+C. Radius of curvature is equal to half the focal length
+D. Radius of curvature is equal to thrice the focal length
+Q.14 Which of the following is a use of washing soda?
+Ans
+ A. Used in treatment of hot water
+B. Removes the hardness of water
+C. Used to kill bacteria in water
+D. Used in cooking
+Q.15 Formula unit mass is defined as:
+Ans
+ A. the sum of atomic masses of all atoms in a formula unit of an ionic compound
+B. the atomic mass of the lightest element
+C. the mass of one molecule
+D. the molecular mass of a compound
+Q.16 Why does the uterine lining become thick and spongy every month?
+Ans
+ A. To support egg development
+B. To prevent menstruation
+C. To absorb nutrients
+D. To nourish the embryo if fertilisation occurs
+Q.17 Which two properties of carbon are mainly responsible for the formation of a large
+number of carbon compounds?
+Ans
+ A. Tendency to form ionic bonds and lose electrons
+B. Metallic character and conductivity
+C. High atomic mass and large atomic size
+D. Tetravalency and catenation
+Q.18 Which process must accompany DNA copying to ensure the formation of functional
+daughter cells?
+Ans
+ A. Creation of additional cellular apparatus
+B. Protein synthesis only
+C. Chromosomal mutation
+D. RNA transcription only
+Q.19 Which of the following statements best describes the properties of a liquid?
+Ans
+ A. No fixed shape, fixed volume
+B. Fixed shape, no fixed volume
+C. Fixed shape, fixed volume
+D. No fixed shape, no fixed volume
+Q.20 Which of the following organisms will accumulate maximum concentration of DDT?
+Ans
+ A. Human
+B. Goat
+C. Grass
+D. Spider
+Q.21 Which of the following statements about epithelial tissue is correct?
+Ans
+ A. Epithelial tissue cells have large intercellular spaces and form a loose sheet.
+B. Epithelial tissue does not play any role in material exchange in the body.
+C. Epithelial tissue mainly connects bones and muscles.
+D. Epithelial tissue forms a protective covering and regulates material exchange.
+Q.22 What is the primary goal of reducing non-biodegradable waste production?
+Ans
+ A. To make more space available in landfills
+B. To conserve natural resources and minimise pollution
+C. To recycle the waste
+D. To promote industrial growth
+Q.23 A chemical reaction in which two or more substances combine to form a single product
+is called:
+Ans
+ A. combination reaction
+B. displacement reaction
+C. double displacement reaction
+D. decomposition reaction
+Q.24 The combining capacity of an element to each other primarily depends on which of the
+following?
+Ans
+ A. Number of protons
+B. Number of valence electrons
+C. Number of energy level
+D. Number of neutrons
+Q.25 When an object is placed at infinity in front of a convex lens, the image formed is:
+Ans
+ A. At 2F, real and of same size
+B. At the optical centre, virtual and enlarged
+C. Between F and 2F, real and inverted
+D. At the focus (F), real and highly diminished
+Q.26 If a2 − b2 = 21 and a − b = 3, what is a + b?
+Ans
+ A. 7
+B. 6
+C. 8
+D. 5
+Q.27 Two trains are running on parallel tracks towards each other. Train A is 250 meters long
+and is moving at a speed of 90 km/h. Train B is 150 meters long and is moving at a
+speed of 60 km/h. How much time (rounded off to the nearest seconds) will it take for
+Train A to completely pass Train B?
+Ans
+ A. 15 seconds
+B. 10 seconds
+C. 12 seconds
+D. 20 seconds
+Q.28 The sum of two numbers is 50 and their LCM is 429. The two numbers are:2607
+Ans
+ A. 11, 39
+B. 4, 46
+C. 16, 34
+D. 9, 41
+Section : Mathematics
+Q.29 A pen is purchased for ₹40 and sold for ₹50. Find the profit percentage.
+Ans
+ A. 25%
+B. 20%
+C. 35%
+D. 22%
+Q.30 The cost price of a whiteboard is ₹2,800. The shopkeeper gave 87% of discount on the
+cost price. What is the selling price (in ₹)?
+Ans
+ A. 364
+B. 316
+C. 526
+D. 399
+Q.31
+Ans
+ A. 25
+B. 41
+C. 45
+D. 31
+Q.32 If the fourth proportion to 17, X and 7 is 91, then find the value of X.4887
+Ans
+ A. 222
+B. 221
+C. 218
+D. 219
+Q.33 The amount on a sum of ₹7,800 at 20% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹11,730
+B. ₹11,232
+C. ₹10,795
+D. ₹10,914
+Q.34 A, B and C can do a piece of work in 3, 2 and 6 days, respectively. How long (in days)
+will they take to do twice the same work, working together?
+Ans
+ A. 4
+B. 2
+C. 3
+D. 6
+Q.35 A building is at a distance of 108 feet from point A on the ground. The angle of elevation
+of the top of the building from point A is θ. If tan θ = 4/3, then find the height (in feet) of
+the building.
+Ans
+ A. 144
+B. 135
+C. 140
+D. 138
+Q.36 The average age of 30 students of a class is 12 years. If the age of the teacher is also
+included, the average age of the whole group becomes 13 years. The age (in years) of
+the teacher is:
+Ans
+ A. 46
+B. 44
+C. 45
+D. 43
+Q.37 Three solid metallic cubes of sides 2 cm, 12 cm and 16 cm are melted to form a new
+cube. Find the surface area of the cube so formed.
+Ans
+ A. 1944 cm2
+B. 944 cm2
+C. 1644 cm2
+D. 1744 cm2
+Q.38 A solid metallic cylinder of radius 4 cm and height 6 cm is melted and recast into
+smaller solid cylinders of radius 2 cm and height 3 cm. Find the ratio of the total surface
+areas of one small cylinder to the original cylinder.
+Ans
+ A. 1 : 4
+B. 2 : 5
+C. 1 : 3
+D. 1 : 8
+Q.39 A man receives ₹7,700 per month as salary. He saves 25% of his salary every month. His
+expenditure per month is:
+Ans
+ A. ₹5,856
+B. ₹5,832
+C. ₹5,761
+D. ₹5,775
+Q.40 The monthly incomes of two friends Manjit and Keshav are in the ratio 5 : 9 respectively
+and each of them saves ₹48,000 every month. If the ratio of their monthly expenditure is
+1 : 3, then find the monthly income of Manjit (in ₹).
+Ans
+ A. 80,000
+B. 79,000
+C. 1,12,000
+D. 81,000
+Q.41 The average of the marks of 12 students in a class is 36. If the marks of each student
+are doubled, find the new average?
+Ans
+ A. 72
+B. 36
+C. 24
+D. 12
+Q.42 In an examination there are 150 questions and 4 marks are given for every correct
+answer and 1 mark is deducted for every wrong answer. A candidate attempted all 150
+questions and scored 250 marks. Find the number of questions he answered correctly.
+Ans
+ A. 50
+B. 70
+C. 80
+D. 60
+Q.43
+4306
+Ans
+ A. 15
+B. 18
+C. 12
+D. 21
+Q.44 A girl goes to school at a speed of 20 km/h. She comes back with a speed of 12 km/h.
+Find her average speed for the whole journey.
+Ans
+ A. 15 km/h
+B. 14 km/h
+C. 16 km/h
+D. 17 km/h
+Q.45 The number of prime numbers between 308 and 320 is:
+Ans
+ A. 1
+B. 6
+C. 7
+D. 3
+Q.46 The sides of a triangle are 90 cm, 11 cm and 97 cm. What is the length of its altitude
+corresponding to the side with the length of 11 cm?
+Ans
+ A. 97 cm
+B. 105 cm
+C. 72 cm
+D. 31 cm
+Q.47 ₹8,413 is divided among S, B, and C in such a way that if ₹32, ₹60, and ₹71 are deducted
+from their respective shares, they have money in the ratio 5:11:14. Find the difference
+between the actual shares of B and C.
+Ans
+ A. ₹775
+B. ₹836
+C. ₹925
+D. ₹675
+Q.48 The price of fuel decreases by 30%, 40% and 45% in three successive months, but
+increases by 65% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price? (Round off your
+answer to two decimal places.)
+Ans
+ A. Increases by 67.69%
+B. Decreases by 63.43%
+C. Increases by 66.65%
+D. Decreases by 61.89%
+Q.49 The present ages of Rohit and his father are in the ratio 2 : 5. Four years from now, the
+ratio of their ages will become 12 : 27. What was the father's age (in years) five years
+ago from now?
+Ans
+ A. 45
+B. 48
+C. 50
+D. 52
+Q.50 Dolly goes to a shop to purchase a toy bus priced at ₹5,300. She is offered 4 discount
+options by the shopkeeper. Which of the following options should she opt for to gain
+maximum advantage of the discount offered?
+Ans
+ A. Two successive discounts of 43% and 38%
+B. Single discount of 47%
+C. Two successive discounts of 21% each
+D. Two successive discounts of 7% and 7%
+Q.51 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All ships are eggs.
+Some eggs are pencils.
+All coins are ships.
+Conclusions:
+(I): Some ships are pencils.
+(II): Some eggs are coins.6376
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Both conclusions (I) and (II) follow
+C. Only conclusion (II) follows
+D. Only conclusion (I) follows
+Q.52 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some dolphins are whales.
+Some whales are sharks.
+Conclusions:
+(I) Some dolphins are sharks.
+(II) No whale is a dolphin.
+Ans
+ A. Neither conclusion (I) nor (II) follows.
+B. Only conclusion (I) follows.
+C. Both conclusions (I) and (II) follow.
+D. Only conclusion (II) follows.
+Q.53 Refer to the given following number, symbol series and answer the question that
+follows. Counting to be done from left to right only. All numbers are single-digit
+numbers.
+(Left) $ # @ * & € # 8 * 9 8 2 $ & $ 6 1 2 1 7 5 @ (Right)
+How many such symbols are there, each of which is immediately preceded by a number
+and also immediately followed by a symbol?
+Ans
+ A. 1
+B. 4
+C. 3
+D. 2
+Section : General Intelligence and Reasoning
+Q.54 Refer to the following series and answer the question the follows. (All numbers are
+single digit numbers only.) Counting to be done from left to right only.
+(Left) 9 5 2 4 6 5 9 9 5 3 5 5 1 7 6 3 8 5 1 4 4 5 5 9 8 8 9 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 4
+B. 2
+C. 1
+D. 3
+Q.55 BQVH is related to HLZE in a certain way. In the same way, HSJQ is related to NNNN. To
+which of the following is JOWF related, following the same logic?
+Ans
+ A. QKAD
+B. PJAC
+C. QJBD
+D. PKBC
+Q.56 In a certain code language, ‘give me more’ is coded as ‘bt lq nz’ and ‘give more water’ is
+coded as ‘hj bt nz’. How is ‘water’ coded in that language?
+Ans
+ A. hj
+B. bt
+C. nz
+D. lq
+Q.57 This question is based on the five, three-digit numbers given below.
+(Left) 658 223 661 257 666 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+Note: All operations to be done from left to right.
+What will be the resultant if the second digit of the highest number is added to the third
+digit of the lowest number?
+Ans
+ A. 14
+B. 11
+C. 9
+D. 12
+Q.58 In a certain code language,
+P + Q means ‘P is the mother of Q’,
+P # Q means ‘P is the husband of Q’,
+P & Q means ‘P is the sister of Q’ and
+P % Q means ‘P is the father of Q’.
+How is J related to Z if ‘J # S + R & T % Z’?
+Ans
+ A. Father’s mother
+B. Father’s father
+C. Mother's father
+D. Mother's mother
+Q.59 Six people, A, B, C, D, E and F, are sitting in a row, facing the north. A sits third to the
+left of E. E sits second to the left of F. D sits to the immediate right of E. B sits to the
+immediate left of C.
+How many people sit between C and F?
+Ans
+ A. Two
+B. Three
+C. One
+D. None
+Q.60 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding /
+subtracting / multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and
+then performing mathematical operations on 1 and 3 is not allowed.)
+(25, 12, 148)
+(32, 11, 172)
+Ans
+ A. (19, 35, 214)
+B. (40, 13, 210)
+C. (24, 14, 154)
+D. (38, 15, 212)
+Q.61 If ‘A’ stands for ‘×’, ‘B’ stands for ‘÷’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+16 B 4 D 8 A 3 C 28 A 2 = ?
+Ans
+ A. 40
+B. 36
+C. 38
+D. 35
+Q.62 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)       
+Ans
+ A. YCD
+B. XAC
+C. TWY
+D. HKM
+Q.63 What should come in place of the question mark (?) in the given series?
+100 70 45 25 10 ?
+Ans
+ A. 0
+B. −1
+C. 1
+D. 5
+Q.64 Piyush starts from Point A and drives 54 km towards the north. He then takes a right
+turn, drives 56 km, turns right and drives 59 km. He then takes a right turn and drives 61
+km. He takes a final right turn, drives 5 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only unless specified.)
+Ans
+ A. 6 km to the west
+B. 3 km to the east
+C. 7 km to the west
+D. 5 km to the east
+Q.65 Which of the following letter-clusters will replace the question mark (?) in the given
+series to make it logically complete?
+EZC, IDG, MHK, QLO, ?
+Ans
+ A. UPR
+B. UPS
+C. UQR
+D. UQS
+Q.66 Z ranked 12th from the bottom and 56th from the top in his class. How many students
+are there in his class?
+Ans
+ A. 65
+B. 67
+C. 68
+D. 66
+Q.67 What should come in place of the question mark (?) in the given series?
+11 14 8 17 ? 20
+Ans
+ A. 16
+B. 10
+C. 5
+D. 12
+Q.68 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)       
+Ans
+ A. NR - KO
+B. EI - BF
+C. JN - GK
+D. PT - MR
+Q.69 What should come in place of the question mark (?) in the given series?
+1 2 6 7 16 ?
+Ans
+ A. 21
+B. 17
+C. 18
+D. 15
+Q.70 Refer to the given series and answer the question that follows. (All numbers are single
+digit numbers only.) Counting to be done from left to right only.
+(Left) 3 1 2 6 9 8 1 3 4 1 6 9 5 1 1 5 9 9 4 2 7 7 8 3 9 8 8 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 6
+B. 5
+C. 7
+D. 4
+Q.71 Seven friends D, E, F, U, V, W and X are sitting in a straight line facing the north. Only
+two people are seated to the left of E. Only three people are seated between E and W.
+Only one person is seated between W and V. U is seated to the immediate left of D. F is
+not an immediate neighbor of W. How many people are seated to the right of X?11039
+Ans
+ A. Three
+B. Two
+C. One
+D. Four
+Q.72 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+GIK−JLN
+CEG−FHJ
+Ans
+ A. XZB−ACE
+B. XYZ−ZBD
+C. XYZ−ACE
+D. XZB−ZCD
+Q.73 Priyanka walks to her uncle’s house. She starts walking from her house towards the
+north for 3 m, turns left, and walks for 4 m. She then takes a left turn and walks for 5 m.
+Next, she takes a right turn and walks for 1 m. Finally, she takes a right turn and walks
+for 2 m to reach her uncle’s house.
+How far and in which direction is her house from her uncle’s house?
+Ans
+ A. 3 m towards the west
+B. 4 m towards the north
+C. 7 m towards the east
+D. 5 m towards the east
+Q.74 Six friends, G, H, I, Q, R and S, are sitting around a circular table facing the centre of the
+table. Only two people sit between Q and I when counted from the left of I. H sits second
+to the left of S. R sits to the immediate right of S. R sits to the immediate left of Q. Who
+sits third to the right of G?
+Ans
+ A. S
+B. R
+C. Q
+D. H
+Q.75 Mr. Akte ranked 12th from the bottom and 56th from the top in his class. How many
+students are there in his class?
+Ans
+ A. 67
+B. 68
+C. 65
+D. 66
+Q.76 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+KJN 72 RQU 63 YXB 54 FEI 45 ?
+Ans
+ A. MUD 35
+B. MMO 36
+C. MLP 36
+D. MKO 35
+Q.77 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+12 D 10 C 5 B 21 A 3 = ?
+Ans
+ A. 36
+B. 32
+C. 37
+D. 31
+Q.78 In the following triads, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one which follows the same logic.
+GATE - ETGA - GTAE
+PRAY - YAPR - PARY
+Ans
+ A. JOIN - OIJN - OINJ
+B. MODE - EDMO - ODME
+C. USER - REUS - UESR
+D. GUNS - GNUS - SNUG
+Q.79 If 1 is added to each odd digit and 2 is subtracted from each even digit in the number
+6318547, then what will be the difference between the highest and lowest digits in the
+new number thus formed?
+Ans
+ A. 5
+B. 1
+C. 3
+D. 6
+Q.80 In a certain code language, ‘LEMA’ is coded as ‘2564’ and ‘HELM’ is coded as ‘3246’.
+What is the code for ‘H’ in the given code language?
+Ans
+ A. 4
+B. 3
+C. 2
+D. 6
+Q.81 What is the primary focus of Mission Shakti 5.0 launched by Uttar Pradesh Chief
+Minister Yogi Adityanath?
+Ans
+ A. Economic development
+B. Women's safety, dignity, and self-reliance
+C. Agricultural reforms
+D. Infrastructure development
+Q.82 Which prestigious theatre awards took place on 6 April 2025 at the Royal Albert Hall?
+Ans
+ A. Laurence Olivier Awards
+B. Tony Awards
+C. Critics’ Circle Theatre Awards
+D. Evening Standard Theatre Awards
+Q.83 By how much has the grant for National Championships in high-priority sports been
+increased, as per the 2025 announcement?
+Ans
+ A. ₹51 lakh
+B. ₹30 lakh
+C. ₹39 lakh
+D. ₹90 lakh
+Section : General Awareness and Current Affairs
+Q.84 What was the monthly honorarium announced by the Odisha government for Padma
+Awardees, starting January 2025?
+Ans
+ A. ₹30,000
+B. ₹25,000
+C. ₹20,000
+D. ₹35,000
+Q.85 Which city hosted the 38th National Games from 28 January to 14 February 2025?
+Ans
+ A. Bengaluru
+B. Delhi
+C. Dehradun
+D. Mumbai
+Q.86 Which organisation received the 2025 Laureus Sport for Good Award for using football
+to support social change?
+Ans
+ A. Kick4Life
+B. Street League
+C. Right to Play
+D. Football for Peace
+Q.87 According to the Ministry of Environment, Forest and Climate Change’s official release
+dated 1 September 2025 titled “In the last 8 years, Delhi witnesses best AQI figures in
+2025 for the January–August period”, what was Delhi’s average AQI during January–
+August 2025?
+Ans
+ A. 174
+B. 194
+C. 172
+D. 187
+Q.88 As per the Reserve Bank of India (RBI), Gross Domestic Product (GDP) growth for 2025-
+26 is projected for Q4 at:
+Ans
+ A. 6.5%
+B. 6.7%
+C. 6.8%
+D. 6.3%
+Q.89 Who became the first Thai male badminton player to be ranked World No. 1 in men’s
+singles in May 2025?
+Ans
+ A. Kento Momota
+B. Kunlavut Vitidsarn
+C. Lee Zii Jia
+D. Kantaphon Wangcharoen
+Q.90 In which year did India present its Third Voluntary National Review (VNR) Report on
+Sustainable Development Goals (SDGs)?
+Ans
+ A. 2025
+B. 2023
+C. 2024
+D. 2022
+Q.91 In August 2025, the first phase of the Darwin Tree of Life (DToL) project neared
+completion. What is the primary aim of this international biodiversity initiative?
+Ans
+ A. To decode the genetic basis of rare diseases in isolated human populations
+B. To engineer climate-resilient crops using data from ancestral plant genomes
+C. To sequence the genomes of all eukaryotic species in Britain and Ireland
+D. To map human migration patterns through ancient DNA found in fossils
+Q.92 As notified in June 2025, the National Bank for Agriculture and Rural Development
+(NABARD), in collaboration with ICAR’s National Institute for Research on Commercial
+Agriculture (NIRCA), partnered to train farmers and Farmer Producer Organizations
+(FPOs) in which state on advanced post-harvest technologies for chilli and turmeric?
+Ans
+ A. West Bengal
+B. Bihar
+C. Haryana
+D. Andhra Pradesh
+Q.93 In June 2025, Indian Space Research Organisation (ISRO) and National Aeronautics and
+Space Administration (NASA) joint venture NISAR is planned to be launched by
+_______.
+Ans
+ A. PSLV-CA
+B. SSLV
+C. GSLV-P16
+D. GSLV Mk II
+Q.94 The Web-Portal for the Prime Minister’s Awards for Excellence in Public Administration
+2025 was officially launched on 1 October 2025 by which of the following?
+Ans
+ A. Bureau of Police Research and Development
+B. Department of Science and Technology
+C. Department of Administrative Reforms and Public Grievances
+D. Centre for Development of Advanced Computing
+Q.95 In March 2025, a rare long‑snouted vine snake was rediscovered in which of the
+following national parks?
+Ans
+ A. Gir National Park
+B. Kanha National Park
+C. Dudhwa National Park
+D. Bandhavgarh National Park
+Q.96 Which private-sector facility was commissioned for aerospace titanium production?
+Ans
+ A. Tata Aircraft Complex
+B. Hindustan Aeronautics Limited
+C. Aerolloy Technologies
+D. Bharat Electronics Limited
+Q.97 Which mobile application was introduced by the National Commission for Women in
+May 2025 to enhance women’s digital literacy and safety in advanced digital tools?
+Ans
+ A. Kavalan Safety and Support Platform
+B. Kaaval Uthavi Emergency Assistance Tool
+C. Digital Saathi for Women Empowerment
+D. Yashoda Artificial Intelligence Learning App
+"
+Q.98 According to the World Bank’s Global Economic Prospects (June 2025), global growth
+is projected to slow markedly to what percentage in 2025?
+Ans
+ A. 2.3%
+B. 4.1%
+C. 3.5%
+D. 0.5%
+Q.99 In August 2025, the Department of Posts signed a Memorandum of Understanding with
+which association in an effort to broaden access to mutual fund products, leveraging
+the trust and reach of post offices across the country?
+Ans
+ A. Association of Mutual Funds in India
+B. Insurance Regulatory and Development Authority of India
+C. Confederation of Indian Industry
+D. All India Association of Mutual Fund Advisors
+Q.100Where was the main Infantry Day wreath laying ceremony held on the occasion of 79th
+Valour Day in 2025?
+Ans
+ A. India Gate
+B. Army Headquarters
+C. Red Fort
+D. National War Memorial

@@ -1,0 +1,776 @@
+Q.1 Select the option that is true regarding the following two statements labelled Assertion
+(A) and Reason (R).
+Assertion (A): Sexual reproduction is essential in plants for maintaining the continuity
+of the species for many generations.
+Reason (R): Sexual reproduction leads to genetic variation that enhances adaptability
+and evolutionary fitness.
+Ans
+ A. Both Assertion (A) and Reason (R) are true but (R) is NOT the correct explanation of Assertion (A).
+B. Assertion (A) is true, but Reason (R) is false.
+C. Both Assertion (A) and Reason (R) are true, and (R) is the correct explanation of Assertion (A).
+D. Assertion (A) is false, but Reason (R) is true.
+Q.2 The Law of Constant Proportions applies to the:
+Ans
+ A. Pure chemical compounds
+B. Mixtures of substances
+C. Elements
+D. Both mixtures and compounds
+Q.3 The forces of attraction between particles are _________ in solids, __________ in
+liquids, and _________ in gases.
+Ans
+ A. maximum, minimum, minimum
+B. maximum, intermediate, maximum
+C. maximum, minimum, intermediate
+D. maximum, intermediate, minimum
+Q.4 Which alcohol is commonly used as fuel?
+Ans
+ A. Butanol
+B. Propanol
+C. Methanol
+D. Ethanol
+Test Date 09/01/2026
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.5 Which of the following is NOT a correct expression for electric power (P)?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.6 Match Column A with Column B.
+Column A Column B
+A. Acids 1. Produce OH⁻  ions in water
+B. Bases 2. Produce H⁺  (or H₃ O⁺ ) ions in water
+C. Acid + Base 3. Form salt and water (neutralisation)
+D. Both conduct electricity4. Due to presence of ions in solution
+Ans
+ A. A-4; B-3; C-2; D-1
+B. A-3; B-4; C-1; D-2
+C. A-2; B-1; C-4; D-3
+D. A-2; B-1; C-3; D-4
+Q.7 Which phenomenon shows the role of the cell wall in osmosis?
+Ans
+ A. Plasmolysis observed when living plant cells lose water
+B. Exchange of gases through stomata of leaves
+C. Diffusion of gases through cell membrane
+D. Absorption of light by chlorophyll during photosynthesis
+Q.8 A rainbow is formed in the sky after rain, which is due to _______________.
+Ans
+ A. scattering of light by air
+B. reflection only
+C. refraction and dispersion of light by raindrops
+D. absorption of light by water
+Q.9  Which of the following best explains the origin of coal and petroleum?
+Ans
+ A. Fossilisation of plants and animals under high temperature and pressure over millions of years
+B. Decomposition of volcanic rocks under high pressure
+C. Compaction of forest wood under sunlight
+D. Crystallisation of minerals under the seabed
+Q.10 Which of the following statements about momentum is true?
+Ans
+ A. Momentum has magnitude only and no direction.
+B. Momentum has both magnitude and direction.
+C. The SI unit of momentum is kilogram per second.
+D. Momentum is the sum of mass and velocity.
+Q.11 Select the correct example of a functional group that DOES NOT represent any double
+bond in their structure.
+Ans
+ A. Propanol
+B. Propanone
+C. Propanoic acid
+D. Propanal
+Q.12 The alveoli are surrounded by an extensive network of __________, where the exchange
+of __________ takes place.
+Ans
+ A. nerves; impulses
+B. capillaries; gases
+C. muscles; pressure
+D. bronchi; air
+Q.13 Which of the following methods is used to separate particles from a suspension?
+Ans
+ A. Crystallization
+B. Evaporation
+C. Distillation
+D. Filtration
+Q.14 Plastids are absent in which of the following cells?
+Ans
+ A. Stem cells
+B. Muscle cells
+C. Root cells
+D. Leaf cells
+Q.15 A food chain starts from grass → grasshopper → frog → snake → hawk. How much
+concentration of non-biodegradable pesticides is expected in hawk?
+Ans
+ A. The lowest amount of pesticide residue
+B. The highest concentration of pesticides
+C. Equal concentration of pesticide as in the frog
+D. No pesticide residue at all
+Q.16 Which of the following statements about average speed is INCORRECT?
+Ans
+ A. It is total distance divided by total time.
+B. It is change in distance divided by change in velocity.
+C. It is measured in m/s.
+D. It does not depend on the direction of motion.
+Q.17 When an object is placed in a fluid, it feels an upward force called buoyancy. On which
+factor does the magnitude of this buoyant force depend?
+Ans
+ A. The shape of the object
+B. The weight of the object only
+C. The density of the fluid
+D. The colour of the object
+Q.18 Which part of a flower encloses and shields the developing bud?
+Ans
+ A. Petal
+B. Stamen
+C. Sepal
+D. Pistil
+Q.19 What does a lens with a power of 1 dioptre indicate?
+Ans
+ A. It has a focal length of 100 m.
+B. It has a magnification of 1.
+C. It has a focal length of 1 metre.
+D. It has a focal length of 1 cm.
+Q.20 A current I ampere flows through a metallic wire of resistance X Ω whena potential difference V volt is applied across its ends. Which of thefollowing is the correct relation between X, I and V?
+Ans
+ A. X = I + V
+B. X = I – V
+C. X = I/V
+D. X = V/I
+Q.21 Which of the following crosses will produce all heterozygous offspring in the F1
+generation?
+Ans
+ A. Tt × Tt
+B. tt × tt
+C. TT × tt
+D. TT × TT
+Q.22 The work done by friction on a moving object is usually ___________.
+Ans
+ A. zero
+B. both positive and negative
+C. negative
+D. positive
+Q.23 What is the gap between two neurons called?
+Ans
+ A. Intermembrane space
+B. Lumen
+C. Synapse
+D. Stroma
+Q.24 Which method is used to extract metals such as sodium and aluminium, which are at
+the top of the reactivity series?
+Ans
+ A. Reduction with carbon
+B. Roasting of their sulphide ores
+C. Electrolytic reduction of their molten chlorides or oxides
+D. Calcination of their carbonate ores
+Q.25 Why do we see the flash of lightning before we hear the sound of thunder?
+Ans
+ A. Sound travels slower than light
+B. Light and sound travel at the same speed
+C. Light is brighter than sound
+D. Light travels slower than sound
+Q.26
+Ans
+ A. 311
+B. 301
+C. 271
+D. 281
+Section : Mathematics
+Q.27 The arithmetic mean of the observations 95, 45, 85, 45, 51, 85, 84, 66 and 47 is:
+Ans
+ A. 67
+B. 71
+C. 69
+D. 59
+Q.28
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.29
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.30 S i m p l i f y : 
+Ans
+ A. 306
+B. 306.04
+C. 306.3
+D. 305
+Q.31 If the mode of the given data is 22.75, find the cumulative frequency (x<9).
+Class
+Interval
+0-
+7
+7-14 14-21 21-28 28-35 35-42
+Frequency 1 7 9 11 X 3
+Ans
+ A. 28
+B. 50
+C. 36
+D. 42
+Q.32 Find the ratio between the fourth proportional of 1, 3 and 6 to the mean proportional of
+12 and 3.
+Ans
+ A. 3 : 2
+B. 3 : 1
+C. 1 : 6
+D. 2 : 2
+Q.33 In a test, B got 50 marks while A got 75 marks, out of 95 maximum marks. What
+percentage of A's marks was B's marks? (Round off the answer to two decimal places.)
+Ans
+ A. 78.95%
+B. 66.67%
+C. 150.46%
+D. 95.27%
+Q.34 A trader buys some goods for ₹200. If the overhead expenses be 10% of the cost price,
+then at what price should it be sold to earn 25%?
+Ans
+ A. ₹275
+B. ₹285
+C. ₹270
+D. ₹280
+Q.35 Ten years ago, a father was three times as old as his son. Ten years from now, he will be
+twice as old as his son. What is the son’s present age?
+Ans
+ A. 40 years
+B. 30 years
+C. 45 years
+D. 25 years
+Q.36
+Ans
+ A. 3580
+B. 5640
+C. 5610
+D. 5110
+Q.37 Dileep has some hens and some goats. If the total number of animal heads is 33 and the
+total number of animal feet is 82, how many goats does Dileep have?
+Ans
+ A. 5
+B. 8
+C. 6
+D. 7
+Q.38 Find the number of all possible distinct pairs of two coprime integers such that their
+product is 180.1341
+Ans
+ A. 3
+B. 5
+C. 2
+D. 4
+Q.39 A retailer offers the following discount schemes for buyers on an article. Which scheme
+will be the LEAST beneficial to the customer?
+i. A discount of 37%.
+ii. A discount of 33% followed by a discount of 43%.
+iii. Successive discounts of 46% and 22%.
+Ans
+ A. Scheme ii
+B. Scheme iii
+C. Scheme i and Scheme iii
+D. Scheme i
+Q.40
+3193
+Ans
+ A. 65
+B. 62.5
+C. 57.5
+D. 45
+Q.41 A cyclist travels 60 km to a town at a speed of 12 km/hr. Find the time taken by the
+cyclist.
+Ans
+ A. 4 hours
+B. 4.5 hours
+C. 5 hours
+D. 5.5 hours
+Q.42 Two banks, A and B, offered loans at 3.5% and 7% per annum, respectively. Salil
+borrowed an amount of ₹4,80,000 from each bank. Find the positive difference (in ₹)
+between the amounts of simple interest paid to the two banks by Salil after 4 years.
+Ans
+ A. 66,700
+B. 67,200
+C. 68,700
+D. 68,200
+Q.43 In a quadrilateral WXYZ, ∠W = 74° and ∠X = 58°. The bisectors of ∠Y and ∠Z meet at O.
+What is the measure of ∠ZOY?
+Ans
+ A. 66°
+B. 59°
+C. 60°
+D. 68°
+Q.44 The price of fuel decreases by 45%, 60% and 55% in three successive months, but
+increases by 50% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price?
+Ans
+ A. Decreases by 80.63%
+B. Increases by 91.17%
+C. Increases by 82.11%
+D. Decreases by 85.15%
+Q.45 Pipe A can fill a cistern in 18 hours, and Pipe B can fill it in 12 hours. However, there is a
+leakage in the cistern that can empty it in 36 hours. If both pipes and the leakage are
+active, how long will it take to fill 
+ rd part of the cistern?
+Ans
+ A. 1 hours
+B. 4 hours
+C. 2 hours
+D. 3 hours
+Q.46 P and Q together can fill a cistern with water in 12 hours. If P alone can fill the cistern
+with water in 14 hours, then in how many hours will Q alone fill one-fourth of the same
+cistern with water?
+Ans
+ A. 43
+B. 21
+C. 22
+D. 42
+Q.47 The sides of a triangle ABC are AB = 5 cm, BC = 6 cm and CA = 7 cm, respectively.
+Another triangle is formed by joining the mid-points of the sides of the triangle ABC.
+Find the perimeter of the second triangle in cm.
+Ans
+ A. 15
+B. 12
+C. 18
+D. 9
+Q.48 Successive discounts of 16% and 7% are equivalent to a single discount of:
+Ans
+ A. 20.42%
+B. 20.45%
+C. 21.88%
+D. 25.42%
+Q.49 The volume (in m3) of a cuboidal tank with dimensions 34 m × 10 m × 26 m is:
+Ans
+ A. 8886
+B. 8840
+C. 8868
+D. 8835
+Q.50
+Ans
+A. 
+B. 
+C. 
+D. 
+Q.51 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(8, 25, 16)
+(13, 35, 26)
+Ans
+ A. (9, 9, 18)
+B. (15, 39, 30)
+C. (7, 23, 32)
+D. (17, 43, 52)
+Q.52 Refer to the following number series and answer the question that follows. Counting to
+be done from left to right only. (All numbers are single-digit numbers only.)
+(Left) 4 3 8 6 5 2 6 9 8 3 4 2 3 5 8 7 2 3 9 7 9 3 2 8 7 6 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+even number and also immediately followed by a prime number?
+Ans
+ A. Three
+B. One
+C. More than three
+D. Two
+Section : General Intelligence and Reasoning
+Q.53 If 2 is added to each odd digit and 3 is subtracted from each even digit in the number
+5718436, then what will be the difference between the greatest and smallest digit in the
+new number thus formed?
+Ans
+ A. 6
+B. 7
+C. 8
+D. 9
+Q.54 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only).
+(Left) 4 3 5 1 2 9 8 9 4 7 7 4 5 4 8 5 6 2 4 7 3 3 4 6 3 7 5 (Right)
+How many such odd numbers are there (from left to right), each of which is immediately
+preceded by an odd number and also immediately followed by an even number?
+Ans
+ A. 3
+B. 4
+C. 2
+D. 5
+Q.55 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+59 – 72 × 8 + (64 ÷ 4) × 8 – 16 ÷ 3 = ?
+Ans
+ A. 84
+B. 96
+C. 68
+D. 110
+Q.56 In a certain code language, ‘rat able run’ is coded as ' ei bm wx' and ‘cap rat ant’ is
+coded as ‘bm iy ve’. How is ‘rat’ coded in the given language?
+Ans
+ A. wx
+B. bm
+C. iy
+D. ei
+Q.57 What should come in place of the question mark (?) in the given series?
+3 9 ? 81 243 729
+Ans
+ A. 25
+B. 27
+C. 26
+D. 28
+Q.58 All 62 people are standing in a row facing north. Shlok is 20th from the right end, while
+Biplov is 45th from the left end. How many people are there between Shlok and Biplov?
+Ans
+ A. 2
+B. 4
+C. 1
+D. 3
+Q.59 Refer to the following number, symbol series and answer the question. Counting to bedone from left to right only.
+(Left) 7 7 & & # 3 3 # 9 1 4 € 4 # # 7 £ $ 4 © 9 6 (Right)
+How many such numbers are there, each of which is immediately preceded by a symboland also immediately followed by a symbol?
+Ans
+ A. 4
+B. 3
+C. 2
+D. 5
+Q.60 Nishant starts from point A and drives 45 km towards the north. He then takes a right
+turn, drives 44 km, turns right and drives 60 km. He then takes a right turn and drives 56
+km. He takes a final right turn, drives 15 km and stops at point P. How far (shortest
+distance) and towards which direction should he drive in order to reach point A again?
+(All turns are 90-degree turns only unless specified.)
+Ans
+ A. 10 km to the east
+B. 13 km to the north
+C. 12 km to the east
+D. 11 km to the west
+Q.61 If 1 is added to each even digit and 1 is added to each odd digit in the number 612374,
+what will be the sum of all the odd digits in the new number thus formed?
+Ans
+ A. 13
+B. 19
+C. 17
+D. 15
+Q.62    Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. DG−HK
+B. TW−XA
+C. HK−KQ
+D. GJ−KN
+Q.63 What should come in place of the question mark (?) in the given series?
+8 12 21 37 ? 981104
+Ans
+ A. 62
+B. 68
+C. 65
+D. 66
+Q.64 Select the triad which follows the same pattern as that followed by the two triads given
+below. Both triads follow the same pattern.
+FO-HQ-KM
+HQ-JS-MO
+Ans
+ A. JS-LU-OR
+B. IS-LV-OR
+C. IS-LU-OR
+D. JS-LU-OQ
+Q.65 Seven friends, L, M, N, O, Q, R and S, are sitting in a straight line, facing north. Only
+three people sit between L and O. No one sits to the right of N. Only one person sits
+between N and O. M is an immediate neighbour of both Q and L. R sits to the immediate
+left of O. How many people sit between S and L?
+Ans
+ A. Four
+B. Two
+C. One
+D. Three
+Q.66 Six people, A, B, C, D, E and F, are sitting in a row, facing north. D sits to the immediate
+left of F. C sits third to the left of B. F is an immediate neighbour of C. E sits second to
+the right of C. A sits to the immediate left of E. Who sits at the extreme right end of the
+line?
+Ans
+ A. A
+B. F
+C. E
+D. B
+Q.67 IB 16 is related to ME 13 in a certain way. In the same way, OH 25 is related to SK 22. To
+which of the following is UN 28 related, following the same logic?
+Ans
+ A. ZP 25
+B. YQ 25
+C. ZP 26
+D. YQ 26
+Q.68 NETI is related to XODS in a certain way based on the English alphabetical order. In the
+same way, BSHW is related to LCRG. To which of the following options is FWLA related,
+following the same logic?
+Ans
+ A. PVHY
+B. PGBN
+C. PKLO
+D. PGVK
+Q.69 This question is based on the five, three-digit numbers given below.
+(Left) 687 652 691 287 286 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE: All operations to be done from left to right.)
+What will be the resultant if the second digit of the highest number is added to the third
+digit of the lowest number?2425
+Ans
+ A. 16
+B. 15
+C. 17
+D. 19
+Q.70 Town G is to the north of Town F. Town H is to the east of Town F. Town I is to the north
+of Town H. Town J is to the east of Town I. Town K is to the east of Town J. What is the
+position of Town K with respect to Town F?
+Ans
+ A. North
+B. Southeast
+C. South
+D. Northeast
+Q.71 Seven boxes, D, E, F, U, V, W and X, are kept one over the other but not necessarily in
+the same order. Only U is kept above D. Only V is kept between D and F. No box is kept
+below E. Only three boxes are kept between D and W. How many boxes are kept
+between X and E?
+Ans
+ A. Two
+B. Three
+C. One
+D. Four
+Q.72 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some watches are figs.
+All ships are kings.
+No figs are ships.
+Conclusions:
+(I): Some kings are not figs.
+(II): Some watches are ships.
+Ans
+ A. Only conclusion (II) follows
+B. Only conclusion (I) follows
+C. Neither conclusion (I) nor (II) follows
+D. Both conclusions (I) and (II) follow
+Q.73 In a certain code language, ‘how are you’ is coded as ‘pl mk jt’ and ‘where you are’ is
+coded as ‘jt mk sq’. How is ‘where' coded in that language?
+Ans
+ A. jt
+B. sq
+C. mk
+D. pl
+Q.74 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusion(s) logically follow(s) from the
+statements.
+Statements:
+Some rails are cars.
+No car is a bus.
+Conclusions:
+(I) Some rails are bus.
+(II) Some cars are rails.
+Ans
+ A. Both conclusions (I) and (II) follow.
+B. Only conclusion (I) follows.
+C. Neither conclusion (I) nor (II) follows.
+D. Only conclusion (II) follows.
+Q.75    Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. VQ - PK
+B. QL - KF
+C. TO - NI
+D. UP - OI
+Q.76 What should come in place of the question mark (?) in the given series?
+157 134 111 88 65 ?
+Ans
+ A. 42
+B. 40
+C. 46
+D. 44
+Q.77 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+NEU RHW VKY ZNA ?
+Ans
+ A. DQC
+B. CRB
+C. EPD
+D. CQD
+Q.78 Six people P, Q, R, S, T and U are sitting around a circular table
+facing towards the centre of the table.
+Exactly two people sit between S and T.
+U sits to the immediate left of T.
+R is immediate neighbour of S and Q both.
+Who is an immediate neighbour of both S and U?
+Ans
+ A. R
+B. T
+C. P
+D. Q
+Q.79 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+HO22 JQ31 LS40 NU49 ?
+Ans
+ A. PW58
+B. PX58
+C. PW59
+D. PX59
+Q.80 In a certain code language,
+‘A + B’ means ‘A is the mother of B’,
+‘A – B’ means ‘A is the brother of B’,
+‘A × B’ means ‘A is the wife of B’,
+‘A % B’ means ‘A is the father of B’ and
+‘A # B’ means ‘A is the daughter of B’.
+How is K related to G if ‘G # E # C + K # P’?
+Ans
+ A. Sister’s daughter
+B. Mother’s father
+C. Mother’s mother
+D. Mother’s sister
+Section : General Awareness and Current Affairs
+Q.81 Which individual, celebrated as India's first Paralympic gold medalist, was honoured
+with the Arjuna Lifetime Achievement Award in January 2025?
+Ans
+ A. Deepa Malik
+B. Murlikant Petkar
+C. Devendra Jhajharia
+D. Mariyappan Thangavelu
+Q.82 Who was appointed as the Chairman of the Economic Advisory Council to the PM in
+June 2025?
+Ans
+ A. Mahendra Dev
+B. Vijay Kelkar
+C. Arvind Subramanian
+D. Poonam Gupta
+Q.83 Which of the following states has become the third state in India to achieve 'Full
+Functional Literacy' under the ULLAS scheme, in June 2025?
+Ans
+ A. Mizoram
+B. Kerala
+C. Goa
+D. Tripura
+Q.84 Which of the following states launched Artificial Intelligence powered cybercrime
+protection for women and children in June 2025?
+Ans
+ A. Gujarat
+B. Maharashtra
+C. Kerala
+D. Odisha
+Q.85 How many Padma Vibhushan awards were given in 2025?
+Ans
+ A. 7
+B. 5
+C. 12
+D. 10
+Q.86 According to the data compiled by the Tea Board of India and reported in March 2025,
+which country did India surpass to become the second-largest tea exporter in 2024?
+Ans
+ A. Vietnam
+B. China
+C. Kenya
+D. Sri Lanka
+Q.87 According to the Finland-based Centre for Research on Energy and Clean Air (CREA),
+which city in India recorded the highest pollution levels in October 2025, with a monthly
+PM2.5 average of 123 µg/m³?
+Ans
+ A. Gurugram
+B. Noida
+C. Dharuhera
+D. Delhi
+Q.88 Who defeated Tanushree Pandey in the final of the World Soft Tennis Championship,
+2024, held at Jingshan, China, in November 2024?
+Ans
+ A. Liu Wei
+B. Chiang Min Yu
+C. Kim Soo Jin
+D. Yuki Tanaka
+Q.89 The Constitution (One Hundred and Thirtieth Amendment) Bill introduced in the Lok
+Sabha on 20 August 2025 allows the removal of a Central or State Minister if detained
+for how many consecutive days on corruption or serious charges?
+Ans
+ A. 20 days
+B. 30 days
+C. 45 days
+D. 15 days
+Q.90 International Women’s Day, a global day celebrating the social, economic, cultural and
+political achievements of women, is celebrated on which of the following dates?
+Ans
+ A. 16 June
+B. 21 September
+C. 8 March
+D. 20 November
+Q.91 Against which team did Australia set the highest successful chase of 356/5 in the 2025
+Champions Trophy?
+Ans
+ A. Afganistan
+B. England
+C. South Africa
+D. India
+Q.92 Which of the following sports is NOT represented among the 2025 Laureus individual
+award winners?
+Ans
+ A. Surfing
+B. Cricket
+C. Tennis
+D. Gymnastics
+Q.93 Which of the following was rated as 'Good' by the International Union for Conservation
+of Nature (IUCN) in its global review of Natural World Heritage Sites in November 2025?
+Ans
+ A. Great Himalayan National Park Conservation Area
+B. Sundarbans National Park
+C. Nanda Devi and Valley of Flowers National Parks
+D. Khangchendzonga National Park
+Q.94 According to a June 2025 news update, on which date is Dan Brown's new Robert
+Langdon thriller The Secret of Secrets scheduled for publication?
+Ans
+ A. 25 March 2025
+B. 18 November 2025
+C. 9 September 2025
+D. 13 May 2025
+"
+Q.95 Who was the Guest of Honour at the 18th Pravasi Bharatiya Convention held in
+Bhubaneswar on 8 January 2025?
+Ans
+ A. H E Pravind Jugnauth
+B. Sundar Pichai
+C. Meenakshi Lekhi
+D. Dr Dev Pragad
+Q.96 Which of these ISRO-led national initiatives, launched in July 2025, exemplifies
+international scientific collaboration while strengthening India’s Earth-observation and
+monitoring capabilities?
+Ans
+ A. GSAT-12
+B. Aditya-L2
+C. NISAR
+D. Gaganyaan
+Q.97 In which month was the Economic Survey 2024–25 presented?
+Ans
+ A. April 2025
+B. February 2025
+C. January 2025
+D. March 2025
+Q.98 In 2025, under which project did Guntur, Andhra Pradesh, deploy over 200 electric autos
+for door-to-door garbage collection?
+Ans
+ A. Sustainable Cities Integrated Pilot Approach
+B. Clean Cities Mission
+C. National Urban Livelihoods Mission
+D. Smart Cities Mission
+Q.99 Which of the following legislations was approved by the Rajya Sabha on 12 August
+2025, aiming to recognise national sports organisations and oversee their operations?
+Ans
+ A. Sports Regulation and Management Bill, 2025
+B. National Sports Governance Bill, 2025
+C. National Sports Promotion Bill, 2025
+D. Olympic and Sports Administration Bill, 2025
+Q.100What was the cause of the warehouse explosion in Gujarat in April 2025?
+Ans
+ A. Aluminium powder explosion
+B. Gas leak
+C. Chemical fire
+D. Short circuit from power gird

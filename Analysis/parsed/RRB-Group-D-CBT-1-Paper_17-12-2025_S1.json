@@ -1,0 +1,15 @@
+[
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_17-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 33,
+    "questionText": "Two banks, A and B, offered loans at 3.5% and 7% per annum, respectively. Akshay borrowed an amount of ₹4,60,000 from each bank. Find the positive difference (in ₹) between the amounts of simple interest paid to the two banks by Akshay after 4 years.",
+    "options": {
+      "A": "a3 – 3a2 – 16a",
+      "B": "2a3 – 3a2 – 16",
+      "C": "–2a3 – 3a2 – 16a",
+      "D": "–2a3 – a2 – 16a"
+    },
+    "answer": ""
+  }
+]

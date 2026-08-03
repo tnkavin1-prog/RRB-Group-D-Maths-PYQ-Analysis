@@ -1,0 +1,772 @@
+Q.1 2-methylpropane has the same molecular formula as that of which of the following?
+Ans
+ A. Pentane
+B. Pentene
+C. Butane
+D. Butene
+Q.2 According to Bohr, electrons revolve:
+Ans
+ A. in fixed circular orbits called shells
+B. in elliptical orbits randomly
+C. only when energy is absorbed
+D. inside the nucleus of an atom
+Q.3 A convex lens forms a real image of an object placed at a distance of 30 cm from it. If
+the image is formed at 60 cm on the other side of the lens, the focal length of the lens
+is:
+Ans
+ A. 20 cm
+B. 30 cm
+C. 10 cm
+D. 15 cm
+Q.4 Some organisms show binary fission by division in any plane but some shows division
+in a definite orientation. Which of the following shows definite orientation of binary
+fission?
+Ans
+ A. Paramecium
+B. Leishmania
+C. Plasmodium
+D. Amoeba
+Q.5 What can be the consequences of improper storage of grains?
+Ans
+ A. Pest attack and spoilage
+B. More fragrance
+C. Better nutrition
+D. Stronger grains
+Test Date 22/12/2025
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Match the following columns on Apparatus and Purpose.
+Column A Column B
+A. Litmus paper 1. To detect acidic or basic nature
+B. Watch-glass 2. To place drops of test solutions
+C. Test tube 3. To hold and mix solutions safely
+D. Indicator solution4. Shows colour change to identify acid or base
+Ans
+ A. A-4; B-1; C-2; D-3
+B. A-2; B-3; C-4; D-1
+C. A-3; B-4; C-1; D-2
+D. A-1; B-2; C-3; D-4
+Q.7 Which statement about parallel connection of resistors is true?
+Ans
+ A. The total current is the same as current through any branch.
+B. The total current is the sum of the currents through individual resistors.
+C. Each resistor carries the same current regardless of its resistance.
+D. The total resistance increases when more resistors are added.
+Q.8 Which of the following is NOT an olfactory indicator?
+Ans
+ A. Vanilla extract
+B. Onion
+C. Clove oil
+D. Turmeric
+Q.9 Which of the following statements about phloem is correct?
+Ans
+ A. Phloem transports water upward only.
+B. Phloem transports food from leaves to other parts.
+C. Phloem transports minerals from roots to leaves.
+D. Phloem is made entirely of dead cells.
+Q.10 Which of the following is true for saturated hydrocarbons?
+Ans
+ A. They have at least one double bond between carbon-carbon atoms.
+B. They have at least one triple bond between carbon-carbon atoms.
+C. They have only a single bond between carbon-carbon atoms.
+D. They can have either double and triple bond between carbon-carbon atoms.
+Q.11 Which of the following pairs of frequency and time period is correctly related?
+Ans
+ A. 2 Hz and 0.2 s
+B. 5 Hz and 5 s
+C. 1 Hz and 2 s
+D. 10 Hz and 0.1 s
+Q.12 What is the immediate result of the fusion between the male and female germ cells in
+plants?
+Ans
+ A. Zygote
+B. Seed coat
+C. Pollen tube
+D. Ovule
+Q.13 Select the correct statement about the properties of colloid.
+Ans
+ A. The components of a colloid solution are not dispersed phase.
+B. A colloid is a homogeneous mixture.
+C. They can be separated from the mixture by the process of filtration.
+D. Dispersing medium is the component in which its phase is suspended.
+Q.14 What happens to particles on heating a solid?
+Ans
+ A. They break into other elements.
+B. They freeze and become static.
+C. They stop interacting completely.
+D. They vibrate with more energy.
+Q.15 If a car moves 100 m in 5 seconds, its linear velocity is:
+Ans
+ A. 20 m/s
+B. 25 m/s
+C. 15 m/s
+D. 10 m/s
+Q.16 A wooden block weighs 49 N (thrust). If this block is placed on a table
+with a contact area of 0.02 m2, what is the resulting pressure exerted on
+the table?
+Ans
+ A. 2450 Nm-2
+B. 980 Nm-2
+C. 49 Pa
+D. 612.5 Nm-2
+Q.17 Which of the following is NOT a type of connective tissue?
+Ans
+ A. Blood
+B. Bone
+C. Epithelium
+D. Cartilage
+Q.18 Which of the following generally forms the longest part of a neuron?
+Ans
+ A. Axon
+B. Synapse
+C. Cell body
+D. Nerve ending
+Q.19 Which type of muscle is voluntary and shows light and dark bands?
+Ans
+ A. Striated muscle
+B. Unstriated muscle
+C. Cardiac muscle
+D. Smooth muscle
+Q.20 A potential difference of V volt is applied across a resistor of R Ω, then a current of I
+ampere flows through it. Keeping the resistance the same, how should the value of
+potential difference be changed so that the current flowing through the resistance gets
+doubled? (Keep all the other parameters the same.)
+Ans
+ A. V/4 volts
+B. V/2 volts
+C. V volts
+D. 2V volts
+Q.21 A body undergoes a displacement of 10 m under the action of a constant force of 2.5 N,
+in the opposite direction to the direction of force. What will be the work done under the
+action of this force?
+Ans
+ A. +25 J
+B. −2.5 J
+C. +2.5 J
+D. −25 J
+Q.22 An object is placed anywhere along the principal axis of a concave lens. The image is
+always formed ___________.
+Ans
+ A. between the focus (F) and the optical centre (O)
+B. at the focus (F)
+C. at twice the focal length (2F)
+D. beyond twice the focal length (2F)
+Q.23 If the applied force is quadrupled, how must the acceleration of the object change,
+assuming its mass remains constant?
+Ans
+ A. The acceleration remains the same, but the duration of the change decreases.
+B. The acceleration increases by a factor of 4.
+C. The acceleration decreases by a factor of 4.
+D. The acceleration increases by a factor of 2.
+Q.24 The ‘p’ in pH stands for ____________and it is used for measuring _____________
+concentration.
+Ans
+ A. Potential; hydrogen ion
+B. Potenz; hydrogen ion
+C. Potenz; hydroxide ion
+D. Potential; hydroxide ion
+Q.25 Which of the following is NOT an outcome of fertilisation?
+Ans
+ A. Placenta formation
+B. Embryo formation
+C. Zygote formation
+D. Egg formation
+Q.26
+Ans
+ A. 
+B. 
+C. 15
+D. 10
+Section : Mathematics
+Q.27 Find the largest number which divides 62, 134 and 242 to leave the same reminder in
+each case.
+Ans
+ A. 38
+B. 32
+C. 34
+D. 36
+Q.28 What price should Anjali mark on a shirt which cost her ₹7,000, so as to gain 17% after
+allowing successive discounts of 35% and 30%?
+Ans
+ A. ₹18,138
+B. ₹18,066
+C. ₹18,070
+D. ₹18,000
+Q.29 The ratio of two friends’ ages is 4 : 5. Together, their ages add up to 36 years. What is
+the age of the older friend?
+Ans
+ A. 18 years
+B. 20 years
+C. 22 years
+D. 16 years
+Q.30 In a test, B got 50 marks while A got 75 marks, out of 100 maximum marks. What
+percentage of A's marks was B's marks? (Round off the answer to two decimal places.)
+Ans
+ A. 150.19%
+B. 75.55%
+C. 66.67%
+D. 82.35%
+Q.31 PQRS is a trapezium with PQ parallel to SR and ∠QRS = 60°. With R as centre and RQ
+as radius, an arc QAB is drawn which intersects SR in B. A is an arbitrary point on the
+arc QAB. If PQ = QR = 14 cm and SB = 8 cm, then find the area (in cm2, rounded off to
+the nearest integer) of the region PQABSP.
+Ans
+ A. 102
+B. 116
+C. 96
+D. 110
+Q.32 Raman's income is ₹43,000. He saves 26% of his income. If his income increases by
+20% and expenditure increases by 40%, then his savings will:
+Ans
+ A. increase by ₹4,133
+B. decrease by ₹4,128
+C. decrease by ₹4,133
+D. increase by ₹4,131
+Q.33 A regular polygon has 2n sides. What is the angle made between two adjacent sides (in
+degrees)?
+Ans
+A. 
+B. 
+C. 
+D. 
+Q.34 What is the difference between the average of prime numbers between 20 and 40 and
+the average of multiples of 2 between 10 and 30?
+Ans
+ A. 18
+B. 1
+C. 10
+D. 20
+Q.35 A car travels 128 km in the first hour and 146 km in the second hour. What is the
+average speed (in km/hr) of the car for the whole journey?
+Ans
+ A. 131
+B. 137
+C. 133
+D. 145
+Q.36 A trader marks an item 40% above its cost price and gives a discount of 10%. Find his
+profit percentage.
+Ans
+ A. 20%
+B. 30%
+C. 26%
+D. 24%
+Q.37 The monthly incomes of two friends Rupesh and Manjit, are in the ratio 5 : 9,
+respectively, and each of them saves ₹36,000 every month. If the ratio of their monthly
+expenditure is 2 : 4, find the monthly income of Rupesh (in ₹).
+Ans
+ A. 1,80,000
+B. 1,79,000
+C. 2,52,000
+D. 1,81,000
+Q.38 In a farm, there are chickens and rabbits, altogether, there are 20 animals. The total
+number of legs is 56. How many chickens are there in the farm?
+Ans
+ A. 12
+B. 6
+C. 14
+D. 8
+Q.39 P and Q together can fill a cistern with water in 12 hours. If P alone can fill the cistern
+with water in 48 hours, then in how many hours will Q alone fill one-fourth of the same
+cistern with water?
+Ans
+ A. 4
+B. 8
+C. 9
+D. 5
+Q.40 If the radius of a cylinder is halved and its height is doubled, then its volume will be
+_________________.
+Ans
+ A. Same
+B. Halved
+C. Increased by four times
+D. Doubled
+Q.41 A total profit of ₹14,200 is to be distributed amongst A, B and C such that A : B = 13 : 9
+and B : C = 18 : 11. The share (in ₹) of C in the profit is:
+Ans
+ A. 2,840
+B. 2,690
+C. 2,940
+D. 2,740
+Q.42 The mode of the observations 7, 5, 6, 3, 3, 7, 1, 7, 8, 7, 1, 4, 8, 8 and 4 is:4294
+Ans
+ A. 3
+B. 5
+C. 6
+D. 7
+Q.43 The amount on a sum of ₹2,000 at 15% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹2,645
+B. ₹2,575
+C. ₹2,650
+D. ₹2,667
+Q.44 If the mean proportional of P and 150 is 120, then find the value of P.5767
+Ans
+ A. 96
+B. 98
+C. 97
+D. 99
+Q.45
+11135
+Ans
+ A. 7 minutes
+B. 11 minutes
+C. 15 minutes
+D. 12 minutes
+Q.46
+Ans
+ A. 6
+B. 8
+C. 4
+D. 5
+Q.47
+Ans
+ A. 76
+B. 80
+C. 84
+D. 88
+Q.48 If 4 lines of a print, in a column of a book, contain 63 words, how many words will a
+column of 52 lines contain?
+Ans
+ A. 815
+B. 829
+C. 819
+D. 823
+Q.49 After allowing a discount of 9% on the marked price of an article, it is sold for ₹53,053.
+Find its marked price (in ₹).
+Ans
+ A. 58,132
+B. 58,204
+C. 58,146
+D. 58,300
+Q.50 A can complete one-sixth of a work in 13 days, B can complete 34% of the same work in
+17 days, C can complete one-third of the work in 19 days and D can complete three-
+fourth of the work in 15 days. Who will be able to complete the work first?
+Ans
+ A. A
+B. C
+C. B
+D. D
+Q.51 In a certain code language,
+A + B means ‘A is the mother of B’,
+A – B means ‘A is the brother of B’,
+A x B means ‘A is the wife of B’,
+A % B means ‘A is the father of B’ and
+A # B means ‘A is the daughter of B’.
+How is E related to T if ‘T – L # Q # P x E’?
+Ans
+ A. Wife’s brother
+B. Mother’s father
+C. Daughter’s husband
+D. Daughter’s son
+Section : General Intelligence and Reasoning
+Q.52 Six friends — Edwin, Preeti, Sunita, Jacob, Victoria, and Sagar — are sitting around a
+circular table facing the centre. Edwin is an immediate neighbour of both Preeti and
+Sunita. Jacob is sitting third to the left of Sunita. Victoria is sitting second to the right
+of Jacob. Who is sitting second to the left of Edwin?
+Ans
+ A. Sagar
+B. Victoria
+C. Preeti
+D. Sunita
+Q.53 What should come in place of the question mark (?) in the given series?
+11 16 22 29 37 ?
+Ans
+ A. 43
+B. 44
+C. 46
+D. 45
+Q.54 Eight people (A, B, C, D, P, Q, R and S) are sitting around a circular table facing towards
+the centre.
+B is an immediate neighbour of both S and P.
+C sits second to the right of P.
+R is an immediate neighbour of both D and Q.
+A sits second to the left of Q.
+What is the position of Q with respect to C?
+Ans
+ A. Immediate right
+B. Second to the right
+C. Immediate left
+D. Second to the left
+Q.55 Mohak starts from Point A and drives 12 km towards the south. He then takes a left
+turn, drives 11 km, turns left and drives 15 km. He then takes a left turn and drives 14
+km. He takes a final left turn, drives 3 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only unless specified.)
+Ans
+ A. 3 km to the west
+B. 4 km to the east
+C. 3 km to the east
+D. 4 km to the west
+Q.56 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(14, 3, 42)
+(12, 2, 24)
+Ans
+ A. (18, 2, 9)
+B. (5, 8, 36)
+C. (15, 45, 3)
+D. (13, 3, 39)
+Q.57 What should come in place of the question mark (?) in the given series?
+85 100 120 145 175 ?
+Ans
+ A. 195
+B. 210
+C. 205
+D. 215
+Q.58 In a row of 55 people facing north, Nalini sits 20th from the right end. If Ranjit sits 18th
+from the left end of the line, how many people sit between Nalini and Ranjit?
+Ans
+ A. 16
+B. 17
+C. 14
+D. 15
+Q.59 If ‘A’ stands for ‘×’, ‘B’ stands for ‘÷’, ‘C’ stands for ‘−’ and ‘D’ stands for ‘+’, then what
+will come in place of question mark (?) in the following equation?
+27 B 3 D 5 A 10 C 12 D 15 C 27 = ?
+Ans
+ A. 35
+B. 32
+C. 36
+D. 34
+Q.60 Refer to the given number series and answer the question that follows. Counting to be
+done from left to right only. All numbers are single-digit numbers.
+(Left) 7 3 6 2 9 5 1 3 5 2 1 7 8 4 6 5 7 9 4 3 1 4 6 7 2 9 (Right)
+How many such even digits are there, each of which is immediately preceded by an
+even digit and immediately followed by an even digit?
+Ans
+ A. Four
+B. Three
+C. Two
+D. One
+Q.61 In a certain code language GYSU is coded as 74 and MAKZ is coded as 53. What is the
+code for IHOW in that language?
+Ans
+ A. 59
+B. 51
+C. 60
+D. 57
+Q.62 Warner starts from Point A and drives 78 km towards the west. He then takes a right
+turn, drives 79 km, turns right and drives 80 km. He then takes a right turn and drives
+90 km. He takes a final right turn, drives 2 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only unless specified.)
+Ans
+ A. 11 km to the north
+B. 10 km to the north
+C. 13 km to the south
+D. 12 km to the south
+Q.63 What should come in place of the question mark (?) in the given series?
+ZDF1, YGH3, XJJ9, WML27, ?1690
+Ans
+ A. VPN81
+B. WPM79
+C. WQM79
+D. VQM81
+Q.64 If 1 is added to each even digit and 2 is subtracted from each odd digit in the number
+73256, how many digits will appear more than once in the new number thus formed?
+Ans
+ A. Two
+B. One
+C. Three
+D. None
+Q.65 MHSD is related to HDPB in a certain way based on the English alphabetical order. In
+the same way, LNPB is related to GJMZ. To which of the given options is SMUT related,
+following the same logic?
+Ans
+ A. NIRQ
+B. NIRR
+C. MJQR
+D. MJQQ
+Q.66 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+24 ÷ 5 + 18 × 6 − 17 = ?
+Ans
+ A. 132
+B. 130
+C. 136
+D. 134
+Q.67 A, B, C, D, E and F are sitting around a circular table, facing the centre.
+B sits second to the left of F. C is an immediate neighbour of A. B sits to the immediate
+right of A. D sits second to the left of E.
+What is the position of E with respect to A?
+Ans
+ A. Immediate right
+B. Third to the left
+C. Second to the right
+D. Second to the left
+Q.68 In a certain code language, ‘TUNE’ is coded as ‘5279’ and ‘WAIT’ is coded as ‘1428’.
+What is the code for ‘T’ in the given code language?
+Ans
+ A. 1
+B. 2
+C. 8
+D. 5
+Q.69 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+JLO−QSV
+TVY−ACF
+Ans
+ A. NPS−UWZ 
+B. NOQ−UWZ 
+C. NOQ−TVY
+D. NPS−TWY 
+Q.70 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. GMOS
+B. UACG
+C. AGIM
+D. BHIM
+Q.71 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. TX−YF
+B. KO−QU
+C. NR−TX
+D. GK−MQ
+Q.72 In a row of 58 people facing the north, Jolly sits 19th from the left end. If Bela sits 17th
+to the right of Jolly, then what is Bela’s position from the right end of the line?
+Ans
+ A. 24th
+B. 20th
+C. 22nd
+D. 23rd
+Q.73 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+BZA 30 ZXY 41 XVW 52 VTU 63 ?
+Ans
+ A. TYE 73
+B. TSR 74
+C. TRS 74
+D. TQR 73
+Q.74 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements: Some seats are plates. All plates are chairs.
+Conclusion (I): Some seats are chairs.
+Conclusion (II): All chairs are plates.
+Ans
+ A. Only conclusion (II) follows.
+B. Only conclusion (I) follows.
+C. Both conclusions (I) and (II) follow.
+D. Neither conclusion (I) nor (II) follows.
+Q.75 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+BFL : EIO
+KPI : NSL
+Ans
+ A. LQW : OTZ
+B. APH : BSJ
+C. DBH : THY
+D. DJH : GMJ
+Q.76 Refer to the given series and answer the question that follows. (All numbers are single
+digit numbers only.) Counting to be done from left to right.
+(Left) 5 7 4 5 2 5 7 9 8 7 4 2 3 4 3 6 9 3 6 2 3 7 1 8 4 1 5 (Right)
+How many such even digits are there, each of which is immediately preceded by an
+even digit and also immediately followed by an odd digit?
+Ans
+ A. 3
+B. 4
+C. 2
+D. 5
+Q.77 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All helmets are nuts.
+All helmets are bins.
+Conclusions:
+(I) Some nuts are bins.
+(II) All bins are helmets.
+Ans
+ A. Only conclusion (I) follows.
+B. Neither conclusion (I) nor (II) follows.
+C. Only conclusion (II) follows.
+D. Both conclusions (I) and (II) follow.
+Q.78 This question is based on the five, three-digit numbers given below.
+(Left) 745 768 729 716 721 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+Note: All operations to be done from left to right.
+What will be the resultant if the second digit of the second highest number is added to
+the third digit of the lowest number?
+Ans
+ A. 14
+B. 10
+C. 13
+D. 12
+Q.79 Refer to the given series and answer the question that follows. All numbers are single-
+digit numbers only. Counting to be done from left to right.
+(Left) 5 2 8 1 6 3 7 9 4 2 8 7 1 9 6 4 3 5 9 8 2 1 1 7 6 3 (Right).
+How many such even digits are there, each of which is immediately preceded by an
+even digit and also immediately followed by an odd digit?
+Ans
+ A. Five
+B. Two
+C. Three
+D. Four
+Q.80 What should come in place of the question mark (?) in the given series?
+3 6 8 16 18 36 38 ?
+Ans
+ A. 76
+B. 56
+C. 40
+D. 84
+Q.81 In 2025, Netaji Subhas Chandra Bose Jayanti, also celebrated as Parakram Diwas, falls
+on which date?
+Ans
+ A. 23 January
+B. 17 March
+C. 21 February
+D. 19 April
+Q.82 In 2025, senators from which of the following nations introduced the 'India Shrimp Tariff
+Act'?
+Ans
+ A. United Kingdom
+B. Australia
+C. United States
+D. Canada
+Q.83 Which two countries initialed a peace agreement draft on 19 June 2025, aimed at ending
+conflict in eastern DR Congo?
+Ans
+ A. DR Congo and Uganda
+B. DR Congo and Rwanda
+C. DR Congo and Burundi
+D. DR Congo and South Sudan
+Section : General Awareness and Current Affairs
+Q.84 Under India’s National Green Hydrogen Mission, what is the minimum annual green
+hydrogen production capacity targeted by 2030?
+Ans
+ A. 5 million metric tonnes (MMT) per year
+B. 10 million metric tonnes (MMT) per year
+C. 8 million metric tonnes (MMT) per year
+D. 2 million metric tonnes (MMT) per year
+Q.85 Where did DRDO successfully conduct the maiden flight-tests of the Integrated Air
+Defence Weapon System (IADWS) on 23 August 2025?
+Ans
+ A. Mumbai Coast
+B. Goa Coast
+C. Chennai Coast
+D. Odisha Coast
+Q.86 Who became the Chairperson of the 23rd Law Commission of India in April 2025?
+Ans
+ A. Professor DP Verma
+B. Hitesh Jain
+C. Justice Ritu Raj Awasthi
+D. Justice Dinesh Maheshwari
+Q.87 Which stance did the Reserve Bank of India adopt after the April 2025 repo rate cut?
+Ans
+ A. Accommodative
+B. Neutral
+C. Restrictive
+D. Withdrawn
+Q.88 Which female athlete became the second woman in history to win the Laureus World
+Sportswoman of the Year four times by April 2025?
+Ans
+ A. Rebeca Andrade
+B. Serena Williams
+C. Simone Biles
+D. Naomi Osaka
+Q.89 Which athlete clocked 58.11 seconds to win gold in women’s 400 m hurdles at the 2025
+National Games?
+Ans
+ A. Anjali Devi
+B. Vithya Ramraj
+C. Revathi Veeramani
+D. Aishwarya Mishra
+Q.90 What is the name of India’s first AI teacher introduced in 2024?
+Ans
+ A. Mira
+B. Sophia
+C. Iris
+D. Eva
+Q.91 In 2025, which country tested a revolutionary hydrogen bomb that functions without
+traditional fissile materials like uranium or plutonium, using advanced fusion
+techniques such as magnesium hydride-based fusion?
+Ans
+ A. The US
+B. North Korea
+C. Russia
+D. China
+Q.92 Which legendary surfer received the Lifetime Achievement Award at Laureus 2025?
+Ans
+ A. Stephanie Gilmore
+B. Kelly Slater
+C. Mick Fanning
+D. Tom Carroll
+Q.93 According to the NITI Aayog press release (July 2025) on the second edition of the NER
+District SDG Index 2023–24, how are districts classified based on their SDG scores?
+Ans
+ A. Achiever 100; Front Runner 70–99; Performer 55–69; Aspirant <55
+B. Achiever 100; Front Runner 65–99; Performer 50–65; Aspirant <50
+C. Achiever 95–100; Front Runner 60–94; Performer 45–59; Aspirant <45
+D. Achiever 90–100; Front Runner 70–89; Performer 50–69; Aspirant <50
+Q.94 Which of the following states won the highest number of medals overall (gold, silver,
+bronze combined) in National-Games 2025?
+Ans
+ A. Uttarakhand
+B. Tamil Nadu
+C. Punjab
+D. Maharashtra
+Q.95 Who captained India in the ICC Women’s Cricket World Cup, 2025, in November 2025?
+Ans
+ A. Mithali Raj
+B. Smriti Mandhana
+C. Jhulan Goswami
+D. Harmanpreet Kaur
+Q.96 Which Union Minister inaugurated the Startup Mahakumbh 2025 and referred to his visit
+as “an experience of a lifetime”?
+Ans
+ A. Piyush Goyal
+B. Ashwini Vaishnaw
+C. Rajeev Chandrasekhar
+D. Dharmendra Pradhan
+Q.97 As per the Sustainable Development Goals — National Indicator Framework Progress
+Report 2025, published in June 2025, the rise in internet subscriptions in the year 2024–
+25 primarily supports which of the following SDGs in India?
+Ans
+ A. SDG 1
+B. SDG 9
+C. SDG 6
+D. SDG 13
+"
+Q.98 The Population Census, 2027, will include which major new component for the first time
+since 1931?
+Ans
+ A. Caste-based enumeration
+B. Income-based classification
+C. Religion-wise urban census
+D. Occupation-based mapping
+Q.99 When did IndusInd Bank launch its 'Indus StartUp Banking' programme aimed at
+supporting early-stage startups?
+Ans
+ A. April 2025
+B. June 2025
+C. July 2025
+D. August 2025
+Q.100In July 2025, which state government directed all department heads to ensure strict
+compliance with the Prevention of Sexual Harassment (POSH) Act, 2013 at workplaces
+to strengthen women’s safety?
+Ans
+ A. Kerala
+B. Haryana
+C. Maharashtra
+D. Odisha

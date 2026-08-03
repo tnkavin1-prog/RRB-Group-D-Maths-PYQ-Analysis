@@ -1,0 +1,764 @@
+Q.1 The phenomenon of change of a liquid into vapour at any temperature below its boiling
+point is called:
+Ans
+ A. solidification
+B. evaporation
+C. condensation
+D. sublimation
+Q.2 If the net force on a 10 kg object is zero, its acceleration will be:
+Ans
+ A. 0 m/s²
+B. 9.8 m/s²
+C. 10 m/s²
+D. Depends on its velocity
+Q.3 The key difference between rough endoplasmic reticulum and smooth endoplasmic
+reticulum is the presence of:
+Ans
+ A. centrosomes
+B. cytosol
+C. mitochondria
+D. ribosomes
+Q.4 If the mass of two objects is halved and the distance between them is also halved, the
+gravitational force ________.
+Ans
+ A. becomes one-fourth as much
+B. becomes half as much
+C. becomes double
+D. remains same as before
+Q.5 Which of the following cell organelles stores starch, oil and protein granules?
+Ans
+ A. All plastids
+B. Chromoplast
+C. Leucoplast
+D. Chloroplast
+Test Date 09/12/2025
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 The number of neutrons in an oxygen atom is:
+Ans
+ A. 32
+B. 16
+C. 7
+D. 8
+Q.7 A convex lens is thicker at the middle compared to the edges. Due to this
+shape, how does it affect parallel light rays passing through it?
+Ans
+ A. It causes the rays to reflect back along the same path
+B. It causes the rays to scatter randomly
+C. It causes the rays to meet at a point, performing a converging action
+D. It causes the rays to spread out, performing a diverging action
+Q.8 Which of the following is NOT a trait Mendel studied in pea plants?
+Ans
+ A. Flower position
+B. Seed shape
+C. Leaf size
+D. Plant height
+Q.9 What does the area under a velocity-time graph give?
+Ans
+ A. Displacement
+B. Acceleration
+C. Force
+D. Work done
+Q.10 The speed of sound in air is about 343 m/s at room temperature. What happens to its
+speed when it travels through water?
+Ans
+ A. It becomes zero
+B. It remains the same
+C. It decreases
+D. It increases
+Q.11 Which of the following shows the strongest force of attraction between particles?
+Ans
+ A. Alcohol
+B. Oxygen gas
+C. Iron rod
+D. Water
+Q.12 The poultry birds grown for the purpose of meat production are called _________.
+Ans
+ A. Fowls
+B. Layers.
+C. Broilers.
+D. Cocks.
+Q.13 Which of the following statements about ethanol is correct?
+Ans
+ A. Ethanol reacts with sodium to form carbon dioxide.
+B. Ethanol does not dissolve in water.
+C. Ethanol is a liquid with a pleasant smell and is miscible with water.
+D. Ethanol is a non-volatile solid.
+Q.14 Which of the following wires will have the least resistance if all are made of the same
+material?
+Ans
+ A. Short and thin wire
+B. Long and thin wire
+C. Long and thick wire
+D. Short and thick wire
+Q.15 When the same current flows through two wires of equal length but different
+resistances, the wire with higher resistance will:
+Ans
+ A. Produce more heat
+B. Produce less heat
+C. Produce no heat
+D. Produce the same heat
+Q.16 Read the following statements carefully and select the correct option.
+Assertion (A): Decomposition reactions require energy in the form of heat, light, or
+electricity.
+Reason (R): Energy is absorbed to break down reactant molecules into simpler
+products.
+Ans
+ A. A is true, but R is false.
+B. Both A and R are true, and R is not the correct explanation of A.
+C. Both A and R are true, and R is the correct explanation of A.
+D. A is false, but R is true.
+Q.17 If a porter carrying a load on his head moves on a horizontal road with uniform speed,
+the work done by the gravitational force on the load:
+Ans
+ A. is zero
+B. cannot be determined
+C. is minimum
+D. is maximum
+Q.18 An organic compound always contains which of the following?
+Ans
+ A. Halogens and noble gases
+B. At least one carbon atom
+C. Silicon and phosphorus atoms
+D. Hydrogen, oxygen and nitrogen
+Q.19 Why do recessive traits like 't' for dwarfness in pea plants only show up when both
+alleles are recessive?
+Ans
+ A. Recessive alleles cannot be passed on.
+B. Recessive alleles are stronger.
+C. Dominant alleles mask recessive alleles.
+D. Recessive alleles are never expressed.
+Q.20 Which of the following is the irrigation method in which water is tap from deeper strata
+by pumps?
+Ans
+ A. Canals
+B. Tube wells
+C. River life system
+D. Rain-fed
+Q.21 Which of the following terms is used to describe the ability of a plant to recover its lost
+parts by growth?
+Ans
+ A. Budding
+B. Binary fission
+C. Regeneration
+D. Fertilisation
+Q.22 When ester is treated with sodium hydroxide, alcohol and sodium salt of carboxylic
+acid is formed. What is the process called?
+Ans
+ A. Esterification
+B. Saponification
+C. Hydrogenation
+D. Acidification
+Q.23 A ray of light passing through the principal focus of a convex lens emerges:
+Ans
+ A. towards the optical centre
+B. parallel to the principal axis
+C. without deviation
+D. back to the source
+Q.24 Which of the following characteristics correctly describes skeletal (striated) muscles?
+Ans
+ A. Spindle-shaped, uninucleate cells, involuntary control
+B. Branched, uninucleate cells, involuntary control
+C. Long, cylindrical, unbranched, multinucleate cells, voluntary control
+D. Short, cylindrical, branched cells with intercalated discs
+Q.25 Which of the following elements has atomic number 11?
+Ans
+ A. Sodium
+B. Potassium
+C. Magnesium
+D. Nitrogen
+Q.26
+871
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.27 If A : B = 1 : 3, B : C = 4 : 3 and C : D = 5 : 7, then A : B : C : D is:
+Ans
+ A. 20 : 60 : 43 : 63
+B. 20 : 58 : 45 : 63
+C. 18 : 60 : 45 : 63
+D. 20 : 60 : 45 : 63
+Section : Mathematics
+Q.28
+Ans
+ A. 497/125
+B. 477/125
+C. 437/125
+D. 417/125
+Q.29 A rectangular garden is 50 m long and 40 m wide. A path of uniform width is laid inside
+the garden along its boundary. If the area of the path is 344 m², find the perimeter of the
+inner rectangle.
+Ans
+ A. 140 m
+B. 148 m
+C. 136 m
+D. 164 m
+Q.30 A number is first decreased by 35% and then further decreased by 25%. By what
+percentage has the original number been decreased altogether?
+Ans
+ A. 50%
+B. 53.25%
+C. 55%
+D. 51.25%
+Q.31 A vendor offers her customers a discount of 15% on her beauty products and she still
+makes a profit of 5%. What is the cost price (in ₹) of a beauty product marked at ₹273?
+Ans
+ A. 247
+B. 221
+C. 219
+D. 166
+Q.32 To buy a car, Taniya borrowed ₹75,000 at 8% per annum simple interest for 27 months.
+How much interest will she pay?
+Ans
+ A. ₹13,000
+B. ₹12,500
+C. ₹14,000
+D. ₹13,500
+Q.33
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.34 A class of 95 students took a Physics test. 47 students had an average score of 93. The
+other students had an average score of 54. What is the average score (rounded off to
+one decimal place) of the whole class?
+Ans
+ A. 83.7
+B. 73.3
+C. 79.7
+D. 65.6
+Q.35 A number when doubled and increased by 7 becomes 29. Find the number.
+Ans
+ A. 12
+B. 14
+C. 11
+D. 15
+Q.36 Determine the largest number that divides both 1058 and 1550, leaving remainders of 5
+and 11, respectively.4374
+Ans
+ A. 88
+B. 81
+C. 86
+D. 83
+Q.37
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.38
+3837
+Ans
+ A. 51.4
+B. 47.5
+C. 45.3
+D. 41.9
+Q.39 If the third proportional of 50 and 30 be x, then what is the value of x?
+Ans
+ A. 15
+B. 21
+C. 20
+D. 18
+Q.40 The cost of a washing machine is 10% less than the cost of a TV. If the cost of the
+washing machine increases by 55% and that of the TV decreases by 71%, then what is
+the percentage change in the total cost of 6 washing machines and 3 TVs?
+Ans
+ A. Decrease by 13%
+B. Decrease by 11%
+C. Increase by 12%
+D. Increase by 10%
+Q.41 One pipe can fill a tank in 6 minutes while another pipe can empty the completely filled
+tank in 24 minutes. If both the pipes are opened together when the tank is empty, how
+many minutes will it take to fill one-fourth of the tank?
+Ans
+ A. 8
+B. 6
+C. 4
+D. 2
+Q.42 What is the average speed of a car that covers half the distance at the speed of 84
+km/hr and the other half at the speed of 63 km/hr?
+Ans
+ A. 79 km/hr
+B. 68 km/hr
+C. 69 km/hr
+D. 72 km/hr
+Q.43
+11136
+Ans
+ A. 54 minutes
+B. 38 minutes
+C. 45 minutes
+D. 43 minutes
+Q.44 A person saves 60% of his income. If his expenditure is ₹480, then his income (in ₹) is:
+Ans
+ A. 2880
+B. 1200
+C. 1240
+D. 1920
+Q.45 Simplify: 3 × 2 + 12 ÷ (6 − 2) × 2
+Ans
+ A. 18
+B. 12
+C. 21
+D. 15
+Q.46 The points scored by a basket-ball team in a series of matches are as follows:
+17, 2, 7, 27, 25, 5, 14, 18, 10, 24, 10, 8, 7, 10.
+The value of mode is:6537
+Ans
+ A. 17
+B. 10
+C. 4
+D. 7
+Q.47 Rohit bought a bicycle for ₹3,200 and sold it for ₹3,840. What is his profit percentage?
+Ans
+ A. 20%
+B. 22%
+C. 25%
+D. 18%
+Q.48 A dealer marks his goods at 80% above the cost price and allows a discount of 5% on
+the marked price. What is his gain or loss percentage?
+Ans
+ A. 71.3% gain
+B. 71% gain
+C. 72% loss
+D. 74.2% loss
+Q.49 The sides of a triangle are 146 cm, 96 cm, and 110 cm. What is its area (in cm2)?
+Ans
+ A. 5290
+B. 5275
+C. 5296
+D. 5280
+Q.50 Aaron is 5 years younger than Ron. Four years later from now, Ron will be twice as old
+as Aaron. Find Ron’s present age.
+Ans
+ A. 8 years
+B. 5 years
+C. 7 years
+D. 6 years
+Q.51 M, N, O, P, W, X and Y are sitting around a circular table facing the centre of the table.
+O sits to the immediate right of P. Only three people sit between O and Y when counted
+from the left of O. Only three people sit between P and N when counted from the left of
+P. W sits to the immediate right of M. How many people sit between X and M when
+counted from the left of M?
+Ans
+ A. Four
+B. One
+C. Three
+D. Two
+Q.52 C, D, E, G, H, I and J are sitting around a circular table facing the centre of the table.
+Only two people sit between E and G when counted from the left of G. C sits third to the
+left of J. D sits to the immediate right of J. D sits second to the left of E. I is not an
+immediate neighbor of C. Who sits third to the right of H?
+Ans
+ A. G
+B. I
+C. J
+D. D
+Q.53 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only.
+(Left) 3 % * 2 @ & 5 1 @ 6 7 1 6 # # £ 8 8 # $ £ € (Right)
+How many such numbers are there, each of which is immediately preceded by a
+number and also immediately followed by a symbol?
+Ans
+ A. 2
+B. 5
+C. 4
+D. 3
+Q.54 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+ELN 55, HPK 62, KTH 69, NXE 76, ?
+Ans
+ A. QCA 81
+B. QBB 83
+C. RAB 81
+D. PBC 83
+Section : General Intelligence and Reasoning
+Q.55 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All patties are cake.
+All cakes are samosa.
+Conclusions:
+(I): Some samosas are cake.
+(II): All patties are samosa.
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Only conclusion (I) follows
+C. Only conclusion (II) follows
+D. Both conclusions (I) and (II) follow
+Q.56 In the following triads, each group of letters is related to the subsequent one following
+a certain logic. Select from the given options, the one which follows the same logic.
+INFO - NFIO - OFNI
+OATH - ATOH - HTAO
+Ans
+ A. PLAY - LPAY - YLAP
+B. REST - ESRT - TSER
+C. TINS - INTS - INST
+D. ALSO - ASLO - OSLA
+Q.57 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(24 , 12, 2)
+(70, 5, 14)
+Ans
+ A. (13, 39, 3)
+B. (19, 5, 45)
+C. (60 , 6, 12)
+D. (32 , 16 , 2)
+Q.58 In a certain code language, ‘morning sun rises’ is coded as ‘at bp kj’ and ‘rises every
+day’ is coded as ‘lm at wv’. How is ‘rises’ coded in that language?
+Ans
+ A. lm
+B. kj
+C. at
+D. bp
+Q.59 Town M is to the east of Town N. Town O is to the south of Town M. Town P is to the
+west of Town O. Town Q is to the north of Town P. Town N is to the north-west of Town
+Q. What is the location of Town M with respect to Town Q?
+Ans
+ A. North-east
+B. East
+C. North
+D. North-west
+Q.60 What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘−’ are
+interchanged and ‘×’ and ‘÷’ are interchanged?
+67 – 13 ÷ 104 × 26 + 93 = ?
+Ans
+ A. 27
+B. 26
+C. 29
+D. 25
+Q.61 What should come in place of the question mark (?) in the given series?
+2001 2010 2018 2025 2031 ?3525
+Ans
+ A. 2035
+B. 2034
+C. 2037
+D. 2036
+Q.62 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 6 3 6 9 9 4 4 1 7 5 6 2 1 6 6 6 6 8 8 2 9 1 5 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. Four
+B. Two
+C. One
+D. Three
+Q.63 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)       
+Ans
+ A. XUV
+B. LIJ
+C. TQR
+D. OMM
+Q.64 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All hotels are restaurants.
+All restaurants are cafes.
+Some restaurants are kitchens.
+Conclusions:
+(I) Some cafes are kitchens.
+(II) Some hotels are kitchens.
+Ans
+ A. Only conclusion (I) follows.
+B. Only conclusion (II) follows.
+C. Neither conclusion (I) nor (II) follows.
+D. Both conclusions (I) and (II) follow.
+Q.65 Pritika ranked 12th from the top and 26th from the bottom in his class. How many
+students are there in the class?
+Ans
+ A. 37
+B. 47
+C. 45
+D. 35
+Q.66 In a certain language, 'basket is green' is coded as 'ns tu nm' and 'the green planet' is
+coded as 'ti ns fd'. How is 'green' coded in that language?
+Ans
+ A. ti
+B. fd
+C. ns
+D. nm
+Q.67 Dhanya starts from Point A and drives 9 km towards south. She then takes a left
+turn, drives 11 km, turns left and drives 2 km. She then takes a left turn and drives
+4 km. She takes a ﬁnal right turn, drives 7 km and stops at Point P. How far
+(shortest distance) and towards which direction should she drive in order to reachPoint A again?
+(Note: All turns are 90° turns only unless speciﬁed.)
+Ans
+ A. 8 km towards east
+B. 7 km towards west
+C. 9 km towards south
+D. 7 km towards north
+Q.68 Refer to the given series and answer the question that follows. All numbers are single
+digit numbers only. Counting to be done from left to right.
+(Left) 3 2 5 4 6 2 5 3 9 7 4 5 1 1 1 5 2 3 3 8 8 4 4 6 3 1 6 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 5
+B. 2
+C. 3
+D. 4
+Q.69 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+141 ÷ 8 + 384 × 2 − 43 = ?
+Ans
+ A. 953
+B. 912
+C. 982
+D. 979
+Q.70 In a certain code language,
+A + B means ‘A is the sister of B’,
+A @ B means ‘A is the brother of B’,
+A - B means ‘A is the wife of B’,
+and A # B means ‘A is the father of B’.
+How is O related to V if ‘O + P @ T # G - V’?
+Ans
+ A. Wife's father's sister
+B. Wife's father's mother
+C. Wife's mother
+D. Wife's sister
+Q.71 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. LG-JN
+B. OJ-MQ
+C. RM-PT
+D. ID-GL
+Q.72 Six people, L, M, N, O, P and Q, are sitting in a straight line facing towards north. N is
+sitting at the leftmost end of the row. Only 3 people are sitting between N and Q. L is
+sitting second right to P. M is sitting second right to L. Based on the given arrangement
+three of the following four are alike, find the odd one out?
+Ans
+ A. OP
+B. LM
+C. PL
+D. NO
+Q.73 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 1 8 2 9 7 6 2 4 8 3 4 6 1 9 4 2 7 4 3 5 9 8 3 5 2 4 8 (Right)
+How many such even digits are there, each of which is immediately preceded by an
+even digit and also immediately followed by an even digit?
+Ans
+ A. One
+B. More than three
+C. Three
+D. Two
+Q.74 Ayush ranked 28th from the top and 46th from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 72
+B. 74
+C. 73
+D. 71
+Q.75 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+VMN SNP POR MPT ?
+Ans
+ A. JQU
+B. IQV
+C. IQU
+D. JQV
+Q.76 What should come in place of the question mark (?) in the given series?
+12,23,45,78,122 ?
+Ans
+ A. 176
+B. 179
+C. 178
+D. 177
+Q.77 SDVT is related to WIAX in a certain way based on the English alphabetical order. In the
+same way, IXPJ is related to MCUN. To which of the given options is UMEV related,
+following the same logic?
+Ans
+ A. YRJZ
+B. TZXS
+C. YRZS
+D. YUIO
+Q.78 What should come in place of the question mark (?) in the given series?
+1001 1000 997 992 985 ?
+Ans
+ A. 977
+B. 978
+C. 976
+D. 975
+Q.79 VQLG is related to ZUPK in a certain way based on the English alphabetical order. In
+the same way, UPKF is related to YTOJ. To which of the given options is RMHC related,
+following the same logic?
+Ans
+ A. VPLF
+B. VQLG
+C. UQKG
+D. UPKF
+Q.80 If + means −, − means ×, × means ÷ and ÷ means +, then what will come in place of the
+question mark (?) in the following equation?
+221 − 5 ÷ 47 + 842 × 2 = ?
+Ans
+ A. 731
+B. 711
+C. 741
+D. 721
+Q.81 What does the term 'Blue Washing' refer to as per the News reports in 2025?
+Ans
+ A. A new method for water purification
+B. Cleaning rivers to make them blue
+C. The practice of portraying polluting industries as environmentally-friendly
+D. Using blue-coloured chemicals in industries
+Section : General Awareness and Current Affairs
+Q.82 In February 2025, who broke the world indoor 800 m American record with a time of
+1:43.90 at Millrose?
+Ans
+ A. Cooper Lutkenhaus
+B. Will Sumner
+C. Josh Hoey
+D. Bryce Hoppel
+Q.83 In April 2025, under which campaign did the Reserve Bank of India launch its official
+WhatsApp channel to promote digital safety and literacy?
+Ans
+ A. RBI Secure
+B. RBI Kehta Hai
+C. RBI for All
+D. RBI Cares
+Q.84 Which of the following initiative by the Ministry of Electronics and Information
+Technology (MeitY) specifically announced that India’s 'common compute capacity' has
+crossed 34,000 GPUs to boost indigenous AI foundation-model development?
+Ans
+ A. IndiaAI Mission
+B. Atmanirbhar Bharat Abhiyan
+C. Electronics Component Manufacturing Scheme
+D. Digital India AI Programme
+Q.85 Who received the Sporting Icon Award at the 2025 Laureus ceremony?
+Ans
+ A. Rafael Nadal
+B. Serena Williams
+C. Usain Bolt
+D. Novak Djokovic
+Q.86 The Indian Armed Forces participated in the multilateral Exercise ZAPAD 2025 in which
+country?
+Ans
+ A. Russia
+B. United Kingdom
+C. United States
+D. China
+Q.87 What does the letter ‘G’ stand for in the term ‘G20’, as referred to in the second G20
+Digital Economy Working Group meeting held in 2025 in South Africa?
+Ans
+ A. Group
+B. Global
+C. Government
+D. Growth
+Q.88 On 2 November 2025, the Indian Space Research Organisation (ISRO) deployed the
+advanced naval communication satellite GSAT‑7R (CMS-03) into orbit from which
+launch site?
+Ans
+ A. Satish Dhawan Space Centre, Sriharikota
+B. Vikram Sarabhai Space Centre, Thiruvananthapuram
+C. UR Rao Satellite Centre, Bengaluru
+D. Thumba Equatorial Rocket Launching Station, Thumba
+Q.89 What is the primary function of Rajasthan’s MadhuNetr DR‑AI system launched by the
+state health department in 2025?
+Ans
+ A. An AI tool for monitoring heart health remotely
+B. A blockchain system for managing patient records
+C. An AI system for diabetic retinopathy screening
+D. A telemedicine platform for rural teleconsultations
+Q.90 Which organisation planned a big safety drill called 'Operation Abhyaas' in May 2025 to
+help people prepare for emergencies?
+Ans
+ A. Department of Military Affairs (DMA)
+B. Defence Equipment Exporters Association (DEEA)
+C. Defence Research and Development Organisation (DRDO)
+D. National Disaster Management Authority (NDMA)
+Q.91 What does PYKKA stand for in the context of sports?
+Ans
+ A. Panchayat Yojana Kendra for Kids Activities
+B. Primary Youth Khel Ka Abhiyan
+C. Panchayat Yuva Krida Aur Khel Abhiyan
+D. Public Youth Krida Kendra Abhiyan
+Q.92 Where was the All India Masters Ranking Badminton Tournament 2025 held from 22-29
+January 2025?
+Ans
+ A. Bangalore, Karnataka
+B. Mumbai, Maharashtra
+C. Hyderabad, Telangana
+D. Panchkula, Haryana
+Q.93 In January 2025, the Reserve Bank of India (RBI) lifted restrictions on which two Non-
+Banking Financial Companies (NBFCs)?
+Ans
+ A. Arohan and Muthoot Finance
+B. DMI Finance and Muthoot Finance
+C. Navi Finserv and Shriram Finance
+D. Asirvad Microfinance and DMI Finance
+Q.94 Which new index, presented in March 2025 by the International Finance Forum,
+evaluates global AI competitiveness?
+Ans
+ A. Global AI Vibrancy Index
+B. AGILE Index
+C. Global AI Competitiveness Index
+D. AI Governance Index
+Q.95 As reported by Feeding India (an NGO) in June 2025, the big fat Indian wedding is
+quietly triggering a climate chaos by adding which of the following gases in the
+atmosphere?
+Ans
+ A. Nitrous Oxide
+B. Methane
+C. Carbon Monoxide
+D. Hydrofluorocarbons
+"
+Q.96 In which of the following places was the Round Table Discussion on improving female
+workforce participation in India, organised by the Ministry of Labour and Employment
+and the Lal Bahadur Shastri National Academy of Administration, held in March 2025?
+Ans
+ A. Mussoorie
+B. Shimla
+C. Nainital
+D. Dalhousie
+Q.97 Which Section of the Waqf (Amendment) Act, 2025, ensures that women are NOT
+excluded from Waqf property inheritance?
+Ans
+ A. Section 2C (2)
+B. Section 3A(2)
+C. Section 4B
+D. Section 9F
+Q.98 Which Indian naval asset participated in the defense exercise La Pérouse 2025?
+Ans
+ A. INS Mumbai
+B. INS Vikrant
+C. INS Arihant
+D. INS Satpura
+Q.99 Who authored the book "Careless People: A Cautionary Tale of Power, Greed, and Lost
+Idealism" released in March 2025?
+Ans
+ A. Sarah Wynn‑ Williams
+B. Sheryl Sandberg
+C. Boria Majumdar
+D. Simon Sinek
+Q.100What was the main objective of the 4th BIMSTEC Disaster Management Exercise hosted
+virtually by the National Disaster Management Authority in July 2025?
+Ans
+ A. To assess and enhance regional preparedness for cyclones and floods
+B. To strengthen regional cooperation in early warning systems
+C. To test joint response protocols for natural disasters across member nations
+D. To develop a unified framework for reconstruction planning

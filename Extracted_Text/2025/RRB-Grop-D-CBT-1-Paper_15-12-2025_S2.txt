@@ -1,0 +1,785 @@
+Q.1 Which of the polyatomic ion has ‘n’ value equal to 3?
+Ans
+ A. CO3–n
+B. HCO3–n
+C. SO4–n
+D. PO4–n
+Q.2 Which of the following is a typical physical property of non-metals?
+Ans
+ A. They are ductile and shiny like metals.
+B. They are malleable and sonorous.
+C. They conduct heat and electricity well.
+D. They are brittle and poor conductors of electricity.
+Q.3 Which of the following glands add their secretions to make easier transport and to
+provide nutrition for sperms?
+Ans
+ A. Pineal
+B. Prostate and seminal vesicles
+C. Seminal vesicles only
+D. Prostate only
+Q.4 Select the correct option with respect to the following statements.
+Statement-1: Suspension is a homogeneous mixture.
+Statement-2: The particles of a suspension can be seen by the naked eye.
+Statement-3: The solute particles settle down when a suspension is left undisturbed,
+that is, a suspension is unstable.
+Ans
+ A. Statement 1, 2 and 3 are correct
+B. Statement 1 and 2 are correct
+C. Statement 1, 2 and 3 are incorrect
+D. Statement 2 and 3 are correct
+Q.5 A straight chain of three carbon atoms having no double bond and -OH functional group
+at first carbon atom is named:
+Ans
+ A. Propanal
+B. Propanone
+C. Propane
+D. Propanol
+Test Date 15/12/2025
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following plant tissues allows the movement of materials in both
+directions?
+Ans
+ A. Sclerenchyma
+B. Fibres
+C. Xylem
+D. Phloem
+Q.7 Which of the following is an example of complex permanent tissue?
+Ans
+ A. Phloem
+B. Lateral meristem
+C. Aerenchyma
+D. Collenchyma
+Q.8 A ball is thrown upward with an initial velocity of 12 m/s. What will be its velocity after 1
+second? (Take g = 9.8 m/s2)
+Ans
+ A. 12 m/s
+B. 21.8 m/s
+C. 0 m/s
+D. 2.2 m/s
+Q.9 A wire made of a certain material has a resistance of 12 Ω with length l and cross-
+sectional area A. What will be the resistance of another wire made of the same material
+but with length l/3 and cross-sectional area 2A?
+Ans
+ A. 2 Ω
+B. 0.5 Ω
+C. 4 Ω
+D. 1 Ω
+Q.10 Match the following nature and role of metallic oxides.
+Column A (Substance)Column B (Role in Reaction)
+A. CuO 1. Salt formed in reaction
+B. HCl 2. Acid reacting with basic oxide
+C. CuCl₂ 3. Basic oxide reacting with acid
+D. H₂ O 4. Neutralisation product
+Ans
+ A. A - 4; B - 1; C - 2; D - 3
+B. A - 2; B - 3; C - 4; D - 1
+C. A - 3; B - 2; C - 1; D - 4
+D. A - 3; B - 4; C - 1; D - 2
+Q.11 Which of the following is NOT a marine fish?
+Ans
+ A. Rohu
+B. Pomfret
+C. Mackerel
+D. Bhetki
+Q.12 Three resistors of 12 Ω, 6 Ω and 4 Ω are connected in parallel. The equivalent resistance
+is ________.
+Ans
+ A. 0.05 Ω
+B. 22 Ω
+C. 1 Ω
+D. 2 Ω
+Q.13 Read the given statements and select the most appropriate option.
+Statement 1: Mirror formula is applicable to both concave and convex mirrors, provided
+the sign convention is followed.
+Statement 2: The validity of Mirror formula depends on the size of the object.
+Ans
+ A. Only statement 2 is correct.
+B. Both the statements 1 and 2 are correct.
+C. Both the statements 1 and 2 are not correct.
+D. Only statement 1 is correct.
+Q.14 An object is placed 30 cm from a concave mirror of focal length 20 cm. Using the mirror
+formula, what will be the image distance?
+Ans
+ A. −40 cm
+B. −2.5 cm
+C. −12 cm
+D. −60 cm
+Q.15
+Ans
+ A. 
+B. 
+C.
+D. 
+Q.16 When thrown in soil, which of the following substances will persist in the environment
+for a long time?
+Ans
+ A. Pieces of bread
+B. Apple peel
+C. Mango seed
+D. Broken glass pieces
+Q.17 Liquids are less compressible because:
+Ans
+ A. particles have moderate gaps
+B. their density is always less than solids
+C. they have fixed mass always
+D. they contain dissolved gases
+Q.18 What is the chemical reaction involved in the preparation of Plaster of Paris from
+gypsum?
+Ans
+ A. CaSO4·2H2O + heat → CaSO4·½H2O + 1½H2O
+B. CaSO4·2H2O + heat → CaSO4 + 2H2O
+C. CaSO4·½H2O + water → CaSO4·2H2O
+D. CaCO3 + heat → CaO + CO2
+Q.19 The fluid content inside the plasma membrane, which also contains many specialised
+cell organelles, is called:
+Ans
+ A. nucleoplasm
+B. vacuoplasm
+C. plasmin
+D. cytoplasm
+Q.20 What is the percentage of having a male child if the sex chromosomes of the father are
+XY and those of the mother are XX?
+Ans
+ A. 25%
+B. 75%
+C. 100%
+D. 50%
+Q.21 In human beings, how is the sex of a child determined?
+Ans
+ A. By the environmental conditions prevailing during development of the foetus
+B. By the inheritance of X or Y chromosome from the father
+C. By the inheritance of an X chromosome from the mother
+D. By the difference in number of chromosomes inherited by the child
+Q.22 What term describes the rapid to and fro motion of an object that is essential for
+producing sound?
+Ans
+ A. Compression
+B. Rarefaction
+C. Refraction
+D. Vibration
+Q.23 If a book is lying on a table and is not moving, which of the forces are balanced?
+Ans
+ A. Only the weight of the book acts
+B. Weight of the book and friction
+C. Weight of the book and normal reaction by the table
+D. Normal reaction and friction
+Q.24 Work done by a constant force depends on which of the following?
+Ans
+ A. Magnitude of force only
+B. Both force and displacement, and the angle between them
+C. Displacement only
+D. Mass of the object
+Q.25 Which of the following statements is/are correct regarding indicator?
+a. Turmeric is a natural indicator used for acid base titration.
+b. Phenopthalein is colourless in basic medium and gives pink colour in acidic medium.
+c. Clove oil is categorised as olfactory indicator.
+Ans
+ A. a and c
+B. Only a
+C. Only b
+D. b and c
+Section : Mathematics
+Q.26 If 20% of a number is added to 72, then the result is the same number. 70% of the same
+number is:
+Ans
+ A. 63
+B. 83
+C. 93
+D. 73
+Q.27 Raghu’s ratio of income to expenditure is 2 : 1. His income increased by 30% and
+expenditure decreased by 10%. If the initial expenditure was ₹35,000, find his final
+saving (in ₹).
+6941
+Ans
+ A. 68,500
+B. 58,500
+C. 69,500
+D. 59,500
+Q.28
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.29 A speed of 126 km/hr is the same as:
+Ans
+ A. 35 m/sec
+B. 32 m/sec
+C. 37 m/sec
+D. 30 m/sec
+Q.30 If each of the length, breadth and height of a cuboid is doubled, its total surface area
+becomes ________ the original total surface area.
+Ans
+ A. 4 times
+B. 8 times
+C. 2 times
+D. 3 times
+Q.31 Smart Bazaar is offering 'Buy 2, Get 8 free' on household items. What is the net
+percentage discount being offered by the Smart Bazaar?
+Ans
+ A. 83%
+B. 80%
+C. 78%
+D. 82%
+Q.32
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.33 In a pouch containing blue, yellow and orange tokens, the ratio of blue to yellow tokens
+was 5 : 2, while the ratio of orange to blue tokens was 11 : 18. What was the ratio of
+orange to yellow tokens?
+Ans
+ A. 63 : 39
+B. 59 : 40
+C. 55 : 36
+D. 51 : 32
+Q.34 What is the third proportional of 75x2 and 30xy?4964
+Ans
+ A. 11y2
+B. 12y2
+C. 13y2
+D. 9y2
+Q.35 Two banks, A and B, offered loans at 3.5% and 7.5% per annum, respectively. Sachin
+borrowed an amount of ₹2,00,000 from each bank. Find the positive difference (in ₹)
+between the amounts of simple interest paid to the two banks by Sachin after 4 years.
+Ans
+ A. 32,000
+B. 33,000
+C. 31,500
+D. 33,500
+Q.36 Nisha buys a gold ring for her mother. The ring is marked at ₹88,000 and is offered with
+two successive discounts of 25% and Z%, respectively. After receiving both discounts,
+she pays ₹33,000. Find the value of Z.
+Ans
+ A. 48
+B. 50
+C. 49
+D. 51
+Q.37 The arithmetic mean of the observations 61, 33, 94, 48, 36, 93, 73, 94 and 53 is:
+Ans
+ A. 61
+B. 71
+C. 65
+D. 56
+Q.38 Prabhdeep buys 60 identical pens for ₹900. She sells 45 of them at a profit of 20% and
+the remaining at a loss of 40%. What is the total profit or loss percentage on the whole
+transaction?
+Ans
+ A. 9% loss
+B. 9% profit
+C. 5% loss
+D. 5% profit
+Q.39 The ages of Amit and Geeta are in the ratio 6: 5, and the sum of their ages is 44 years.
+Find Amit's age.
+Ans
+ A. 30 years
+B. 28 years
+C. 20 years
+D. 24 years
+Q.40 A triangular garden has vertices at coordinates A(2, 3), B(8, 11), and C(14, 7). A
+landscape designer wants to plant flowers covering exactly half of this triangular area.
+What area should be covered with flowers?
+Ans
+ A. 24 square units
+B. 18 square units
+C. 12 square units
+D. 36 square units
+Q.41 Train P going at a speed of 72 km/hr completely passes train Q of length 393 m, going in
+the same direction on parallel tracks at 42 km/hr, in 1.5 minutes. How much time (in
+seconds) will train P take to completely cross train R of length 468 m, going at 63 km/hr
+in the opposite direction?
+Ans
+ A. 32
+B. 24
+C. 22
+D. 10
+Q.42 A typist takes 40 minutes to type 2 pages. How many pages will he type in 60 minutes?
+Ans
+ A. 3
+B. 5
+C. 2
+D. 4
+Q.43 A cricketer has an average of 88 runs over 10 innings. If he scores 219 runs in the 11th
+inning, by how many runs (rounded off to the nearest whole number) does his average
+score increase?
+Ans
+ A. 6
+B. 12
+C. 19
+D. 2
+Q.44 A shopkeeper has ₹10 and ₹5 notes totaling ₹350. If he has 45 notes in total, how many
+₹10 notes does he have?
+Ans
+ A. 29
+B. 25
+C. 31
+D. 27
+Q.45 A, B and C can individually do a piece of work in 2 days each. How long (in days) will
+they take to do thrice the same work, working together?2503
+Ans
+ A. 4
+B. 3
+C. 6
+D. 2
+Q.46 The sides of a triangle are 34 cm, 88 cm, and 78 cm. What is the length of its altitude
+corresponding to the side with a length of 88 cm?
+Ans
+ A. 30 cm
+B. 79 cm
+C. 19 cm
+D. 9 cm
+Q.47 If x + y = 10 and xy = 24.96, then find the value of (x − y)2.
+Ans
+ A. 1.69
+B. 0.49
+C. 2.25
+D. 0.16
+Q.48 A typist takes 40 minutes to type 4 pages. How long (in minutes) will he take to type 111
+pages?
+Ans
+ A. 1100
+B. 1120
+C. 1110
+D. 1115
+Q.49 The income of Raman is ₹91,700. He saves 20% of his income. If his income increases
+by 19% and expenditure increases by 35%, then his savings will:
+Ans
+ A. increase by ₹8,255
+B. decrease by ₹8,253
+C. increase by ₹8,249
+D. decrease by ₹8,252
+Q.50 If 5 men and 2 women can reap 48 hectares in 3 days, and if 3 men and 1 woman can
+reap 54 hectares in 6 days, then how many women must assist 6 men to reap 378
+hectares in 14 days?
+Ans
+ A. 7
+B. 9
+C. 3
+D. 5
+Q.51 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+SAT OWP KSL GOH ?
+Ans
+ A. COK
+B. CDK
+C. CKI
+D. CKD
+Q.52 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(16, 256, 16)
+(9, 81, 9)
+Ans
+ A. (4, 16, 6)
+B. (8, 64, 8)
+C. (12, 144, 10)
+D. (25, 625, 20)
+Section : General Intelligence and Reasoning
+Q.53 IK 6 is related to KF −10 in a certain way. In the same way, GI 8 is related to ID −8. To
+which of the given options is RT 12 related, following the same logic?
+Ans
+ A. TO −4
+B. TP −4
+C. UO −5
+D. SO −5
+Q.54 Riya starts from point A and drives 34 km towards south. She then takes a right turn,
+drives 46 km, turns right and drives 51 km. She then takes a right turn and drives 67 km.
+She takes a final right turn, drives 17 km and stops at point P. How far (shortest
+distance) and towards which direction should she drive in order to reach point A again?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. 20 km to the west
+B. 18 km to the east
+C. 19 km to the east
+D. 21 km to the west
+Q.55 EFJL is related to HKMQ in a certain way based on the English alphabetical order. In the
+same way, QZVF is related to TEYK. To which of the given options is ZOEU related,
+following the same logic?
+Ans
+ A. CHTY
+B. CHZW
+C. CTHZ
+D. CTHU
+Q.56 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. MT – JZ
+B. RD – OI
+C. KQ – HV
+D. SV – PA
+Q.57 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+MKD : IJG
+PTF : LSI
+Ans
+ A. JHE : FFH
+B. NKH : JJJ
+C. YUN : UTQ
+D. OPA : KOC
+Q.58 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All foxes are cats.
+No cat is a bear.
+Conclusions:
+(I): No fox is a bear.
+(II): Some bears are cats.
+Ans
+ A. Only conclusion (I) follows
+B. Neither conclusion (I) nor (II) follows
+C. Both conclusions (I) and (II) follow
+D. Only conclusion (II) follows
+Q.59 Hiten ranked 39th from the top and 24th from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 60
+B. 61
+C. 62
+D. 63
+Q.60 This question is based on the five, three-digit numbers given below.
+(Left) 741 753 789 761 745 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE: All operations to be done from left to right.)
+What will be the resultant if the second digit of the second highest number is added to
+the third digit of the lowest number?
+Ans
+ A. 11
+B. 6
+C. 7
+D. 8
+Q.61 Refer to the following series and answer the question that follows (all numbers are
+single digit numbers only). Counting to be done from left to right only.
+(Left) 2 8 2 2 9 9 9 4 6 4 9 7 9 6 5 1 8 6 6 1 6 6 2 7 5 2 7 (Right)
+How many such even numbers are there each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?15351
+Ans
+ A. 3
+B. 2
+C. 4
+D. 1
+Q.62 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will
+come in place of the question mark (?) in the following equation?
+5 D 4 C 40 B 3 A 1 = ?
+Ans
+ A. 125
+B. 127
+C. 123
+D. 121
+Q.63 In a certain code language, ‘VALE’ is coded as ‘6318’ and ‘OVAL’ is coded as ‘3761’.What
+is the code for ‘O’ in the given code language?1637
+Ans
+ A. 3
+B. 1
+C. 6
+D. 7
+Q.64 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. BK – HN
+B. UD – AG
+C. CL – JO
+D. LU – RX
+Q.65 Six animals, Bear, Fox, Giraffe, Lion, Panda and Tiger, are sitting around a circular table
+facing the centre. Fox is an immediate neighbour of both Tiger and Bear. Tiger is sitting
+second to the left of Lion. Giraffe is sitting second to the left of Panda. Who is sitting
+between Lion and Tiger, when counted from the left of Lion?
+Ans
+ A. Giraffe
+B. Panda
+C. Bear
+D. Fox
+Q.66 What should come in place of the question mark (?) in the given series?
+3 6 11 18 ?
+Ans
+ A. 24
+B. 27
+C. 18
+D. 22
+Q.67 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+7 B 6 C 3 D 24 A 4 = ?
+Ans
+ A. 39
+B. 38
+C. 36
+D. 37
+Q.68 Seven boxes, A, B, C, D, I, J, and K, are kept one over the other, but not necessarily in
+the same order.
+Only two boxes are kept between A and C. Only B is kept above K. No box is kept below
+C. J is kept at some place below D but at some place above I. Which box is kept third
+above I?
+Ans
+ A. C
+B. K
+C. A
+D. D
+Q.69 Refer to the given series and answer the question that follows (all numbers are single
+digit numbers only). Counting to be done from left to right only.
+(Left) 3 6 5 4 1 2 5 8 9 7 4 5 6 (Right)
+How many such odd digits are there, each of which is immediately preceded by an even
+digit and also immediately followed by an odd digit?
+Ans
+ A. Two
+B. Four
+C. One
+D. Three
+Q.70 A, B, C, D, E and F are sitting around a circular table facing the centre. C sits second to
+the left of E. A sits second to the right of D. F is on the immediate right of A. Who is
+sitting on the immediate right of B?
+Ans
+ A. D
+B. E
+C. A
+D. C
+Q.71 What should come in place of the question mark (?) in the given series?
+351 335 319 303 287 ?
+Ans
+ A. 271
+B. 269
+C. 273
+D. 275
+Q.72 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 4 8 2 8 2 3 8 3 1 3 9 1 7 3 9 7 6 2 6 6 6 8 2 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+even number and also immediately followed by an odd number?
+Ans
+ A. One
+B. Four
+C. Two
+D. Three
+Q.73 M, N, O, P, W, X and Y are sitting around a circular table facing the centre of the table.
+W sits third to the left of O. X sits second to the left of Y. O is the immediate neighbour
+of both N and X. P is not an immediate neighbour of W.
+How many people sit between M and X when counted from the right of M?
+Ans
+ A. Four
+B. One
+C. Two
+D. Three
+Q.74 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statement(s).
+Statements:
+All books are pens.
+Some pens are erasers.
+Conclusions:
+(I) All erasers are pens.
+(II) Some books are erasers.11673
+Ans
+ A. Only II follows
+B. Neither I nor II follows
+C. Both I and II follow
+D. Only I follows
+Q.75 In a certain code language,
+A ? B means ‘A is the daughter of B’,
+A = B means ‘A is the son of B’,
+A @ B means ‘A is the father of B’ and
+A √ B means ‘A is the sister of B’.
+How is C related to L if 'C = D @ E √ F ? L'?
+Ans
+ A. Son
+B. Father
+C. Husband
+D. Brother
+Q.76 Mr. Akai starts from Point A and drives 9 km towards south. He then takes a left turn,
+drives 7 km, turns left and drives 21 km. He then takes a left turn and drives 18 km. He
+takes a final left turn, drives 12 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90 degrees turns only unless specified)
+Ans
+ A. 7 km to the north
+B. 7 km to the east
+C. 11 km to the east
+D. 11 km to the west
+Q.77 In a certain code language, ‘store what matters’ is coded as ‘bf yt xc’ and ‘don't store it’
+is coded as ‘hd ip xc’. How is ‘store’ coded in the given language?
+(All codes are two-letter codes)
+Ans
+ A. ip
+B. hd
+C. xc
+D. bf
+Q.78 What should come in place of the question mark (?) in the given series?
+321 323 327 333 341 ?
+Ans
+ A. 353
+B. 355
+C. 351
+D. 349
+Q.79 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+DRA120, OCL102, ZNW84, KYH66, ?
+Ans
+ A. VJT48
+B. VJS48
+C. UJS48
+D. VAS48
+Q.80 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+22 − 13 ÷ 21 × 39 + 48 = ?
+Ans
+ A. −18
+B. −19
+C. −21
+D. −17
+Q.81 According to Envstats India 2025, what was the inland fish production in 2023-24?
+Ans
+ A. 112.77 lakh tonnes
+B. 79.83 lakh tonnes
+C. 147.23 lakh tonnes
+D. 139.07 lakh tonnes
+Q.82 How many years of service is the IMD celebrating in 2025?
+Ans
+ A. 175 years
+B. 150 years
+C. 100 years
+D. 125 years
+Q.83 As of June 2025, who among the following is NOT the Chief Minister of any state in
+India?
+Ans
+ A. Kalvakuntla Chandrashekar Rao
+B. Bhajan Lal Sharma
+C. Himanta Biswa Sarma
+D. Nara Chandrababu Naidu
+Q.84 What is the name of India's automated Air Defence Control and Reporting System,
+designed to detect, track, and neutralise enemy aircraft, drones, and missiles in May
+2025?
+Ans
+ A. Akashteer
+B. Akashbhed
+C. Naag
+D. Agnidhar
+Q.85 In April 2025, the World Bank and International Monetary Fund (IMF) held their Spring
+Meetings in which U.S. city?
+Ans
+ A. Miami
+B. Los Angeles
+C. Washington, D.C.
+D. Chicago
+Section : General Awareness and Current Affairs
+Q.86 Which of the following is India's rank among the most polluted countries of the world as
+of IQ Air Report 2024?
+Ans
+ A. 7
+B. 5
+C. 9
+D. 3
+Q.87 Who was appointed as Chairperson of the Economic Advisory Council to the Prime
+Minister (EAC‑ PM) in June 2025?
+Ans
+ A. Suman Bery
+B. Arun Kumar
+C. S Mahendra Dev
+D. Bibek Debroy
+Q.88 Which global cybersecurity company collaborated with the Indian Computer Emergency
+Response Team (CERT-In) to launch the Digital Threat Report 2024 for the Banking,
+Financial Services, and Insurance (BFSI) sector in April 2025?
+Ans
+ A. SISA
+B. Kaspersky Labs
+C. McAfee International
+D. Norton CyberSecure
+Q.89 Which religious communities are covered under Karnataka’s ₹50,000 incentive scheme
+for mass marriages in July 2025?
+Ans
+ A. Hindu and Buddhist
+B. Only Muslim and Christian
+C. Muslim, Christian, Jain, Buddhist, Parsi and Sikh
+D. Only SC/ST
+Q.90 Which country won the most medals at the 2025 World Athletics Championships?
+Ans
+ A. Kenya
+B. Great Britain
+C. China
+D. USA
+Q.91 Which Indian beach hosted the amphibious landing phase of Tiger Triumph 2025?
+Ans
+ A. Puri
+B. Juhu
+C. Kakinada
+D. Kanyakumari
+Q.92 The Waqf (Amendment) Act, 2025 mandates the representation of how many Muslim
+women on Waqf boards?
+Ans
+ A. Four
+B. One
+C. Three
+D. Two
+Q.93 Saweety Boora, the Indian World Championships gold medalist and Arjuna Award
+recipient in 2025, is associated with which sport?
+Ans
+ A. Boxing
+B. Weightlifting
+C. Badminton
+D. Wrestling
+Q.94 Which of the following states has become the first in India to use face recognition
+linked to Aadhaar for ration delivery in July 2025?
+Ans
+ A. Uttarakhand
+B. Haryana
+C. Punjab
+D. Himachal Pradesh
+Q.95 As per the India Justice Report, 2025, which is the only state in India to meet all three
+(SC, ST and OBC) quotas in both the police and judiciary?
+Ans
+ A. Karnataka
+B. Assam
+C. Kerala
+D. Chhattisgarh
+Q.96 As per Union Budget 2025–26, how much corpus has been allocated to the Ministry of
+Science and Technology to finance private-sector-led research, development, and
+innovation?
+Ans
+ A. ₹35,000 crore
+B. ₹25,000 crore
+C. ₹50,000 crore
+D. ₹20,000 crore
+Q.97 Which of the following countries is the venue for the 2025 Esports World Cup?
+Ans
+ A. Berlin
+B. Beijing
+C. Dubai
+D. Riyadh
+Q.98 Neeraj Chopra won the Ostrava Golden Spike javelin event in June 2025 with whatdistance?
+Ans
+ A. 86.50 m
+B. 87.00 m
+C. 85.29 m
+D. 84.10 m
+Q.99 What long-term wireless milestone did IIT Hyderabad and Japan’s SSIC achieve as of
+May 2025?
+Ans
+ A. 5G broadcast TV
+B. Test of Beyond 5G and 6G SDR SoC
+C. 100 Gbps laser satellites
+D. Prototype 7G
+"
+Q.100According to Reporters Without Borders (RSF) World Press Freedom Index 2025, which
+country topped the index released in May 2025?
+Ans
+ A. Estonia
+B. Switzerland
+C. Finland
+D. Norway

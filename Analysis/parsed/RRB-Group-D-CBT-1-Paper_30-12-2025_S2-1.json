@@ -1,0 +1,28 @@
+[
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_30-12-2025_S2-1.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "Find the smallest number which when increased by 20 is completely divisible by 12, 20, 15, 18 and 24.",
+    "options": {
+      "A": "(52, 105)",
+      "B": "(68, 85)",
+      "C": "(102, 153)",
+      "D": "(65, 91)"
+    },
+    "answer": ""
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_30-12-2025_S2-1.pdf",
+    "year": "2025",
+    "questionNumber": 40,
+    "questionText": "3030",
+    "options": {
+      "A": "12 seconds",
+      "B": "5 seconds",
+      "C": "23 seconds",
+      "D": "15 seconds"
+    },
+    "answer": ""
+  }
+]

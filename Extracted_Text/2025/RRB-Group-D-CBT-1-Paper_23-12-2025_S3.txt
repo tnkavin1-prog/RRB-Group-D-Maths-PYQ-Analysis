@@ -1,0 +1,769 @@
+Q.1 The Chipko Andolan refers to which of the following?
+Ans
+ A. Use of advanced technologies for reducing environmental pollution
+B. Active participation of local communities in protecting forests
+C. Government-sponsored environmental protection schemes
+D. Government-sponsored water harvest schemes
+Q.2 Which of the following breeds of cows is resistant to diseases?
+Ans
+ A. Red Sindhi
+B. Brown Swiss
+C. Aseel
+D. Jersey
+Q.3 Which of the following conditions is essential for rusting of iron?
+Ans
+ A. Only air
+B. Only water
+C. Both air and water
+D. Dry air only
+Q.4 Formula unit mass is:
+Ans
+ A. the sum of the number of electrons of all atoms in a formula unit of a compound
+B. the sum of the atomic number of all atoms in a formula unit of a compound
+C. the sum of the number of protons of all atoms in a formula unit of a compound
+D. the sum of the atomic masses of all atoms in a formula unit of a compound
+Q.5 In which of the following plants, seed is dispersed by the bursting of fruits?
+Ans
+ A. Xanthium
+B. Urena
+C. Castor
+D. Sunflower
+Test Date 23/12/2025
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 In a metallic wire obeying Ohm's Law, if the resistance remains constant, reducing the
+potential difference across its terminals to one-half of its former value will result in what
+change in the current flowing through it?
+Ans
+ A. The current remains constant.
+B. The current reduces to one-half of its former value.
+C. The current doubles.
+D. The current reduces to one-fourth of its former value.
+Q.7 Which statement correctly defines the process of evaporation?
+Ans
+ A. It changes solids directly into vapors upon heating strongly
+B. It takes place only at the boiling temperature of a liquid
+C. It requires the liquid to freeze before changing to the gas form
+D. It changes a liquid to gas from the surface below boiling point
+Q.8 How is the work done by a force calculated?
+Ans
+ A. Work = force ÷ displacement
+B. Work = force + displacement
+C. Work = force × displacement
+D. Work = displacement ÷ force
+Q.9 Which of the following metals, according to the reactivity series, is the most reactive?
+Ans
+ A. Potassium
+B. Copper
+C. Zinc
+D. Iron
+Q.10 What determines the sex of a child in humans?
+Ans
+ A. Mother’s ovum
+B. Father’s sperm
+C. Mitochondrial DNA
+D. Number of autosomes
+Q.11 Which of the following statements is INCORRECT about regeneration?
+Ans
+ A. Regeneration involves specialised cells and requires cell division.
+B. Fragmentation occurs in simple multicellular organisms like Spirogyra.
+C. In complex animals, regeneration is limited to repair of tissues, not formation of a whole organism.
+D. Dogs can regrow lost body parts and form whole new individuals.
+Q.12 An object is placed 10 cm from a concave lens of focal length 15 cm. Which statement
+about the image is correct?
+Ans
+ A. Image is real, inverted and smaller than the object.
+B. Image is virtual, erect and smaller than the object.
+C. Image is real, inverted and larger than the object.
+D. Image is virtual, erect and larger than the object.
+Q.13 Two objects of mass 100 kg each are separated by a distance of 1 m. What will be the
+magnitude of the gravitational force between the two objects? (Take the value of G as
+6.67 x 10-11 Nm2/kg2)
+Ans
+ A. 6.67 x 107 N
+B. 6.67 x 109 N
+C. 6.67 x 10-9 N
+D. 6.67 x 10-7 N
+Q.14 The blue colour of the sky appears due to:
+Ans
+ A. absorption of blue light by air molecules
+B. refraction of light by air molecules
+C. scattering of shorter wavelength of sunlight by air molecules
+D. reflection of light by air molecules
+Q.15 Which of the following is NOT correct?
+Ans
+ A. In the electrical circuit, the direction of current is taken from the positive to the negative terminal.
+B. A bulb glows only in a closed circuit.
+C. In the electrical circuit, if the switch is open, no current flows.
+D. In the electrical circuit, the voltmeter is connected in series with the component.
+Q.16 Which of the following best describes the function of nervous tissue?
+Ans
+ A. It protects internal organs from mechanical injury.
+B. It stores energy in the form of fat globules.
+C. It provides rigidity and strength to the body framework.
+D. It transmits information rapidly from one body part to another.
+Q.17 Which of the following is classified as an element?
+Ans
+ A. Water
+B. Salt
+C. Air
+D. Copper
+Q.18 Who first described the nucleus as a cell organelle in 1831?
+Ans
+ A. Rudolf Virchow
+B. Robert Hooke
+C. Robert Brown
+D. Anton van Leeuwenhoek
+Q.19 Select the option that balances the following reaction.
+CaCO₃  + x HCl → y CaCl₂  + CO₂  + z H₂ O
+Ans
+ A. x=2, y=2, z=1
+B. x=1, y=1, z=2
+C. x=1, y=1, z=1
+D. x=2, y=1, z=1
+Q.20 What is the function of plasma in human blood?
+Ans
+ A. It transports food, carbon dioxide and waste materials.
+B. It carries oxygen from lungs to all parts of the body.
+C. It maintains the oxygen-rich blood supply to tissues.
+D. It helps in clotting blood during injuries.
+Q.21 The sign of acceleration depends on its direction relative to velocity. Which of the
+following is correct?
+Ans
+ A. Acceleration is positive if it is in the direction of velocity, and negative if it is opposite.
+B. Acceleration is always positive, irrespective of direction.
+C. Acceleration is positive if it is opposite to the direction of velocity.
+D. Acceleration is negative if it is in the direction of velocity.
+Q.22 Which of the following is a physical property of metals?
+Ans
+ A. Form gases at room temperature
+B. Highly ductile and malleable
+C. Poor conductor of heat and brittle
+D. Soft and break with light force
+Q.23 Newton's third law of motion deals with the nature of _________.
+Ans
+ A. the relationship between mass and acceleration
+B. the force of gravity acting on a falling object
+C. a single object resisting a change in motion
+D. forces always occurring in pairs
+Q.24 The reaction between sodium sulphate and barium chloride is an example of double
+displacement reaction. This is also an example of:
+Ans
+ A. displacement reaction
+B. combination reaction
+C. precipitation reaction
+D. decomposition reaction
+Q.25 Why are ceilings of concert halls often made curved?
+Ans
+ A. To reflect sound uniformly in all directions
+B. To absorb sound and reduce loudness
+C. To completely stop reverberation
+D. To reduce the speed of sound in air
+Q.26 In a quadrilateral MNST, ∠M = 63° and ∠N = 99°. The bisectors of ∠S and ∠T meet at O.
+What is the measure of ∠TOS?
+Ans
+ A. 94°
+B. 87°
+C. 73°
+D. 81°
+Q.27 A, B and C can do a piece of work in 3, 15 and 10 days, respectively. How long (in days)
+will they take to do twice the same work, working together?
+Ans
+ A. 5
+B. 12
+C. 8
+D. 4
+Q.28
+ .
+Ans
+ A. 1
+B. 
+C. 2
+D. 0
+Section : Mathematics
+Q.29 An agent sells a pan with a marked price of ₹6,420 at a discount of 30%. What is the
+selling price (in ₹) of the pan?
+Ans
+ A. 4,935
+B. 4,449
+C. 4,494
+D. 5,136
+Q.30 The total cost of 10 mangoes and 13 apples is ₹134 and the cost of 4 apples is ₹13 less
+than that of 15 mangoes. Then find the price (in rupees) of a mango and an apple,
+respectively.
+Ans
+ A. 2, 7
+B. 4, 5.60
+C. 3, 8
+D. 3.50, 5
+Q.31 In a test, B got 50 marks while A got 75 marks, out of 120 maximum marks. What
+percentage of A's marks was B's marks? (Round off your answer to two decimal places)
+Ans
+ A. 62.50%
+B. 150.33%
+C. 120.73%
+D. 66.67%
+Q.32 If a solid sphere of radius 14 cm is moulded into 8 spherical solid balls of equal radius,
+then find the surface area of each ball.
+Ans
+ A. 600 cm2
+B. 598 cm2
+C. 650 cm2
+D. 616 cm2
+Q.33 Given a + b + c = 15 and a2 + b2 + c2 = 83, find ab + bc + ca.
+Ans
+ A. 71
+B. 25
+C. 11
+D. 20
+Q.34 What is the least number which should be added to 539, so that the number obtained is
+exactly divisible by 10, 15 and 3?
+Ans
+ A. 1
+B. 2
+C. 5
+D. 3
+Q.35 The amount on a sum of ₹2,000 at 5% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹2,205
+B. ₹2,880
+C. ₹2,886
+D. ₹3,039
+Q.36
+Ans
+ A. 4.7
+B. 4.6
+C. 8.2
+D. 8.8
+Q.37 Which of the following numbers is divisible by both 6 and 9, but not divisible by 12?
+126, 252, 72, 108
+Ans
+ A. 108
+B. 72
+C. 252
+D. 126
+Q.38 The prices of articles P, Q and R are ₹280, ₹180 and ₹100, respectively. Subrata buys
+these articles in the ratio 3 : 4 : 5, spending a total of ₹26,780. How many articles of type
+Q did he buy?
+Ans
+ A. 40
+B. 84
+C. 76
+D. 52
+Q.39 The salaries of X, Y and Z are in the ratio 4:18:21. If the increments of 90%, 90% and 40%
+are allowed, respectively, in their salaries, then what will be the new ratio of their
+salaries?
+Ans
+ A. 35:172:153
+B. 36:172:149
+C. 38:171:147
+D. 41:173:154
+Q.40 Two pipes can fill a cistern, individually, in 96 min and 64 min, respectively. There is a
+pipe located at the bottom of the cistern to empty it. If all the three pipes are opened
+simultaneously, then the empty cistern gets filled in 48 min. How long will the pipe at
+the bottom of the tank take to empty the completely filled cistern if no other pipe is then
+open?
+Ans
+ A. 192 min
+B. 201 min
+C. 175 min
+D. 207 min
+Q.41 A person sells an article for ₹3,450 and earns a profit of 15%. Find the cost price of the
+article.
+Ans
+ A. ₹2,860
+B. ₹2,980
+C. ₹2,900
+D. ₹3,000
+Q.42 Two trains 259 m and 431 m long are running in opposite directions at a speed of 52
+km/h and 56 km/h, respectively. They cross each other in:
+Ans
+ A. 22 seconds
+B. 23 seconds
+C. 34 seconds
+D. 18 seconds
+Q.43 A shopkeeper offers the following four schemes:
+A) Two successive discounts of 39% and 8%
+B) Buy 8, get 4 free
+C) A single discount of 16%
+D) Two successive discounts of 38% and 34%
+Which scheme is best for the shopkeeper?
+Ans
+ A. B
+B. A
+C. C
+D. D
+Q.44 The average of 8 numbers is 121. If the first 7 numbers are 35, 35, 49, 83, 102, 80 and 20,
+then the eighth number is:
+Ans
+ A. 564
+B. 557
+C. 566
+D. 567
+Q.45 The arithmetic mean of the observations 35, 53, 38, 89, 71, 69, 86, 40 and 41 is:
+Ans
+ A. 65
+B. 66
+C. 60
+D. 58
+Q.46 The price of fuel decreases by 40%, 25% and 45% in three successive months, but
+increases by 55% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price? (Round off your
+answer to two decimal places)
+Ans
+ A. Increases by 67.66%
+B. Decreases by 61.64%
+C. Decreases by 63.14%
+D. Increases by 64.75%
+Q.47
+Ans
+ A. 90
+B. 10
+C. 60
+D. 30
+Q.48 A park, in the shape of a quadrilateral ABCD, has ∠C = 90°, AB = 36 m, BC = 42 m, CD =
+40 m and AD = 36 m. What is the area (in m2, rounded off to 1 decimal place) of the
+park?
+Ans
+ A. 1458.6
+B. 1584.6
+C. 1548.6
+D. 1485.6
+Q.49 In an election between two candidates, one candidate secured 42% of the votes and
+was defeated by the other candidate with a margin of 416 votes. If all the votes cast
+were valid, what was the total number of votes polled?
+Ans
+ A. 2590
+B. 2615
+C. 2600
+D. 2595
+Q.50 Saloni's age is 7 years more than twice her sister Emma's age. If the sum of their ages
+is 25 years, how old is Emma?
+Ans
+ A. 8 years
+B. 6 years
+C. 7 years
+D. 5 years
+Q.51 Z ranked 21st from the top and 39th from the bottom in his class. How many students
+are there in his class?
+Ans
+ A. 57
+B. 56
+C. 60
+D. 59
+Q.52 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 8 6 1 3 4 1 8 9 6 8 8 6 5 7 1 9 6 9 8 1 7 8 3 8 3 3 8 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 3
+B. 2
+C. 4
+D. 1
+Q.53 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+(56 A 7) B 9 D (14 A 7) B 5 C 36 A 4 D 11 = ?
+Ans
+ A. 79
+B. 42
+C. 60
+D. 51
+Q.54 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+No Fictions are Nonfictions.
+All Nonfictions are Poetries.
+Some Poetries are Dramas.
+Conclusions:
+(I): Some Fictions are Poetries.
+(II): Some Nonfictions are Dramas.
+Ans
+ A. Only conclusion (II) is true
+B. Neither conclusion (I) nor (II) is true
+C. Both conclusions (I) and (II) are true
+D. Only conclusion (I) is true
+Section : General Intelligence and Reasoning
+Q.55 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+ 
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. ZCV
+B. CFY
+C. LOH
+D. VYP
+Q.56 Jason went on a business trip in his car. He drove west from his house for a distance of
+30 km. He turned right and drove 20 km. Then, he turned left and drove 10 km, took
+another left and drove 40 km. He took a last left and drove 40 km before stopping. How
+far and in which direction should he drive to reach his house? (All turns are 90-degree
+turns only, unless specified.)
+Ans
+ A. 20 km towards the north
+B. 10 km towards the south
+C. 20 km towards the south
+D. 10 km towards the north
+Q.57 Six friends, G, H, I, Q, R and S, are sitting around a circular table facing the centre of the
+table. Only two people sit between G and S when counted from the right of G. Only one
+person sits between S and I when counted from the right of I. Only three people sit
+between G and R. H sits to the immediate left of Q. Who sits third to the left of R?1603
+Ans
+ A. Q
+B. H
+C. I
+D. G
+Q.58 In a certain code language, ‘live with truth’ is coded as ‘xf je ak’ and ‘truth guides life’ is
+coded as ‘ub mr je’. How is ‘truth’ coded in that language?
+Ans
+ A. je
+B. ak
+C. mr
+D. ub
+Q.59 Refer to the given series and answer the question that follows (all numbers are single
+digit numbers only). Counting to be done from left to right only.
+(Left) 3 1 3 2 8 2 1 2 4 6 1 3 1 8 8 6 1 1 9 5 8 4 1 8 9 6 9 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 3
+B. 6
+C. 5
+D. 4
+Q.60 ABHL is related to FFMP in a certain way based on the English alphabetical order. In the
+same way, URBB is related to ZVGF. To which of the given options is JDQN related,
+following the same logic?10119
+Ans
+ A. OVBH
+B. OHNJ
+C. OBHY
+D. OHVR
+Q.61 What should come in place of the question mark (?) in the given series?
+13, 38, 74, 123, ?, 2686343
+Ans
+ A. 185
+B. 183
+C. 181
+D. 187
+Q.62 Manish starts from Point Y and drives 37 km towards North. He then takes a left turn,
+drives 75 km, turns left and drives 69 km. He then takes a left turn and drives 52 km. He
+takes a left turn, drives 32 km to stop at Point Z. How far (shortest distance) and
+towards which direction should he drive in order to reach Point Y again? (All turns are
+90-degree turns only, unless specified.)
+Ans
+ A. 25 km towards east
+B. 24 km towards west
+C. 23 km towards east
+D. 21 km towards west
+Q.63 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some lamps are bulbs.
+No bulb is a torch.
+No bulb is a candle.
+Conclusions:
+(I) No lamp is a torch.
+(II) Some candles are torches.
+Ans
+ A. Both conclusions (I) and (II) follow.
+B. Only conclusion (I) follows.
+C. Neither conclusion (I) nor (II) follows.
+D. Only conclusion (II) follows.
+Q.64 Select the triad which follows the same pattern as that followed by the two triads given
+below. Both triads follow the same pattern.
+HQ-JS-MO
+FO-HQ-KM
+Ans
+ A. CM-FP-IL
+B. CM-FO-IL
+C. DM-FO-IK
+D. DM-FO-IL
+Q.65 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+GKI JNL MQO PTR ?
+Ans
+ A. SEW
+B. SUW
+C. SWU
+D. SWE
+Q.66 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(158, 568, 726)
+(123, 402, 525)
+Ans
+ A. (180, 203, 383)
+B. (142, 265, 409)
+C. (172, 263, 436)
+D. (170, 382, 554)
+Q.67 What should come in place of the question mark (?) in the given series?
+115 95 77 61 47 ?
+Ans
+ A. 32
+B. 31
+C. 38
+D. 35
+Q.68 In a certain code language,
+A ± B means ‘A is the wife of B’,
+A * B means ‘A is the son of B’,
+A ₹ B means ‘A is the father of B’,
+and A # B means ‘A is the sister of B’.
+How is D related to O if 'D * R ± A ₹ C # O’?
+Ans
+ A. Brother
+B. Husband
+C. Father
+D. Son
+Q.69 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. SYDG
+B. HNRV
+C. XDHL
+D. UAEI
+Q.70 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘-’
+are interchanged and ‘x’ and ‘÷’ are interchanged?
+77 ÷ 12 + 252 x 14 - 177 = ?
+Ans
+ A. 1023
+B. 1097
+C. 1083
+D. 1055
+Q.71 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+RUS 36 PSQ 40 NQO 44 LOM 48 ?
+Ans
+ A. JLO 51
+B. JLJ 51
+C. JNJ 52
+D. JMK 52
+Q.72 What should come in place of the question mark (?) in the given series?
+123 124 127 132 139 ?1182
+Ans
+ A. 148
+B. 147
+C. 145
+D. 151
+Q.73 In a row of 38 students facing north, Z is 12th from the left end. If G is 3rd to the right of
+Z, what is G's position from the right end of the line?
+Ans
+ A. 22th
+B. 25th
+C. 24th
+D. 27th
+Q.74 Eight people – A, B, C, D, E, F, G and H, are sitting around a circular table facing the
+centre. Only two people sit between A and B when counted from the left of A. G sits to
+the immediate left of A. Only three people sit between E and G when counted from the
+left of E. C sits to the immediate right of D. F is not an immediate neighbour of G. Who
+sits second to the right of H?
+Ans
+ A. F
+B. C
+C. E
+D. A
+Q.75 A, B, C, D, E and F are sitting around a circular table facing the centre. B sits second to
+the left of C. D is an immediate neighbour of E. F sits to the immediate left of E. F sits
+second to the right of A. What is the position of C with respect to E?
+Ans
+ A. Immediate right
+B. Immediate left
+C. Second to the right
+D. Second to the left
+Q.76 JFBC is related to GCYZ in a certain way based on the English alphabetical order. In the
+same way, WSOP is related to TPLM. To which of the given options is IEAB related,
+following the same logic?
+Ans
+ A. FBXY 
+B. FAWY 
+C. FBWY 
+D. FCWF 
+Q.77 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+120 B 15 A 5 D 18 C 22 = ?
+Ans
+ A. 366
+B. 364
+C. 360
+D. 362
+Q.78 Refer to the given series and answer the question that follows. (All numbers are single
+digit numbers only.) Counting to be done from left to right only.
+(Left) 1 3 9 3 2 6 8 3 9 6 2 2 7 7 7 7 3 3 7 3 8 3 5 6 5 9 6 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 1
+B. 2
+C. 4
+D. 3
+Q.79 In a certain code language, ‘work fosters growth’ is coded as ‘hw mq pc’ and ‘growth
+with effort’ is coded as ‘yv ju mq’. How is ‘growth’ coded in that language?
+Ans
+ A. pc
+B. mq
+C. yv
+D. hw
+Q.80 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only.
+(Left) # € % # 6 & 4 * 9 6 @ 5 % @ # © 8 # % * £ 2 (Right)
+How many such numbers are there, each of which is immediately preceded by a symbol
+and also immediately followed by a symbol?
+Ans
+ A. 4
+B. 6
+C. 8
+D. 5
+Q.81 Where was the 2025 Senior National Table Tennis Championships held?
+Ans
+ A. Kalinga Stadium, Bhubaneswar
+B. Thyagaraj Stadium, Delhi
+C. Jawaharlal Nehru Indoor Stadium, Chennai
+D. Pandit Dindayal Upadhyay Indoor Stadium, Surat
+Q.82 During 2025-26, India's overall goods and services exports are expected to reach
+________.
+Ans
+ A. $2 trillion
+B. $0.5 trillion
+C. $1.5 trillion
+D. $1 trillion
+Section : General Awareness and Current Affairs
+Q.83 In 2025, which of the following Bills was passed by Karnataka to strengthen child
+protection by outlawing not only child marriage but also betrothal of minors?
+Ans
+ A. Prohibition of Child Marriage (Karnataka Amendment) Bill, 2025
+B. Child Rights Enhancement Bill, 2025
+C. Karnataka Child Welfare Bill, 2025
+D. Karnataka Minor Marriage Protection Bill, 2025
+Q.84 Nag Mk 2 Missile has been developed by which organisation?
+Ans
+ A. Centre for Development of Telematics
+B. Indian Space Research Organisation
+C. Hindustan Aeronautics Limited
+D. Defence Research and Development Organisation
+Q.85 What was the theme of World Tuberculosis Day, 2025, observed in India on 24 March?
+Ans
+ A. Yes! We Can End TB: Commit, Invest, Deliver
+B. End TB Now: Diagnose, Treat, Prevent
+C. Unite to End TB: Fund, Innovate, Act
+D. TB Free by 2030: Global Pact
+Q.86 In which of the following Indian cities was the India–Sri Lanka Joint Military Exercise
+‘MITRA SHAKTI-2025’ conducted?
+Ans
+ A. Pune (Maharashtra)
+B. Chennai (Tamil Nadu)
+C. Jaipur (Rajasthan)
+D. Belagavi (Karnataka)
+Q.87 Which theme was celebrated for World Malaria Day on 25 April 2025?
+Ans
+ A. Invest in Malaria-Free Future: Reinvest, Reimagine, Reignite
+B. Malaria Ends with Us: Reinvest, Reimagine, Reignite
+C. Zero Malaria Starts with Me: Reinvest, Reimagine, Reignite
+D. Time to Beat Malaria: Reinvest, Reimagine, Reignite
+Q.88 Which new legislation replaced outdated regulatory bodies for healthcare professions
+(MCI) in India, as reported in June 2025?
+Ans
+ A. National Health Commission
+B. National Medical Commission
+C. Indian Medical Commission
+D. National Drug Council
+Q.89 Which of the following DRDO-executed schemes under the ‘Make in India’ initiative
+provides grants-in-aid to Indian industries (MSMEs/start-ups) for developing defence
+and dual-use technologies?
+Ans
+ A. Defence Testing Infrastructure Scheme (DTIS)
+B. Aatmanirbhar Defence Innovation & Technology Initiative (ADITI)
+C. Innovations for Defence Excellence (iDEX)
+D. Technology Development Fund (TDF)
+Q.90 As of 1 March 2025, who became the Chairman of the Securities and Exchange Board of
+India?
+Ans
+ A. Ashwani Bhatia
+B. Ananth Narayan G
+C. Tuhin Kanta Pandey
+D. Madhabi Puri Buch
+Q.91 The FIFA Women’s World Cup 2027 will be held in:
+Ans
+ A. Brazil
+B. Uruguay
+C. Portugal
+D. Japan
+Q.92 As announced in the April 2025 Monetary Policy Committee meeting, the Reserve Bank
+of India aims to keep liquidity surplus close to what percentage of deposits?
+Ans
+ A. 1.5%
+B. 2%
+C. 1%
+D. 0.5%
+Q.93 According to the UN Sustainable Development Report (SDR) 2025, what is India’s SDG
+Index Rank and Score?
+Ans
+ A. Rank 100 with score 66.95
+B. Rank 109 with score 64.10
+C. Rank 95 with score 70.50
+D. Rank 99 with score 66.95
+Q.94 What is India’s rank in the Global Innovation Index, 2025, published by the World
+Intellectual Property Organization (WIPO)?
+Ans
+ A. 44th
+B. 49th
+C. 30th
+D. 38th
+Q.95 What is the rank of India in the Global Firepower Index 2025?
+Ans
+ A. Fourth
+B. Second
+C. First
+D. Third
+Q.96 Which of the following organisations won the Forward Faster Sustainability Award 2025
+for Water Resilience?
+Ans
+ A. Defence Research and Development Organisation
+B. Council of Scientific and Industrial Research
+C. Oil and Natural Gas Corporation
+D. National Thermal Power Corporation
+Q.97 Which Ministry of the Government of India carried out the Management Effectiveness
+Evaluation (MEE) for 2020-2025?
+Ans
+ A. Ministry of Jal Shakti
+B. Ministry of Environment, Forest and Climate Change
+C. Ministry of Rural Development
+D. Ministry of Agriculture
+Q.98 Which tennis veteran became the first Asian male with 450 career wins by April 2025?
+Ans
+ A. Somdev Devvarman
+B. Yuki Bhambri
+C. Kei Nishikori
+D. Prajnesh Gunneswaran
+"
+Q.99 Which of the following summits in 2025 will be co-hosted by World Health Organization
+(WHO) and the Ministry of Ayush, Government of India in New Delhi, aiming to
+strengthen traditional medicine globally?
+Ans
+ A. Second WHO Global Summit on Traditional Medicine 2025
+B. International Summit on Integrative Health 2025
+C. Global Health and Traditional Medicine Summit 2025
+D. World Traditional Medicine Congress 2025
+Q.100Which Indian city hosted the first ever three-day Fit India Carnival, a holistic health and
+fitness gathering festival, in March 2025?
+Ans
+ A. Mumbai
+B. Bhopal
+C. Dehradun
+D. New Delhi

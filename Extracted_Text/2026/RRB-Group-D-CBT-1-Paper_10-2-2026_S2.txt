@@ -1,0 +1,768 @@
+Q.1 Which of the following statements is/are correct regarding 'changes of state of matter'?
+A) A change of state of matter is a physical change.
+B) A change of state of matter is an irreversible change.
+Ans
+ A. Only A
+B. Neither A nor B
+C. Only B
+D. Both A and B
+Q.2 Unsaturated hydrocarbons usually produce:
+Ans
+ A. clean blue flames
+B. no flame at all
+C. yellow flame with black smoke
+D. white flame with sparkles
+Q.3 Which metal is placed highest in the reactivity series?
+Ans
+ A. Copper
+B. Gold
+C. Sodium
+D. Silver
+Q.4 The principal focus of a concave mirror is the point where:
+Ans
+ A. Rays passing through the center of curvature converge
+B. The mirror surface intersects the principal axis
+C. Rays parallel to the principal axis appear to diverge after reflection
+D. Rays parallel to the principal axis converge after reflection
+Q.5 A car's velocity-time graph is a straight line parallel to the x-axis at 40 km/h. What will
+the area enclosed between the graph and the time axis from t = 0 to t = 3 hours
+represent?
+Ans
+ A. Acceleration of the car
+B. Displacement of the car in 3 hours
+C. Average speed of the car
+D. Final velocity of the car
+Test Date 10/02/2026
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Select the statement regarding the cytoplasm of a cell that is INCORRECT.
+Ans
+ A. In a plant cell, cytoplasm is found between cell wall and plasma membrane.
+B. Cytoplasm is present in both eukaryotic and prokaryotic cells.
+C. Cytoplasm contains many cell organelles.
+D. Cytoplasm is the fluid-filled region inside plasma membrane.
+Q.7 Which change in a flower signals that fertilisation has occurred?
+Ans
+ A. Ovule matures into seed and ovary into fruit
+B. Formation of new stamens
+C. Petals become larger and brighter
+D. Development of a pollen tube
+Q.8 Which of the following statements correctly describes the relationship between mass
+and inertia?
+Ans
+ A. Mass is directly proportional to the square of inertia
+B. Mass is inversely proportional to inertia
+C. Mass is independent of inertia
+D. Mass is directly proportional to inertia
+Q.9 A child is born with one X chromosome from the mother and one Y chromosome from
+the father. Which statement accurately describes the consequence of this
+chromosomal combination?
+Ans
+ A. The child’s sex is determined by the mother, as she provides the X chromosome.
+B. The child will develop as a male due to the presence of the Y chromosome.
+C. The child will not develop male characteristics without two Y chromosomes.
+D. The child will develop as a female because X chromosome is always dominant over Y chromosome.
+Q.10 A ray passing through which of the following parts of a lens emerges undeviated?
+Ans
+ A. Centre of curvature
+B. Principal focus
+C. Between focus and centre
+D. Optical centre
+Q.11 When a person touches a hot object, there is a delay in the muscle response. Which
+part of the nervous tissue is directly responsible for carrying the nerve impulse to the
+muscle to bring about a quick movement?
+Ans
+ A. Nucleus
+B. Dendrite
+C. Axon
+D. Connective tissue
+Q.12 Please select the correct option for the assertion-reason statement.
+Assertion: The ceiling conference halls are made curved.
+Reason: Curved ceilings help the sound to spread evenly in the hall.
+Ans
+ A. Assertion is false and reason is true.
+B. Both assertion and reason are true and reason is the correct explanation of assertion.
+C. Both assertion and reason are false.
+D. Assertion is true but reason is false.
+Q.13 According to Bohr’s model of the atom, in which orbits can electrons revolve around
+the nucleus?
+Ans
+ A. Any arbitrary circular path
+B. Elliptical orbits of variable energy
+C. Certain fixed circular paths called discrete orbits
+D. Spiral paths continuously losing energy
+Q.14 Two planets have the same radius. Planet A has twice the mass of Planet B. What is the
+ratio of acceleration due to gravity on Planet A to that on Planet B?
+Ans
+ A. 1 : 1
+B. 1 : 2
+C. 4 : 1
+D. 2 : 1
+Q.15 Which of the following statements about work is FALSE?
+Ans
+ A. Work is a path-independent quantity for all forces.
+B. Work has the same units as energy.
+C. Work can be positive, negative, or zero.
+D. Work is energy in transit.
+Q.16 Which process best explains how water droplets form on the outer surface of a cold
+glass during a hot day?
+Ans
+ A. Freezing
+B. Condensation
+C. Evaporation
+D. Sublimation
+Q.17 Which of the following is an advantage of sexual reproduction in plants?
+Ans
+ A. It prevents fertilisation from occurring.
+B. It occurs only in root systems.
+C. It always requires two plants of different species.
+D. It helps in producing seeds with genetic diversity.
+Q.18 Refer to the two statements given below and select the correct option.
+Statement A: Bleaching powder is produced by the action of chlorine on dry slaked
+lime.
+Statement B: Its chemical formula is CaOCl₂ .
+Ans
+ A. Statement A is incorrect but B is correct.
+B. Both statements A and B are correct.
+C. Statement A is correct but B is incorrect.
+D. Both statements A and B are incorrect.
+Q.19 The magnetic field due to a solenoid carrying 'I' current is 'B'. What will be the magnetic
+field due to this solenoid, when the current flowing through the solenoid is halved?
+(Keeping all the other parameters the same)
+Ans
+ A. 2B
+B. B/4
+C. B
+D. B/2
+Q.20 What does it mean when magnetic field lines are drawn closer together in a diagram?
+Ans
+ A. The magnetic field is stronger in that region
+B. There is no magnetic field present
+C. The direction of the magnetic field has changed
+D. The magnetic field is weaker in that area
+Q.21 Which property of carbon allows it to form a large number of compounds by bonding
+with itself and other elements?
+Ans
+ A. Tetravalency
+B. Combustion
+C. Catenation
+D. Isomerism
+Q.22 What do ‘check dams’ refer to?
+Ans
+ A. Earthen or concrete structures across flooded gullies
+B. Dams built only for industrial water supply
+C. Crescent-shaped hills for farming
+D. Small huts near rivers
+Q.23 The Chipko Movement that took place in the Garhwal Himalayas in 1974 is an example
+of:
+Ans
+ A. mining-based forest exploitation
+B. urban infrastructure development
+C. government-led reforestation
+D. community-led protection of trees
+Q.24 What does a blue, non-luminous flame indicate when a hydrocarbon is burnt?
+Ans
+ A. Presence of unburnt carbon
+B. Lack of oxygen
+C. Complete combustion with high temperature
+D. Incomplete combustion and soot formation
+Q.25 What is the role of peristaltic movements in the human digestive system?
+Ans
+ A. To digest proteins in the stomach
+B. To produce digestive enzymes
+C. To absorb nutrients into the blood
+D. To push food forward along the digestive tract
+Q.26 ₹12,405 is divided among P, Q, and R in such a way that if ₹53, ₹88, and ₹76 be
+deducted from their respective shares, they have money in the ratio 15 : 20 : 9. Find the
+difference between Q’s and R’s original shares.
+Ans
+ A. ₹3,097
+B. ₹3,059
+C. ₹3,147
+D. ₹2,997
+Section : Mathematics
+Q.27 Which number should replace both the question marks in the following equation?
+Ans
+ A. 102
+B. 112
+C. 119
+D. 87
+Q.28 A car travelling at a speed of 42 km/hour can complete a journey in 12 hours. How long
+will it take to travel the same distance at 63 km/hour?3798
+Ans
+ A. 3 hours
+B. 8 hours
+C. 5 hours
+D. 7 hours
+Q.29 The population of a village was 10500. In a year with the increase in population of males
+by 10% and that of females by 15%, the population of the village becomes 11,718. What
+was the difference in the number of males and females in the village initially?
+Ans
+ A. 3850
+B. 3500
+C. 3780
+D. 3608
+Q.30
+Ans
+ A. 12 years
+B. 11 years
+C. 10 years
+D. 14 years
+Q.31
+Ans
+ A. 2090
+B. 750
+C. 1990
+D. 3040
+Q.32
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.33
+Ans
+ A. 3
+B. −3
+C. 2
+D. 4
+Q.34 One pipe can fill a tank in 2 minutes, while another pipe can empty the completely filled
+tank in 4 minutes. If both the pipes are opened together when the tank is empty, how
+many minutes will it take to fill one-half of the tank?
+Ans
+ A. 2
+B. 5
+C. 4
+D. 3
+Q.35 A shopkeeper offers the following four schemes.
+A) Two successive discounts of 28% and 28%
+B) Buy 1, get 4
+C) Discount of 35%
+D) Two successive discounts of 27% and 26%
+Which scheme is best for the customer?
+Ans
+ A. D
+B. B
+C. A
+D. C
+Q.36 If the areas of three adjacent faces of a cuboid are x, y, z square units, respectively,
+then the volume of the cuboid is:
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.37 Let a, b, α and β be prime numbers. n is the number of ordered pairs of a and b where
+2< a < b < 50 and b-a=2. Also, α and β are the least and the greatest prime numbers less
+than 50. What is the value of n(α+β)?
+Ans
+ A. 598
+B. 354
+C. 294
+D. 493
+Q.38 10 skilled persons can complete a work in 8 days and 10 semi-skilled persons take 12
+days to complete the work. How many days will 4 skilled persons and 6 semi-skilled
+persons together take to complete the work?
+Ans
+ A. 8 days
+B. 12 days
+C. 14 days
+D. 10 days
+Q.39 The average of 6.5, 10.7, 20.2 and a is 18. The value of a is:
+Ans
+ A. 34.6
+B. 33.6
+C. 35.6
+D. 36.6
+Q.40 A shopkeeper buys a toy for ₹500 and spends ₹50 on packaging. He
+then sells it to a customer at 10% profit. Find the selling price of the
+toy.
+Ans
+ A. ₹550
+B. ₹605
+C. ₹600
+D. ₹650
+Q.41 How many diagonals can be there in a regular polygon with 37 sides?
+Ans
+ A. 629
+B. 740
+C. 729
+D. 640
+Q.42 An item is sold for ₹660 after allowing a discount of 20% on its marked price. Find the
+marked price of the item.
+Ans
+ A. ₹825
+B. ₹830
+C. ₹835
+D. ₹840
+Q.43
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.44 A man walks 684 m in 19 minutes, 1078 m in 22 minutes and 2198 m in 31 minutes. His
+average speed (in m/min) for the whole journey is:3104
+Ans
+ A. 49
+B. 55
+C. 50
+D. 53
+Q.45 The average of the squares of the first 5 natural numbers is:
+Ans
+ A. 11
+B. 12
+C. 13
+D. 10
+Q.46 A cylindrical water tank has a base radius of 7 m and a height of 10 m. Water is filled
+into the tank at a constant rate. After filling the tank completely, 5% of the water leaks
+out due to a crack at the bottom. The remaining water is transferred into another
+cylindrical tank whose base radius is 5 m. Find the height of water in the second tank.
+Ans
+ A. 16.82 m
+B. 18.26 m
+C. 18.62 m
+D. 12.68 m
+Q.47 Simplify:
+(2³)² ÷ 2⁴
+Ans
+ A. 16
+B. 8
+C. 2
+D. 4
+Q.48 Find the HCF of 148, 172, and 198.
+Ans
+ A. 2
+B. 6
+C. 12
+D. 3
+Q.49 A car's price is reduced by 10% in the first year and then increased by 10% in the
+second year. If the car's initial price was ₹25,000, what is its final price after both
+changes?
+Ans
+ A. ₹24,750
+B. ₹25,500
+C. ₹24,500
+D. ₹25,000
+Q.50 The amount on a sum of ₹2,800 at the rate of 5% per annum compound interest,
+compounded annually, in 2 years will be:
+Ans
+ A. ₹3,384
+B. ₹3,087
+C. ₹3,227
+D. ₹3,089
+Q.51 A, B, C, D, E, F and G are sitting around a circular table facing the centre. C sits second
+to the right of D. Only one person sits between B and C. F is the immediate neighbour
+of G and B. A sits third to the left of G.
+How many people sit between E and B when counted from the left of B?
+Ans
+ A. Four
+B. Two
+C. Three
+D. One
+Section : General Intelligence and Reasoning
+Q.52 Read the given statement(s) and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statement(s).
+Statements: All dusters are wipers. All wipers are buckets.
+Conclusion (I): No bucket is a duster
+Conclusion (II): Some buckets are dusters
+Ans
+ A. Only conclusion (I) follows
+B. Both conclusions (I) and (II) follow
+C. Only conclusion (II) follows
+D. Neither conclusion (I) nor (II) follows
+Q.53 FSZI is related to AWWK in a certain way based on the English alphabetical order. In the
+same way, HMRD is related to CQOF. To which of the following is VMYF related,
+following the same logic?
+Ans
+ A. PQUI
+B. QPUH
+C. PPVI
+D. QQVH
+Q.54 Read the given statements and conclusions carefully. You have to take the given
+statements to be true even if they seem to be at variance from commonly known facts.
+You have to decide which conclusion/s logically follow/s from the given statements.
+Statements: All horses are ants. Some horses are donkeys. No donkey is a bull.
+Conclusion (I) : Some ants are donkeys.
+Conclusion (II) : No bull is a donkey.
+Ans
+ A. Only conclusion (I) follows.
+B. Only conclusion (II) follows.
+C. Neither conclusion (I) nor (II) follows.
+D. Both conclusions (I) and (II) follow.
+Q.55 What should come in place of the question mark (?) in the given series?
+91 92 94 98 106 ?
+Ans
+ A. 122
+B. 121
+C. 124
+D. 123
+Q.56 Refer to the following number, symbol series and answer the question that follows.
+Counting to be done from left to right only. (All numbers are single-digit numbers only.)
+(Left) 3 6 @ 4 5 6 # 2 9 4 = 3 1 9 4 5 % 3 6 8 7 & 1 7 * 8 (Right)
+How many such symbols are there each of which is immediately preceded by an odd
+number and also immediately followed by an even number?
+Ans
+ A. None
+B. Two
+C. Three
+D. One
+Q.57 SWYM is related to JNPD in a certain way based on the English alphabetical order. In
+the same way, IMOC is related to ZDFT. To which of the following options is HLNB
+related, following the same logic?
+Ans
+ A. YCDS
+B. YCES
+C. YESD
+D. YCXZ
+Q.58 In a certain code language,
+A+ B means ‘A is the sister of B’
+A # B means ‘A is the brother of B’
+A × B means ‘A is the wife of B’
+A @ B means ‘ A is the father of B’
+Based on the above, how is L related to R if ‘L@O+V×E#R’?
+Ans
+ A. Brother's father
+B. Brother's wife's father
+C. Brother's wife's brother
+D. Father's brother
+Q.59 This question is based on the five, three-digit numbers given below.
+(Left) 439 745 327 652 532 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+If 2 is added to the first digit of every number, in how many numbers will the first digit
+be exactly divisible by the second digit?15148
+Ans
+ A. Two
+B. None
+C. Three
+D. One
+Q.60 In a certain code language, ‘ships cross seas’ is coded as ‘qn ed jy’ and ‘spot the ships’
+is coded as ‘jy is tk’. How is ‘ships’ coded in the given language?
+Ans
+ A. jy
+B. qn
+C. tk
+D. is
+Q.61 Refer to the given number series and answer the question that follows. Counting to be
+done from left to right only. All numbers are single-digit numbers.
+(Left) 3 5 6 7 2 1 8 1 2 7 6 8 9 6 2 6 5 3 5 6 5 1 4 8 5 8 5 7 9 2 (Right)
+How many such even digits are there, each of which is immediately preceded by a
+perfect square digit and also immediately followed by an even digit? (NOTE: 1 is also a
+perfect square.)
+Ans
+ A. More than three
+B. Three
+C. Two
+D. One
+Q.62 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+IJG 19 HIF 15 GHE 11 FGD 7 ?6928
+Ans
+ A. EMV 2
+B. EEB 2
+C. EFC 3
+D. EGB 3
+Q.63 Which two numbers should be interchanged to make the following equation correct?
+(45 ÷ 9) + (2 × 3 × 5) ÷ 6 + 4 × 7 − 15 = 31
+(Note: The entire number should be interchanged and not individual digits of a given
+number.)
+Ans
+ A. 9 and 15
+B. 4 and 3
+C. 4 and 2
+D. 9 and 5
+Q.64 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE : Operations should be performed on the whole numbers, without breaking
+down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding
+/ subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+3 - 6 - 18
+5 - 8 - 401421
+Ans
+ A. 15 - 3 - 55
+B. 4 - 5 - 23
+C. 2 - 7 - 14
+D. 9 - 8 - 64
+Q.65 What should come in place of the question mark (?) in the given series?
+42 48 57 69 84 ?
+Ans
+ A. 105
+B. 102
+C. 96
+D. 99
+Q.66 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+GSN 14, EQL 23, COJ 32, AMH 41, ?9645
+Ans
+ A. YJD 50
+B. ZKE 49
+C. YKE 49
+D. YKF 50
+Q.67 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+ 
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)10031
+Ans
+ A. MSZ
+B. EKP
+C. QWB
+D. KQV
+Q.68 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of question mark (?) in the following equation?
+76 A 4 C 18 B 9 D 12 B 2 C 180 A 2 D 15 B 3 C 151 = ?
+Ans
+ A. 319
+B. 353
+C. 391
+D. 337
+Q.69 Seven people, L, M, N, O, P, Q and R are sitting in a straight row, facing north. Only
+three people sit to the left of M. M sits third to the left of N. Q sits fourth to the left of R.
+P is not an immediate neighbour of M. L sits second to the right of P. Who sits to the
+immediate right of M?
+Ans
+ A. L
+B. Q
+C. R
+D. O
+Q.70 What should come in place of the question mark (?) in the given series?
+193 183 173 163 153 ?
+Ans
+ A. 143
+B. 144
+C. 133
+D. 132
+Q.71 Mr. Trombitas starts from Point A and drives 26 km towards east. He then takes a right
+turn, drives 18 km, turns right and drives 34 km. He then takes a right turn and drives
+39 km. He takes a final right turn, drives 8 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only, unless specified.)12
+Ans
+ A. 21 km to the north
+B. 24 km to the west
+C. 24 km to the east
+D. 21 km to the south
+Q.72 Based on the alphabetical order, three of the following four are alike in a certain way
+and thus form a group. Which is the one that does not belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter cluster)
+Ans
+ A. ILP
+B. QTX
+C. WZD
+D. LOR
+Q.73 Refer to the following letter series and answer the question.
+(Left) W M T R B L A D N K Y F Q O G C E Z X U H V (Right)
+How many consonants are there between the letter’s "A" and "Y" in the given series?
+5699
+Ans
+ A. Three
+B. Four
+C. Five
+D. Two
+Q.74 ZCIS is related to WAMU in a certain way based on the English alphabetical order. In the
+same way, TINV is related to QGRX. To which of the following is ODLK related to,
+following the same logic?
+Ans
+ A. HSPN
+B. KROM
+C. ITPN
+D. LBPM
+Q.75 Rajat ranked 34th from the top and 25th from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 59
+B. 56
+C. 57
+D. 58
+Q.76 In a certain code language, ‘storms shake trees’ is coded as ‘fo ej va’ and ‘hide from
+storms’ is coded as ‘va ur qh’. How is ‘storms’ coded in the given language?
+Ans
+ A. fo
+B. ej
+C. qh
+D. va
+Q.77 Manoj starts from Point A and drives 9 km towards south. He then takes a left turn,
+drives 7 km, turns left and drives 11 km. He then takes a left turn and drives 10 km. He
+takes a final left turn, drives 2 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90 degree turns only, unless specified.)
+Ans
+ A. 4 km to the west
+B. 3 km to the east
+C. 4 km to the east
+D. 3 km to the west
+Q.78 A, B, C, D, N, O and P are sitting in a straight line, facing the north.
+Only five people sit between B and O. D sits to the immediate left of O. Only one person
+sits between D and N. C sits at some place to the left of P but at some place to the right
+of A.
+Who sits third from the left end of the line?
+Ans
+ A. O
+B. C
+C. B
+D. N
+Q.79 Pragya ranked 18th from the bottom and 14th from the top in her class. How many
+students are there in her class?
+Ans
+ A. 29
+B. 31
+C. 30
+D. 28
+Q.80 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘x’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘-’, what will
+come in place of question mark ‘?’ in the following equation?
+49 A 7 C 8 B 9 D 5 = ?
+Ans
+ A. 73
+B. 72
+C. 71
+D. 74
+Q.81 In November 2025, who among the following took oath as Chief Minister of Bihar for a
+record 10th time?
+Ans
+ A. Tejashwi Yadav
+B. Sushil Modi
+C. Lalu Prasad Yadav
+D. Nitish Kumar
+Q.82 In which year was the Bill to amend the Disaster Management Act, 2005 passed by the
+Parliament?
+Ans
+ A. 2023
+B. 2025
+C. 2024
+D. 2022
+Q.83 In November 2025, which Indian state approved the Polygamy Prohibition Bill, 2025?
+Ans
+ A. Tripura
+B. Assam
+C. Uttarakhand
+D. Himachal Pradesh
+Q.84 What is the name of India's first AI teacher?
+Ans
+ A. Sophia
+B. Ada
+C. Ava
+D. Iris
+Q.85 On July 3, 2025, which global body approved India’s first Equine Disease-Free
+Compartment (EDFC), marking a major achievement in animal health?
+Ans
+ A. International Veterinary Council (IVC)
+B. World Health Organization (WHO)
+C. Food and Agriculture Organization (FAO)
+D. World Organisation for Animal Health (WOAH)
+Q.86 At the Paris Diamond League in June 2025, which athlete set a meet record of 48.81 s in
+the women’s 400 m?
+Ans
+ A. Faith Cherotich
+B. Marileidy Paulino
+C. Mara Yamauchi
+D. Salwa Eid Naser
+Section : General Awareness and Current Affairs
+Q.87 Which romance novel by creator Prajakta Koli debuted in January 2025?
+Ans
+ A. The Subdued Sound
+B. Too Good to Be True
+C. Theory & Practice
+D. Bleeding Bangles
+Q.88 Who received the Dadasaheb Phalke Award at the 71st National Film Awards in 2025?
+Ans
+ A. Prithviraj
+B. Kamal
+C. Mohanlal
+D. Rajkumar
+Q.89 Which of the following countries hosted the 8th International Solar Alliance (ISA)
+Assembly in October 2025?
+Ans
+ A. France
+B. India
+C. Brazil
+D. United Arab Emirates
+Q.90 In June 2025, which Indian pair clinched the gold medal in the 10m air rifle mixed team
+event at the International Shooting Sport Federation (ISSF) World Cup in Munich?
+Ans
+ A. Arya Borse and Arjun Babuta
+B. Mehuli Ghosh and Shahu Tushar Mane
+C. Anjum Moudgil and Deepak Kumar
+D. Apurvi Chandela and Divyansh Singh Panwar
+Q.91 Which city was reported among the top 10 most polluted cities in the world on
+December 28, 2025?
+Ans
+ A. Delhi
+B. Kolkata
+C. Chennai
+D. Mumbai
+Q.92 In August 2025, the Reserve Bank of India (RBI) appointed which individual as an ex-
+officio member of the Monetary Policy Committee, ahead of the October policy
+meeting?
+Ans
+ A. Nirmala Sitharaman
+B. Rajiv Ranjan
+C. Michael Patra
+D. Indranil Bhattacharyya
+Q.93 What was India’s overall score in the Corruption Perceptions Index (CPI) for the year
+2024 released in February 2025?
+Ans
+ A. 43
+B. 36
+C. 38
+D. 41
+"
+Q.94 Who among the following won the player of the match in the finals of the ICC Women's
+Cricket World Cup 2025?
+Ans
+ A. Shafali Verma
+B. Marizanne Kapp
+C. Smriti Mandhana
+D. Deepti Sharma
+Q.95 In the Union Budget, 2025–26, the Government of India announced a comprehensive
+multi-sectoral 'Rural Prosperity and Resilience' programme that aims ______________.
+Ans
+ A. to address administrative problems in rural areas
+B. to develop the sports facilities in rural areas
+C. to address under-employment in agriculture
+D. to address the drop out problem in school
+Q.96 Who hosted the 51st G7 Summit in 2025?
+Ans
+ A. Italy
+B. France
+C. Canada
+D. Japan
+Q.97 Which among the following small finance banks was granted in-principle approval in
+August 2025 to become a Universal Bank?
+Ans
+ A. AU Small Finance Bank
+B. Ujjivan Small Finance Bank
+C. Jana Small Finance Bank
+D. Equitas Small Finance Bank
+Q.98 In World Cup 2024 Player of the Match in the Final ICC T20 match was awarded
+to________.
+Ans
+ A. Rahmanullah Gurbaz
+B. Tim Southee
+C. Virat Kohli
+D. Shai Hope
+Q.99 As announced in November 2025, IN-SPACe and SIDBI signed an agreement to
+operationalise a ₹1,000 crore venture capital fund for which sector?
+Ans
+ A. Tourism enterprises
+B. Space startups
+C. Textile manufacturing companies
+D. Agricultural startups
+Q.100In October 2025, which of the following regulatory authorities restricted the commercial
+use of the term 'ORS' in beverages?
+Ans
+ A. Food Safety and Standards Authority of India
+B. Indian Council of Medical Research
+C. National Medical Council
+D. Directorate General of Health Services

@@ -1,0 +1,1453 @@
+[
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_1-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "A five digit number 761xy is divisible by 90. Find (x + y).",
+    "options": {
+      "A": "4",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "number_system",
+    "allTopics": [
+      "number_system"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_1-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "The diagonals of a quadrilateral are perpendicular bisectors of each other. If the length of one diagonal is 8 cm and the area of the quadrilateral is 48 cm2, find the length (in cm) of the other diagonal.",
+    "options": {
+      "A": "₹ 45,523",
+      "B": "₹ 45,352",
+      "C": "₹ 45,325",
+      "D": "₹ 45,235"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "mensuration_2d",
+    "allTopics": [
+      "geometry",
+      "mensuration_2d",
+      "trigonometry"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_10-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "Two banks, A and B, offered loans at 3.5% and 7% per annum, respectively. Keshav borrowed an amount of ₹4,80,000 from each bank. Find the positive difference (in ₹) between the amounts of simple interest paid to the two banks by Keshav after 2 years.",
+    "options": {
+      "A": "42 cm",
+      "B": "52 cm",
+      "C": "45 cm",
+      "D": "49 cm"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "si_ci",
+    "allTopics": [
+      "percentage",
+      "si_ci"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_11-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "Which of the following is NOT a prime number?",
+    "options": {
+      "A": "88.3",
+      "B": "82.4",
+      "C": "96.7",
+      "D": "92.1"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "number_system",
+    "allTopics": [
+      "number_system"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_12-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "If an item marked at ₹6,250 is sold for ₹250, then what is the discount percentage?",
+    "options": {
+      "A": "98%",
+      "B": "96%",
+      "C": "95%",
+      "D": "97%"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "profit_loss",
+    "allTopics": [
+      "percentage",
+      "profit_loss",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_12-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "The total surface area of a right circular cylinder with radius of the base 12 cm and height 72 cm is: (take π = 22/7)",
+    "options": {
+      "A": "528 cm2",
+      "B": "905 cm2",
+      "C": "6336 cm2",
+      "D": "5430 cm2"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "mensuration_3d",
+    "allTopics": [
+      "mensuration_2d",
+      "mensuration_3d",
+      "height_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_12-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 32,
+    "questionText": "A son's present age is two-fifths of the age of his father. After 8 years from now, his age will be one-half of the age of his father. How old (in years) is the father at present?",
+    "options": {
+      "A": "40",
+      "B": "42",
+      "C": "44",
+      "D": "45"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "age_problems",
+    "allTopics": [
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_14-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "The diagonals of a rhombus are 24 cm and 7 cm. The perimeter of the rhombus is:",
+    "options": {
+      "A": "8,21,124",
+      "B": "8,21,142",
+      "C": "8,24,112",
+      "D": "8,22,114"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "mensuration_2d",
+    "allTopics": [
+      "geometry",
+      "mensuration_2d"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_14-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "A train overtakes two people walking along a railway track. The first person walks at 7.2 km/hr, and the second person walks at 14.4 km/hr. The train takes 29.9 seconds to pass the first person and 43.7 seconds to pass the second person. What is the speed of the train if both are walking in the same direction as the train?",
+    "options": {
+      "A": "4",
+      "B": "1",
+      "C": "6",
+      "D": "2"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "trigonometry",
+      "time_speed_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_15-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 26,
+    "questionText": "If 20% of a number is added to 72, then the result is the same number. 70% of the same number is:",
+    "options": {
+      "A": "68,500",
+      "B": "58,500",
+      "C": "69,500",
+      "D": "59,500"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "percentage",
+    "allTopics": [
+      "percentage",
+      "number_system"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_2-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "An article was bought for ₹2,600. Its price was marked up by 20%. Thereafter, it was sold at a discount of 10% on the marked price. What was the profit percentage on the transaction?",
+    "options": {
+      "A": "138",
+      "B": "164",
+      "C": "192",
+      "D": "198"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "profit_loss",
+    "allTopics": [
+      "percentage",
+      "profit_loss",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_2-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "The LCM of two numbers is four times their HCF. The sum of their LCM and HCF is 140. If one of the numbers is 112, find the other number.",
+    "options": {
+      "A": "76.4",
+      "B": "77.2",
+      "C": "77.8",
+      "D": "75.9"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "time_speed_distance",
+    "allTopics": [
+      "number_system",
+      "time_speed_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_2-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "The length, breadth and height of a cuboid are in the ratio 6 : 5 : 3. If the volume of the cuboid is 720 m3, find its surface area (in m2).",
+    "options": {
+      "A": "7552",
+      "B": "7561",
+      "C": "7560",
+      "D": "7570"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "mensuration_3d",
+    "allTopics": [
+      "ratio_proportion",
+      "mensuration_2d",
+      "mensuration_3d",
+      "height_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_27-11-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "Soniya got married 15 years ago. Her present age is 8/5 times her age at the time of her marriage. Her sister was 8 years younger to her at the time of her marriage. Find the present age of her sister.",
+    "options": {
+      "A": "54",
+      "B": "50",
+      "C": "57",
+      "D": "53"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "time_speed_distance",
+    "allTopics": [
+      "time_speed_distance",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_27-11-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "The market value of Amal’s investment rises successively by 5% in 2021, 6% in 2022, and 10% in 2023. If the initial value was ₹5,50,000, what will be its value (in ₹) at the end of 2023?",
+    "options": {
+      "A": "160",
+      "B": "240",
+      "C": "1,040",
+      "D": "1,000"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "percentage",
+    "allTopics": [
+      "percentage"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_28-11-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 32,
+    "questionText": "The average of 6.5, 10.6, 19.7 and a is 12. The value of a is:1640",
+    "options": {
+      "A": "45 days",
+      "B": "48 days",
+      "C": "50 days",
+      "D": "49 days"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "average",
+    "allTopics": [
+      "average",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_3-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "The amount on a sum of ₹2,600 at 20% per annum compound interest, compounded annually, in 2 years will be:",
+    "options": {
+      "A": "7(x + 10) = 5x",
+      "B": "5(x + 10) = 7x",
+      "C": "5(10x + 1) = 7x",
+      "D": "35(x + 10) = x"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "si_ci",
+    "allTopics": [
+      "percentage",
+      "si_ci"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_3-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "8 men or 9 women can do a job in 2 days. 8 men work for 1 day and leave. The number of women required to complete the remaining work in 9 days is:",
+    "options": {
+      "A": "₹1,78,300",
+      "B": "₹1,45,000",
+      "C": "₹1,00,000",
+      "D": "₹1,50,000"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "time_work",
+    "allTopics": [
+      "number_system",
+      "time_work"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_3-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "The length of the shadow of a vertical tower is equal to its height. Find the angle of elevation.",
+    "options": {
+      "A": "60°",
+      "B": "75°",
+      "C": "45°",
+      "D": "30°"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "height_distance",
+    "allTopics": [
+      "geometry",
+      "height_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_4-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "Seema bought a microwave oven for ₹7,500 and sold it for ₹8,750. Find Seema's profit percentage. (Round off your answer to two decimal places.)",
+    "options": {
+      "A": "23 sq. units",
+      "B": "20 sq. units",
+      "C": "28 sq. units",
+      "D": "25 sq. units"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "profit_loss",
+    "allTopics": [
+      "percentage",
+      "profit_loss",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_4-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "The area of a rectangular field is 176 m2 and the length of its diagonal is 18 m. Find the perimeter of this field.",
+    "options": {
+      "A": "3.952 hours",
+      "B": "3.942 hours",
+      "C": "2.952 hours",
+      "D": "2.942 hours"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "mensuration_2d",
+    "allTopics": [
+      "mensuration_2d",
+      "trigonometry"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_5-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "Divide ₹8,118 between Ravina and Sarita in the ratio 3 : 15, then find the share of Sarita.5293",
+    "options": {
+      "A": "97%",
+      "B": "102%",
+      "C": "101%",
+      "D": "100%"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "ratio_proportion",
+    "allTopics": [
+      "ratio_proportion"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_8-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "After selling an article at a discount of 37%, the profit percentage obtained is 50%. What is the mark-up percentage (rounded off to two decimal places)?",
+    "options": {
+      "A": "243",
+      "B": "241",
+      "C": "242",
+      "D": "240"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "profit_loss",
+    "allTopics": [
+      "percentage",
+      "profit_loss",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_8-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "A certain sum of money amounts to ₹7,040 in 2 years and ₹8,000 in 5 years on simple interest. Find the principal.",
+    "options": {
+      "A": "₹11,915",
+      "B": "₹11,385",
+      "C": "₹8,610",
+      "D": "₹10,360"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "si_ci",
+    "allTopics": [
+      "si_ci"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_8-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "DMART is offering Buy 2, get 29 free on grocery items. What is the net percentage discount being offered by DMART? (Correct up to two decimal places)",
+    "options": {
+      "A": "137",
+      "B": "89",
+      "C": "148",
+      "D": "74"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "profit_loss",
+    "allTopics": [
+      "percentage",
+      "profit_loss",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_8-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 37,
+    "questionText": "Height (in cm) 125 - 130 130 - 135 135 - 140 140 - 145 145 - 150 Number of girls 7 14 X 10 9",
+    "options": {
+      "A": "15",
+      "B": "10",
+      "C": "12",
+      "D": "11"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "height_distance",
+    "allTopics": [
+      "number_system",
+      "height_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_9-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "A, B and C can do a piece of work in 2, 12 and 6 days, respectively. How long (in days) will they take to do thrice the same work, working together?",
+    "options": {
+      "A": "21.9",
+      "B": "23.39",
+      "C": "24.0",
+      "D": "26.31"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "time_work",
+    "allTopics": [
+      "time_work"
+    ]
+  },
+  {
+    "paperFile": "RRB-Grop-D-CBT-1-Paper_9-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "Calculate the mode from the following data. Days of Confinement7 8 9 10 11 Number of Patients5 7 8 6 4",
+    "options": {
+      "A": "5",
+      "B": "0",
+      "C": "2",
+      "D": "1"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "number_system",
+    "allTopics": [
+      "number_system",
+      "statistics"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_10-2-2026_S2.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "Which number should replace both the question marks in the following equation?",
+    "options": {
+      "A": "3850",
+      "B": "3500",
+      "C": "3780",
+      "D": "3608"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "algebra",
+    "allTopics": [
+      "number_system",
+      "algebra"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_10-2-2026_S3.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "A and B started moving at the same time towards each other from points X and Y, respectively. After meeting on the way, A and B took 90.9 hours and p hours, respectively, to reach Y and X, respectively. If the speed of B is 50% more than that of A, then what is the value of p?3518",
+    "options": {
+      "A": "9",
+      "B": "11",
+      "C": "15",
+      "D": "12"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "time_speed_distance",
+    "allTopics": [
+      "percentage",
+      "time_speed_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_16-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "The price of fuel decreases by 35%, 60% and 10% in three successive months but increases by 65% in the fourth month. What is the percentage increase/decrease in the price of fuel in the fourth month as compared to its original price?",
+    "options": {
+      "A": "96",
+      "B": "116",
+      "C": "126",
+      "D": "106"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "percentage",
+    "allTopics": [
+      "percentage",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_16-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "The fraction form of the decimal number 0.595959 is:",
+    "options": {
+      "A": "12",
+      "B": "32",
+      "C": "22",
+      "D": "42"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "number_system",
+    "allTopics": [
+      "number_system"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_16-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "A dealer makes a profit of 50% even after giving a 25% discount on the advertised price of a bike. If he makes a profit of ₹1,290 on the sale of the bike, what is the advertised price (in ₹)?",
+    "options": {
+      "A": "increase by ₹830",
+      "B": "increase by ₹827",
+      "C": "decrease by ₹828",
+      "D": "decrease by ₹833"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "profit_loss",
+    "allTopics": [
+      "percentage",
+      "profit_loss"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_17-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 33,
+    "questionText": "Two banks, A and B, offered loans at 3.5% and 7% per annum, respectively. Akshay borrowed an amount of ₹4,60,000 from each bank. Find the positive difference (in ₹) between the amounts of simple interest paid to the two banks by Akshay after 4 years.",
+    "options": {
+      "A": "a3 – 3a2 – 16a",
+      "B": "2a3 – 3a2 – 16",
+      "C": "–2a3 – 3a2 – 16a",
+      "D": "–2a3 – a2 – 16a"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "si_ci",
+    "allTopics": [
+      "percentage",
+      "si_ci"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_17-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "A seller sells two fruits, apples and bananas. An apple costs ₹20 and a banana costs ₹10. Ravi buys 6 fruits and pays ₹80. How many more bananas did he buy than apples?",
+    "options": {
+      "A": "14,840",
+      "B": "17,800",
+      "C": "16,500",
+      "D": "15,690"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "trigonometry",
+      "sequence_series"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_19-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 26,
+    "questionText": "An 8-digit number is divisible by 45. If the digits are rearranged, then the number must be divisible by:",
+    "options": {
+      "A": "15%",
+      "B": "35%",
+      "C": "28%",
+      "D": "40%"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "number_system",
+    "allTopics": [
+      "number_system"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_19-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "The average age of 43 students of a class is 25 years. If the age of the teacher is also included, the average age of the whole group becomes 26 years. The age (in years) of the teacher is:",
+    "options": {
+      "A": "Base fare = ₹30; Per-kilometre Charge = ₹20",
+      "B": "Base fare = ₹50; Per-kilometre Charge = ₹18",
+      "C": "Base fare = ₹40; Per-kilometre Charge = ₹18",
+      "D": "Base fare = ₹60; Per-kilometre Charge = ₹15"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "average",
+    "allTopics": [
+      "average",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_2-2-2026_S1.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "In a test, B got 50 marks while A got 75 marks, out of 80 maximum marks. What percentage of A's marks was B's marks? (Round off the answer to two decimal places.)",
+    "options": {
+      "A": "Increases by 46.86%",
+      "B": "Decreases by 44.56%",
+      "C": "Decreases by 41.28%",
+      "D": "Increases by 42.91%"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "percentage",
+    "allTopics": [
+      "percentage",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_2-2-2026_S2.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "Train A departs from station X at 8:00 AM and travels towards station Y at a speed of 50 km/hr. Train B departs from station Y at 9:00 AM and travels towards station X at a speed of 60 km/hr. If the two trains meet at 9:45 AM, find one-fourth of the distance between stations X and Y (in km).",
+    "options": {
+      "A": "10%",
+      "B": "12%",
+      "C": "11%",
+      "D": "13%"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "trigonometry",
+      "height_distance",
+      "time_speed_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_21-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "एक व्य\u0000क्त जो अपनी मािसक आय का 75% खच\u0000 करता है, वह प्रित माह ₹4,827 की बचत कर पाता है। उसका मािसक खच\u0000 (₹ म\u0000) \u0000ात कीिजए।",
+    "options": {
+      "A": "48",
+      "B": "50",
+      "C": "49",
+      "D": "52"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "percentage",
+    "allTopics": [
+      "percentage"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_21-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "Two trains, 297 m and 243 m, in length are running in opposite directions. The first runs at the rate of 42 km/hr and the second at the rate of 66 km/hr. How long will they take to cross each other?",
+    "options": {
+      "A": "22% increase",
+      "B": "22% decrease",
+      "C": "28% increase",
+      "D": "28% decrease"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "trigonometry",
+      "time_speed_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_22-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "The amount on a sum of ₹4,200 at 20% per annum compound interest, compounded annually, in 2 years will be:",
+    "options": {
+      "A": "14.549",
+      "B": "21.549",
+      "C": "12.526",
+      "D": "14.823"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "si_ci",
+    "allTopics": [
+      "percentage",
+      "si_ci"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_22-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "Find the largest number which divides 62, 134 and 242 to leave the same reminder in each case.",
+    "options": {
+      "A": "96",
+      "B": "98",
+      "C": "97",
+      "D": "99"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "number_system",
+    "allTopics": [
+      "number_system"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_23-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "If cosecθ - cotθ = , and θ lies in the first quadrant, then find the value of 122 cosθ.",
+    "options": {
+      "A": "12°",
+      "B": "3°",
+      "C": "8°",
+      "D": "16°"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "trigonometry"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_23-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "The amount on a sum of ₹8,800 at 10% per annum compound interest, compounded annually, in 2 years will be:",
+    "options": {
+      "A": "63",
+      "B": "67",
+      "C": "62",
+      "D": "60"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "si_ci",
+    "allTopics": [
+      "percentage",
+      "si_ci"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_23-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "An agent sells a pan with a marked price of ₹6,420 at a discount of 30%. What is the selling price (in ₹) of the pan?",
+    "options": {
+      "A": "₹2,205",
+      "B": "₹2,880",
+      "C": "₹2,886",
+      "D": "₹3,039"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "profit_loss",
+    "allTopics": [
+      "percentage",
+      "profit_loss",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_24-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "If the volume of a cylinder is 1848 cm3, and its height is 12 cm, find the curved surface area (in cm2).",
+    "options": {
+      "A": "560",
+      "B": "476",
+      "C": "432",
+      "D": "528"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "mensuration_3d",
+    "allTopics": [
+      "mensuration_2d",
+      "mensuration_3d",
+      "height_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_24-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "A car travels 209 km in the first hour and 83 km in the second hour. What is the average speed (in km/hr) of the car for the whole journey?",
+    "options": {
+      "A": "₹460",
+      "B": "₹410",
+      "C": "₹551",
+      "D": "₹610"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "average",
+      "trigonometry",
+      "time_speed_distance",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_24-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "A pen is purchased for ₹40 and sold for ₹50. Find the profit percentage.",
+    "options": {
+      "A": "364",
+      "B": "316",
+      "C": "526",
+      "D": "399"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "profit_loss",
+    "allTopics": [
+      "percentage",
+      "profit_loss",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_26-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "The price of fuel decreases by 50%, 40% and 20% in three successive months, but increases by 50% in the fourth month. What is the percentage increase/decrease in the price of fuel in the fourth month as compared to its original price?",
+    "options": {
+      "A": "Increases by 61%",
+      "B": "Increases by 65%",
+      "C": "Decreases by 62%",
+      "D": "Decreases by 64%"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "percentage",
+    "allTopics": [
+      "percentage",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_26-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "The volume (in m3) of a cube, each edge of which is 45 m, is:",
+    "options": {
+      "A": "71.13% की  क मी",
+      "B": "72.43% की वृ\u0000\u0000",
+      "C": "75.87% की कमी",
+      "D": "67.43% की वृ\u0000\u0000"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "mensuration_3d",
+    "allTopics": [
+      "mensuration_3d"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_26-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "If 20% of a number is added to 60, then the result is the same number. 70% of the same number is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "percentage",
+    "allTopics": [
+      "percentage",
+      "number_system"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_27-11-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "Soniya got married 15 years ago. Her present age is 8/5 times her age at the time of her marriage. Her sister was 8 years younger to her at the time of her marriage. Find the present age of her sister.",
+    "options": {
+      "A": "54",
+      "B": "50",
+      "C": "57",
+      "D": "53"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "time_speed_distance",
+    "allTopics": [
+      "time_speed_distance",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_27-11-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "The market value of Amal’s investment rises successively by 5% in 2021, 6% in 2022, and 10% in 2023. If the initial value was ₹5,50,000, what will be its value (in ₹) at the end of 2023?",
+    "options": {
+      "A": "160",
+      "B": "240",
+      "C": "1,040",
+      "D": "1,000"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "percentage",
+    "allTopics": [
+      "percentage"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_29-12-2025_S1.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "A seasoned marathoner, known for his steady pace, usually runs the first half of a race at 8 km/hr and the second half at 6 km/hr. However, due to fatigue and other factors, his overall speed drops by 30%. How long will it take him to complete a 120 km marathon under these reduced-speed conditions?",
+    "options": {
+      "A": "12.5 hours",
+      "B": "25 hours",
+      "C": "17.5 hours",
+      "D": "15 hours"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "percentage",
+      "number_system",
+      "trigonometry",
+      "time_speed_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_29-12-2025_S2.pdf",
+    "year": "2025",
+    "questionNumber": 27,
+    "questionText": "If A6B59 is exactly divisible by 9, then find the least possible value of (A2+2B).",
+    "options": {
+      "A": "16 cm",
+      "B": "17 cm",
+      "C": "15 cm",
+      "D": "14 cm"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "number_system",
+    "allTopics": [
+      "number_system"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_29-12-2025_S3.pdf",
+    "year": "2025",
+    "questionNumber": 28,
+    "questionText": "Radha has ₹10 and ₹5 coins. She has a total of 15 coins worth ₹85. How many coins of ₹5 does she have?",
+    "options": {
+      "A": "₹8,251",
+      "B": "₹8,833",
+      "C": "₹9,391",
+      "D": "₹8,444"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "probability",
+    "allTopics": [
+      "probability"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_3-2-2026_S1.pdf",
+    "year": "2026",
+    "questionNumber": 28,
+    "questionText": "Find a number such that when 8 is subtracted from 4 times the number, the result is 6 more than thrice the number.",
+    "options": {
+      "A": "68",
+      "B": "70",
+      "C": "71",
+      "D": "67"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "time_speed_distance",
+    "allTopics": [
+      "number_system",
+      "time_speed_distance"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_3-2-2026_S2.pdf",
+    "year": "2026",
+    "questionNumber": 26,
+    "questionText": "If the radius of a sphere is 6 cm, then its surface area is:",
+    "options": {
+      "A": "72 π cm2",
+      "B": "144 π cm2",
+      "C": "288 π cm2",
+      "D": "36 π cm2"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "mensuration_3d",
+    "allTopics": [
+      "mensuration_2d",
+      "mensuration_3d"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_3-2-2026_S3.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "What price should Amit mark on a pair of jeans which cost him ₹7,700, so as to gain 32% after allowing successive discounts of 16% and 20%?",
+    "options": {
+      "A": "128",
+      "B": "132",
+      "C": "124",
+      "D": "118"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "percentage",
+      "profit_loss",
+      "trigonometry"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_30-12-2025_S1-1.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "If Sonali's salary first decreased by 25% and then increased by 12%, what is the percentage effect on her salary?",
+    "options": {
+      "A": "Increases by 16%",
+      "B": "Decreases by 16%",
+      "C": "Decreases by 12%",
+      "D": "Increases by 12%"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "percentage",
+    "allTopics": [
+      "percentage",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_30-12-2025_S2-1.pdf",
+    "year": "2025",
+    "questionNumber": 29,
+    "questionText": "Find the smallest number which when increased by 20 is completely divisible by 12, 20, 15, 18 and 24.",
+    "options": {
+      "A": "(52, 105)",
+      "B": "(68, 85)",
+      "C": "(102, 153)",
+      "D": "(65, 91)"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "number_system",
+    "allTopics": [
+      "number_system"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_30-12-2025_S3-1.pdf",
+    "year": "2025",
+    "questionNumber": 26,
+    "questionText": "The sides of a triangle are 41 cm, 84 cm and 85 cm. What is the length of its altitude corresponding to the side with the length of 84 cm?",
+    "options": {
+      "A": "120",
+      "B": "130",
+      "C": "110",
+      "D": "100"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "geometry",
+    "allTopics": [
+      "geometry"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_4-2-2026_S1.pdf",
+    "year": "2026",
+    "questionNumber": 28,
+    "questionText": "If 8 years ago from now, a grandmother's age was 13 times the age of her granddaughter and after 12 years from now, the grandmother's age will be 3 times her granddaughter's age, then what is the difference of their ages at present (in years)?",
+    "options": {
+      "A": "₹1,800",
+      "B": "₹1,200",
+      "C": "₹1,400",
+      "D": "₹1,600"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "time_speed_distance",
+    "allTopics": [
+      "time_speed_distance",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_4-2-2026_S2.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "If regular polygons of sides 6 and 5 are inscribed in a circle of radius R, then what is the ratio of their areas?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "mensuration_2d",
+    "allTopics": [
+      "ratio_proportion",
+      "geometry",
+      "mensuration_2d"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_4-2-2026_S3.pdf",
+    "year": "2026",
+    "questionNumber": 28,
+    "questionText": "The amount on a sum of ₹4,200 at 10% per annum compound interest, compounded annually, in 2 years will be:",
+    "options": {
+      "A": "65",
+      "B": "68",
+      "C": "67",
+      "D": "69"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "si_ci",
+    "allTopics": [
+      "percentage",
+      "si_ci"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_5-2-2026_S1.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "In a race, an athlete covers a distance of 390 m in 65 sec in the first lap. He covers the second lap of the same length in 195 sec. What is the average speed (in m/sec) of the athlete?",
+    "options": {
+      "A": "26 years",
+      "B": "21 years",
+      "C": "18 years",
+      "D": "23 years"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "average",
+      "trigonometry",
+      "height_distance",
+      "time_speed_distance",
+      "age_problems",
+      "sequence_series"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_5-2-2026_S3.pdf",
+    "year": "2026",
+    "questionNumber": 28,
+    "questionText": "₹10,896 is divided among A, B and C in such a way that if ₹91, ₹4 and ₹57 are deducted from their respective shares, they have money in the ratio 3:8:6. Find the difference between B’s and C’s original shares.",
+    "options": {
+      "A": "12",
+      "B": "8",
+      "C": "5",
+      "D": "4"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "ratio_proportion",
+    "allTopics": [
+      "ratio_proportion"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_6-2-2026_S2.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "The ratio of the ages of A and B at present is 5 : 1. Five years earlier from now, the ratio was 6 : 1. Find the present age of B.",
+    "options": {
+      "A": "12,860",
+      "B": "13,860",
+      "C": "13,960",
+      "D": "12,960"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "ratio_proportion",
+    "allTopics": [
+      "ratio_proportion",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_8-1-2026_S1.pdf",
+    "year": "2026",
+    "questionNumber": 28,
+    "questionText": "If the area of a square is 15.21 cm2, then the perimeter (in cm) of the square is:",
+    "options": {
+      "A": "15.6",
+      "B": "16.5",
+      "C": "12.4",
+      "D": "13.8"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "mensuration_2d",
+    "allTopics": [
+      "geometry",
+      "mensuration_2d"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_9-1-2026_S1.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "The arithmetic mean of the observations 95, 45, 85, 45, 51, 85, 84, 66 and 47 is:",
+    "options": {
+      "A": "67",
+      "B": "71",
+      "C": "69",
+      "D": "59"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "average",
+    "allTopics": [
+      "average",
+      "statistics"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_9-1-2026_S2.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "The sum of two numbers P and Q is 17 and their product is 56. Find the value of P2 + Q2.",
+    "options": {
+      "A": "₹6,684",
+      "B": "₹6,509",
+      "C": "₹5,988",
+      "D": "₹5,929"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "number_system",
+    "allTopics": [
+      "number_system"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_9-1-2026_S3.pdf",
+    "year": "2026",
+    "questionNumber": 28,
+    "questionText": "A car covers 100 km in the first hour, 150 km in the second hour, and 50 km in the third hour. If it continues at a speed of 60 km/hr for the next 2 hours, what is the average speed for the entire journey?",
+    "options": {
+      "A": "84 hm/hr",
+      "B": "82 km/hr",
+      "C": "86 km/hr",
+      "D": "80 km/hr"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "average",
+      "trigonometry",
+      "time_speed_distance",
+      "age_problems"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_9-2-2026_S1.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "Find the single discount equivalent to two successive discounts of 5% and 8%.",
+    "options": {
+      "A": "14.67%",
+      "B": "12.6%",
+      "C": "10.8%",
+      "D": "14.63%"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "percentage",
+      "profit_loss",
+      "trigonometry"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_9-2-2026_S2.pdf",
+    "year": "2026",
+    "questionNumber": 28,
+    "questionText": "If the radius of a sphere is 3 cm, then its surface area is:",
+    "options": {
+      "A": "73",
+      "B": "89",
+      "C": "85",
+      "D": "68"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "mensuration_3d",
+    "allTopics": [
+      "mensuration_2d",
+      "mensuration_3d"
+    ]
+  },
+  {
+    "paperFile": "RRB-Group-D-CBT-1-Paper_9-2-2026_S3.pdf",
+    "year": "2026",
+    "questionNumber": 27,
+    "questionText": "In an election with three candidates, M, N and R, candidate M secured 42% of the total votes, while candidate R obtained 34%. If the total number of votes polled was 37,700 and all were valid, how many votes did candidate N receive?",
+    "options": {
+      "A": "9048",
+      "B": "9164",
+      "C": "9100",
+      "D": "9000"
+    },
+    "answer": "",
+    "classification": "MATHS",
+    "primaryTopic": "trigonometry",
+    "allTopics": [
+      "percentage",
+      "number_system",
+      "trigonometry"
+    ]
+  }
+]

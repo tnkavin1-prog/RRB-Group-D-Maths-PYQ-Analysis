@@ -1,0 +1,784 @@
+Q.1 Which of the following is a ring-chain hydrocarbon?
+Ans
+ A. Benzene
+B. Propane
+C. Heptyne
+D. Ethene
+Q.2 What is the formula of washing soda?
+Ans
+ A. Na₂ CO₃ ·10H₂ O
+B. NaHCO₃ 
+C. NaOH
+D. Na₂ CO₃ 
+Q.3 The principle of conservation of energy is applicable to ___________.
+Ans
+ A. every mechanical system only
+B. every chemical system only
+C. every physical process in general
+D. every electrical system exclusively
+Q.4 The magnification (m) produced by a lens is defined as the ratio of _____________.
+Ans
+ A. the image height to the object height
+B. the focal length to the object distance
+C. the object distance to the image distance
+D. the object height to the image height
+Q.5 Which meristem is located near the nodes in some plants?
+Ans
+ A. Apical meristem
+B. Root meristem
+C. Lateral meristem
+D. Intercalary meristem
+Test Date 05/02/2026
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following are the most reactive and the least reactive metals, respectively,
+in a reactivity series?
+Ans
+ A. Potassium, Gold
+B. Sodium, Gold
+C. Magnesium, Silver
+D. Magnesium, Gold
+Q.7 When an object is placed between the pole (P) and the focus (F) of a concave mirror,
+what kind of image is formed?
+Ans
+ A. Real, inverted, and enlarged
+B. Virtual, inverted, and diminished
+C. Virtual, erect, and enlarged
+D. Real, inverted, and diminished
+Q.8 Which of the following steps can increase the expected yield of a crop?
+Ans
+ A. Irrigation at early stages of crop.
+B. Irrigation at terminal stage of crop.
+C. Irrigation at right stage of crop.
+D. Irrigation at every stage of crop.
+Q.9 A block of mass M is subjected to two opposing forces F1 and F2 ( F1 > F2). If the
+frictional force ( Ff) acting opposite to F1 is such that the net acceleration of the block
+is half the acceleration it would have experienced if friction were zero, what is the
+relation for Ff?
+Ans
+ A. Ff =( F1 + F2)/2
+B. Ff =( F1 - F2)/2
+C. Ff =( F1 - F2)
+D. Ff = 2( F1 - F2)
+Q.10 What is the colour of the precipitate formed when silver nitrate reacts with sodium
+chloride?
+Ans
+ A. Green
+B. Blue
+C. Yellow
+D. White
+Q.11 Why are the ceilings of places like concert halls and cinema halls usually made
+curved?
+Ans
+ A. To reduce the size of the building
+B. To block the sound from reflecting
+C. To make the hall look more attractive
+D. To help sound reflect and reach all parts of the hall
+Q.12 Which statement from the following correctly defines the law of constant proportions?
+Ans
+ A. A compound always contains elements in a fixed ratio by mass.
+B. Elements combined in random ratios to form compounds.
+C. The mass of a compound is always greater than the sum of its elements.
+D. Compounds can vary their composition based on temperature.
+Q.13 The motion of a freely falling stone is an example of:
+Ans
+ A. motion with zero acceleration
+B. non-uniform motion
+C. uniform motion
+D. rectilinear motion with constant speed
+Q.14 Which of the following is a basic requirement for maintaining good reproductive
+health?
+Ans
+ A. Ignoring changes during adolescence
+B. Safe sex practices and awareness about contraception
+C. Avoiding all medicines
+D. Sharing personal hygiene products
+Q.15 Which of the following is an example of judicious use of natural resources?
+Ans
+ A. Rainwater harvesting
+B. Deforestation
+C. Excessive use of fossil fuels
+D. Open mining
+Q.16 Which of the following statements is/are correct in the context of a mixture and a
+compound?
+A) A mixture has a variable composition while in a compound, the composition of each
+new substance is always fixed.
+B) A mixture shows the different properties of the constituent substance while in a
+compound, the new substance shows the same properties.
+C) A mixture has a non-variable composition while in a compound, the composition of
+each new substance is always changing.
+Ans
+ A. Both A and B
+B. Only A
+C. Only C
+D. Only B
+Q.17 Which of the following outcomes identifies meiosis rather than mitosis?
+Ans
+ A. Two identical cells, same number 
+B. Many cells, same number 
+C. Four cells, half number
+D. One larger cell, double number 
+Q.18 Which of the following statements about 'Law of conservation of mass' is correct?
+A) Mass can be changed when the reaction takes place.
+B) During the chemical reaction, atoms are rearranged.
+C) Mass within a closed system remains the same over time.
+Ans
+ A. Only A
+B. only B and C
+C. Only B
+D. Only A and B
+Q.19 A tube that grows out of the pollen grain travels through the style to reach which of the
+following parts of the flower?
+Ans
+ A. Filament
+B. Sepal
+C. Ovary
+D. Petal
+Q.20 Select the option that is true regarding the following two statements labelled Assertion
+(A) and Reason (R).
+Assertion (A): Soap solution appears cloudy.
+Reason (R): The soap micelles are large enough to scatter light.
+Ans
+ A. A is false, but R is true.
+B. A is true, but R is false.
+C. Both A and R are true, and R is not the correct explanation of A.
+D. Both A and R are true, and R is the correct explanation of A.
+Q.21 A straight conductor is carrying current in the +x-direction, this conductor is placed in
+a magnetic field pointing in the +y-direction. What will be the direction of motion of the
+conductor?
+Ans
+ A. positive z direction
+B. positive x direction
+C. negative y direction
+D. negative x direction
+Q.22 Which of the following is a practical application of Archimedes’ Principle in daily life?
+Ans
+ A. Using a thermometer
+B. Operating a pendulum
+C. Using a prism for light dispersion
+D. Design of ships and submarines
+Q.23 In which device is the heating effect of current used to melt a metal?
+Ans
+ A. Electric bell
+B. Electric fuse
+C. Electric fan
+D. Electric bulb
+Q.24 A neuron receives nerve impulse from another neuron through ____.
+Ans
+ A. Cell body
+B. Synapse
+C. Axon
+D. Dendrite
+Q.25 Which of the following is true for the plants raised by vegetative propagation?
+Statement A: Vegetatively propagated plant can bear flowers and fruits earlier than
+those produced from seeds.
+Statement B: Vegetatively propagated plants are genetically dissimilar to the parent
+plant.
+Ans
+ A. Statement A is incorrect but statement B is correct
+B. Both Statement A and statement B is incorrect
+C. Both Statement A and statement B is correct
+D. Statement A is correct but statement B is incorrect
+Section : Mathematics
+Q.26
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.27 The perimeter of a square is 68 m. What is the length (in m) of one side?
+Ans
+ A. 17
+B. 16
+C. 15
+D. 18
+Q.28
+4772
+Ans
+ A. 51
+B. 49
+C. 48
+D. 50
+Q.29 The number of prime numbers between 358 and 368 is:
+Ans
+ A. 2
+B. 1
+C. 4
+D. 3
+Q.30 Chetan bought 52 books for ₹1,120 from one shop and 47 books for ₹905 from another.
+What is the average price (in ₹, rounded off to two decimal places) he paid per book ?
+Ans
+ A. 22.45
+B. 21.45
+C. 20.45
+D. 23.45
+Q.31 In quadrilateral PQRS, the bisectors of ∠R and ∠S meet at the point T (inside the
+quadrilateral) and ∠STR = 25.5°. If the ratio of ∠P to ∠Q is 8 : 9, then what is the
+difference between the measures of ∠Q and ∠P?
+Ans
+ A. 5°
+B. 6°
+C. 3°
+D. 1°
+Q.32 A man bought goods worth ₹8,000 and sold half of them at a gain of 10%. At what gain
+percentage must he sell the remaining goods so as to gain 20% on the whole?
+Ans
+ A. 28%
+B. 32%
+C. 30%
+D. 25%
+Q.33 Two pipes can fill a cistern, individually, in 99 min and 36 min, respectively. There is a
+pipe located at the bottom of the cistern to empty it. If all the three pipes are opened
+simultaneously, then the empty cistern gets filled in 44 min. How long will the pipe at
+the bottom of the tank take to empty the completely filled cistern if no other pipe is then
+open?
+Ans
+ A. 44 min
+B. 93 min
+C. 66 min
+D. 37 min
+Q.34 If the marked price of a bedcover is 80% more than its cost price and a discount of 35%
+is announced on it, then find the profit percentage.
+Ans
+ A. 17%
+B. 15%
+C. 16%
+D. 19%
+Q.35 The cost of a washing machine is 25% less than the cost of a TV. If the cost of the
+washing machine increases by 88% and that of the TV decreases by 57%, then what is
+the percentage change in the total cost of 6 washing machines and 3 TVs?
+Ans
+ A. Increase by 30%
+B. Decrease by 23%
+C. Increase by 36%
+D. Decrease by 31%
+Q.36 Evaluate 2cot245° + 3sec230°− 4sin230°.
+Ans
+ A. 5
+B. 8
+C. 7
+D. 6
+Q.37 If the height of a triangle is increased by 20% and its base is decreased by 15%, then
+what will be the percentage change in its area?
+Ans
+ A. Decrease by 3%
+B. Increase by 3%
+C. Decrease by 2%
+D. Increase by 2%
+Q.38 The volume (in m3) of a cube with edges of 41 m, is:
+Ans
+ A. 68987
+B. 69087
+C. 68753
+D. 68921
+Q.39
+Ans
+ A. 42 years
+B. 35 years
+C. 40 years
+D. 39 years
+Q.40 A salesman marks his goods 10% above the cost price and gives a discount of 80% on
+them. Find his loss percentage.
+Ans
+ A. 79%
+B. 77%
+C. 70%
+D. 78%
+Q.41 A car travels 158 km in the first hour and 110 km in the second hour. What is the
+average speed (in km/hr) of the car for the whole journey?
+Ans
+ A. 137
+B. 141
+C. 127
+D. 134
+Q.42 A person saves 20% of his income. If his expenditure is ₹320, then his income (in ₹) is:
+Ans
+ A. 440
+B. 400
+C. 256
+D. 64
+Q.43 One pipe can fill a tank in 3 minutes, while another pipe can empty the completely filled
+tank in 6 minutes. If both the pipes are opened together when the tank is empty, how
+many minutes will it take to fill one-half of the tank?
+Ans
+ A. 3
+B. 6
+C. 7
+D. 4
+Q.44 The mode and median of a data are 70.2 and 58, respectively. What is the mean of the
+data? (Use empirical formula.)
+Ans
+ A. 51.9
+B. 48.2
+C. 45.5
+D. 59.4
+Q.45 Laxmi, Dhruv and Gauri started a business in partnership investing in the ratio of
+13:6:12, respectively. At the end of the year, they earned a profit of ₹37,200, which is
+75% of their total investment. How much did Dhruv invest (in ₹)?
+Ans
+ A. 9,600
+B. 9,692
+C. 9,336
+D. 9,766
+Q.46
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.47
+Ans
+ A. 37410
+B. 40870
+C. 38610
+D. 38400
+Q.48 The Rajdhani Express and Garib Rath Express run in the same direction with speeds of
+114 km/hr and 60 km/hr, respectively, and their lengths are the same. What is the length
+of the Rajdhani Express if it completely crosses the Garib Rath express in 144
+seconds?
+Ans
+ A. 1078 m
+B. 1084 m
+C. 1070 m
+D. 1080 m
+Q.49
+Ans
+ A. 15
+B. 23
+C. 25
+D. 32
+Q.50 The amount on a sum of ₹8,300 at 10% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹10,479
+B. ₹10,985
+C. ₹10,043
+D. ₹9,983
+Q.51 Town T is to the north of Town R. Town S is to the south of Town Q. Town R is to the
+south of Town P. Town Q is to the south of Town R. What is the position of Town Q with
+respect to Town P?
+Ans
+ A. East
+B. South
+C. North
+D. West
+Q.52 In a row of 42 people facing north, Kunal is 11th from the left end. If Riya sits 5th to the
+right of Kunal, what is Riya’s position from the right end of the line?
+Ans
+ A. 26th
+B. 24th
+C. 25th
+D. 27th
+Section : General Intelligence and Reasoning
+Q.53 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘-’
+are interchanged and ‘x’ and ‘÷’ are interchanged?
+8 ÷ 2 + 15 x 5 - 8 = ? + 5
+Ans
+ A. 28
+B. 24
+C. 22
+D. 26
+Q.54 RPMZ is related to WURT in a certain way. In the same way, LIGM is related to QNLG. To
+which of the given options is NKHN related, following the same logic?
+Ans
+ A. RPNG
+B. SPMH
+C. RQNH
+D. SQMG
+Q.55 Six people, A, B, C, D, E and F, are sitting in a row, facing north. Only two people sit to
+the left of A. Only one person sits between B and C. F sits to the immediate left of A. B
+sits to the immediate right of E. C sits third to the right of D. Who sits at the extreme left
+end of the line?
+Ans
+ A. D
+B. C
+C. E
+D. A
+Q.56 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only. (All numbers are single-digit numbers.)
+(Left) 5 * 1 & 1 6 $ © * 3 8 # © € 1 & © 1 © 8 % 4 (Right)
+How many such numbers are there each of which is immediately preceded by a number
+and also immediately followed by a symbol?
+Ans
+ A. 1
+B. 5
+C. 4
+D. 2
+Q.57 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+HLE23, JJH21, LHK19, NFN17, ?
+Ans
+ A. PDP18
+B. PEQ18
+C. PEP15
+D. PDQ15
+Q.58 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. NR−OV
+B. MQ−OS
+C. TX−VZ
+D. HL−JN
+Q.59 Refer to the following series and answer the question (all numbers are single digit
+numbers only).
+(Left) 7 2 4 5 9 1 6 3 8 7 4 2 6 1 5 9 3 7 4 8 2 1 (Right)
+How many unique digits in the series are both odd and greater than 5 (each digit
+counted only once, regardless of repetitions)?
+Ans
+ A. Three
+B. Two
+C. None
+D. One
+Q.60 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All wheels are cars.
+All wheels are buses.
+All buses are trucks.
+Conclusions:
+(I) All wheels are trucks.
+(II) Some buses are cars.
+Ans
+ A. Only conclusion (I) follows.
+B. Only conclusion (II) follows.
+C. Both conclusions (I) and (II) follow.
+D. Neither conclusion (I) nor (II) follows.
+Q.61 This question is based on the five, three-digit numbers given below.
+(Left) 745 329 157 278 381 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+What will be the resultant if the third digit of the highest number is added to the second
+digit of the lowest number?15164
+Ans
+ A. 6
+B. 8
+C. 10
+D. 9
+Q.62 What should come in place of ? in the given series?
+2 3 6 15 42 ?6040
+Ans
+ A. 123
+B. 124
+C. 125
+D. 122
+Q.63 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(13.3, 12.5, 11.8)
+(45.6, 44.8, 44.1)
+Ans
+ A. (39.4, 38.6, 37.8)
+B. (27.9, 27.1, 26.4)
+C. (69.5, 68.7, 68.6)
+D. (71.7, 70.9, 70.1)
+Q.64 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+No Pianos are Guitars.
+Some Guitars are Violins.
+All Violins are Drums.
+Conclusions:
+(I) No Pianos are Violins.
+(II) Some Guitars are Drums.
+Ans
+ A. Only conclusion (II) is true
+B. Only conclusion (I) is true
+C. Neither conclusion (I) nor (II) is true
+D. Both conclusions (I) and (II) are true
+Q.65 What should come in place of the question mark (?) in the given series?
+91 78 65 52 39 ?
+Ans
+ A. 28
+B. 30
+C. 26
+D. 24
+Q.66 Omkar starts from Point Y and drives 29 km towards the south. He then takes a left
+turn, drives 75 km, turns right and drives 33 km. He then takes a right turn and drives
+37 km. He takes a right turn, drives 62 km to stop at Point Z. How far (shortest distance)
+and towards which direction should he drive in order to reach Point Y again? (All turns
+are 90-degree turns only unless specified.)
+Ans
+ A. 41 km towards the west
+B. 37 km towards the east
+C. 36 km towards the east
+D. 38 km towards the west
+Q.67 Each of the digits in the number 12568436 is arranged in ascending order from left to
+right. What will be the sum of the digits that are third from the left and third from the
+right in the new number thus formed?
+Ans
+ A. 9
+B. 12
+C. 10
+D. 11
+Q.68 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 2 7 4 7 7 3 3 3 1 4 8 9 8 8 2 8 5 6 7 9 7 1 3 3 1 6 2 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+even number and also immediately followed by an even number?
+Ans
+ A. 5
+B. 3
+C. 2
+D. 4
+Q.69 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+LNP−MOQ
+MOQ−NPR
+Ans
+ A. RTV−RUV
+B. RST−RTV
+C. RTV−SUW
+D. RST−SUW
+Q.70 A,B,C,D,E,F and G are sitting in a straight line facing North.
+No one sits to the right of B. Only three people sit between B and G. Only two people sit
+between G and D. A sits third to the left of C. F sits to the immediate right of C.
+How many people sit to the left of E?
+Ans
+ A. 1
+B. 3
+C. 2
+D. 4
+Q.71 In a certain code language, "OXGP" is coded as "62" and "DSNL" is coded as "75".
+What is the code for "VBQT" in that language?
+Ans
+ A. 70
+B. 68
+C. 61
+D. 63
+Q.72 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘–’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+70 – 45 × 5 – 40 ÷ 4 + 48 = ?
+Ans
+ A. 211
+B. 153
+C. 191
+D. 172
+Q.73 In a certain code language,
+‘A + B’ means ‘A is the son of B’,
+‘A – B’ means ‘A is the mother of B’,
+‘A × B’ means ‘A is the brother of B’ and
+‘A ÷ B’ means ‘A is the father of B’.
+How is M related to S if ‘M + N ÷ O × P – S’?
+Ans
+ A. Father’s brother
+B. Daughter’s son
+C. Brother’s son
+D. Mother’s brother
+Q.74 In the following triad, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one which follows the same logic.
+SANK - NSAK - KNAS
+KITE - TKIE - ETIK
+Ans
+ A. ZONE - NZOE - ONEZ
+B. SWAT - WSAT - TWAS
+C. DOLE - DLOE - ELOD
+D. FIRM - RFIM - MRIF
+Q.75 In a certain code language, ‘drinking is dangerous’ is coded as ‘cd pk os’, ‘avoid
+dangerous habit’ is coded as ‘os mp ls’ and ‘please avoid drinking’ is coded as ‘rk pk
+mp’. How is ‘dangerous’ coded in that language?
+Ans
+ A. os
+B. ls
+C. mp
+D. rk
+Q.76 Seven people, J, K, L, M, N, O and P are sitting in a straight row, facing north. Only two
+people sit to the right of O. Only three people sit between N and O. P sits second to the
+left of J. P is not an immediate neighbour of N. L sits to the immediate left of M. Who
+sits at the extreme right end of the line?
+Ans
+ A. J
+B. M
+C. K
+D. P
+Q.77 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+DEU7 VWM24 NOE41 FGW58 ?
+Ans
+ A. PYO75
+B. XYF75
+C. XYO75
+D. XSO75
+Q.78 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. LO - HL
+B. HK - DG
+C. KN - GJ
+D. NQ - JM
+Q.79 In a row of 52 students facing North, Roshan is 6th from the left end. If Disha is 29th to
+the right of Roshan, what is Disha's position from the right end of the row?
+Ans
+ A. 16th
+B. 18th
+C. 17th
+D. 15th
+Q.80 What should come in place of the question mark (?) in the given series?
+508 518 529 541 554 ?
+Ans
+ A. 562
+B. 566
+C. 568
+D. 564
+Section : General Awareness and Current Affairs
+Q.81 Who gave assent to the Waqf (Amendment) Bill, 2025, making it a law?
+Ans
+ A. Chief Justice of India
+B. President of India
+C. Vice President of India
+D. Prime Minister of India
+Q.82 What was the theme for National Girl Child Day 2025 celebrated in January?
+Ans
+ A. Empowering Girls for a Bright Future
+B. Empowering Girls to Make them Independent
+C. Empowering Girls for a Better Nation
+D. Empowering Girls for a Better Future
+Q.83 In April 2025, India voted in favour of the International Maritime Organisation (IMO’s)
+global carbon pricing system for which of the following sectors?
+Ans
+ A. Road transport
+B. Railways
+C. Aviation
+D. Maritime shipping
+Q.84 Which of the following authorities in India issued new directives aimed at regulating
+asbestos exposure and its disposal in October 2025?
+Ans
+ A. High Court of Delhi
+B. Central Pollution Control Board (CPCB)
+C. National Green Tribunal (NGT)
+D. Supreme Court of India
+Q.85 What is the primary purpose of the PathGenie software developed by the Ministry of
+Science and Technology in 2025?
+Ans
+ A. To support vaccine production planning
+B. To analyze medical imaging data
+C. To manage large-scale clinical trial databases
+D. To accelerate the process of drug discovery
+Q.86 In 2025, India suspended which of the following bilateral agreements related to water
+sharing with Pakistan?
+Ans
+ A. Ganga
+B. Tashkent
+C. Indus
+D. Shimla
+Q.87 According to the North Eastern Region Sustainable Development Goals Index Report,
+2023-24, released in July 2025, which district secured the highest score at 81.43 points?
+Ans
+ A. Dibrugarh
+B. Udalguri
+C. Dimapur
+D. Hnahthial
+Q.88 Who won the 2025 Norway Chess Open tournament?
+Ans
+ A. Fabiano Caruana
+B. Hikaru Nakamura
+C. Gukesh Dommaraju
+D. Magnus Carlsen
+Q.89 Under what theme is the ‘Swachhata Hi Seva’ campaign, in alignment with the
+Government of India’s vision of a clean and garbage-free India, being observed in
+2025?
+Ans
+ A. Swachhotsav
+B. Clean India Green India
+C. Swachhata Abhiyan 2.0
+D. Swachh Survekshan
+Q.90 Which of the following banks revised Priority Sector Lending (PSL) guidelines for Small
+Finance Banks from FY 2025–26, reducing the PSL target to 60% of Adjusted Net Bank
+Credit (ANBC) or Credit Equivalent of Off-Balance Sheet Exposure (CEOBE), whichever
+is higher?
+Ans
+ A. Bank of Baroda
+B. Reserve Bank of India
+C. State Bank of India
+D. Punjab National Bank
+Q.91 World Health Day, observed every year to draw attention to a major global health topic,
+falls on which of the following dates?
+Ans
+ A. 7 April
+B. 8 March
+C. 1 December
+D. 24 October
+Q.92 In 2025, according to the Supreme Court, the average waiting period for adopting an
+infant or young child in India under the legal framework is significant, leading some
+parents to consider illegal adoptions. What is the approximate average waiting period
+cited by the Court?
+Ans
+ A. 4.5 years
+B. 3.5 years
+C. 1.5 years
+D. 2.5 years
+Q.93 Which of the following countries hosted the 8th International Solar Alliance Assembly
+in October 2025?
+Ans
+ A. France
+B. Bhutan
+C. India
+D. Australia
+Q.94 Which of the following was announced in the Union Budget 2025-26 (presented on 1
+February 2025) to boost value-addition and marketing for a regional crop in Bihar?
+Ans
+ A. Central Rice Milling Corporation
+B. Establishment of a Makhana Board
+C. A dedicated Potato Export Authority
+D. National Pulses Development Fund
+"
+Q.95 Vithya Ramraj shares India’s 400 m hurdles national record with which legendary Indian
+athlete as of 2025?
+Ans
+ A. Kamaljeet Sandhu
+B. Hima Das
+C. PT Usha
+D. Shiny Wilson
+Q.96 In August 2025, the Indian National Space Promotion and Authorisation Centre (IN-
+SPACe) selected which of the following consortia to develop India’s first indigenous
+commercial Earth-Observation satellite constellation?
+Ans
+ A. Ananth Technologies Limited, Astrome Technologies Private Limited and Bharti Space Technologies Limited Consortium
+B. PixxelSpace India Private Limited, Dhruva Space Private Limited and SatSure Analytics India Private Limited Consortium
+C. Hindustan Aeronautics Limited, Bharat Electronics Limited and NewSpace India Limited Consortium
+D. Skyroot Aerospace Private Limited, Agnikul Cosmos Private Limited and Bellatrix Aerospace Private Limited Consortium
+Q.97 Who won the Japanese Grand Prix, 2025?
+Ans
+ A. Fabio Di Giannantonio
+B. Lando Norris
+C. Oscar Piastri
+D. Max Verstappen
+Q.98 In 2025, at the World Cup staged in Foz Do Iguacu, Brazil, which Indian boxer earned a
+gold medal in the 70kg division due to an opponent's withdrawal?
+Ans
+ A. Vijendra Singh
+B. Hitesh Gulia
+C. Vikas Krishan
+D. Shiva Thapa
+Q.99 Which organisation launched the BHARATPOL portal to enhance real-time information
+sharing for Indian law enforcement agencies in January 2025?
+Ans
+ A. Intelligence Bureau (IB)
+B. Research and Analysis Wing (RAW)
+C. Central Bureau of Investigation (CBI)
+D. National Investigation Agency (NIA)
+Q.100In 2025, the Government of India consolidated 29 labour laws into how many labour
+codes to simplify labour regulations?
+Ans
+ A. 6
+B. 8
+C. 4
+D. 2

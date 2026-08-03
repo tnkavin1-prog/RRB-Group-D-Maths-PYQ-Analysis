@@ -1,0 +1,71 @@
+{
+  "trigonometry": [
+    "Value finding",
+    "Identity simplification",
+    "Height-distance application"
+  ],
+  "number_system": [
+    "Divisibility rules",
+    "LCM/HCF finding",
+    "Remainder problems",
+    "Digit problems"
+  ],
+  "percentage": [
+    "Successive percentage",
+    "Percentage increase/decrease",
+    "Percentage of number"
+  ],
+  "profit_loss": [
+    "Basic profit/loss %",
+    "Successive discount",
+    "CP/SP calculation"
+  ],
+  "si_ci": [
+    "Simple interest calculation",
+    "Difference between SI and CI"
+  ],
+  "mensuration_3d": [
+    "Cylinder volume/surface",
+    "Cube/cuboid problems",
+    "Sphere/hemisphere"
+  ],
+  "time_speed_distance": [
+    "Average speed",
+    "Train crossing",
+    "Relative speed"
+  ],
+  "mensuration_2d": [
+    "Area calculation",
+    "Perimeter problems"
+  ],
+  "average": [
+    "Mean of observations",
+    "Weighted average"
+  ],
+  "ratio_proportion": [
+    "Ratio division",
+    "Equivalent ratio",
+    "Compound ratio"
+  ],
+  "time_work": [
+    "Pipe and cistern",
+    "Work efficiency"
+  ],
+  "height_distance": [
+    "Angle of elevation/depression"
+  ],
+  "age_problems": [
+    "Present age calculation"
+  ],
+  "algebra": [
+    "Expression simplification",
+    "Linear equations"
+  ],
+  "probability": [
+    "Basic probability"
+  ],
+  "geometry": [
+    "Rectangle properties",
+    "Triangle properties"
+  ]
+}

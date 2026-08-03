@@ -1,0 +1,72 @@
+[
+  {
+    "rank": 1,
+    "topic": "Trigonometry",
+    "frequency": 12,
+    "confidence": "84%",
+    "prediction": "High probability of 11-13 questions"
+  },
+  {
+    "rank": 2,
+    "topic": "Number System",
+    "frequency": 9,
+    "confidence": "78%",
+    "prediction": "High probability of 8-10 questions"
+  },
+  {
+    "rank": 3,
+    "topic": "Percentage",
+    "frequency": 9,
+    "confidence": "78%",
+    "prediction": "High probability of 8-10 questions"
+  },
+  {
+    "rank": 4,
+    "topic": "Profit & Loss",
+    "frequency": 8,
+    "confidence": "76%",
+    "prediction": "High probability of 7-9 questions"
+  },
+  {
+    "rank": 5,
+    "topic": "Simple & Compound Interest",
+    "frequency": 7,
+    "confidence": "74%",
+    "prediction": "High probability of 6-8 questions"
+  },
+  {
+    "rank": 6,
+    "topic": "Mensuration (3D)",
+    "frequency": 6,
+    "confidence": "72%",
+    "prediction": "High probability of 5-7 questions"
+  },
+  {
+    "rank": 7,
+    "topic": "Time, Speed & Distance",
+    "frequency": 6,
+    "confidence": "72%",
+    "prediction": "High probability of 5-7 questions"
+  },
+  {
+    "rank": 8,
+    "topic": "Mensuration (2D)",
+    "frequency": 5,
+    "confidence": "70%",
+    "prediction": "High probability of 4-6 questions"
+  },
+  {
+    "rank": 9,
+    "topic": "Average",
+    "frequency": 3,
+    "confidence": "66%",
+    "prediction": "High probability of 2-4 questions"
+  },
+  {
+    "rank": 10,
+    "topic": "Ratio & Proportion",
+    "frequency": 3,
+    "confidence": "66%",
+    "prediction": "High probability of 2-4 questions"
+  }
+]

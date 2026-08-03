@@ -1,0 +1,774 @@
+Q.1 Which of the following represents non-uniform linear velocity?
+Ans
+ A. A body moving in a straight line at fixed speed
+B. A car moving at constant speed
+C. A train starting from rest
+D. A ball rolling at uniform rate
+Q.2 Which of the following is a key feature of offsprings produced through vegetative
+propagation?
+Ans
+ A. They are genetically identical to the parent plant.
+B. They are genetically diverse from the parent plant.
+C. They always grow slower than seed-grown plants.
+D. They require fertilisation to develop.
+Q.3 What is the IUPAC rule for writing element symbols?
+Ans
+ A. Two lowercase letters always used (in case of two letters)
+B. First letter uppercase, second lowercase (in case of two letters)
+C. Symbols written in numeric codes
+D. Both letters always in uppercase form (in case of two letters)
+Q.4 Which of the following statements best describes autotrophic nutrition?
+Ans
+ A. It depends entirely on consuming other living organisms for food.
+B. It requires digestion of complex substances outside the body.
+C. It involves direct absorption of organic compounds from other organisms.
+D. It involves making food using carbon dioxide and water in the presence of sunlight.
+Q.5 Which is the main transport system in animals?
+Ans
+ A. Nervous system
+B. Muscular system
+C. Circulatory system
+D. Respiratory system
+Test Date 29/12/2025
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following correctly matches a floral part with its primary biological
+function in reproduction?
+Ans
+ A. Stamens – production of pollen grains
+B. Pistil – attraction of pollinators
+C. Petals – production of female gametes
+D. Sepals – development of ovules
+Q.7 When is the work done by a force considered negative?
+Ans
+ A. When there is no displacement
+B. When the force acts in the same direction as displacement
+C. When the force is zero
+D. When the force acts opposite to the direction of displacement
+Q.8 A science teacher asks students to measure the current through a bulb using an
+ammeter. What precaution must the students follow?
+Ans
+ A. Connect the ammeter without a battery
+B. Connect the ammeter with reversed polarity
+C. Connect the ammeter in series with correct polarity
+D. Connect the ammeter in parallel with the bulb
+Q.9 For a given wave, if the speed becomes three times and the wavelength becomes three
+times, the frequency ______.
+Ans
+ A. becomes nine times
+B. becomes three times
+C. becomes one-third
+D. remains the same
+Q.10 When applying the sign conventions for spherical lenses to measure object and image
+distances, where are all measurements taken from?
+Ans
+ A. The optical centre of the lens
+B. The centre of curvature
+C. The principal focus
+D. The pole of the lens
+Q.11 When is a neutral salt formed?
+Ans
+ A. When weak acid reacts with strong base
+B. When acid reacts with metal
+C. When strong acid reacts with weak base
+D. When strong acid reacts with strong base
+Q.12 A small amount of copper oxide taken in a beaker and dilute hydrochloric acid is added
+to it slowly while stirring, results in:
+Ans
+ A. formation of reddish-brown colour solution of copper sulphate
+B. formation of bluish-green colour solution of copper chloride
+C. formation of reddish-brown colour solution of copper chloride
+D. formation of reddish-brown colour solution of cupric chloride
+Q.13 Which of the following methods will NOT help in the management of garbage and other
+wastes produced by humans?
+Ans
+ A. Landfilling plastics in soil
+B. Following 3R’s (Reduce, Reuse, Recycle)
+C. Treating wastes before release
+D. Vermicomposting
+Q.14 Which of the following statements is true?
+Ans
+ A. On increasing the number of turns per unit length in a solenoid, the strength of the magnetic field in the solenoid increases.
+B. On increasing the resistance of the wire, the strength of the magnetic field in a solenoid increases.
+C. The magnetic field lines inside a solenoid are circular.
+D. The magnetic field inside a solenoid carrying current does not depend on the strength of the current.
+Q.15 If an object is placed at the centre of curvature of a concave mirror, the image formed
+will be:
+Ans
+ A. between focus and pole, virtual and erect
+B. at infinity, virtual and magnified
+C. at the focus, real and diminished
+D. at the centre of curvature itself, real and of the same size
+Q.16 Which of the following statements are correct for benzene?
+a. It is a six-membered cyclic carbon compound.
+b. It has three single and three double bonds.
+c. The molecular formula is C6H14.
+Ans
+ A. Only a and c
+B. a, b and c
+C. Only a and b
+D. Only b and c
+Q.17 Which method is used to purify metals like Zinc and Copper?
+Ans
+ A. Smelting
+B. Alloying
+C. Roasting
+D. Electrolytic refining
+Q.18 Momentum (p) is a vector quantity. That means, momentum has both __________.
+Ans
+ A. speed and time
+B. mass and velocity
+C. magnitude and direction
+D. force and acceleration
+Q.19 What does the Law of Conservation of Mass state?
+Ans
+ A. Energy can be converted into mass
+B. Mass remains unchanged in reactions
+C. Mass of reactants is always lost
+D. Mass of products is always greater
+Q.20 Which of the following statements is correct about the definition of complex permanent
+tissues?
+Ans
+ A. Complex permanent tissues are made up of similar type of cells.
+B. Complex permanent tissues are made of simple permanent tissues.
+C. Complex permanent tissues are made up of different types of cells performing different tasks.
+D. Complex permanent tissues are made up of different types of cells performing similar tasks.
+Q.21 In India, cows are classified under which scientific species name?
+Ans
+ A. Bos bubalis
+B. Bos taurus
+C. Bubalus bubalis
+D. Bos indicus
+Q.22 Which of these processes begins after pollen lands on the stigma of a flower?
+Ans
+ A. It develops into a seed directly.
+B. The leaves begin photosynthesis immediately.
+C. The petals open wider.
+D. A pollen tube grows through the style to reach the ovary.
+Q.23 Which of the following is NOT an application of Archimedes’ Principle?
+Ans
+ A. Measuring electrical resistance of a wire
+B. Calculating buoyant force on a body in fluid
+C. Submarine floating and diving
+D. Determining the density of an irregular solid
+Q.24 Which of the following is a pure substance consisting of only one type of atom?
+Ans
+ A. Sodium
+B. Milk
+C. Water
+D. Air
+Q.25 Which of the following species is reduced in the given reaction?
+       
+Ans
+ A. H2O
+B. Cu
+C. H2
+D. O
+Q.26 The volume (in m3) of a cube with edges of 31 m is:
+Ans
+ A. 29791
+B. 29898
+C. 29595
+D. 29959
+Section : Mathematics
+Q.27 If A6B59 is exactly divisible by 9, then find the least possible value of (A2+2B).
+Ans
+ A. 14
+B. 21
+C. 13
+D. 19
+Q.28 The monthly incomes of two friends Chetan and Vipul, are in the ratio 5 : 9,
+respectively, and each of them saves ₹51,000 every month. If the ratio of their monthly
+expenditure is 1 : 3, find the monthly income of Chetan(in ₹).
+Ans
+ A. 86,000
+B. 85,000
+C. 84,000
+D. 1,19,000
+Q.29 The ratio of the ages of a wife and husband is 6 : 7 at present. If the sum of their ages
+after 20 years from now is 92, then find their present ages (in years), respectively.
+Ans
+ A. 24, 28
+B. 42, 49
+C. 30, 42
+D. 18, 21
+Q.30 Two trains, Train A and Train B, are traveling towards each other on parallel tracks.
+Train A is 150 meters long and moves at a speed of 72 km/h. Train B is 100 meters long
+and moves at a speed of 54 km/h. How much time (rounded off to two decimal places)
+will it take for Train A to completely pass Train B?
+Ans
+ A. 6.14 seconds
+B. 10.14 seconds
+C. 7.14 seconds
+D. 9.14 seconds
+Q.31 The price of fuel decreases by 15%, 30% and 60% in three successive months, but
+increases by 60% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price?
+Ans
+ A. Decreases by 67.07%
+B. Increases by 66.82%
+C. Increases by 58.55%
+D. Decreases by 61.92%
+Q.32 In a quadrilateral EFGH, ∠E = 52° and ∠F = 37°. The bisectors of ∠G and ∠H meet at X.
+What is the measure of ∠HXG?
+Ans
+ A. 37°
+B. 48.5°
+C. 44.5°
+D. 49°
+Q.33 The ratio of three numbers is 12:14:4. If 25% of the first number is 18, then what would
+30% of the difference between the third and second numbers be?
+Ans
+ A. 16
+B. 19
+C. 17
+D. 18
+Q.34 P and Q together can fill a cistern with water in 15 hours. If P alone can fill the cistern
+with water in 40 hours, then in how many hours will Q alone fill one-fourth of the same
+cistern with water?
+Ans
+ A. 12
+B. 7
+C. 6
+D. 13
+Q.35 The amount on a sum of ₹5,200 at 20% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹7,105
+B. ₹7,472
+C. ₹7,488
+D. ₹6,916
+Q.36 The sum of two numbers is 74 and their difference is 12. Find the product of the two
+numbers.
+Ans
+ A. 1433
+B. 1233
+C. 1333
+D. 1533
+Q.37 Simplify: 86 − (− 16) × (− 8 − 20 − 18) ÷ [1 × {10 + (− 2) × (− 3)}]
+Ans
+ A. 42
+B. 40
+C. 46
+D. 31
+Q.38 A shopkeeper sells 10 identical watches for ₹10,500, which is the cost price of 8
+watches. Find his loss percentage.
+Ans
+ A. 10%
+B. 20%
+C. 30%
+D. 40%
+Q.39 The cost price of a dress is ₹1,600. The shopkeeper makes a profit of 20% on selling it.
+If he offers a discount of 25% at the time of sale, find the marked price (in ₹).
+Ans
+ A. 2,380
+B. 2,050
+C. 2,560
+D. 1,920
+Q.40 A metallic sphere of unknown radius is melted and recast into64 smaller spherical balls. During the recasting process, 20%of the total metal is lost as waste. If the total volume of the 64smaller spheres after the loss is 10,752 cm³, determine theradius (rounded off to the nearest integer) of the originalsphere. (Use π = 3.14)
+Ans
+ A. 16 cm
+B. 17 cm
+C. 15 cm
+D. 14 cm
+Q.41
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.42 What is the mode of the following data?
+53, 53, 40, 49, 50, 48, 53, 50, 41, 40, 53, 45, 40, 47, 43, 52, 51, 42, 51, 53
+Ans
+ A. 53
+B. 40
+C. 49
+D. 50
+Q.43 The mean and the mode of a set of data are 20 and 88.7, respectively. Find the median
+of the data, using the empirical formula.
+Ans
+ A. 42.5
+B. 43.1
+C. 42.9
+D. 44.5
+Q.44 An agent sells a turbo cooker with a marked price of ₹6,370 at a discount of 50%. What
+is the selling price (in ₹) of the turbo cooker?
+Ans
+ A. 2,548
+B. 3,158
+C. 3,185
+D. 2,549
+Q.45
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.46 Two pipes, F and M, can fill a cistern in 25 minutes and 30 minutes, respectively. If both
+pipes are opened together, after how many minutes should pipe F be closed so that the
+cistern is completely filled in 15 minutes?
+Ans
+ A. 12.5 min
+B. 10 min
+C. 12 min
+D. 15 min
+Q.47 Sunita, Javed, and Rani invest ₹13,90,000, ₹4,70,000, and ₹15,40,000, respectively, to
+start a business. If the profit at the end of the year is ₹4,50,500, then what is the share
+of Rani in the profit?
+Ans
+ A. ₹2,04,048
+B. ₹2,04,052
+C. ₹2,04,053
+D. ₹2,04,050
+Q.48 The distance between points A and B is 663 km. Amit travels from A to B at 131 km/hr
+and returns at 24 km/hr. Calculate his average speed for the entire journey (rounded off
+to two decimal places).
+Ans
+ A. 39.54 km/hr
+B. 43.79 km/hr
+C. 46.18 km/hr
+D. 40.57 km/hr
+Q.49
+Ans
+ A. 43.33%
+B. 48.33%
+C. 66.67%
+D. 33.33%
+Q.50 A tower stands vertically on the ground. From a point on the ground which is 29.6 m
+away from the foot of the tower, the angle of elevation of the top of the tower is found to
+be 45°. Find the height of the tower.
+Ans
+ A. 27.6 m
+B. 23.6 m
+C. 29.6 m
+D. 25.6 m
+Q.51 Refer to the given series and answer the question that follows. (All numbers are single
+digit numbers only.) Counting to be done from left to right only.
+(Left) 9 8 9 2 6 3 9 2 7 5 5 6 9 2 9 6 8 9 1 2 9 1 6 7 9 1 8 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 2
+B. 4
+C. 3
+D. 1
+Q.52 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. GL - EJ
+B. OT - MS
+C. IN - GL
+D. MR - KP
+Q.53 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+UIR : WDP
+FRO : HMM
+Ans
+ A. GHJ : ICG
+B. KIT : MCR
+C. LJQ : NEN
+D. CPP : EKN
+Section : General Intelligence and Reasoning
+Q.54 Seven boxes A, B, C, D, P, Q and R are kept one over the other but not necessarily in
+the same order. D is kept immediately above Q. R is kept immediately above C. Only P
+is kept above A. Only two boxes are kept above D. R is not kept at third position from
+the bottom.
+How many boxes are kept between B and P?
+Ans
+ A. Three
+B. Two
+C. One
+D. Four
+Q.55 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(12, 15, 720)
+(14, 11, 616)
+Ans
+ A. (16, 11, 704)
+B. (13, 10, 510)
+C. (18, 9, 548)
+D. (12, 9, 434)
+Q.56 What should come in place of the question mark (?) in the given series?
+2 1 1 1.5 ? 7.5
+Ans
+ A. 4
+B. 2
+C. 2.5
+D. 3
+Q.57 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+58 ÷ 11 + 624 × 13 − 471 = ?
+Ans
+ A. 1061
+B. 1011
+C. 1022
+D. 1032
+Q.58 Five people, A, B, C, D and E, are sitting in a row, facing north. A sits at the extreme
+right end of the row. D sits to the immediate left of A. Only B sits between C and E. How
+many people sit between A and B?
+Ans
+ A. 0
+B. 1
+C. 2
+D. 3
+Q.59 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. HLNR
+B. INOS
+C. SWYC
+D. VZBF
+Q.60 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All viruses are fungi.
+Some viruses are bacteria.
+Conclusions:
+(I) Some fungi are bacteria.
+(II) No fungi is a virus.
+Ans
+ A. Both follow
+B. Neither follows
+C. Only II follows
+D. Only I follows
+Q.61 A, B, C, D, W, X and Y are sitting around a circular table facing the centre of the table. C
+sits fourth to the right of X. Only two people sit between Y and W when counted from
+the left of Y. D sits third to the left of B. A is an immediate neighbour of B and W. How
+many people between C and A when counted from the left of A?
+Ans
+ A. One
+B. Three
+C. Four
+D. Two
+Q.62 In a certain code language,
+‘A + B’ means ‘A is the mother of B’,
+‘A – B’ means ‘A is the brother of B’,
+‘A × B’ means ‘A is the wife of B’,
+‘A % B’ means ‘A is the father of B’ and
+‘A # B’ means ‘A is the daughter of B’.
+How is Q related to N if ‘N % E – C % R # Q’?
+Ans
+ A. Husband’s father
+B. Son’s wife
+C. Father’s brother
+D. Son’s daughter
+Q.63 Rihan starts from Point A and drives 24 km towards East. He then takes a right turn,
+drives 50 km, turns right and drives 51 km. He then takes a right turn and drives 63 km.
+He takes a final right turn, drives 27 km and stops at Point P. How far (shortest
+distance) and towards which direction should he drive in order to reach Point A again?
+(All turns are 90-degree turns only, unless specified.)
+Ans
+ A. 11 km to the South
+B. 17 km to the north
+C. 15 km to the north
+D. 13 km to the South
+Q.64 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 9 1 5 1 9 8 6 6 9 9 4 1 6 7 8 3 7 2 1 3 5 3 5 1 6 2 8 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 6
+B. 4
+C. 3
+D. 5
+Q.65 This question is based on the five, three-digit numbers given below.
+(Left) 715, 906, 570, 853, 418 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+Note: All operations to be done from left to right.
+What will be the resultant if the third digit of the highest number is added to the second
+digit of the lowest number?
+Ans
+ A. 6
+B. 7
+C. 13
+D. 8
+Q.66 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+REN VBR ZYV DVZ ?
+Ans
+ A. GSC
+B. IRC
+C. GTE
+D. HSD
+Q.67 Town I is to the north of Town F. Town H is to the east of Town I. Town J is to the east of
+Town H. Town G is to the north of Town J. What is the position of Town F with respect
+to Town G?
+Ans
+ A. East
+B. Southwest
+C. Northeast
+D. North
+Q.68 In a certain code language, ‘ELMS’ is coded as ‘4892’ and ‘ALES’ is coded as
+‘7428’.What is the code for ‘A’ in the given code language?
+Ans
+ A. 4
+B. 8
+C. 7
+D. 2
+Q.69 Refer to the following series and answer the question that follows (all numbers are
+single digit numbers only). Counting to be done from left to right only.
+(Left) 9 5 4 3 9 4 2 5 8 8 2 1 9 7 1 7 4 9 8 8 8 3 2 1 5 2 8 (Right)
+How many such even numbers are there (from left to right) each of which is
+immediately preceded by an odd number and also immediately followed by an even
+number?6624
+Ans
+ A. 4
+B. 6
+C. 3
+D. 5
+Q.70 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+DBC−YWX
+KIJ−FDE
+Ans
+ A. ROO−LJK
+B. ROO−MKL 
+C. RPQ−MKL 
+D. RPQ−LKK 
+Q.71 What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+45 − 54 × 6 + 12 ÷ 1 = ?
+Ans
+ A. 42
+B. 46
+C. 44
+D. 40
+Q.72 Seven friends D, E, F, U, V, W and X are sitting in a straight line facing the north. Only
+three people are seated to the left of D. Only E is seated to the right of W. Only three
+people are seated between W and X. V is seated at some place to the left of U but at
+some place to the right of F. How many people are seated between F and U?11035
+Ans
+ A. Four
+B. Two
+C. Three
+D. One
+Q.73 What should come in place of the question mark (?) in the given series?
+45 ? 57 63 69 75
+Ans
+ A. 51
+B. 47
+C. 53
+D. 62
+Q.74 Read the given statements and conclusions carefully. Assuming that the
+information given in the statements is true, even if it appears to be at
+variance with commonly known facts, decide which of the given
+conclusions logically follow(s) from the statements.
+Statements:
+All pans are cups.
+All cups are bottles.
+Some cups are mugs.
+Conclusions:
+(I): Some bottles are mugs.
+(II): Some pans are mugs.
+Ans
+ A. Only conclusion (I) follows
+B. Only conclusion (II) follows
+C. Neither conclusion (I) nor (II) follows
+D. Both conclusions (I) and (II) follow
+Q.75 If + means −, − means ×, × means ÷ and ÷ means +, then what will come in place of the
+question mark (?) in the following equation?
+18 + 4 − 6 ÷ 46 × 2 = ?
+Ans
+ A. 21
+B. 14
+C. 11
+D. 17
+Q.76 Seven boxes, D, E, F, U, V, W and X, are kept one over the other, but not necessarily in
+the same order. Only two boxes are kept below W. Only two boxes are kept between W
+and U. Only one box is kept between U and E. X is kept immediately above V. F is kept
+at some place below D. How many boxes are kept between D and X?
+Ans
+ A. Three
+B. Four
+C. One
+D. Two
+Q.77 What should come in place of the question mark (?) in the given series?
+120 135 155 180 210 ?
+Ans
+ A. 240
+B. 230
+C. 245
+D. 233
+Q.78 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+XBF 84 IMQ 92 TXB 100 EIM 108 ?
+Ans
+ A. PTX 116
+B. PUW 116
+C. PSW 115
+D. PRU 115
+Q.79 Select the triad which follows the same pattern as that followed by the two triads given
+below. Both triads follow the same pattern.
+DL – IQ – NV
+FN – KS – PX
+Ans
+ A. RM – QT – PR
+B. PL – RN – TP
+C. UW – YZ – SU
+D. BJ – GO – LT
+Q.80 In a certain code language, ‘POKE’ is coded as ‘8469’ and ‘KIND’ is coded as ‘2387’.
+What is the code for ‘K’ in the given code language?
+Ans
+ A. 8
+B. 2
+C. 6
+D. 4
+Section : General Awareness and Current Affairs
+Q.81 Which government body introduced the FASTag annual pass?
+Ans
+ A. National Highways Authority of India
+B. Indian Roadways Development Council
+C. Ministry of Rural Infrastructure and Bridges
+D. Directorate of National Toll and Transit
+Q.82 In 2025, who broke the women's mile world record with a time of 4:06.42 at Nike’s
+Breaking event in Paris?
+Ans
+ A. Laura Muir
+B. Sifan Hassan
+C. Genzebe Dibaba
+D. Faith Kipyegon
+Q.83 In which event did Suruchi Singh win a gold medal at the ISSF World Cup, 2025, in
+Munich?
+Ans
+ A. Women’s 50m rifle
+B. Women’s 10m air pistol
+C. Women’s 25m pistol
+D. Women’s trap shooting
+Q.84 Chief Minister Yogi Adityanath launched which book on public etiquette in May 2025?
+Ans
+ A. Sanghatil Manavi Vyavasthapan
+B. The Divine Kumbh
+C. Rajal Neeti: Lok Vyavhaar
+D. Rajal Neeti: Time Management
+Q.85 Which of the following initiatives was launched by the Union Ministry of Tribal Affairs in
+2025 to improve the implementation of tribal welfare schemes?
+Ans
+ A. Tribal Pragati Mission
+B. Adi Karmyogi
+C. Janjatiya Jyoti Abhiyan
+D. Van Dhan 2.0
+Q.86 In September 2025, Justice Shree Chandrashekhar took oath as the Chief Justice of
+which High Court, following his appointment by the Government of India?
+Ans
+ A. Bombay High Court
+B. Calcutta High Court
+C. Rajasthan High Court
+D. Delhi High Court
+Q.87 At the 23rd National Para Athletics Championships 2025 in Chennai's Nehru Stadium,
+which state claimed the top position in the combined men's and women's team
+standings?
+Ans
+ A. Tamil Nadu
+B. Haryana
+C. Maharashtra
+D. Uttar Pradesh
+Q.88 In August 2025, which of the following African countries was officially declared free of
+sleeping sickness by the World Health Organization (WHO)?
+Ans
+ A. Uganda
+B. Kenya
+C. Ghana
+D. Nigeria
+Q.89 In June 2025, a London-bound Air India aircraft crashed shortly after taking off from
+which airport?
+Ans
+ A. Delhi Airport
+B. Ahmedabad Airport
+C. Chennai Airport
+D. Kolkata Airport
+Q.90 What was the theme of the 28th National Conference on e-Governance scheduled for 22
+and 23 September 2025 in Visakhapatnam?
+Ans
+ A. Digital India: Inclusive Growth
+B. AI in Governance: Future Pathways
+C. Viksit Bharat: Civil Service and Digital Transformation
+D. e-Governance for Sustainable Development
+Q.91 What is the name of the new regulatory body formed by the Reserve Bank of India in
+May 2025 to supervise India’s payment systems?
+Ans
+ A. Payments Regulatory Board
+B. Unified Financial Authority
+C. Payments Governance Authority
+D. National Payments Council
+Q.92 What is the purpose of introducing Sugar Boards in CBSE schools, as reported in May
+2025?
+Ans
+ A. To educate about sugar risks
+B. To teach hygiene practices
+C. To encourage sports activities
+D. To promote physical education
+Q.93 In October 2025, the Centre for Research on Energy and Clean Air (CREA) published
+the PM2.5 air quality assessment of Indian cities. What does PM2.5 refer to?
+Ans
+ A. Sulphur dioxide emissions released from industrial units
+B. Ground-level ozone produced during photochemical reactions
+C. Carbon monoxide generated from incomplete combustion
+D. Fine particulate matter with a diameter of 2.5 micrometres or smaller
+Q.94 In June 2025, Rajkishore Parhi was chosen for the Bal Sahitya Puraskar for poetry
+collection, ‘Kete Phula Phutichhi', in which language?
+Ans
+ A. Bhojpuri
+B. Tamil
+C. Telegu
+D. Odia
+"
+Q.95 The Indian Armed Forces contingent participating in the multilateral joint military
+exercise ZAPAD 2025 is being led by which regiment of the Indian Army?
+Ans
+ A. Gorkha Regiment
+B. Sikh Regiment
+C. Rajput Regiment
+D. Kumaon Regiment
+Q.96 In July 2025, which of the following firms entered into a binding agreement to form a
+50:50 domestic reinsurance joint venture to serve the insurance market in India?
+Ans
+ A. Allianz with Jio Financial Services
+B. Swiss Re with Axis Bank
+C. Lloyd’s with PayU
+D. Munich Re with Paytm
+Q.97 Recently, who has taken over as president of industry body ASSOCHAM for 2024-25?
+Ans
+ A. Suresh Nayar
+B. Pankaj Nayar
+C. Akhilesh Nayar
+D. Sanjay Nayar
+Q.98 Which landmark treaty, aimed at protecting the high seas, achieved its final ratification
+push during the UN Ocean Conference in June 2025?
+Ans
+ A. Convention on Wetlands (Ramsar Convention)
+B. Paris Agreement on climate change
+C. United Nations Convention on the Law of the Sea (UNCLOS)
+D. Biodiversity Beyond National Jurisdiction (BBNJ) Agreement
+Q.99 Pobitora Wildlife Sanctuary reopened for the 2025–26 tourist season in which Indian
+state?
+Ans
+ A. Assam
+B. West Bengal
+C. Meghalaya
+D. Odisha
+Q.100What rank did Neeraj Chopra achieve during the Doha Diamond League competition of
+2025?
+Ans
+ A. Second
+B. First
+C. Third
+D. Fourth

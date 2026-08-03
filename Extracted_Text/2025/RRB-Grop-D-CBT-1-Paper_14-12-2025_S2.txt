@@ -1,0 +1,766 @@
+Q.1 According to Archimedes’ principle, what is the magnitude of the upward force
+(buoyant force)?
+Ans
+ A. It is equal to the volume of the fluid.
+B. It is equal to the pressure exerted by the fluid.
+C. It is equal to the weight of the fluid displaced by the body.
+D. It is equal to the weight of the immersed body.
+Q.2 The metal which will NOT displace lead from its salt solution is:
+Ans
+ A. Copper
+B. Aluminium
+C. Calcium
+D. Magnesium
+Q.3 Which energy change is generally associated with decomposition reactions?
+Ans
+ A. Exothermic energy change
+B. Endothermic energy change
+C. No energy change
+D. Reversible energy change
+Q.4 Which of the following characteristics is correct about magnetic field lines?
+Ans
+ A. They intersect each other.
+B. They always start and end at the same pole.
+C. They always form closed loops.
+D. They are open curves.
+Q.5 Which of the following is NOT true about an object in non-uniform motion?
+Ans
+ A. It moves unequal distances in unequal time intervals
+B. Its velocity changes with time
+C. The change in velocity is zero over time interval
+D. It has different speeds at different points
+Test Date 14/12/2025
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following allotropes of carbon conducts electricity?
+Ans
+ A. Diamond
+B. Charcoal
+C. Fullerene
+D. Graphite
+Q.7 The mechanical energy of a body can be expressed as the sum of ________.
+Ans
+ A. sound energy and light energy
+B. chemical energy and electrical energy
+C. potential energy and kinetic energy
+D. heat energy and light energy
+Q.8 Which of the following nutrients in plants is generally supplied by soil?
+Ans
+ A. Carbon
+B. Hydrogen
+C. Boron
+D. Oxygen
+Q.9 Which of the following cell organelles do NOT have their own DNA?
+Ans
+ A. Lysosomes
+B. Mitochondria
+C. Nucleus
+D. Plastids
+Q.10 What does the seed contain that is essential for the growth of a new plant?
+Ans
+ A. Sepal
+B. Nectar
+C. Embryo
+D. Chlorophyll
+Q.11 A car starts from rest and accelerates uniformly at 2 m/sec2 for 5 seconds. What is the
+velocity at the end of 5 seconds?
+Ans
+ A. 15 m/sec
+B. 10 m/sec
+C. 5 m/sec
+D. 20 m/sec
+Q.12 When Newton placed a second inverted prism after the first one, the emergent beam
+obtained was:
+Ans
+ A. only red light
+B. a rainbow of colours
+C. white light
+D. only violet light
+Q.13 A metallic conductor obeys Ohm’s law at room temperature. When the applied potential
+difference across it is increased from V to 2V, and the temperature is kept constant, the
+current through the conductor:
+Ans
+ A. More than doubles due to increased electron drift velocity
+B. Remains unchanged because current depends only on resistance
+C. Doubles because resistance is constant
+D. Less than doubles due to heating effects
+Q.14 What happens when we dissolve sugar in water?
+Ans
+ A. A colloidal solution is formed.
+B. The particles of sugar get into the spaces between particles of water.
+C. The particles of sugar will float on top of water.
+D. The particles of sugar and water do not mix.
+Q.15 Xylem is a complex permanent tissue. Which of the following is correct regarding its
+composition?
+Ans
+ A. Tracheids, sieve cells and phloem parenchyma
+B. Tracheids, xylem parenchyma and xylem fibres
+C. Vessels, xylem collenchyma and xylem fibres
+D. Companion cells, tracheids and xylem fibres
+Q.16 What is the function of salivary amylase present in human saliva?
+Ans
+ A. It converts proteins into amino acids.
+B. It converts starch into simple sugars.
+C. It converts amino acids into protein.
+D. It converts simple sugars into starch.
+Q.17 An object is placed at the centre of curvature of a concave mirror. The image formed is:
+Ans
+ A. Between focus and pole, diminished
+B. At the centre of curvature, same size
+C. Behind the mirror, virtual
+D. At infinity, highly magnified
+Q.18 Which part of the brain directly controls the movement of voluntary muscles?
+Ans
+ A. Sensory area
+B. Association area
+C. Medulla oblongata
+D. Motor area
+Q.19 Which of the following is NOT an application of ultrasound?
+Ans
+ A. Cleaning delicate machinery parts
+B. Cooking food
+C. Detecting cracks in metal blocks
+D. Imaging of internal organs
+Q.20 Which of the following best describes the process of sexual maturation in humans?
+Ans
+ A. It occurs only in females and stops once menstruation begins
+B. It occurs suddenly and marks the end of body growth
+C. It is a gradual process during adolescence involving physical and hormonal changes
+D. It begins after adulthood and leads to immediate readiness for parenthood
+Q.21 Which of the following is an example of basic salt?
+Ans
+ A. Ammonium chloride
+B. Sodium bicarbonate
+C. Sodium chloride
+D. Hydrogen chloride
+Q.22 In some reptiles, the sex of the offspring is determined by:
+Ans
+ A. Presence or absence of a Y chromosome
+B. Temperature at which eggs are incubated
+C. Hormonal levels in the mother
+D. Sex chromosomes
+Q.23 Which property is shown by ethanol?
+Ans
+ A. It is solid at room temperature
+B. It forms scum with hard water
+C. It is basic in nature
+D. It has a sweet smell and is volatile
+Q.24 When we pour acetone (nail polish remover) on our palm, we feel cold because:
+Ans
+ A. it blocks nerve signals on the skin
+B. it evaporates rapidly, absorbing heat from the palm
+C. it reacts with water present on the palm
+D. it releases cold vapours
+Q.25 Which of the following statement is correct regarding 'property of Gaseous state'?
+Ans
+ A. In gaseous state, intermolecular distance is very low and intermolecular attraction is very large.
+B. In gaseous state, intermolecular distance is very large and intermolecular attraction is very low.
+C. In gaseous state, intermolecular distance and intermolecular attraction are very low.
+D. In gaseous state, intermolecular attraction and intermolecular distance are very large
+Q.26 The simplified value of 4 × ( 17 × ( 32 )) ÷ 12 + 26 − 41 is:
+Ans
+ A. 36
+B. 30
+C. 44
+D. 32
+Q.27
+Ans
+ A. 
+           
+B. 
+            
+C. 
+D. 
+           
+Q.28 The marked price of a sofa is ₹331, which is 41% above the cost price. If the profit
+percent is 22%, find the discount percentage. (Rounded off to two decimal places)
+Ans
+ A. 16.1%
+B. 12.02%
+C. 11.23%
+D. 13.48%
+Section : Mathematics
+Q.29 The diagonals of a rhombus are 24 cm and 7 cm. The perimeter of the rhombus is:
+Ans
+ A. 48 cm
+B. 46 cm
+C. 50 cm
+D. 52 cm
+Q.30 What is the third proportional to 16x2 and 20xy?
+Ans
+ A. 27y2
+B. 25y2
+C. 22y2
+D. 28y2
+Q.31 The average of 12 numbers is 58. The average of the first 5 numbers is 55, and the
+average of the next 4 numbers is 62. If the 10th number is 10 less than the 11th number
+and is 5 more than the 12th number, then the average of the 11th and 10th numbers
+is:6560
+Ans
+ A. 60
+B. 61
+C. 61.5
+D. 60.5
+Q.32 A, B and C can do a piece of work in 2, 20 and 20 days respectively. How long (in days)
+will they take to do thrice the same work, working together?
+Ans
+ A. 5
+B. 15
+C. 10
+D. 6
+Q.33 If the three digit number 7n4 is divisible by 6, then find the least possible value for n.
+Ans
+ A. 2
+B. 0
+C. 3
+D. 1
+Q.34 In △ABC, BD ⟂ AC at D and ∠DBC = 42°. E is a point on BC such that ∠CAE = 24°. What
+is the measure of ∠AEB?
+Ans
+ A. 58°
+B. 59°
+C. 72°
+D. 67°
+Q.35 Anmol and Ayushi together invested ₹41,400 in a business. At the end of the year, out
+of a total profit of ₹5,000, Anmol's share was ₹2,300. How much was Anmol's
+investment?
+Ans
+ A. ₹20,105
+B. ₹18,630
+C. ₹17,095
+D. ₹19,044
+Q.36 In an election between two candidates, 2% of the voters did not cast their votes. Out of
+the polled votes, 5% were declared invalid. One candidate secured 65% of the valid
+votes. If the total number of voters was 25,20,000, how many valid votes did the losing
+candidate receive?
+Ans
+ A. 8,21,124
+B. 8,21,142
+C. 8,24,112
+D. 8,22,114
+Q.37
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.38 Find the value of the expression 
+ .
+Ans
+ A. 0.3699
+B. 3.699
+C. 100
+D. 10000
+Q.39 A train travels 180 km in 3 hours. How long will it take to travel 420 km at the same
+speed?3014
+Ans
+ A. 8 hours
+B. 6 hours
+C. 7 hours
+D. 5 hours
+Q.40 The income of Raman is ₹34,000. He saves 5.5% of his income. If his income increases
+by 17% and expenditure increases by 50%, then his savings will:
+Ans
+ A. decrease by ₹10,288
+B. increase by ₹10,284
+C. decrease by ₹10,285
+D. increase by ₹10,283
+Q.41 5 men can complete a piece of work in 16 days while 9 women can do it in 8 days. In
+how many days can 3 women and 2 men complete it?3874
+Ans
+ A. 24 days
+B. 13 days
+C. 22 days
+D. 15 days
+Q.42
+Ans
+ A. 500%
+B. 250%
+C. 260%
+D. 265%
+Q.43 The amount on a sum of ₹6000 at 5% per annum compound interest, compounded
+annually, in 2 years, will be:
+Ans
+ A. ₹7047
+B. ₹5722
+C. ₹6385
+D. ₹6615
+Q.44 A positive number when increased by 14, equals 176 times its reciprocal. What is the
+number?
+Ans
+ A. 22
+B. 14
+C. 8
+D. 12
+Q.45
+Ans
+ A. 71.94 m
+B. 77.94 m
+C. 81.94 m
+D. 89.94 m
+Q.46
+Ans
+ A. 1,422 m2
+B. 1,622 m2
+C. 1,250 m2
+D. 1,388 m2
+Q.47 An item is sold to C by B, and then to D by C. Both B and C earn an equal profit of 12%,
+and the selling price to D is ₹313.60. What is the cost price (in ₹) of the item to B?
+Ans
+ A. 280
+B. 250
+C. 240
+D. 200
+Q.48 Arrange the following schemes in the ascending order of their discounts.
+A. Buy 1 get 5 free
+B. A single discount of 64%
+C. Two successive discounts of 3% and 37%
+Ans
+ A. C, A, B
+B. A, C, B
+C. B, A, C
+D. C, B, A
+Q.49 Two trains, 165 m and 195 m in length, are running in opposite directions. The first runs
+at the rate of 83 km/hr and the second at the rate of 79 km/hr. How long will they take to
+cross each other?
+Ans
+ A. 13 seconds
+B. 15 seconds
+C. 8 seconds
+D. 5 seconds
+Q.50 The average age of 40 students of a class is 18 years. If the age of the teacher is also
+included, the average age of the whole group becomes 19 years. The age (in years) of
+the teacher is:
+Ans
+ A. 56
+B. 62
+C. 59
+D. 58
+Q.51 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. PLO
+B. IFH
+C. UQT
+D. WSV
+Q.52 A, B, C, D, W, X and Y are sitting around a circular table facing the centre of the table.
+Only four people sit between B and A when counted from the right of B. B sits third to
+the left of X. W sits third to the left of Y. C is an immediate neighbour of both A and X.
+How many people sit between D and C when counted from the right of D?
+Ans
+ A. Four
+B. Three
+C. One
+D. Two
+Q.53 In a certain code language, ‘the birds sings’ is coded as ‘ly gn ws’ and ‘birds have beak’
+is coded as ‘ie ly nt’. How is ‘birds’ coded in that language?
+Ans
+ A. gn
+B. ly
+C. nt
+D. ws
+Q.54 Refer to the number series given below and answer the question that follows. Counting
+to be done from left to right only.
+(NOTE: All numbers are single-digit numbers only.)
+(Left) 3 5 2 4 7 6 8 5 3 4 2 1 9 6 2 (Right)
+How many such prime numbers are there which are immediately followed by an odd
+number?
+Ans
+ A. One
+B. Three
+C. None
+D. Two
+Q.55 What should come in place of the question mark (?) in the given series?
+264 239 216 195 176 ?
+Ans
+ A. 159
+B. 155
+C. 158
+D. 160
+Section : General Intelligence and Reasoning
+Q.56 Mr. Akai starts from Point A and drives 10 km towards east. He then takes a left turn,
+drives 11 km, turns left and drives 19 km. He then takes a left turn and drives 21 km. He
+takes a final left turn, drives 9 km and stops at Point P. How far (shortest distance) and
+towards which direction should he drive in order to reach Point A again? (All turns are
+90-degree turns only, unless specified.)
+Ans
+ A. 10 km to the north
+B. 12 km to the east
+C. 10 km to the south
+D. 12 km to the south
+Q.57 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 5 2 7 4 1 9 3 2 7 6 4 5 8 2 9 7 2 8 5 1 6 8 4 2 9 5 2 (Right)
+How many such even digits are there, each of which is immediately preceded by an odd
+digit and also immediately followed by an odd digit?
+Ans
+ A. More than three
+B. Two
+C. One
+D. Three
+Q.58 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusion(s) logically follow(s) from the
+statements.
+Statements:
+All pouches are trunks.
+All bags are trunks.
+Conclusions:
+(I) Some pouches are bags.
+(II) Some trunks are bags.
+Ans
+ A. Both conclusions (I) and (II) follow.
+B. Only conclusion (II) follows.
+C. Only conclusion (I) follows.
+D. Neither conclusion (I) nor (II) follows.
+Q.59 What should come in place of the question mark (?) in the given series?
+131 132 135 140 147 ?
+Ans
+ A. 154
+B. 157
+C. 155
+D. 156
+Q.60 What should come in place of the question mark (?) in the given series?
+0, −2, −3, 8, 95, ?
+Ans
+ A. 684
+B. 140
+C. 380
+D. 810
+Q.61 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusion(s) logically follow(s) from the
+statement(s).
+Statements:
+No father is a mother.
+No mother is a son.
+Conclusions:
+(I) All mothers are fathers.
+(II) No father is a son.11667
+Ans
+ A. Both follow
+B. Neither follows
+C. Only I follows
+D. Only II follows
+Q.62 Which of the given letter-clusters will replace the question mark (?) in the following
+series to make it logically complete?
+PCR45, MGO41, JKL37, ?
+Ans
+ A. GOI33
+B. GNJ33
+C. HOI32
+D. HNJ32 
+Q.63 In a certain code language, ‘music is life’ is coded as ‘cd jk rs’ and ‘life is precious’ is
+coded as ‘ap cd jk’. How is ‘music’ coded in that language?
+Ans
+ A. rs
+B. jk
+C. cd
+D. ap
+Q.64 M, N, O, P, W, X and Y are sitting around a circular table facing the centre of the table.
+Only two people sit between X and W when counted from the right of X. Only two
+people sit between W and M when counted from the right of W. Only three people sit
+between X and N when counted from the right of X. P sits to the immediate left of Y.
+Who sits third to the left of O?
+Ans
+ A. P
+B. M
+C. Y
+D. X
+Q.65 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only.
+(Left) @ 4 6 8 * $ $ $ £ % 4 6 7 1 5 * 4 * 4 4 2 $ (Right)
+How many such symbols are there, each of which is immediately preceded by a number
+and also immediately followed by a number?
+Ans
+ A. 4
+B. 2
+C. 1
+D. 3
+Q.66 Eight people – A, B, C, D, E, F, G and H are sitting around a circular table facing the
+centre. Only one person sits between A and B when counted from the right of A. E sits
+to the immediate left of A. Only three people sit between E and C when counted from
+the left of E. F sits third to the right of C. D sits to the immediate right of H. Who sits
+second to the right of G?
+Ans
+ A. H
+B. F
+C. C
+D. E
+Q.67 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+RV23, QU32, PT41, OS50, ?
+Ans
+ A. NS58
+B. NS59
+C. NR59
+D. NR58
+Q.68 If 2 is added to each odd digit and 2 is subtracted from each even digit in the number
+3267451, what will be the difference between the highest and lowest digits in the new
+number thus formed?
+Ans
+ A. 9
+B. 7
+C. 8
+D. 6
+Q.69 In a certain code language,
+A + B means ‘A is the sister of B’,
+A @ B means ‘A is the brother of B’,
+A - B means ‘A is the wife of B’,
+A # B means ‘A is the father of B’.
+How is O related to V if ‘O @ P # T + G - V’?
+Ans
+ A. Wife's father
+B. Wife's brother
+C. Wife's father's father
+D. Wife's father's brother
+Q.70 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE : Operations should be performed on the whole numbers, without breaking
+down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding
+/ subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(15, 90, 6)
+(13, 65, 5)553
+Ans
+ A. (11, 55, 6)
+B. (14, 46, 4)
+C. (17, 24, 2)
+D. (16 , 32 , 2)
+Q.71 UPNF is related to YLPD in a certain way based on the English alphabetical order. In the
+same way, CHRB is related to GDTZ. To which of the following is KZVX related to,
+following the same logic?
+Ans
+ A. PWXU
+B. OVXV
+C. NUYW
+D. NVWV
+Q.72 In the following triads, each group of letters is related to the subsequent one following
+a certain logic. Select from the given options, the one which follows the same logic.
+KEPT - ETPK - TPEK
+SAIL - ALIS - LIAS
+Ans
+ A. TURN - UTRN - NURT
+B. MOPS - OSPM - SPOM
+C. HOPE - HPOE - EPOH
+D. PACK - APCK - KACP
+Q.73 FGNE is related to KDSB in a certain way based on the English alphabetical order. In
+the same way, PAXY is related to UXCV. To which of the following is ZUHS related,
+following the same logic?6417
+Ans
+ A. FQLO
+B. DSNQ
+C. ESLQ
+D. ERMP
+Q.74 Pavan ranked 13th from the top and 3rd from the bottom in his class. How many
+students are there in the class?
+Ans
+ A. 17
+B. 15
+C. 13
+D. 19
+Q.75 Tarun starts from Point Y and drives 36 km towards west. He then takes a left turn,
+drives 83 km, turns right and drives 68 km. He then takes a right turn and drives 55 km.
+He takes a right turn, drives 41 km. He then turns left, drives 28 km to stop at Point Z.
+How far (shortest distance) and towards which direction should he drive in order to
+reach Point Y again?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. 65 km towards west
+B. 61 km towards west
+C. 66 km towards east
+D. 63 km towards east
+Q.76 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+36 × 6 − 2 ÷ 13 + 9 = ?
+Ans
+ A. 22
+B. 21
+C. 23
+D. 25
+Q.77 This question is based on the five, three-digit numbers given below.
+(Left) 604 895 469 742 307 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+What will be the resultant, if the third digit of the highest number is added to the
+second digit of the lowest number?
+Ans
+ A. 16
+B. 5
+C. 9
+D. 12
+Q.78 Seven boxes D, E, F, U, V, W and X are kept one over the other but not necessarily in the
+same order. Only five boxes are kept below X. Only three boxes are kept between F and
+X. V is kept at one of the positions below F. Only E is kept between X and W. D is kept at
+one of the positions above X. How many boxes are kept between V and D?11064
+Ans
+ A. Four
+B. Five
+C. Two
+D. Three
+Q.79 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+172 ÷ 4 + 183 × 3 − 164 = ?
+Ans
+ A. 652
+B. 739
+C. 791
+D. 681
+Q.80 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. MP-TO
+B. IL-PJ
+C. QT-XS
+D. EH-LG
+Q.81 Which company unveiled Dragon Copilot, AI voice assistant for healthcare in March
+2025?
+Ans
+ A. Apple
+B. Microsoft
+C. Infosys
+D. SpaceX
+Q.82 What was the theme of the 17th Civil Services Day?
+Ans
+ A. Digital Governance for Urban Development
+B. Holistic Development of India
+C. Global Governance Integration
+D. Economic Reforms for Rural Areas
+Section : General Awareness and Current Affairs
+Q.83 What is the name of the affordable insurance scheme launched by India Post Payments
+Bank (pilot launch was done in July 2023) for unorganised sector workers on 1 May
+2025?
+Ans
+ A. Suraksha Sathi Yojana
+B. Antyodaya Shramik Suraksha Yojana
+C. Shramik Suraksha Yojana
+D. Ayushman Bima Shramik Yojana
+Q.84 Who among the following was re-appointed as the Prime Minister of Portugal in 2025?
+Ans
+ A. Pedro Nuno Santos
+B. Andre Ventura
+C. Luis Montenegro
+D. Antonio Costa
+Q.85 The Indian Prime Minister introduced a significant programme in the farming sector in
+October 2025 with a fund of ₹24,000 crore, named ______.
+Ans
+ A. PM Fasal Bima Yojana
+B. PM Dhan Dhaanya Krishi Yojana
+C. PM Kisan Samman Yojana
+D. PM Krishi Sinchai Yojana
+Q.86 What is the estimated fiscal deficit for the financial year 2025–26 as per Union Budget,
+2025–26?
+Ans
+ A. 6.2% of GDP
+B. 4.4% of GDP
+C. 5.1% of GDP
+D. 3.9% of GDP
+Q.87 Which of the following schemes was launched by the Gujarat government in May 2025
+that sends real-time SMS alerts to citizens about their police case progress?
+Ans
+ A. FIR-Alert System
+B. e-Alert Gujarat
+C. I-Pragati
+D. Citizen Police Update
+Q.88 Which Chinese city hosted the 2025 Asian Winter Games from 7 to 14 February?
+Ans
+ A. Harbin
+B. Guangzhou
+C. Shanghai
+D. Beijing
+Q.89 Which award did President Murmu present to the Indian Bureau of Mines (IBM) in 2025?
+Ans
+ A. Sahitya Akademi Award
+B. National Sports Awards
+C. Bharat Ratna
+D. E-Governance Award
+Q.90 What is the threshold amount for complaints to be auto-converted into an e‑ Zero FIR?
+Ans
+ A. ₹1 lakh
+B. ₹10 lakh
+C. ₹50 lakh
+D. ₹5 lakh
+Q.91 Which of the following was inducted in the UNESCO World Network of Biosphere
+Reserves in September 2025?
+Ans
+ A. Pachmarhi Biosphere Reserve
+B. Kachchh Biosphere Reserve
+C. Cold Desert Biosphere Reserve
+D. Achanakmar–Amarkantak Biosphere Reserve
+Q.92 India has banned jute imports from which country through all land and sea ports except
+Nhava Sheva in June 2025?
+Ans
+ A. Nepal
+B. Bangladesh
+C. Pakistan
+D. China
+Q.93 Which pair won the gold in the Men’s Doubles SL3–SL4 at the 2025 Asia Para
+Badminton Championship?
+Ans
+ A. Sukant Kadam and Umesh Vikram Kumar
+B. Nitesh Kumar and Pramod Bhagat
+C. Pramod Bhagat and Sukant Kadam
+D. Nitesh Kumar and Sukant Kadam
+Q.94 Who earned the 'Game Changer' award at the Women’s Football Awards 2025?
+Ans
+ A. Anita Asante
+B. Keira Walsh
+C. Bethany England
+D. Viviane Asseyi
+Q.95 In 2025, Aman Sehrawat was honoured with the Arjuna Award; what sport does he
+compete in?
+Ans
+ A. Boxing
+B. Shooting
+C. Weightlifting
+D. Wrestling
+Q.96 As notified on 20 June 2025, the Defence Research and Development Organisation
+(DRDO) will soon begin manufacturing new variants of the Pinaka rocket system with
+extended ranges of _____.
+Ans
+ A. 90 km and 225 km
+B. 100 km and 260 km
+C. 170 km and 400 km
+D. 120 km and 300 km
+"
+Q.97 Which Indian footballer was honoured as the Promising Men's Player of the Year at the
+AIFF Awards 2025?
+Ans
+ A. Subhasish Bose
+B. Khalid Jamil
+C. Brison Fernandes
+D. Vishal Kaith
+Q.98 The Green Hydrogen Certification Scheme launched in 2025 is part of which key
+national programme?
+Ans
+ A. India Clean Energy Movement
+B. National Solar Energy Mission
+C. Green India Initiative
+D. National Green Hydrogen Mission
+Q.99 Which of the following is the most polluted city in India as per the IQ Air Report 2024-
+25?
+Ans
+ A. Delhi
+B. Byrnihat
+C. Faridabad
+D. Gurugram
+Q.100What is the rank of India in the Hurun Global Unicorn Index 2025, published by the
+Hurun Research Institute, which marks a significant milestone in the global startup
+ecosystem?
+Ans
+ A. 2nd
+B. 3rd
+C. 10th
+D. 8th

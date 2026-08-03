@@ -1,0 +1,780 @@
+Q.1 Which of the following statements is INCORRECT regarding cell type and shape?
+Ans
+ A. The muscle cell is spindle-shaped.
+B. The red blood cell (RBC) is disc-shaped with a central depression.
+C. The white blood cell (WBC) has a round and fixed shape.
+D. The nerve cell is long and branched in shape.
+Q.2 Why do isobars, despite having the same mass number, exhibit different chemical
+properties?
+Ans
+ A. Because they have the same number of protons
+B. Because their atomic numbers and electronic configurations differ
+C. Because they have the same number of neutrons in their nuclei
+D. Because they belong to the same group in the periodic table
+Q.3 A student says, “Plants don’t have a nervous system, so they cannot respond to
+anything.” What would be the correct scientific response?
+Ans
+ A. Plants use nerves like animals do.
+B. Plants respond using hormonal and electrical-chemical signals.
+C. Only animals can show responses.
+D. The student is right; plants are non-living.
+Q.4 Which wave characteristic determines the loudness of a sound?
+Ans
+ A. Amplitude
+B. Frequency
+C. Wavelength
+D. Pitch
+Q.5 Which of the following types of human muscles show alternate light and dark bands
+when stained appropriately?
+Ans
+ A. Involuntary muscles
+B. Muscles of the alimentary canal
+C. Visceral muscles
+D. Skeletal muscles
+Test Date 10/12/2025
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which metal will displace iron from iron sulfate solution?
+Ans
+ A. Zinc
+B. Silver
+C. Chromium
+D. Copper
+Q.7 In a school garden, butterflies often visit flowers while squirrels feed on nuts. What
+types of consumers are these organisms?
+Ans
+ A. Butterflies – omnivores, Squirrels – carnivores
+B. Butterflies – carnivores, Squirrels – omnivores
+C. Butterflies – parasites, Squirrels – decomposers
+D. Butterflies – herbivores, Squirrels – herbivores
+Q.8 Which type of cells are used by organisms like hydra for reproduction in the process
+budding?
+Ans
+ A. Stomatal cells
+B. Regenerative cells
+C. Photosynthetic cells
+D. Gametic cells
+Q.9 When resistors are connected in series, which quantity remains the same across all
+resistors?
+Ans
+ A. Resistance
+B. Voltage
+C. Current
+D. Power
+Q.10 A student complains of difficulty in reading the blackboard clearly while sitting at the
+back of the class, but can read a book at 25 cm without difficulty. Which statement is
+correct for his condition?
+Ans
+ A. He has hypermetropia and needs a convex lens
+B. He has cataract and needs surgery
+C. He has myopia and needs a concave lens
+D. He has presbyopia and needs bifocals
+Q.11 The basic modification with a “prefix” or “suffix” in the nomenclature is the indicator
+of:
+Ans
+ A. Nature of the melting point
+B. Nature of the surface area
+C. Nature of the boiling point
+D. Nature of the functional Group
+Q.12 Which of the following has branched-chain hydrocarbons?
+Ans
+ A. Propane
+B. Isobutane
+C. Ethane
+D. Butane
+Q.13 What type of bond is formed when a metal reacts with a non-metal?
+Ans
+ A. Metallic bond
+B. Covalent bond
+C. Ionic bond
+D. Hydrogen bond
+Q.14 A body of mass 5 kg is initially at rest. A constant force of 20 N acts on it for 4 s. What
+is the final velocity of the body?
+Ans
+ A. 16 m/s
+B. 20 m/s
+C. 12 m/s
+D. 8 m/s
+Q.15 Which of the following is the correct sequence of events in flowering plant
+reproduction?
+Ans
+ A. Fertilisation → Pollination → Embryo → Seedling
+B. Pollination → Fertilisation → Seedling → Embryo
+C. Pollination → Fertilisation → Embryo → Seedling
+D. Embryo → Seedling → Pollination → Fertilisation
+Q.16 What is the SI unit of Pressure?
+Ans
+ A. mmHg
+B. Atmosphere
+C. Pascal
+D. Torr
+Q.17 Tooth enamel starts corroding when the pH in the mouth falls below _____.
+Ans
+ A. 4.5
+B. 6.5
+C. 7.5
+D. 5.5
+Q.18 Which one of the following statements is TRUE about vasectomy?
+Ans
+ A. It blocks the vas deferens to prevent sperm release.
+B. It removes the seminal vesicles.
+C. It kills the sperm cells reaching the uterus.
+D. It stops testosterone production.
+Q.19 Which of the following is the correct reason for why fruits fall from the tree when the
+branches of the tree are shaken vigorously?
+Ans
+ A. The fruits fall down due to action reaction forces.
+B. The fruits fall down due to inertia.
+C. The fruits fall down due to change in momentum.
+D. The fruits fall down due to frictional force.
+Q.20 The size of the image formed by a convex mirror _________.
+Ans
+ A. is always larger than the object
+B. can be larger or smaller depending on object position
+C. is always equal to the object
+D. is always smaller than the object
+Q.21 In a circuit diagram, the symbol for a cell is represented by which of the following?
+Ans
+ A. One long and one short line parallel to each other
+B. Two equal lines parallel to each other
+C. A rectangle with a diagonal line
+D. A circle with a cross inside
+Q.22 Why does ice float on the surface of water?
+Ans
+ A. Because ice is at a lower temperature
+B. Because it displaces water equal to its weight
+C. Because the weight of ice is very small
+D. Because the density of ice is less than that of water
+Q.23 During the transformation of energy from one form to another, such as gravitational
+potential energy converting into kinetic energy during free fall, ___________.
+Ans
+ A. energy is gradually lost to the environment, violating the law
+B. new energy is constantly created, balancing the loss of the original form
+C. the total energy before and after the transformation remains the same
+D. the total mechanical energy increases, adhering to the law
+Q.24 Which of the following statements best differentiates a compound from a solution?
+Ans
+ A. A compound can be separated by physical methods, while a solution cannot.
+B. Compounds are always liquid, but solutions can be in any state.
+C. A compound has a fixed composition and definite properties, unlike a solution.
+D. Compounds are mixtures of two or more elements, while solutions are mixtures of compounds only.
+Q.25 Which of the following is NOT a cell organelle?
+Ans
+ A. Endoplasmic Reticulum
+B. Mitochondria
+C. Cytoplasm
+D. Golgi Apparatus
+Q.26 If the mean proportional of A and 112 is 28, then find the value of A.
+Ans
+ A. 5
+B. 6
+C. 7
+D. 4
+Q.27 The monthly incomes of two friends Gopal and Akshay are in the ratio 5 : 8 and each of
+them saves ₹78,000 every month. If the ratio of their monthly expenditure is 1 : 4, then
+find the monthly income of Gopal (in ₹).
+Ans
+ A. 1,36,500
+B. 96,500
+C. 97,500
+D. 98,500
+Section : Mathematics
+Q.28
+Ans
+ A. 4
+B. 5
+C. 6
+D. 3
+Q.29 A typist takes 40 minutes to type 2 pages. How long (in minutes) will he take to type 96
+pages?2686
+Ans
+ A. 1920
+B. 1930
+C. 1910
+D. 1925
+Q.30 A shopkeeper bought certain goods for ₹2,500 and sold them for ₹3,250. Find his profit
+percentage.
+Ans
+ A. 25%
+B. 40%
+C. 30%
+D. 20%
+Q.31 A cash payment that will settle a bill for 600 pairs of sandals at ₹91 per pair of sandals
+with the successive discounts of 25% and 25% with a further discount of 28% on cash
+payment is:
+Ans
+ A. ₹22,101
+B. ₹22,104
+C. ₹22,111
+D. ₹22,113
+Q.32 A, B and C can do a piece of work in 3, 24 and 8 days, respectively. How long (in days)
+will they take to do twice the same work, working together?
+Ans
+ A. 4
+B. 8
+C. 5
+D. 12
+Q.33 What is the smallest natural number that should be added to 4478 such that a
+remainder of 2 is left when the resulting number is divided by each of the numbers 56,
+80, 16 and 60?
+Ans
+ A. 584
+B. 574
+C. 564
+D. 549
+Q.34 Two engines of trains 60 km apart start towards each other at speeds of 16 km/hr and
+29 km/hr, respectively. After how much time will they meet each other? (Assume the
+length of engine is negligible.)3622
+Ans
+ A. 72 minutes
+B. 86 minutes
+C. 80 minutes
+D. 90 minutes
+Q.35 The present age of Mr. Gupta is three times the present age of his daughter. Six years
+hence, the ratio of their ages will be 5 : 2. What is the present age of the daughter?
+Ans
+ A. 24 years
+B. 22 years
+C. 18 years
+D. 20 years
+Q.36
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.37 Two banks, A and B, offered loans at 3.5% and 7% per annum, respectively. Salil
+borrowed an amount of ₹4,60,000 from each bank. Find the positive difference (in ₹)
+between the amounts of simple interest paid to the two banks by Salil after 3 years.
+Ans
+ A. 47,800
+B. 49,300
+C. 49,800
+D. 48,300
+Q.38 A woman travelled at a speed of 20 m/min for 80 min, and at a speed of 50 m/min for 70
+min. Her average speed (in m/min) is:
+Ans
+ A. 27
+B. 38
+C. 34
+D. 40
+Q.39 The average age of 57 students of a class is 19 years. If the age of the teacher is also
+included, the average age of the whole group becomes 20 years. The age (in years) of
+the teacher is:
+Ans
+ A. 77
+B. 71
+C. 75
+D. 79
+Q.40 The cost price of a box of sharpeners is ₹2,400. The shopkeeper gave 41% of discount
+on the cost price. What is the selling price (in ₹)?
+Ans
+ A. 1,416
+B. 1,242
+C. 1,496
+D. 1,494
+Q.41
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.42
+.
+Ans
+ A. 6
+B. 4
+C. 5
+D. 
+Q.43 In 532 litres solution of acid and water, the ratio of acid and water is 4:3. How many
+litres of acid must be added to it to get the solution in which the ratio of acid and water
+is 8:4?5676
+Ans
+ A. 154
+B. 152
+C. 151
+D. 153
+Q.44 In a polling booth with 9000 valid votes, four candidates P, Q, R and S contested, and a
+NOTA option was also available. Exactly 1% of the total votes went to NOTA. Candidate
+Q received 25% of the votes secured by P. The combined votes of R and S totaled 5,830,
+distributed between them in the ratio 3 : 2. How many votes did the winning candidate
+receive?
+Ans
+ A. 3984
+B. 4398
+C. 3894
+D. 3498
+Q.45
+Ans
+ A. 60.45%
+B. 55.45%
+C. 45.45%
+D. 90.91%
+Q.46 A sphere of diameter 14 cm is cut into 4 equal parts. What is the total surface area (in
+cm2) of the four parts?
+Ans
+ A. 4408
+B. 2464
+C. 3606
+D. 1232
+Q.47 20 men can reap a field in 18 days. If the goal is to finish reaping the field in 30 days,
+after how many days should 9 men stop working?
+Ans
+ A. 
+  days
+B. 
+  days
+C. 
+  days
+D. 
+  days
+Q.48 In △ABC, BD ⟂ AC at D and ∠DBC = 71°. E is a point on BC such that ∠CAE = 57°. What
+is the measure of ∠AEB?
+Ans
+ A. 71°
+B. 76°
+C. 62°
+D. 68°
+Q.49 The length, breadth, and height of a cuboid are in the ratio 1 : 2 : 3. If the length,
+breadth, and height are increased by 100%, 50%, and 80%, respectively, find the
+percentage increase in the volume of the cuboid.
+Ans
+ A. 404%
+B. 450%
+C. 440%
+D. 402%
+Q.50 The sum of two integers is 40. If the difference between them is 14, find the larger
+integer.
+Ans
+ A. 25
+B. 33
+C. 27
+D. 17
+Q.51 What should come in place of the question mark (?) in the given series?
+721 723 727 733 741 ?
+Ans
+ A. 753
+B. 749
+C. 748
+D. 751
+Q.52 In a certain code language,
+P + Q means ‘P is the mother of Q’,
+P # Q means ‘P is the brother of Q’,
+P & Q means ‘P is the sister of Q’,
+and P % Q means ‘P is the father of Q’.
+How is G related to S if ‘G & H % I & T # S’?
+Ans
+ A. Father's brother
+B. Mother's mother
+C. Mother's brother
+D. Father's sister
+Q.53 What should come in place of the question mark (?) in the given series?
+1, 3, 16, 5, 7, 144, 9, 11,?
+Ans
+ A. 169
+B. 324
+C. 196
+D. 400
+Section : General Intelligence and Reasoning
+Q.54 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 3 5 2 8 7 4 6 2 5 1 4 9 8 2 6 8 4 1 6 7 3 4 5 2 4 7 (Right)
+How many such odd digits are there, each of which is immediately preceded by an odd
+digit and also immediately followed by an even digit?
+Ans
+ A. Two
+B. More than three
+C. Three
+D. One
+Q.55 In a certain code language, ‘he fix gadgets’ is coded as ‘pd rt ds’ and ‘fix this pen’ is
+coded as ‘nq uz pd’. How is ‘fix’ coded in the given language?
+Ans
+ A. ds
+B. pd
+C. uz
+D. nq
+Q.56 Refer to the following series and answer the question that follows (all numbers are
+single digit numbers only). Counting to be done from left to right only.
+(Left) 8 1 3 4 3 5 1 8 1 9 1 2 7 1 5 8 9 7 3 8 8 2 3 3 2 1 2 (Right)
+How many such even numbers are there each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?4679
+Ans
+ A. 6
+B. 4
+C. 7
+D. 5
+Q.57 What should come in place of the question mark (?) in the given series?
+131 102 73 44 15 ?
+Ans
+ A. −11
+B. −14
+C. −10
+D. −13
+Q.58 Each of the digits in the number 2134567 is arranged in ascending order from left to
+right. What will be the sum of the digits which are second from the left and second from
+the right in the new number thus formed?
+Ans
+ A. 8
+B. 6
+C. 7
+D. 5
+Q.59 Each of the digits in the number 2175684 is arranged in ascending order from left to
+right. The positions of how many digits will remain unchanged as compared to that in
+the original number?
+Ans
+ A. One
+B. None
+C. Three
+D. Two
+Q.60 All 37 students in a class are standing in a row facing north. Nisha is 13th from the left
+end while Manasa is 15th from the right end. How many people stand between Nisha
+and Manasa?
+Ans
+ A. 9
+B. 10
+C. 7
+D. 12
+Q.61 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. CG-JD
+B. EI-LF
+C. GK-NH
+D. IM-PK
+Q.62 Which of the given letter-number clusters will replace the question mark (?) in the
+following series to make it logically complete?
+OSW 24, GKO 35, YCG 46, QUY 57, IMQ 68, ?
+Ans
+ A. AOI 79
+B. AEI 78
+C. AIE 79
+D. AEI 79
+Q.63 All 30 students in a class are standing in a row facing north. Arun is 7th from the right
+end while Harish is 8th from the left end. How many people stand between Arun and
+Harish?
+Ans
+ A. 15
+B. 13
+C. 17
+D. 14
+Q.64 In a certain code language, ‘students are learning’ is coded as ‘ab mn pq’ and ‘learning
+is fun’ is coded as ‘st mn xy’. How is ‘learning’ coded in the given language? 8995
+Ans
+ A. st
+B. mn
+C. xy
+D. ab
+Q.65 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /
+subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and
+then performing mathematical operations on 1 and 3 is not allowed.)
+(9, 31, 26)
+(13, 43, 38)
+Ans
+ A. (15 ,49 ,44)
+B. (14, 38, 33)
+C. (12, 32, 27)
+D. (20, 56, 51)
+Q.66 Refer to the following number and symbol series and answer the question that follows
+(all numbers are single-digit numbers only). Counting to be done from left to right only.
+(Left) 2 8 + 7 5 > 9 2 @ 3 = 4 6 % 3 & 8 4 % 9 1 8 3 # 7 6 9 (Right)
+How many such symbols are there, each of which is immediately preceded by an odd
+number and also immediately followed by an odd number?
+Ans
+ A. Four
+B. One
+C. Two
+D. Three
+Q.67 If 1 is added to each even digit and 2 is subtracted from each odd digit in the number
+4635923, what will be the sum of the digits which are second from the left and second
+from the right in the new number thus formed?
+Ans
+ A. 9
+B. 10
+C. 7
+D. 8
+Q.68 GM 14 is related to EJ 16 in a certain way. In the same way, KQ 22 is related to IN 24. To
+which of the given options is OU 27 related, following the same logic?
+Ans
+ A. PR 29
+B. MR 29
+C. PT 28
+D. QT 29
+Q.69 Six students, S1, S2, S3, S4, S5 and S6, are sitting around a circular table, facing the
+centre. The student S6 is sitting next to both S5 and S2. S1 and S3 are sitting next to
+each other. S4 is the common neighbour of S2 and S3. S1 is second to the right of S4.
+Who among the following is sitting fourth to the right of S1?
+Ans
+ A. S3
+B. S4
+C. S2
+D. S6
+Q.70 Jiten starts from Point Y and drives 28 km towards South. He then takes a right turn,
+drives 71 km, turns left and drives 69 km. He then takes a left turn and drives 44 km. He
+takes a left turn, drives 51 km. He then turns right, drives 27 km to stop at Point Z. How
+far (shortest distance) and towards which direction should he drive in order to reach
+Point Y again?
+(All turns are 90° turns only unless specified.)
+Ans
+ A. 48 km towards north
+B. 46 km towards north
+C. 44 km towards south
+D. 49 km towards south
+Q.71 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All trees are bushes.
+All bushes are herbs.
+Conclusions:
+(I): Some herbs are bushes.
+(II): All trees are herbs.
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Neither conclusion (I) nor (II) follows
+C. Only conclusion (II) follows
+D. Only conclusion (I) follows
+Q.72 A, B, C, D, E and F are sitting around a circular table facing the centre. E sits third to
+the right of B. C sits to the immediate left of F. C is not an immediate neighbour of B. D
+sits to the immediate right of A. The position(s) of how many persons will remain
+unchanged if all persons are arranged in English alphabetical order in clockwise
+direction starting from A (including A)?
+Ans
+ A. Four
+B. Three
+C. Two
+D. One
+Q.73 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. JMO
+B. PSU
+C. HKM
+D. XBC
+Q.74 Which letter-cluster will replace the question mark (?) in the following series to make it
+logically complete?
+IXB GWE EVH CUK ?
+Ans
+ A. BSN
+B. BTM
+C. ASM
+D. ATN
+Q.75 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some roads are fans.
+No fan is a car.
+Conclusions:
+(I) Some roads are cars.
+(II) Some fans are roads.
+Ans
+ A. Only conclusion (I) follows.
+B. Neither conclusion (I) nor (II) follows.
+C. Only conclusion (II) follows.
+D. Both conclusions (I) and (II) follow.
+Q.76 IJ 8 is related to KE −1 in a certain way. In the same way, TP 3 is related to VK −6. To
+which of the given options is PQ 12 related, following the same logic?
+Ans
+ A. SK 5
+B. RL 3
+C. RK 3
+D. SL 5
+Q.77 Devesh starts from Point Y and drives 21 km towards the east. He then takes a left turn,
+drives 25 km, turns left and drives 67 km. He then takes a right turn and drives 29 km.
+He takes a right turn, drives 46 km, turns left, drives 41 km to stop at Point Z. How far
+(shortest distance) and towards which direction should he drive in order to reach Point
+Y again? (All turns are 90-degree turns only unless specified.)
+Ans
+ A. 93 km towards the south
+B. 97 km towards the south
+C. 95 km towards the south
+D. 91 km towards the north
+Q.78 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only).
+(Left) 1 5 3 7 2 8 4 9 6 1 3 7 5 4 2 8 9 6 3 7 1 5 4 9 8 2 6 (Right)
+How many times does the perfect cube appear in the given series?
+Ans
+ A. Nine
+B. Seven
+C. Six
+D. Eleven
+Q.79 Six people, A, B, C, D, E and F, are sitting in a row, facing north. E sits to the immediate
+right of D. F sits fourth to the left of D. Only one person sits between B and D. C sits to
+the immediate left of B. A sits second to the left of E.
+Three of the following four are alike in a certain way based on the given arrangement
+and thus form a group. Which is the one that does NOT belong to that group?
+Ans
+ A. AD
+B. FE
+C. CB
+D. BA
+Q.80 Select the pair which follows the same pattern as that followed by the two set of pairs
+given below. Both pairs follow the same pattern.
+JHK−IGJ
+LJM−KIL6437
+Ans
+ A. DBE−BAC
+B. DBE−CAD
+C. DAC−BZC
+D. DAC−CAD
+Q.81 Which authority of India hosted the 25th Meeting of the South Asian Telecommunication
+Regulators’ Council (SATRC‑ 25)?
+Ans
+ A. Ministry of Communications
+B. Telecom Regulatory Authority of India
+C. National Informatics Centre
+D. Department of Telecommunications
+Section : General Awareness and Current Affairs
+Q.82 Which of the following states/Union Territories has the largest number of wildlife
+sanctuaries as of 2023?
+Ans
+ A. Andaman & Nicobar
+B. West Bengal
+C. Uttar Pradesh
+D. Kerala
+Q.83 How much accident compensation was announced by Indian railways in June 2025 for
+its employees without paying any insurance premium?
+Ans
+ A. ₹1.5 crore
+B. ₹50 lakh
+C. ₹25 lakh
+D. ₹1 crore
+Q.84 According to the Union Budget 2025-26, how many National Centres of Excellence for
+Skilling are to be set up with global expertise and partnerships to equip Indian youth
+with the skills required for “Make for India, Make for the World” manufacturing?
+Ans
+ A. 4
+B. 1
+C. 10
+D. 5
+Q.85 In January 2025, President Droupadi Murmu, at Rashtrapati Bhavan, honoured which
+specific para-athlete with the Major Dhyan Chand Khel Ratna Award?
+Ans
+ A. Preeti Pal
+B. Praveen Kumar
+C. Nishad Kumar
+D. Devendra Jhajharia
+Q.86 In June 2025, which director turned cinema by converting toy-train coaches into a
+screening venue at Kurseong?
+Ans
+ A. Rohit Shetty
+B. Girija Devi
+C. Rishav Choudhary
+D. Ravi Shankar
+Q.87 Which of the following countries became the member of National Development Bank in
+May 2025?
+Ans
+ A. United Arab Emirates
+B. Bangladesh
+C. Algeria
+D. Egypt
+Q.88 As reported in July 2025, what is the name of the new ultra-rare blood antigen
+discovered in a woman from the Kolar district of Karnataka?
+Ans
+ A. CROB
+B. CRAB
+C. BRIB
+D. CRIB
+Q.89 What is the new Loan-to-Value (LTV) ratio, set by the Reserve Bank of India for loans
+below ₹2.5 lakh in June 2025?
+Ans
+ A. 75%
+B. 70%
+C. 85%
+D. 80%
+Q.90 How many tribal grassroots functionaries and village-level change leaders does the
+Aadi KARMAYOGI initiative aim to build for responsive governance?
+Ans
+ A. 15 lakh
+B. 25 lakh
+C. 10 lakh
+D. 20 lakh
+Q.91 Who is the youngest female para swimmer in the world to cross the English Channel
+and a recipient of the World Open Water Swimming Association (WOWSA) Award, 2024,
+for Adaptive Performance?
+Ans
+ A. Jiya Rai
+B. Prachi Yadav
+C. Devanshi Satija
+D. Deepa Malik
+Q.92 Which of the following banks launched a TAB-based digital onboarding process for
+Non-Resident Indians (NRIs) in January 2025?
+Ans
+ A. Punjab National Bank
+B. HDFC Bank
+C. ICICI Bank
+D. State Bank of India
+Q.93 Which round of talks between India and the European Union for a Free Trade
+Agreement kicked off on 12 May 2025, in Brussels?
+Ans
+ A. 13th
+B. 7th
+C. 9th
+D. 11th
+Q.94 Who became the first Indian chess player to rank World No. 1 in live chess ratings in
+2025?
+Ans
+ A. R Praggnanandhaa
+B. D Gukesh
+C. Arjun Erigaisi
+D. Viswanathan Anand
+Q.95 The Indian Army contingent that took part in the fourth edition of Exercise
+AUSTRAHIND 2025 held in Australia was commanded by a battalion of ______.
+Ans
+ A. Madras Regiment
+B. Sikh Regiment
+C. Gorkha Rifles
+D. Rajput Regiment
+"
+Q.96 In January 2025, in which city did the NDRF launch a rescue operation after a boat
+capsized?
+Ans
+ A. Patna
+B. Nashik
+C. Ujjain
+D. Varanasi
+Q.97 In June 2025, Bhashini signed an MoU with which government entity to integrate
+real‑ time translation on passenger platforms?
+Ans
+ A. Ministry of Communications and Information Technology
+B. Unique Identification Authority of India
+C. Ministry of Home Affairs
+D. Centre for Railway Information Systems
+Q.98 In which event did Bindyarani Devi set a new national record at the Dehradun National
+Games, 2025?
+Ans
+ A. Snatch (women’s 55 kg)
+B. Clean and jerk (women’s 55 kg)
+C. Total lift (women’s 55 kg)
+D. Snatch (women’s 49 kg)
+Q.99 As notified in April 2025, a research study of which of the following institutes revealed
+that surface ozone is silently threatening India’s food crops?
+Ans
+ A. Indian Institute of Technology, Delhi
+B. Indian Institute of Technology, Kharagpur
+C. Indian Institute of Technology, Kanpur
+D. Indian Institute of Technology, Mumbai
+Q.100The Corruption Perceptions Index 2024, released by Transparency International in
+February 2025, ranked which country as the least corrupt?
+Ans
+ A. Switzerland
+B. Finland
+C. Singapore
+D. Denmark

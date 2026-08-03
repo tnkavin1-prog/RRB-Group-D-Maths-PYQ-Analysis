@@ -1,0 +1,787 @@
+Q.1 What advantage does asexual reproduction provide in a stable environment?
+Ans
+ A. Adaptation to new environment
+B. Genetic variation
+C. Sexual diversity
+D. Rapid and identical reproduction
+Q.2 Which of the following statements is/are correct regarding the female reproductive
+system?
+Statement A: The egg is carried from the ovary to the womb through a thin oviduct or
+fallopian tube.
+Statement B: The uterus opens into the vagina through the cervix.
+Ans
+ A. Neither statement A nor B
+B. Only statement A
+C. Both statement A and B
+D. Only statement B
+Q.3 Truck and motorbus tyres are designed to be much wider than car tyres, while cutting
+tools and nails are designed with sharp, small tips. This contrast in design illustrates
+the principle that ___________.
+Ans
+ A. larger thrust always results in lower pressure
+B. thrust is directly proportional to the area of contact
+C. pressure is inversely proportional to the mass of the object
+D. the same thrust acting on a smaller area exerts a larger pressure
+Q.4 Select the correct function of the smooth endoplasmic reticulum.
+Ans
+ A. Carbohydrate synthesis
+B. Lipid synthesis
+C. Protein synthesis
+D. Nucleic acid synthesis
+Test Date 02/02/2026
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.5 From the given alternatives, select the correct statement related to garbage from a
+general household.
+Ans
+ A. Safe disposal of garbage is not mandatory.
+B. Entire garbage is non-biodegradable.
+C. Garbage contains both biodegradable and non-biodegradable components.
+D. Entire garbage is biodegradable.
+Q.6 Which of the following best illustrates Newton’s Third Law of Motion?
+Ans
+ A. A ball falling under gravity.
+B. A rocket propelling upward by expelling gases downward.
+C. A car accelerating on a road due to engine power.
+D. A pendulum oscillating back and forth.
+Q.7 What is the transfer of pollen grain from one flower to another flower called?
+Ans
+ A. Self pollination
+B. Auto pollination
+C. Autogamy
+D. Cross pollination
+Q.8 Sodium hydroxide is prepared by passing electricity through an aqueous solution of
+sodium chloride. The process is called:
+Ans
+ A. Dow’s
+B. Born Haber
+C. Chlor-alkali
+D. Hall-Héroult
+Q.9 The distance between the optical centre of a lens and its principal focus is called
+________.
+Ans
+ A. magnification
+B. focal length
+C. radius of curvature
+D. aperture
+Q.10 Which of the following hydrocarbons are organic compounds with elements
+__________?
+Ans
+ A. both hydrogen and carbon
+B. Carbon
+C. Oxygen
+D. Hydrogen
+Q.11 Estimate the concentration of the solution in terms of mass by mass percentage if 50 g
+of common salt is dissolved in 300 g of water.
+Ans
+ A. 12%
+B. 14.28%
+C. 12.22%
+D. 14%
+Q.12 Which of the following chemical equations is correctly balanced?
+Ans
+ A. Fe + H₂ O → Fe₃ O₄  + H₂ 
+B. 3Fe + 4H₂ O → Fe₃ O₄  + 4H₂ 
+C. 2Fe + 3H₂ O → 2Fe₃ O₄  + 3H₂ 
+D. 3Fe + 4H₂ O → Fe₃ O₄  + 2H₂ 
+Q.13 Which organism is a key indicator of a healthy aquatic ecosystem?
+Ans
+ A. Lichen
+B. Fish
+C. Cockroach
+D. Earthworm
+Q.14 Which of the following correctly describes the direction of the magnetic field outside a
+solenoid?
+Ans
+ A. South pole to North pole
+B. From the ends to the centre
+C. North pole to South pole
+D. From the centre to the ends
+Q.15 Meristematic tissues are found only in a specific region. On the basis of position, which
+is NOT a meristematic tissue type?
+Ans
+ A. Apical
+B. Intercalary
+C. Basal
+D. Lateral
+Q.16 Which of the following statements best explains why all atoms of an element are
+represented by the same symbol?
+Ans
+ A. Because they have the same number of neutrons in the nucleus
+B. Because they have the same number of protons in their nucleus
+C. Because they have identical physical properties
+D. Because their mass numbers are always the same
+Q.17 Which of the following statements is/are NOT true according to the sign convention for
+spherical lenses?
+(i) All distances parallel to the principal axis are measured from the focus of the lens.
+(ii) All the distances measured to the right of the origin are taken as positive.
+(iii) Distances measured perpendicular to and above the principal axis are taken as
+negative.
+(iv) The object is always placed to the left of the lens.
+Ans
+ A. Both (ii) and (iii)
+B. Both (i) and (iv)
+C. Both (i) and (iii)
+D. Both (ii) and (iv)
+Q.18 Can the displacement of an object be greater than the distance travelled?
+Ans
+ A. Only when the object moves in a straight line
+B. Yes, sometimes
+C. No, displacement can never be greater than distance
+D. Yes, always
+Q.19 If voltage (V) is constant, the power is directly proportional to which of the following?
+Ans
+ A. Resistance
+B. Current
+C. Energy
+D. Square of Resistance
+Q.20 Which of the following displacement reactions are possible?
+Ans
+ A. II and IV only
+B. I, II, and III only
+C. I and III only
+D. I, III and IV only
+Q.21 Which process is used for the extraction of aluminium from bauxite?
+Ans
+ A. Displacement by zinc
+B. Roasting followed by reduction
+C. Electrolysis of molten aluminium oxide
+D. Calcination followed by carbon reduction
+Q.22 Which of the following devices work on the principle of multiple reflections of sound
+waves?
+Ans
+ A. Stethoscope
+B. Thermometer
+C. Megaphone
+D. Microscope
+Q.23 The SI unit of Power is watt (W). As per the relation of work-power, one watt is
+equivalent to _____________.
+Ans
+ A. 1 Newton per meter (1 N/m)
+B. 1 Joule-second (1 J.s)
+C. A kilowatt-hour (1 kWh)
+D. 1 Joule per second (1 J/s)
+Q.24 Which of the following is a compound that forms a solution when dissolved in water?
+Ans
+ A. Sodium Chloride
+B. Sand
+C. Oil
+D. Iron filings
+Q.25 Which of the following processes results in the formation of two identical daughter
+cells?
+Ans
+ A. Meiosis
+B. Mitosis
+C. Fertilisation
+D. Cytokinesis without karyokinesis
+Q.26 The number 8,33,525 is NOT divisible by:
+Ans
+ A. 35
+B. 25
+C. 55
+D. 15
+Section : Mathematics
+Q.27 In a test, B got 50 marks while A got 75 marks, out of 80 maximum marks. What
+percentage of A's marks was B's marks? (Round off the answer to two decimal places.)
+Ans
+ A. 66.67%
+B. 150.46%
+C. 80.33%
+D. 93.75%
+Q.28 A dealer allowed a 77% discount on an article and was still able to manage a 49% profit.
+Find the ratio of the cost price to the listed price.
+Ans
+ A. 20 : 150
+B. 26 : 152
+C. 23 : 149
+D. 25 : 154
+Q.29 The price of fuel decreases by 10%, 50% and 10% in three successive months, but
+increases by 45% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price? (Round off your
+answer to two decimal places.)
+Ans
+ A. Increases by 46.86%
+B. Decreases by 44.56%
+C. Decreases by 41.28%
+D. Increases by 42.91%
+Q.30
+Ans
+ A. 1
+B. 2
+C. 4
+D. 3
+Q.31 For 7 innings, a cricketer has an average of 90 runs. In the 8th inning, he scores 176
+runs. His average score increased by ______. (Round off your answer to the nearest
+whole number.)987
+Ans
+ A. 14
+B. 11
+C. 20
+D. 7
+Q.32
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.33 What is the simple interest on a sum of ₹5,500, if the rate of interest for the first 4 years
+is 6% per annum and for the last 2 years is 5% per annum?
+Ans
+ A. ₹1,870
+B. ₹1,920
+C. ₹1,660
+D. ₹1,750
+Q.34
+11133
+Ans
+ A. 32 minutes
+B. 33 minutes
+C. 26 minutes
+D. 29 minutes
+Q.35 If 20% of a number is added to 66, then the result is the same number. 60% of the same
+number is:
+Ans
+ A. 49.5
+B. 59.5
+C. 79.5
+D. 69.5
+Q.36 A leaves point X at 9:00 AM and reaches point Y at 1:00 PM. B leaves point Y at 9:00 AM
+and reaches point X at 3:00 PM. At what time will they meet?
+Ans
+ A. 1:24 PM
+B. 12:36 PM
+C. 10:24 AM
+D. 11:24 AM
+Q.37 The ages of Renu and Kashish are in the ratio 9 : 8. After 5 years, the ratio of their ages
+will be 10 : 9. Find the difference between their present ages.
+Ans
+ A. 5 years
+B. 4 years
+C. 7 years
+D. 6 years
+Q.38 What is the volume (in cm3, rounded off to 1 decimal place) of a spherical shell whose
+internal and external diameters are 10 cm and 12 cm, respectively?
+Ans
+ A. 323.9
+B. 401.5
+C. 381.3
+D. 345.7
+Q.39 One pipe can fill a tank in 7 minutes while another pipe can empty
+the completely filled tank in 56 minutes. If both the pipes are
+opened together when the tank is empty, how many minutes will it
+take to fill one-half of the tank?
+Ans
+ A. 8
+B. 5
+C. 4
+D. 9
+Q.40
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.41 Which of the following is the correct model for finding the Highest Common Factor
+(HCF) of two numbers?
+Ans
+ A. Prime Factorization Model: Find the prime factorization of both numbers, then multiply the common prime factors with the
+lowest powers.
+B. Addition Model: Add the two numbers and check the common factors of the sum.
+C. Division Model: Divide both numbers by a common number to find the highest factor.
+D. Subtraction Model: Subtract both the numbers and check the common factor.
+Q.42 A grocer marked his goods at 50% above their cost price and sold them at a discount of
+X%. If he gained 35% profit, then find the value of X.
+Ans
+ A. 9
+B. 12
+C. 10
+D. 11
+Q.43 The measure of each interior angle of a regular pentagon is:
+Ans
+ A. 118°
+B. 108°
+C. 78°
+D. 128°
+Q.44 Two lines are planned such that the equations representing their paths are: (k−4)x + 2y
+= 6 and 2x + y = 4. If the lines are to be constructed parallel to each other, what value of
+k will ensure that?
+Ans
+ A. 10
+B. 8
+C. 7
+D. 6
+Q.45 The average age of 24 students of a class is 17 years. If the age of the teacher is also
+included, the average age of the whole group becomes 18 years. The age (in years) of
+the teacher is:
+Ans
+ A. 45
+B. 43
+C. 42
+D. 44
+Q.46 If third proportional of 75 and Z be 12, then what is the value of Z?4959
+Ans
+ A. 32
+B. 27
+C. 28
+D. 30
+Q.47 A vendor buys a washing machine for ₹12,000. He sells it to a retailer at 10% profit, and
+the retailer sells it to a customer at 15% loss. What is the final selling price?
+Ans
+ A. ₹11,220
+B. ₹11,000
+C. ₹11,620
+D. ₹11,420
+Q.48 ₹13,403 is divided among S, B and C in such a way that if ₹40, ₹83 and ₹68 be deducted
+from their respective shares, they have money in the ratio 21:11:4. Find the difference
+between the original shares of B and C.
+Ans
+ A. ₹2,519
+B. ₹2,669
+C. ₹2,719
+D. ₹2,584
+Q.49 Two pipes, P and Q, can fill a cistern in 30 hours and 40 hours, respectively. If pipe P is
+opened alone for 15 hours and then closed, after which pipe Q fills the cistern until it is
+full, then what percentage of the cistern is filled by pipe P relative to the portion filled by
+pipe Q?
+Ans
+ A. 150%
+B. 50%
+C. 120%
+D. 100%
+Q.50 The perimeter of a square is equal to the one-half of radius of a circle whose area is
+39424 cm2. What is the area of the square?
+.
+Ans
+ A. 204 cm2
+B. 169 cm2
+C. 196 cm2
+D. 135 cm2
+Q.51 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+ 
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. NKP
+B. RQP
+C. MJO
+D. HEJ
+Q.52 In a row of 25 people facing north, Sanjay is 7th from the right end. If Anu sits 3rd to the
+left of Sanjay, then what is Anu’s position from the left end of the line?
+Ans
+ A. 17th
+B. 16th
+C. 18th
+D. 15th
+Section : General Intelligence and Reasoning
+Q.53 What should come in place of the question mark (?) in the given series?
+94 130 179 243 324 ?
+Ans
+ A. 426
+B. 423
+C. 424
+D. 425
+Q.54 This question is based on the five, three-digit numbers given below.
+(Left) 593, 784, 358, 631, 296 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+Note: All operations to be done from left to right.
+What will be the resultant if the third digit of the highest number is added to the second
+digit of the lowest number?
+Ans
+ A. 10
+B. 14
+C. 17
+D. 13
+Q.55 In the following triads, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one which follows the same logic.
+JOIN - OJIN - NOJI
+MALE - AMLE - EAML
+Ans
+ A. NEAR - NAER - RAEN
+B. USER - SUER - SERU
+C. LION - ILON - NILO
+D. PAGE - APGE - EAGP
+Q.56 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+YCG 87 IMQ 95 SWA 103 CGK 111 ?
+Ans
+ A. MRT 119
+B. MPT 118
+C. MRX 118
+D. MQU 119
+Q.57 Seven friends, B, C, D, T, U, V and W, are sitting in a straight line facing north. Only
+three people sit to the left of T. Only W sits to the right of D. Only three people sit
+between D and C. B sits at some place to the left of U but at some place to the right of V.
+How many people sit between V and U?
+Ans
+ A. Three
+B. Two
+C. Four
+D. One
+Q.58 Six friends, G, H, I, Q, R and S, are sitting around a circular table facing the centre of the
+table. Q sits third to the left of G. G sits second to the left of R. Only S sits between G
+and H. I is not an immediate neighbour of Q. How many people sit between H and I when
+counted from the right of H?
+Ans
+ A. One
+B. Two
+C. Four
+D. Three
+Q.59 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+DBD−BZB
+JHJ−HFH
+Ans
+ A. VST−TRT 
+B. VST−SQS
+C. VTV−SRS 
+D. VTV−TRT 
+Q.60 In a certain code language, ‘AMIE’ is coded as ‘9432’ and ‘SAME’ is coded as ‘4279’.
+What is the code for ‘S’ in that language?
+Ans
+ A. 2
+B. 9
+C. 4
+D. 7
+Q.61 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only.
+(Left) 9 @ 3 $ 2 ! 1 6 ^ & 9 3 ! @ # 3 $ 5 + ! (Right)
+If all the symbols are dropped from the series, which of the following will be seventh
+from the right?
+Ans
+ A. 2
+B. 9
+C. 3
+D. 6
+Q.62 In a certain code language, ‘SOUP’ is coded as ‘5179’ and ‘PACE’ is coded as ‘2418’.
+What is the code for ‘P’ in the given code language?
+Ans
+ A. 7
+B. 9
+C. 2
+D. 1
+Q.63 In a certain code language,
+A + B means ‘A is the son of B’,
+A - B means ‘A is the brother of B’,
+A x B means ‘A is the wife of B’,
+and A & B means ‘A is the father of B’.
+How is K related to V if ‘K-TxR+Z&V’?
+Ans
+ A. Brother's wife's father
+B. Brother's wife's brother
+C. Husband
+D. Son
+Q.64 Refer to the given series and answer the question that follows. (All numbers are single
+digit numbers only.) Counting to be done from left to right only.
+(Left) 9 6 7 2 3 7 3 8 1 7 2 8 6 3 6 8 9 9 3 9 5 6 1 5 1 7 8 (Right)
+How many such odd numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 6
+B. 7
+C. 5
+D. 8
+Q.65 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All jacks are hammers.
+All jacks are keys.
+All jacks are drillers.
+Conclusions:
+(I) All hammers are drillers.
+(II) Some drillers are keys.
+Ans
+ A. Only conclusion (II) follows.
+B. Both conclusions (I) and (II) follow.
+C. Only conclusion (I) follows.
+D. Neither conclusion (I) nor (II) follows.
+Q.66 Each of the digits in the number 56378492 is arranged in descending order from left to
+right. What will be the product of the digits that are second from the left and second
+from the right in the new number thus formed?
+Ans
+ A. 28
+B. 24
+C. 21
+D. 32
+Q.67 DRBH is related to SGQW in a certain way based on the English alphabetical order. In
+the same way, LZJP is related to AOYE. To which of the given options is ESCI related,
+following the same logic?
+Ans
+ A. THRE
+B. THYU
+C. THRX
+D. THDR
+Q.68 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some rabbits are fans.
+No fan is a car.
+Conclusions:
+(I): Some rabbits are cars.
+(II): Some fans are rabbits.
+Ans
+ A. Only conclusion (II) follows
+B. Neither conclusion (I) nor (II) follows
+C. Only conclusion (I) follows
+D. Both conclusions (I) and (II) follow
+Q.69 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 9 8 9 8 1 9 4 4 8 2 8 2 9 6 8 9 9 8 8 9 6 5 5 1 5 3 1 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 4
+B. 3
+C. 2
+D. 5
+Q.70 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(55, 11, 5)
+(36, 3, 12)
+Ans
+ A. (42, 15, 3)
+B. (70, 5, 16)
+C. (65, 5, 13)
+D. (56, 14, 3)
+Q.71 Seven boxes, B, D, E, P, S, T and W, are kept one over the other, but not necessarily in
+the same order.
+W is kept second from the bottom. Only three boxes are kept between W and B. P is
+kept at one of the positions below W. Only D is kept between B and S. E is kept at one of
+the positions above B.
+How many boxes are kept between P and E?
+Ans
+ A. Three
+B. One
+C. Five
+D. Four
+Q.72 What should come in place of the question mark (?) in the given series?
+71 59 46 32 17 ?
+Ans
+ A. 3
+B. 1
+C. −1
+D. 2
+Q.73 In a school complex, Building A is to the south of Building B. Building E is to the east of
+Building B. Building D is to the west of Building A. Building C is to the south of Building
+E. What is the position of Building C with respect to Building B?
+Ans
+ A. South
+B. South-east
+C. West
+D. East
+Q.74 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+ARB YVZ WZX UDV ?
+Ans
+ A. SHT
+B. RHS
+C. RGT
+D. TGU
+Q.75 Priya starts from point A and drives 32 km towards the south. She then takes a right
+turn, drives 31 km, turns right and drives 43 km. She then takes a right turn and drives
+54 km. She takes a final right turn, drives 11 km and stops at point P. How far (shortest
+distance) and towards which direction should she drive in order to reach point A again?
+(All turns are 90-degree turns only, unless specified.)
+Ans
+ A. 22 km to the west
+B. 21 km to the west
+C. 23 km to the west
+D. 24 km to the south
+Q.76 O, P, Q, R, W, X and Y are sitting in a straight line facing north. Only three people sit
+between W and Y. P sits to the immediate left of Y. No one sits to the right of Q. Only two
+people sit between Q and P. X sits to the immediate right of O. How many people sit
+between R and X?
+Ans
+ A. One
+B. Two
+C. Three
+D. Four
+Q.77 If 3 is added to each odd digit and 2 is subtracted from each even digit in the number
+5341256, what will be the sum of the digits which are first from the left and second from
+the right in the new number thus formed?
+Ans
+ A. 8
+B. 14
+C. 16
+D. 10
+Q.78 If ‘P’ stands for ‘×’, ‘Q’ stands for ‘÷’, ‘R’ stands for ‘−’ and ‘S’ stands for ‘+’, then what
+will come in place of question mark (?) in the following equation?
+78 P 3 R 15 Q 5 S 126 Q 3 S 117 Q 9 S 125 Q 5 = ?
+Ans
+ A. 351
+B. 384
+C. 332
+D. 311
+Q.79 What should come in place of the question mark (?) in the given series?
+2, 27, 63, 112, 176, ?
+Ans
+ A. 257
+B. 258
+C. 259
+D. 256
+Q.80 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the one that does not belong
+to that group?
+(Note: The odd man out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. AQ - YO
+B. NB - LZ
+C. DW - BV
+D. EL - CJ
+Q.81 Which of the following parties won 5 seats in the Bihar Assembly elections 2025?
+Ans
+ A. Bahujan Samaj Party
+B. Hindustani Awam Morcha (Secular)
+C. Janata Dal (United)
+D. Lok Janshakti Party (Ram Vilas)
+Section : General Awareness and Current Affairs
+Q.82 In which union territory of India was the world’s highest rail arch bridge inaugurated by
+the Prime Minister of India in June 2025?
+Ans
+ A. Jammu and Kashmir
+B. New Delhi
+C. Chandigarh
+D. Ladakh
+Q.83 When did the Government of India reconstitute the Atomic Energy Commission to
+include TV Somanathan and Manoj Govil?
+Ans
+ A. December 2024
+B. January 2025
+C. November 2024
+D. March 2025
+Q.84 What is the name of the new defence facility inaugurated by Rajnath Singh in New Delhi
+in November 2025?
+Ans
+ A. DPSU Bhawan
+B. National Defence Hub
+C. India Defence Parisar
+D. Defence PSU Nilayam
+Q.85 In October 2024, which of the following state governments launched India’s first
+integrated state-level Cyber Command and Control Centre to serve as a comprehensive
+hub for handling grievances through multiple channels, including a helpline, web portal
+and mobile app?
+Ans
+ A. Kerala
+B. Chhattisgarh
+C. Haryana
+D. Maharashtra
+Q.86 In September 2025, which range of Kaziranga National Park and Tiger Reserve was
+announced to open first for the 2025–26 tourist season?
+Ans
+ A. Bagori Range
+B. Kohora Range
+C. Burapahar Range
+D. Agaratoli Range
+Q.87 Who developed the Adarsh Sports Complex in Jaipur that was inaugurated in April
+2025?
+Ans
+ A. Jaipur Development Authority (JDA)
+B. Jaipur Municipal Corporation - Greater (JMC-G)
+C. Ministry of Youth Affairs and Sports
+D. Rajasthan Sports Authority
+Q.88 In April 2025, which international organisation acknowledged India’s achievement in
+lifting 171 million people out of extreme poverty?
+Ans
+ A. Asian Development Bank
+B. United Nations
+C. World Bank
+D. International Monetary Fund
+Q.89 As of 11 June 2025, approximately how much aid did Punjab National Bank (PNB)
+provide under the Rakshak Plus Scheme for martyrs' families?
+Ans
+ A. ₹17 crore
+B. ₹37 crore
+C. ₹7 crore
+D. ₹27 crore
+Q.90 Before the approval of caste census in 2025, the last major attempt to gather caste-
+based data at the national level was made through which exercise?
+Ans
+ A. Census of India, 1971
+B. National Sample Survey, 2005
+C. Socio-Economic and Caste Census (SECC), 2011
+D. Economic Census of 2001
+Q.91 Where was the Senior Asian Wrestling Championship 2025 held?
+Ans
+ A. Uzbekistan
+B. Jordan
+C. Qatar
+D. Saudi Arabia
+Q.92 In January 2025, Gujarat Chief Minister Bhupendra Patel inaugurated the Khel
+Mahakumbh 3.0 in which city?
+Ans
+ A. Ahmedabad
+B. Rajkot
+C. Vadodara
+D. Surat
+Q.93 Which city hosted the prestigious Michelin Guide awards in February 2025?
+Ans
+ A. Birmingham, England
+B. Cardiff, Wales
+C. Glasgow, Scotland
+D. Edinburgh, Scotland
+Q.94 Which important day commemorating India’s victory over Pakistan was observed on 26
+July 2025?
+Ans
+ A. Kargil Vijay Diwas
+B. Republic Day
+C. Independence Day
+D. Border Security Day
+Q.95 What was the central focus of the 7th Future Food Forum 2025 held in Dubai, UAE?
+Ans
+ A. Advancing food security, trade and innovation
+B. Building a circular economy for global manufacturing networks
+C. Enhancing tourism-led growth through digital platforms
+D. Strengthening financial inclusion and fintech cooperation
+Q.96 Who set the record for the highest individual score in the history of the Champions
+Trophy innings with 165 runs?
+Ans
+ A. Josh Inglis
+B. Alex Carey
+C. Ibrahim Zadran
+D. Ben Duckett
+"
+Q.97 Who conferred awards to cities under the Swachh Vayu Sarvekshan Awards 2025?
+Ans
+ A. Finance Minister, GoI
+B. President of India
+C. Prime Minister of India
+D. Environment Minister, GoI
+Q.98 Who, as a digital content creator, co-founded Monk Entertainment and was a prominent
+figure in 2025?
+Ans
+ A. Abhishek Mishra
+B. Sanchit Patil
+C. Jeet Shah
+D. Ranveer Allahbadia
+Q.99 As notified in February 2025, which of the following companies introduced India’s first
+Air Quality Index-based parametric insurance for construction workers in the Delhi-
+National Capital Region?
+Ans
+ A. Tata AIG General Insurance
+B. Go Digit General Insurance Limited
+C. National Insurance Company Limited
+D. Star Health and Allied Insurance
+Q.100Which student-led national case competition launched in October 2025 aims to address
+malnutrition and promotes SDG 2 (Zero Hunger) and SDG 3 (Good Health & Well-
+being)?
+Ans
+ A. Swasth India Mission
+B. Yukti – Nutrition Nirmaan
+C. Udaan – Education for All
+D. Viksit Bharat Challenge

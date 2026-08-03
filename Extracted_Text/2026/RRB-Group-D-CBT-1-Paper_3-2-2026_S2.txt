@@ -1,0 +1,791 @@
+Q.1 In multicellular organisms, why can't simple diffusion alone meet the requirements of
+all cells?
+Ans
+ A. Because all cells are directly exposed to air
+B. Because diffusion only transports oxygen
+C. Because diffusion requires light
+D. Because body size and complexity increase
+Q.2 A person shows high blood sugar levels even after eating small amounts of food. What
+may be the cause?
+Ans
+ A. Excess growth hormone
+B. Lack of insulin
+C. Excess estrogen
+D. Low thyroxine
+Q.3 Which of the following is an example of negative work?
+Ans
+ A. Gravity acting on a falling ball
+B. Lifting a bag upwards
+C. Pushing a moving car forward.
+D. Friction acting on a moving object
+Q.4 Read the given statements carefully and select the correct option.
+Statement 1: Fleming’s left-hand rule is used to find the direction of force (motion) on
+a current-carrying conductor placed in a magnetic field.
+Statement 2: The force on the conductor acts perpendicular to both the current and
+the magnetic field.
+Ans
+ A. Statement 1 is incorrect, but 2 is correct.
+B. Both statements 1 and 2 are incorrect.
+C. Both statements 1 and 2 are correct.
+D. Statement 1 is correct, but 2 is incorrect.
+Test Date 03/02/2026
+Test Time 12:45 PM - 2:15 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.5 Which of the following is NOT the characteristic of epithelial tissue?
+Ans
+ A. Cells form a continuous sheet.
+B. Cells have no intercellular spaces.
+C. Skin, kidney tubules are made up of epithelial tissue.
+D. Cells are loosely arranged.
+Q.6 Read the given Assertion (A) and Reason (R) carefully and select the correct option.
+(A): Sound waves are transverse waves.
+(R): Sound waves require a material medium for their propagation.
+Ans
+ A. Both assertion and reason are false.
+B. Assertion is false and reason is true.
+C. Assertion is true but reason is false.
+D. Both assertion and reason are true and reason is the correct explanation of assertion.
+Q.7 In the absence of any external force, a moving body will _______.
+Ans
+ A. Continue to move with constant acceleration
+B. Maintain a constant velocity in straight line
+C. Slow down and change its path
+D. Stop due to its inertia
+Q.8 Which of the following increases the rate of evaporation?
+Ans
+ A. Low surface area and cold air temperature
+B. Dense atmosphere and generally cool weather
+C. High temperature and increased wind speed
+D. High humidity and absence of wind movement
+Q.9 Which of the following mixtures is a suspension?
+Ans
+ A. Milk
+B. Salt water
+C. Vinegar
+D. Muddy water
+Q.10 Which of the following factors increases the rate of evaporation?
+Ans
+ A. Increase in humidity
+B. Decrease in wind speed
+C. Decrease in temperature
+D. Increase in surface area
+Q.11 Which of the following is NOT a function of the cell wall?
+Ans
+ A. Synthesising proteins for the cell
+B. Protecting the cell from mechanical damage
+C. Helping in cell-to-cell interaction
+D. Providing shape to the cell
+Q.12 Which characteristic of parallel circuits makes them advantageous over series circuits
+for connecting multiple electrical gadgets in a house?
+Ans
+ A. The potential difference across each gadget is unique.
+B. The total resistance is increased, protecting appliances.
+C. If one component fails, the entire circuit is broken.
+D. The current is divided among the electrical gadgets, allowing them to operate independently.
+Q.13 Match the following pH change and its effect.
+Column A (Change)Column B (Effect)
+A. pH ↓ from 7 to 41. Increase in acidity
+B. pH ↑ from 7 to 102. Acid rain forms
+C. pH = 7 3. Neutral solution
+D. pH < 5.6 in rain4. Increase in basicity
+Ans
+ A. A-3; B-4; C-2; D-1
+B. A-4; B-3; C-1; D-2
+C. A-1; B-4; C-3; D-2
+D. A-2; B-1; C-4; D-3
+Q.14 What do members of a homologous series differ from each other by?
+Ans
+ A. Two hydrogen atoms
+B. One carbon atom
+C. One oxygen atom
+D. One carbon atom and two hydrogen atoms
+Q.15 To accurately locate the image of an extended object formed by a spherical mirror
+using a ray diagram, what is the minimum number of reflected rays that must intersect
+(or appear to intersect)?
+Ans
+ A. Three rays
+B. One ray
+C. Four rays
+D. Two rays
+Q.16 Which element is necessary for the thyroid gland to secrete the thyroxine hormone?
+Ans
+ A. Iodine
+B. Chlorine
+C. Fluorine
+D. Bromine
+Q.17 Which part of the flower protects the ovule and later transforms into the fruit?
+Ans
+ A. Petal
+B. Stigma
+C. Sepal
+D. Ovary
+Q.18 Which of the following compounds would have the highest pH when dissolved in
+water?
+Ans
+ A. Hydrogen chloride gas
+B. Vinegar solution
+C. Sodium hydroxide
+D. Lemon juice
+Q.19 What will be the acceleration due to gravity on a planet whose mass and radius are
+double that of the Earth? (Take the acceleration due to gravity on Earth as g.)
+Ans
+ A. g/2
+B. g
+C. 2g
+D. g/4
+Q.20 For a convex mirror, where is the centre of curvature located?
+Ans
+ A. At the mirror's surface
+B. At the focus
+C. Behind the mirror
+D. In front of the mirror
+Q.21 Select the option that is true regarding the following two statements labelled Assertion
+(A) and Reason (R).
+Assertion (A): Vasectomy leads to loss of sexual drive in males.
+Reason (R): It involves removal of the testes.
+Ans
+ A. Both A and R are true, and R is the correct explanation of A
+B. Both A and R are false
+C. A is false, but R is true
+D. Both A and R are true, but R is not the correct explanation of A
+Q.22 If the velocity–time graph of an object is curved, it indicates ____________.
+Ans
+ A. Uniform motion
+B. Non-uniform acceleration
+C. Zero velocity
+D. Constant speed
+Q.23 Why is variation important in a population of organisms?
+Ans
+ A. It causes extinction of all organisms.
+B. It helps some individuals survive if environmental conditions change.
+C. It makes organisms identical.
+D. It prevents reproduction.
+Q.24 In the given reaction, which of the following reactants has undergone oxidation?
+PbO + H2 → Pb + H2O
+Ans
+ A. H2O
+B. Pb
+C. PbO
+D. H2
+Q.25 The atomic number of an element is equal to which of the following?
+Ans
+ A. Number of protons
+B. Number of neutrons
+C. Number of neutrons + number of protons
+D. Number of electrons
+Section : Mathematics
+Q.26 If the radius of a sphere is 6 cm, then its surface area is:
+Ans
+ A. 72 π cm2
+B. 144 π cm2
+C. 288 π cm2
+D. 36 π cm2
+Q.27
+Ans
+ A. 60
+B. 6000
+C. 600
+D. 6
+Q.28 A cricketer has an average of 54 runs for 9 innings. In the 10th inning, he scores 191
+runs. By how many runs did his average increase? (Round off the answer to the
+nearest whole number.)
+Ans
+ A. 16
+B. 17
+C. 14
+D. 5
+Q.29 A and B can complete a job in 18 days and 24 days, respectively. They worked together
+for 5 days, and then A left the job. In how many days will B finish the remaining work?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.30
+Ans
+ A. 98.33%
+B. 93.33%
+C. 83.33%
+D. 166.67%
+Q.31
+Ans
+ A. 1
+B. 5
+C. 2
+D. 0
+Q.32 A shopkeeper offers the following four schemes.
+A) Two successive discounts of 18% and 10%
+B) Buy 2, get 8
+C) Discount of 24%
+D) Two successive discounts of 42% and 45%
+Which scheme is best for customers?
+Ans
+ A. A
+B. D
+C. B
+D. C
+Q.33 If the mean proportional of P and 169 is 104, then find the value of P.5765
+Ans
+ A. 67
+B. 65
+C. 66
+D. 64
+Q.34 In an election, there are three candidates: A, B, and C. Candidate A gets 40% of the total
+valid votes, Candidate B gets 30%, and Candidate C gets the remaining votes. If 12% of
+the total votes were declared invalid and the total number of voters was 25,000, find the
+number of votes received by Candidate C.
+Ans
+ A. 8800
+B. 5500
+C. 4400
+D. 6600
+Q.35 A cylindrical water tank with an internal radius of 70 cm and a height of 1.5 m is
+completely filled with water. Water is being pumped out at a rate of 5 litres per second.
+How long will it take for the water level to drop by 50 cm?
+Ans
+ A. 176 seconds
+B. 168 seconds
+C. 154 seconds
+D. 142 seconds
+Q.36 The average age of 31 students of a class is 35 years. If the age of the teacher is also
+included, the average age of the whole group becomes 36 years. The age (in years) of
+the teacher is:
+Ans
+ A. 72
+B. 67
+C. 68
+D. 69
+Q.37 The sum of three numbers is 840. If the ratio of the second number to the first number
+is 3 : 13 and that of the third number to the second number is 8 : 12, then find the
+second number.
+Ans
+ A. 142
+B. 141
+C. 139
+D. 140
+Q.38 The present age of Arman is four times the present age of his cousin, Riya. In 8 years,
+Arman's age will be three times Riya’s age at that time. What is Arman’s current age?
+Ans
+ A. 72 years
+B. 64 years
+C. 48 years
+D. 56 years
+Q.39 The cost of 3 apples and 5 bananas is ₹75. The cost of 4 apples and 2 bananas is ₹86.
+Find the cost of a banana.
+Ans
+ A. ₹10
+B. ₹3
+C. ₹5
+D. ₹20
+Q.40 104 men have provisions for 12 weeks. They are joined by 52 men. How long (in weeks)
+will the provisions last?2673
+Ans
+ A. 6
+B. 10
+C. 8
+D. 12
+Q.41 The marked price of a toy truck is ₹3,050, and its selling price is ₹2,220. Find the
+discount percentage. (Round off the answer to two decimal places.)
+Ans
+ A. 26.88%
+B. 29.73%
+C. 27.21%
+D. 25.98%
+Q.42 The amount on a sum of ₹2,800 at 20% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹4,032
+B. ₹3,279
+C. ₹4,341
+D. ₹4,968
+Q.43 Amit purchases an old scooter for ₹5,600. He spends ₹1,400 on its repairs and sells it to
+Sumit for ₹7,700. Find the profit percentage of Amit.
+Ans
+ A. 14%
+B. 12%
+C. 9%
+D. 10%
+Q.44 The sides of a triangle are 80 cm, 44 cm, and 52 cm. What is the length of its altitude
+corresponding to the side with a length of 44 cm?
+Ans
+ A. 49 cm
+B. 94 cm
+C. 48 cm
+D. 61 cm
+Q.45 Two trains started from station A to B with speeds of 68 km/h and 82 km/h on parallel
+lines. Find the distance (in km) between the two trains after 2.5 hours.
+Ans
+ A. 15
+B. 25
+C. 35
+D. 40
+Q.46 Solve : 3 × (10 × (22)) ÷ 20 + 13 − 32858
+Ans
+ A. 13
+B. 25
+C. 16
+D. 17
+Q.47 Two trains, each 230 meters long, are running parallel to each other in the same
+direction. The speed of the faster train is 102 km/h and the speed of the slower train is
+66 km/h. How long will it take for the faster train to completely pass the slower train?
+Ans
+ A. 56 seconds
+B. 42 seconds
+C. 46 seconds
+D. 36 seconds
+Q.48 Simplify: [(3x + 4y)2 − (3x − 4y)2] ÷ (24xy)
+Ans
+ A. −2
+B. −1
+C. 1
+D. 2
+Q.49 P and Q together can fill a cistern with water in 9 hours. If P alone can fill the cistern
+with water in 12 hours, then in how many hours will Q alone fill three-fourth of the same
+cistern with water?1243
+Ans
+ A. 55
+B. 54
+C. 28
+D. 27
+Q.50
+Ans
+ A. 7110
+B. 10140
+C. 7700
+D. 7362
+Q.51 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+YAC−GIK
+QSU−YAC
+Ans
+ A. JLN−QTU
+B. JKL−QSU
+C. JKL−RTV
+D. JLN−RTV
+Section : General Intelligence and Reasoning
+Q.52 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+LKN 58 MLO 65 NMP 72 ONQ 79 ?6926
+Ans
+ A. PNQ 85
+B. PPQ 86
+C. POR 86
+D. PUA 85
+Q.53 What should come in place of the question mark (?) in the given series?
+PPR NQO LRL ? HTF
+Ans
+ A. NIJ
+B. IHY
+C. JSI
+D. GHT
+Q.54 In a certain code language, ‘ride those horses’ is coded as ‘dq fn ta’ and ‘horses run
+wild’ is coded as ‘vy dq si’. How is ‘horses’ coded in the given language?
+Ans
+ A. ta
+B. dq
+C. fn
+D. vy
+Q.55 Six people, A, B, C, X, Y and Z, are sitting around a circular table, facing towards the
+centre of the table.
+Z is sitting to the immediate left of A.
+B is sitting second to the right of Z.
+X is an immediate neighbour of both Y and C.
+Y is not an immediate neighbour of Z.
+What is the position of B with respect to Y?
+Ans
+ A. Immediate left
+B. Second to the left
+C. Immediate right
+D. Second to the right
+Q.56 What should come in place of the question mark (?) in the given series?
+94 102 118 150 214 ?
+Ans
+ A. 341
+B. 343
+C. 342
+D. 344
+Q.57 Currently, the minute hand of a watch is pointing towards the north and the hour hand
+is pointing towards the east. After two and a half hours, which direction will the minute
+hand point towards?
+Ans
+ A. South
+B. West
+C. North
+D. East
+Q.58 In a certain code language, QOEX is coded as 50 and WPIU is coded as 42. What is the
+code for SANR in that language?
+Ans
+ A. 67
+B. 55
+C. 62
+D. 59
+Q.59 This question is based on the five, three-digit numbers given below.
+(Left) 426 125 357 489 627 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+Note: All operations to be done from left to right.
+If all the numbers are arranged in ascending order, the position(s) of how many
+numbers will remain unchanged?
+Ans
+ A. Two
+B. Four
+C. Three
+D. One
+Q.60 What should come in place of ? in the given series?
+17 7 -6 -22 -41 ?6041
+Ans
+ A. -62
+B. -61
+C. -63
+D. -64
+Q.61 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 7 5 8 5 8 3 1 5 2 6 1 6 3 1 4 2 4 3 7 8 5 9 5 2 8 2 5 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 4
+B. 5
+C. 2
+D. 3
+Q.62 This question is based on the five, three-digit numbers given below.
+(Left) 582 128 563 183 592 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+Note: All operations to be done from left to right.
+What will be the resultant if third digit of the highest number is added to the second
+digit of lowest number?
+Ans
+ A. 3
+B. 7
+C. 4
+D. 6
+Q.63 Each of the digits in the number 24597831 is arranged in ascending order from left to
+right. The position(s) of how many digits will remain unchanged as compared to that in
+the original number?
+Ans
+ A. One
+B. None
+C. Three
+D. Two
+Q.64 Refer to the following number series and answer the question that follows (all numbers
+are single digit numbers only). Counting to be done from left to right only.
+(Left) 2 8 1 7 8 7 6 7 5 2 5 3 (Right)
+How many such odd digits are there, each of which is immediately preceded by an even
+digit and also immediately followed by an odd digit?
+Ans
+ A. Three
+B. One
+C. Two
+D. Four
+Q.65 In the following triads, each group of letters is related to the subsequent one following
+a certain logic. Select from the given options, the one that follows the same logic.
+PAST - PSTA - ASPT
+QUAD - QADU - UAQD
+Ans
+ A. TIDE - ITDE - IDET
+B. USER - UERS - SURE
+C. IDEA - IEAD - DEIA
+D. VAIN - VIAN - NIAV
+Q.66 Seven boxes A, B, C, D, P, Q and R are kept one over the other but not necessarily in
+the same order. No box is kept above Q. Only three boxes are kept between Q and D.
+Only one box is kept between C and B. B is kept immediately above D. Only four boxes
+are kept between C and R. A is kept at some place above P.
+Which box is kept second below A?
+Ans
+ A. B
+B. D
+C. P
+D. R
+Q.67 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some balls are hens.
+All vans are hens.
+Conclusions:
+(I) Some balls are vans.
+(II) All hens are vans.
+Ans
+ A. Only conclusion (II) follows.
+B. Both conclusions (I) and (II) follow.
+C. Only conclusion (I) follows.
+D. Neither conclusion (I) nor (II) follows.
+Q.68 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+ 
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. QPS
+B. HGI
+C. VUW
+D. YXZ
+Q.69 Select the pair which follows the same pattern as that followed by the two pairs given
+below. Both pairs follow the same pattern.
+STW−ZAD
+PQT−WXA
+Ans
+ A. TUX−ABE
+B. TTV−ABE
+C. TTV−ZAD
+D. TUX−ZBD
+Q.70 If ‘P’ stands for ‘×’, ‘Q’ stands for ‘÷’, ‘R’ stands for ‘−’ and ‘S’ stands for ‘+’, what will
+come in place of the question mark (?) in the following equation?
+(90 Q 15) P 8 R 7 P 4 S (12 P 3) Q 2 = ?
+Ans
+ A. 52
+B. 38
+C. 44
+D. 20
+Q.71 In a certain code language,
+A + B means ‘A is the son of B’,
+A - B means ‘A is the brother of B’,
+A x B means ‘A is the wife of B’,
+and A & B means ‘A is the father of B’.
+How is K related to V if ‘KxT-R+Z&V’?
+Ans
+ A. Brother's daughter
+B. Brother's wife
+C. Sister
+D. Mother
+Q.72 All 18 students in a class are standing in a row, facing north. Charan is 11th from the
+right end, while Prakash is 3rd from the left end. How many people stand between
+Charan and Prakash?
+Ans
+ A. 3
+B. 2
+C. 4
+D. 5
+Q.73 A, B, C, D, N, O and P are sitting in a straight line, facing the north.
+Only two people sit to the left of N. Only three people sit between N and P. O sits
+second to the right of N. Only two people sit between O and D. C sits at some place to
+the right of B but at some place to the left of A.
+How many people sit to the right of C?
+Ans
+ A. Two
+B. Three
+C. Four
+D. One
+Q.74 Six people, A, B, C, D, E and F, are sitting in a row, facing north. Only two people sit to
+the left of F. Only one person sits between D and E. F sits to the immediate left of D. A
+sits to the immediate right of C. B sits third to the right of A. Who sits at the extreme left
+end of the row?
+Ans
+ A. D
+B. C
+C. B
+D. A
+Q.75 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+92 - 6 - 86
+13 - 8 - 5
+Ans
+ A. 4 - 1 - 2
+B. 50 - 20 - 30
+C. 30 - 12 - 24
+D. 12 - 5 - 6
+Q.76 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. HK-FI
+B. DG-BF
+C. FI-DH
+D. JM-HL
+Q.77 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All torches are keys.
+All keys are locks.
+Some locks are batteries.
+Conclusions:
+(I): All torches are locks.
+(II): Some batteries are torches.
+Ans
+ A. Only conclusion (I) follows
+B. Only conclusion (II) follows
+C. Neither conclusion (I) nor (II) follows
+D. Both conclusions (I) and (II) follow
+Q.78 What should come in place of the question mark (?) in the given series?
+2, 3, 5, 8, 12, 17, ?
+Ans
+ A. 23
+B. 26
+C. 25
+D. 24
+Q.79 If 1 is added to each odd digit and 2 is subtracted from each even digit in the number
+7435681, then what will be the sum of the digits that are third from the left and third
+from the right?
+Ans
+ A. 8
+B. 14
+C. 6
+D. 10
+Q.80 Mr. Pasto starts from point A and drives 11 km towards North. He then takes a left turn,
+drives 7 km, turns left and drives 13 km. He then takes a left turn and drives 21 km. He
+takes a final left turn, drives 2 km and stops at point P. How far (shortest distance) and
+towards which direction should he drive in order to reach point A again? (All turns are
+90-degree turns only, unless specified.) 473
+Ans
+ A. 14 km to the west
+B. 13 km to the south
+C. 11 km to the south
+D. 12 km to the west
+Q.81 Who won the Men’s Ballon d’Or, 2025?
+Ans
+ A. Cristiano Ronaldo
+B. Ousmane Dembele
+C. Kylian Mbappe
+D. Lionel Messi
+Q.82 Valueattics Reinsurance, India’s first private reinsurer, which received the nod of the
+Insurance Regulatory and Development Authority of India (IRDAI) to commence
+reinsurance business in India in March 2025 is promoted by which of the following
+individuals/entities?
+Ans
+ A. Prem Watsa and Kamesh Goyal
+B. Uday Kotak and LIC
+C. Rakesh Jhunjhunwala and Axis Bank
+D. Nandan Nilekani and SBI Life
+Q.83 Which organisation developed Delhi's first Centre of Excellence for Sports in Dwarka's
+Sector 8, inaugurated in May 2025?
+Ans
+ A. Indian Olympic Association (IOA)
+B. Sports Authority of India (SAI)
+C. Delhi Development Authority (DDA)
+D. Delhi Metro Rail Corporation (DMRC)
+Section : General Awareness and Current Affairs
+Q.84 What were Suruchi Singh’s final two shot scores that clinched gold at the 2025
+International Shooting Sport Federation (ISSF) World Cup in Munich?
+Ans
+ A. 10.6 and 9.6
+B. 9.5 and 8.5
+C. 10.5 and 9.5
+D. 10.0 and 9.0
+Q.85 As part of Tripura’s tech-driven disaster preparedness initiative launched in August
+2025, how many automated weather stations and rain gauges are proposed to be
+installed?
+Ans
+ A. 15
+B. 26
+C. 14
+D. 10
+Q.86 Which apex agricultural research body is associated with the Indian Institute of Soil
+Science that organised World Soil Day celebrations in December 2025?
+Ans
+ A. Council of Scientific and Industrial Research
+B. Indian Council of Agricultural Research
+C. Central Soil Salinity Research Institute
+D. National Horticulture Board
+Q.87 In June 2025, who was elected as the President of the International Institute of
+Administrative Sciences (IIAS) for the 2025–2028 term from India?
+Ans
+ A. GC Murmu
+B. KM Chandrasekhar
+C. NV Subramanian
+D. V Srinivas
+Q.88 Where did Jeff Bezos and Lauren Sánchez hold their lavish wedding in June 2025?
+Ans
+ A. Venice, Italy
+B. Santorini, Greece
+C. Dubrovnik, Croatia
+D. Cannes, France
+Q.89 What was the name of the official mascot of the Khelo India Para Games 2025?
+Ans
+ A. Shakti
+B. Ujjwala
+C. Veer
+D. Sparky
+Q.90 What was the Supreme Court's decision on April 28, 2025, regarding a new petition on
+the Waqf (Amendment) Act?
+Ans
+ A. It referred the plea to the High Court.
+B. It accepted the petition for immediate hearing.
+C. It dismissed all pending cases.
+D. It declined to entertain the fresh plea.
+Q.91 In the 2025 Global Hunger Index (GHI), where does India rank among the 123 countries
+assessed?
+Ans
+ A. 105th
+B. 102nd
+C. 10th
+D. 85th
+Q.92 Which organisation announced plans to develop a new indicator for measuring extreme
+poverty in India in 2025?
+Ans
+ A. Ministry of Statistics
+B. NITI Aayog
+C. World Bank
+D. Reserve Bank of India
+Q.93 Who won the men’s javelin event at the Ostrava Golden Spike meet in June 2025 by
+becoming the only athlete to throw beyond 85 metres, with a mark of 85.29 m?
+Ans
+ A. Neeraj Chopra
+B. Julian Weber
+C. Jakub Vadlejch
+D. Anderson Peters
+Q.94 A total of ₹6,000 crore has been allocated for the 'PM - One Nation One Subscription'
+initiative. How many years cost does this amount cover?
+Ans
+ A. Five
+B. Six
+C. Two
+D. Three
+Q.95 What is significant about the CMS-03 satellite launch by Indian Space Research
+Organisation in November 2025?
+Ans
+ A. It is India’s first Mars mission satellite.
+B. It is the heaviest communication satellite launched by India.
+C. It is the first navigation satellite mission from India.
+D. It is the first private payload launched from India.
+Q.96 According to the 2025 Sustainable Development Report, what is India’s Spillover
+Score?
+Ans
+ A. 86.95
+B. 99.95
+C. 96.07
+D. 90.07
+Q.97 Which of the following major wildlife surveys did the Indian Prime Minister announce to
+be conducted in 2025?
+Ans
+ A. National Elephant Census
+B. Bengal Tiger Count
+C. Great Indian Bustard Survey
+D. 16th Asiatic Lion Population Estimation
+"
+Q.98 Which of the following introduced NACH 3.0 in July 2025, bringing faster and more
+secure bank transactions under the National Automated Clearing House (NACH)
+system?
+Ans
+ A. Reserve Bank of India
+B. National Securities Depository Limited
+C. National Payments Corporation of India
+D. Life Insurance corporation
+Q.99 Which of the following states introduced the strengthening of the SHe‑ Box portal in
+May 2025?
+Ans
+ A. Maharashtra
+B. Uttar Pradesh
+C. Punjab
+D. Tamil Nadu
+Q.100What happens to a Prime Minister, Chief Minister, or Minister if bail is not granted within
+30 days under the Constitution (130th Amendment) Bill 2025?
+Ans
+ A. Legal appeal
+B. Temporary suspension
+C. Automatic removal
+D. Parliamentary review

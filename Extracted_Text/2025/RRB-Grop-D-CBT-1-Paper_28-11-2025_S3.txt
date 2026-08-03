@@ -1,0 +1,775 @@
+Q.1 When solid lead(II) nitrate is heated, a yellow residue (PbO) is left behind and two gases
+are evolved — one is reddish-brown and the other supports combustion. Which gases
+are evolved?
+Ans
+ A. Nitrogen dioxide and oxygen
+B. Nitric oxide and oxygen
+C. Nitrogen gas and carbon dioxide
+D. Nitrogen dioxide and hydrogen
+Q.2 As Newton is to weight, _____________ is to pressure.
+Ans
+ A. Pascal
+B. Kilogram
+C. Kelvin
+D. Kilogram per cubic metre
+Q.3 In Mendel’s experiment, what did he observe in the F1 generation when he crossed a tall
+(TT) and a short pea (tt) plant?
+Ans
+ A. All were short
+B. Half were tall, half was short
+C. All were tall
+D. All were medium height
+Q.4 A fluid filled in a container exerts pressure _______ at the same height.
+Ans
+ A. only downward
+B. equally in all directions of the container
+C. only upward
+D. only on the sides
+Q.5 Which of the following metals reacts most vigorously with water?
+Ans
+ A. Iron
+B. Sodium
+C. Lead
+D. Zinc
+Test Date 28/11/2025
+Test Time 4:30 PM - 6:00 PM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Work done by a force is said to be positive when:
+Ans
+ A. the displacement of the body is zero
+B. the angle between force and displacement is 90°
+C. the force opposes the motion of the body
+D. the force has a component in the direction of displacement
+Q.7 How is molecular mass calculated?
+Ans
+ A. Adding all atomic masses of the atoms in molecule
+B. Adding all atomic volumes of the atoms present
+C. By squaring atomic numbers of all elements
+D. Multiplying atomic radii of constituent elements
+Q.8 Colloidal particles are separated by:
+Ans
+ A. boiling
+B. centrifugation
+C. filtration
+D. recrystallisation
+Q.9 Which of the following statements are NOT true regarding the principal axis of a
+spherical mirror?
+(i) It is an imaginary straight line passing through the pole and the centre of curvature
+of a spherical mirror.
+(ii) Principal axis is normal to the mirror at its pole.
+(iii) A ray parallel to the principal axis after reflection from the mirror passes through the
+centre of curvature of the mirror.
+(iv) The focus of a spherical mirror does not lie on its principal axis.
+Ans
+ A. Both (i) and (ii)
+B. Both (ii) and (iii)
+C. Both (iii) and (iv)
+D. Both (i) and (iv)
+Q.10 How does the sound of a patient's heartbeat travel from the chest piece to the doctor's
+ear through a stethoscope?
+Ans
+ A. By conversion to electrical signals
+B. By multiple reflection of sound
+C. By refraction of sound waves
+D. By direct transmission without reflection
+Q.11 What is the purpose of a plug key in an electrical circuit?
+Ans
+ A. It measures the current flowing through a circuit.
+B. It helps in connecting and disconnecting a circuit.
+C. It measures the potential difference in a circuit.
+D. It provides potential difference in a circuit.
+Q.12 The shortest distance between the initial and final positions of an object is called
+___________.
+Ans
+ A. distance
+B. acceleration
+C. speed
+D. displacement
+Q.13 At higher levels of the atmosphere, which of the following shields the surface of the
+earth from ultraviolet radiation?
+Ans
+ A. Ozone
+B. Nitrogen
+C. Carbon
+D. Hydrogen
+Q.14 Which of the following statements about cell size is correct?
+Ans
+ A. Cell size is always large in multicellular organisms.
+B. Cell size depends on the number of nuclei.
+C. All cells are of the same size in all organisms.
+D. Cell size is related to its function, not the size of the organism.
+Q.15 Match the common name of the bee with its scientific name.
+Column I (Common Name). Column II (Scientific Name)
+1. Indian bee A. Apis mellifera
+2. Rock bee B. Apis cerana indica
+3. Little bee C. Apis dorsata
+4. Italian bee D. Apis florae
+Ans
+ A. 1-C, 2-D, 3-B, 4-A
+B. 1-B, 2-C, 3-D, 4-A
+C. 1-A, 2-B, 3-C, 4-D
+D. 1-D, 2-A, 3-C, 4-B
+Q.16 Which of the following correctly describes how potential difference between two points
+is calculated?
+Ans
+ A. Potential difference = Charge × Work done
+B. Potential difference = Work done × Potential energy
+C. Potential difference = Work done ÷ Charge
+D. Potential difference = Charge ÷ Work done
+Q.17 Which organelle is called the 'suicidal bag' of the cell?
+Ans
+ A. Ribosome
+B. Golgi body
+C. Mitochondria
+D. Lysosome
+Q.18 A person pushes a massive, stationary object (like a parked truck) with force F. The
+object pushes back with force −F. Why does the object NOT accelerate if the reaction
+force is equal and opposite, as suggested by the Third Law?
+Ans
+ A. The net force on the object is zero because the action and reaction forces cancel out.
+B. The action and reaction forces act on different objects, but the static friction on the stationary object balances the applied
+push force F.
+C. The forces act instantaneously, preventing momentum change.
+D. The magnitude of the force F is insufficient to overcome the object's inherent potential energy.
+Q.19 Which one of the following is an advantage of vegetative propagation in flowering
+plants?
+Ans
+ A. They are completely different from their parent plants.
+B. They can flower and fruit later than those produced by seeds.
+C. They can flower and fruit earlier than those produced by seeds.
+D. They can show completely new characters than those produced by seeds.
+Q.20 What is the relationship between the incident ray and the emergent ray
+after light passes through the two parallel opposite faces of a rectangular
+glass slab?
+Ans
+ A. The emergent ray is parallel to the direction of the incident ray, but shifted sideward slightly
+B. The emergent ray converges to a point on the principal axis
+C. The emergent ray is reflected back along the path of the incident ray
+D. The emergent ray is perpendicular to the incident ray
+Q.21 Which of the following methods is commonly used to prevent the corrosion of iron?
+Ans
+ A. Coating the metal with paint or oil
+B. Heating the metal repeatedly
+C. Cooling the metal with water regularly
+D. Dissolving the metal in acid
+Q.22 Which of the following is NOT a contraceptive method?
+Ans
+ A. Preventing sperm from reaching the egg by using condoms
+B. Aborting the foetus
+C. Inserting Copper-T into the uterus
+D. Altering hormonal balance to prevent release of eggs from the ovary
+Q.23 Which of the following meristems is responsible for the lengthwise growth at the ends
+of shoots and roots?
+Ans
+ A. Intercalary meristem
+B. Lateral meristem
+C. Permanent meristem
+D. Apical meristem
+Q.24 Which of the following metallic oxides can be reduced to metals by heating alone?
+Ans
+ A. Manganese oxide
+B. Mercuric oxide
+C. Iron (III) oxide
+D. Zinc oxide
+Q.25 Which process is used to prepare sodium hydroxide from brine?
+Ans
+ A. Haber process
+B. Solvay process
+C. Thermal decomposition of NaCl
+D. Electrolysis of brine
+Section : Mathematics
+Q.26
+Ans
+ A. 400%
+B. 210%
+C. 200%
+D. 215%
+Q.27 Paul, Ryan and Max can finish a certain piece of work in 15, 14 and 21 days,
+respectively. All three of them started the work together. Paul left the work after 5 days
+and Ryan left just 3 days before the work was completed. Find the total number of days
+taken for the work to be completed.
+Ans
+ A. 10.1
+B. 3.7
+C. 7.4
+D. 11.2
+Q.28 A sum of money was invested at simple interest at a certain rate for 3 years. Had it been
+invested at a 4% per annum higher rate, it would have fetched ₹360 more. Find the
+principal.
+Ans
+ A. ₹3,200
+B. ₹2,800
+C. ₹3,000
+D. ₹3,500
+Q.29 For a trip of 600 km, a truck travels the first 300 km at a speed of 40 km/hr. At what
+speed (in km/hr) should it cover the remaining distance, so that the average speed is 70
+km/hr?
+Ans
+ A. 255
+B. 260
+C. 280
+D. 295
+Q.30 The average of first 9 multiples of 4 is:1641
+Ans
+ A. 20
+B. 4
+C. 9
+D. 18
+Q.31 A cubical block of wood of side 14 cm is surmounted by a hemisphere of the largest
+possible diameter. What is the total surface area (in cm2) of the solid thus formed?
+Ans
+ A. 1484
+B. 1330
+C. 1296
+D. 1176
+Q.32 The sum of two numbers is 26. The bigger number is greater than the smaller number
+by 4. Find the bigger number.
+Ans
+ A. 21
+B. 15
+C. 18
+D. 13
+Q.33 A, B and C can complete a piece of work in 3, 5 and 15 days, respectively. How long (in
+days) will they take to complete thrice the same work, working together?2517
+Ans
+ A. 10
+B. 5
+C. 15
+D. 6
+Q.34 P is any point inside the rectangle ABCD. If PA = 73 cm, PB = 57 cm and PC = 99 cm,
+then the length of PD (in cm) is equal to:
+Ans
+ A. 112
+B. 105
+C. 109
+D. 103
+Q.35 The arithmetic mean of the observations 29, 48, 65, 32, 72, 63, 64, 18 and 14 is:
+Ans
+ A. 38
+B. 45
+C. 40
+D. 43
+Q.36 Simplify the given expression.
+18 + 3 of (24 ÷ 8 × 2) − 6
+Ans
+ A. 16.5
+B. 30
+C. 24
+D. 36
+Q.37 Nishi travels to a shopping mall at a speed of 21 km/hr and returns at a speed of 77
+km/hr. What is her average speed (in km/hr) for the entire journey?
+Ans
+ A. 33
+B. 39
+C. 34
+D. 23
+Q.38 The diagonals of a rhombus are in the ratio 3 : 4, and the perimeter is 100 cm. Find the
+area (in cm2) of the rhombus.
+Ans
+ A. 625
+B. 600
+C. 550
+D. 650
+Q.39 Smart Bazaar is offering Buy 16, get 9 free on household items. What is the net
+percentage discount being offered by the Smart Bazaar?
+Ans
+ A. 33%
+B. 39%
+C. 36%
+D. 34%
+Q.40 The ratio of the present ages of Anu and Bina is 4 : 5. After 6 years from now, the ratio
+becomes 5 : 6. Find Bina’s present age (in years).
+Ans
+ A. 25
+B. 30
+C. 32
+D. 20
+Q.41 If a seven-digit number 78p3945 is divisible by 11, then the value of 'p' is:
+Ans
+ A. 4
+B. 3
+C. 5
+D. 6
+Q.42 The cost of a washing machine is 50% less than the cost of a TV. If the cost of the
+washing machine increases by 60% and that of the TV decreases by 11%, what is the
+percentage change in the total cost of 6 washing machines and 2 TVs?
+Ans
+ A. Decrease by 33%
+B. Decrease by 29%
+C. Increase by 31.6%
+D. Increase by 26%
+Q.43 Find the value of x2 + 3x + 5 when x + 2.
+Ans
+ A. 17
+B. 19
+C. 13
+D. 15
+Q.44
+Ans
+ A. 10290
+B. 10150
+C. 11840
+D. 14190
+Q.45 A sum of money is to be distributed among A, B, C and D in the ratio of 17 : 3 : 9 : 6. If C
+gets ₹294 more than B, then how much did A receive?
+Ans
+ A. ₹833
+B. ₹834
+C. ₹836
+D. ₹835
+Q.46 The marked price of a bookshelf is ₹572, which is 40% above the cost price. If the profit
+percentage is 2%, find the discount percentage (rounded off to two decimal places).
+Ans
+ A. 27.14%
+B. 25.22%
+C. 29.72%
+D. 28.83%
+Q.47 2 men can do a piece of work in 2 days. How many men will do it in 4 days?
+Ans
+ A. 2
+B. 1
+C. 3
+D. 4
+Q.48 A metal rod is divided into three parts, A, B and C. The lengths of A and B are in the
+ratio 9 : 14, while the lengths of C and B are in the ratio 10 : 13. If the difference between
+the lengths of A and C is 23 cm, find the total length (in cm) of the metal rod.
+Ans
+ A. 439
+B. 424
+C. 455
+D. 429
+Q.49 Ranjeet sold an article for ₹582, earning a profit of 20%. What was the cost price (in ₹) of
+the article?
+Ans
+ A. 480
+B. 490
+C. 485
+D. 495
+Q.50
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.51 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 6 1 7 6 8 5 2 7 6 9 2 3 4 8 3 6 2 5 9 4 1 7 6 8 3 1 9 (Right)
+How many such even digits are there, each of which is immediately preceded by an
+even digit and also immediately followed by an odd digit?
+Ans
+ A. Three
+B. One
+C. More than three
+D. Two
+Q.52 Find the missing number in the series 4, 16, 36, 64, 100, ?4012
+Ans
+ A. 120
+B. 144
+C. 150
+D. 100
+Section : General Intelligence and Reasoning
+Q.53 In a certain code language,
+A + B means ‘A is the son of B’,
+A - B means ‘A is the brother of B’,
+A x B means ‘A is the wife of B’, and
+A ÷ B means ‘A is the father of B’.
+Based on the above, how is D related to J if ‘D x F - G ÷ H + J’?
+Ans
+ A. Husband's brother's daughter
+B. Brother's wife
+C. Brother's daughter
+D. Husband's brother's wife
+Q.54 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some plants are vegetables.
+All buds are vegetables.
+Conclusions:
+(I): Some plants are buds.
+(II): All vegetables are buds.
+Ans
+ A. Only conclusion (II) follows
+B. Both conclusions (I) and (II) follow
+C. Only conclusion (I) follows
+D. Neither conclusion (I) nor (II) follows
+Q.55 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+PPR MQT JRV GSX ?
+Ans
+ A. DTT
+B. DTZ
+C. ZDR
+D. KJY
+Q.56 In a certain code language, ‘stop disturbing people’ is coded as ‘ls ck rp’ and ‘people
+need peace’ is coded as ‘cd ok rp’. How is ‘people’ coded in that language?
+Ans
+ A. cd
+B. ck
+C. rp
+D. ok
+Q.57 Refer to the following number series and answer the question that follows. (All numbers
+are single digit numbers only.) (Counting to be done from left to right only.)
+(Left) 5 3 2 9 7 2 4 5 4 3 6 4 3 9 8 3 3 3 2 8 8 9 3 4 5 7 6 (Right)
+How many such odd numbers are there each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 8
+B. 7
+C. 9
+D. 6
+Q.58 Read the given statement(s) and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statement(s).
+Statements:
+Some cats are pets.
+All pets are animals.
+Conclusions:
+(I) Some cats are animals.
+(II) No animals are pets.
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Only conclusion (I) follows
+C. Neither conclusion (I) nor (II) follows
+D. Only conclusion (II) follows
+Q.59 Mr. Zzz starts from Point A and drives 21 km towards the West. He then takes a left turn,
+drives 5 km, turns right and drives 7 km. He then takes a right turn and drives 11 km. He
+takes a final right turn, drives 28 km and stops at Point P. How far (shortest distance)
+and towards which direction should he drive in order to reach Point A again? (All turns
+are 90 degrees turns only unless specified).
+Ans
+ A. 6 km to the South
+B. 5 km to the North
+C. 8 km to the East
+D. 7 km to the West
+Q.60 Mr. Akai starts from Point A and drives 9 km towards east. He then takes a left turn,
+drives 7 km, turns left and drives 32 km. He then takes a left turn and drives 18 km. He
+then takes a left turn, drives 21 km, turns left and drives 5 km. He takes a final right turn,
+drives 2 km and stops at Point P. How far (shortest distance) and towards which
+direction should he drive in order to reach Point A again? (All turns are 90 degrees
+turns only unless specified)
+Ans
+ A. 6 km to the south
+B. 4 km to the north
+C. 8 km to the east
+D. 6 km to the north
+Q.61 What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘-‘ are interchanged
+and ‘x’ and ‘÷’ are interchanged?
+114 ÷ 7 - 42 x 2 + 43 = ?
+Ans
+ A. 772
+B. 778
+C. 776
+D. 774
+Q.62 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). (Counting to be done from left to right only.)
+(Left) 4 8 2 8 2 3 8 3 1 3 9 1 7 3 9 7 6 2 6 6 6 8 2 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+even number and also immediately followed by an odd number?
+Ans
+ A. One
+B. Four
+C. Two
+D. Three
+Q.63 Refer to the given number series and answer the question that follows. Counting to be
+done from left to right only. All numbers are single-digit numbers.
+(Left) 3 5 4 9 7 1 1 6 4 2 3 2 3 3 4 2 7 8 6 8 8 5 6 1 2 9 2 (Right)
+How many such odd numbers are there each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. 5
+B. 2
+C. 4
+D. 3
+Q.64 In a certain code language, ‘way hen wet’ is coded as ‘ir wj ry’ and ‘seed desk way’ is
+coded as ‘wj kk bm’. How is ‘way’ coded in that language?
+Ans
+ A. ry
+B. kk
+C. ir
+D. wj
+Q.65 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding
+to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and
+3 and then performing mathematical operations on 1 and 3 is not allowed.)
+(13, 14, 6)
+(39, 28, 25)
+Ans
+ A. (48, 82, 7)
+B. (23, 16, 16)
+C. (42, 40, 23)
+D. (11, 16, 4)
+Q.66 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+DER109, PQD91, BCP73, NOB55, ?
+Ans
+ A. SAN37
+B. ZAM37
+C. ZAN37
+D. ZEN37
+Q.67 What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘−’
+are interchanged and ‘×’ and ‘÷’ are interchanged?
+151 ÷ 5 + 72 × 3 − 17 = ?6382
+Ans
+ A. 745
+B. 746
+C. 747
+D. 748
+Q.68 Seven boxes A, B, C, D, I, J and K are kept one over the other but not necessarily in the
+same order. Only A is kept above I. Only two boxes are kept between I and C. Only K is
+kept below J. D is not kept immediately above C. How many boxes are kept between B
+and K?
+Ans
+ A. Two
+B. Four
+C. Three
+D. One
+Q.69 If + means - , - means x , x means ÷ , ÷ means +, then what will come in place of the
+question mark (?) in the following equation?
+45 – 4 ÷ 4 + 32 x 8 = ?
+Ans
+ A. 180
+B. 178
+C. 182
+D. 184
+Q.70 ABCD is related to DDJJ in a certain way based on the English alphabetical order. In the
+same way, MJEB is related to PLLH. To which of the given options is VPZT related,
+following the same logic?
+Ans
+ A. YREW
+B. YRGZ
+C. YGHJ
+D. YRTJ
+Q.71 Vinay ranked 48th from the top and 15th from the bottom in his class. How many
+students are there in his class?
+Ans
+ A. 60
+B. 61
+C. 63
+D. 62
+Q.72 What should come in place of the question mark (?) in the given series?
+68 64 56 44 28 ?
+Ans
+ A. 12
+B. 8
+C. 18
+D. 21
+Q.73 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. CG – YA
+B. DH – ZB
+C. UY – QS
+D. HL – DE
+Q.74 Seven people, A, B, C, D, E, F and G, are sitting in a row, facing north.
+Only five people sit between D and F. G sits to the immediate left of F. Only one person
+sits between G and A. B sits at some place to the left of C but at some place to the right
+of E.
+How many people sit to the right of A?
+Ans
+ A. 3
+B. 1
+C. 2
+D. 4
+Q.75 What should come in place of the question mark (?) in the given series?
+300 285 270 255 240 ?
+Ans
+ A. 221
+B. 224
+C. 225
+D. 223
+Q.76 Seven people, A, B, C, D, E, F and G, are sitting in a row, facing north.
+Only 2 people sit to the right of F. Only 3 people sit between F and A. Both E and C are
+immediate neighbours of G. D sits immediately to the left of B. C is not an immediate
+neighbour of A.
+How many people sit between D and E?
+Ans
+ A. 1
+B. 4
+C. 3
+D. 2
+Q.77 A, B, C, D, E, F and G are sitting around a circular table facing the centre. D sits second
+to the left of G. B sits second to the left of D. C sits to the immediate right of A. E sits
+third to the left of C. How many people sit between E and F when counted from the left
+of E?
+Ans
+ A. Two
+B. Three
+C. One
+D. Four
+Q.78 GL 9 is related to IH -8 in a certain way. In the same way, MR 4 is related to ON -13. To
+which of the given options is NS 13 related, following the same logic? 10579
+Ans
+ A. LP -5
+B. BH -1
+C. UH -3
+D. PO -4
+Q.79 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT
+belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. JQ - LI
+B. LS - OV
+C. FM - IP
+D. MT - PW
+Q.80 HJEI is related to OQLP in a certain way based on the English alphabetical order. In the
+same way, JLGK is related to QSNR. To which of the following is LNIM related, following
+the same logic?
+Ans
+ A. USTP
+B. USPT
+C. SUTP
+D. SUPT
+Section : General Awareness and Current Affairs
+Q.81 As announced on June 17, 2025, which of the following institutes have developed a
+novel one-step colloidal synthesis method for fabricating PEGylated semi-shells (SS)
+with nano-cup morphology at room temperature to treat cancer?
+Ans
+ A. Institute of Nano Science and Technology (INST), Chandigarh
+B. Institute of Nano Science and Technology (INST), Raebareli
+C. Institute of Nano Science and Technology (INST), Dehradun
+D. Institute of Nano Science and Technology (INST), Mohali
+Q.82 In July 2025, which of the following states of India launched the Smart Mosquito
+Surveillance System ("SMoSS"), to track and control mosquito populations more
+efficiently and safely?
+Ans
+ A. Punjab
+B. Jharkhand
+C. Andhra Pradesh
+D. Gujarat
+Q.83 Which Indian city was the first to issue a Certified Green Municipal Bond?
+Ans
+ A. Chennai
+B. Kochi
+C. Indore
+D. Ghaziabad
+Q.84 Which book, launched at the Raisina Dialogue 2025, focuses on water credits as a
+market-based mechanism for sustainable water management?
+Ans
+ A. Memories and Milestones
+B. Guardian of Heritage
+C. Trading Blue Gold: A Blueprint for Water Credit Valuation in India
+D. Sashakt Bharat
+Q.85 Who is the director of the movie Chhaava, which was released in February 2025?
+Ans
+ A. Prithviraj Sukumaran
+B. Laxman Utekar
+C. Anurag Kashyap
+D. Fahadh Faasil
+Q.86 As per Ministry of Earth Sciences, the number of seismic observatories in India
+increased from 80 in 2014 to how many in February 2025?
+Ans
+ A. 98
+B. 168
+C. 142
+D. 118
+Q.87 In June 2025, a stampede occurred near which stadium in Bengaluru?
+Ans
+ A. M Chinnaswamy Stadium
+B. Rajiv Gandhi International Stadium
+C. MA Chidambaram Stadium
+D. Barabati Stadium
+Q.88 Who won the Women’s Singles title at the Australian Open 2025?
+Ans
+ A. Iga Swiatek
+B. Coco Gauff
+C. Madison Keys
+D. Aryna Sabalenka
+Q.89 The Karnataka Amendment Bill, 2025 proposes punishment for what practice, even
+before an actual child marriage takes place?
+Ans
+ A. Minor adoption
+B. Minor migration
+C. Minor engagement
+D. Minor labour
+Q.90 According to Union Budget 2025–26, which mission was launched to document and
+conserve India’s manuscript heritage?
+Ans
+ A. Gyan Bharatam Mission
+B. Granth Sanrakshan Abhiyan
+C. Kala Sampada Mission
+D. Saraswati Archive Project
+Q.91 The 32nd Elets World Education Summit was hosted by which country in April 2025?
+Ans
+ A. India
+B. United Arab Emirates
+C. South Africa
+D. United Kingdom
+Q.92 According to the ‘Ramsar Information Sheet’ published in February 2025, which bird
+sanctuary in Tamil Nadu has been designated as a Ramsar site?
+Ans
+ A. Okhla Bird Sanctuary
+B. Sakkarakottai Bird Sanctuary
+C. Manjira Bird Sanctuary
+D. Kolleru Bird Sanctuary
+Q.93 Who threw 90.23 m in javelin at the Doha Diamond League, 2025, setting a record?
+Ans
+ A. Sachin Yadav
+B. Shivpal Singh
+C. Neeraj Chopra
+D. Annu Rani
+Q.94 Who presided over the 10th Governing Council Meeting of NITI Aayog in New Delhi on
+24 May 2025?
+Ans
+ A. Smt. Nirmala Sitharaman
+B. Shri. Amit Shah
+C. Shri. Narendra Modi
+D. Shri. Rajnath Singh
+Q.95 In 2025, which male field athlete joined Usain Bolt as the only track‑and‑field winners of
+Laureus Sportsman of the Year?
+Ans
+ A. Mondo Duplantis
+B. Novák Djokovic
+C. Max Verstappen
+D. Carlos Alcaraz
+"
+Q.96 In September 2025, which region planned to establish a dedicated women police station
+in each district for enhanced safety?
+Ans
+ A. Each District in Uttar Pradesh
+B. Each of Delhi’s 15 Districts
+C. All Districts of West Bengal
+D. Mumbai Suburban District
+Q.97 According to a news update on 9 June 2025, the High Seas Treaty will enter into force
+120 days after it is ratified by how many countries?
+Ans
+ A. 75
+B. 30
+C. 60
+D. 45
+Q.98 What is the name of the weapon system engineered to neutralise threats posed by
+coordinated drone swarms, which was successfully developed and tested by Solar
+Defense and Aerospace Limited (SDAL) in May 2025?
+Ans
+ A. Bheemastra
+B. Bhargavastra
+C. Brahmastra
+D. Shivastra
+Q.99 During WAVES 2025, Odisha CM mentioned India’s indigenous sports gainingglobal recognition. Which summit was this statement made at?
+Ans
+ A. Khelo India Youth Games
+B. Global Sports Expo India
+C. World Audio Visual and Entertainment Summit
+D. Bharat Sports Conclave
+Q.100What is the revised policy repo rate announced by the Reserve Bank of India in April
+2025?
+Ans
+ A. 6.50%
+B. 6.00%
+C. 5.75%
+D. 6.25%

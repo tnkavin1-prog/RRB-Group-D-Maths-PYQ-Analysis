@@ -1,0 +1,759 @@
+Q.1 Which property distinguishes a homogeneous mixture from a heterogeneous mixture?
+Ans
+ A. Fixed boiling point
+B. Chemical reaction
+C. Uniform composition
+D. High density
+Q.2 For a resistor with constant resistance, the magnitude of heat produced is directly
+proportional to which of the following?
+Ans
+ A. Square of the current flowing through the resistor
+B. Current flowing through the resistor
+C. Density of the material
+D. Length of the resistor
+Q.3 Which multicellular organism shows fragmentation as a common mode of asexual
+reproduction?
+Ans
+ A. Spirogyra
+B. Bryophyllum
+C. Orange
+D. Jasmine
+Q.4 A porter lifts a luggage of mass 25 kg from the ground to a height of 2.0 m.
+What is the work done by him on the luggage? (Take 
+ )
+Ans
+ A. 500 J
+B. 250 J
+C. 50 J
+D. 100 J
+Q.5 Which part of the food-conducting complex tissue in plants is tubular and has
+perforated walls?
+Ans
+ A. Companion cell
+B. Phloem parenchyma
+C. Sieve plate
+D. Sieve tube
+Test Date 10/02/2026
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which of the following statements about a proton is correct ?
+Ans
+ A. A proton is negatively charged and has very small mass
+B. A proton is positively charged and mass is 1/2000 of a hydrogen atom
+C. A proton is positively charged and its mass is taken as one unit
+D. A proton is neutral in charge and has mass equal to an electron
+Q.7 Which of the following is the SI unit of weight?
+Ans
+ A. Joule
+B. Pascal
+C. Kilogram
+D. Newton
+Q.8 Which type of blood vessel has thick, elastic walls to withstand high pressure?
+Ans
+ A. Capillary
+B. Venule
+C. Vein
+D. Artery
+Q.9 When substituting numerical values for the distances (u, v, f) into the Mirror Formula to
+solve problems, which prerequisite must be strictly followed?
+Ans
+ A. The focal length (f) must always be taken as positive
+B. The New Cartesian Sign Convention must be used
+C. All measurements must be taken from the centre of curvature
+D. All values must be converted to metres
+Q.10 A sodium chloride crystal contains sodium and chloride ions in a 1:1 ratio. To calculate
+the formula unit mass of sodium chloride, which process would you use?
+Ans
+ A. Add the atomic mass of sodium and the atomic mass of chlorine
+B. Multiply the atomic mass of sodium and the atomic mass of chlorine
+C. Subtract the atomic mass of chlorine from that of sodium
+D. Divide the atomic mass of sodium by that of chlorine
+Q.11 For a body moving with uniform velocity, the acceleration is:
+Ans
+ A. zero
+B. decreasing
+C. increasing
+D. constant
+Q.12 Which condition is essential for a dispersed seed to successfully undergo germination
+and develop into a seedling?
+Ans
+ A. Exposure to sunlight only
+B. Complete decay of the fruit enclosing the seed only.
+C. Presence of appropriate environmental conditions
+D. Physical separation from the parent flower
+Q.13 What is the advantage of combining DNA from two different individuals in sexually
+reproducing animals?
+Ans
+ A. It reduces the need for specialized reproductive organs.
+B. It increases genetic variation within the population.
+C. It eliminates errors in DNA copying.
+D. It speeds up the reproduction process.
+Q.14 Which of the following statements is true about a base in an aqueous solution?
+Ans
+ A. They produce OH− ions in water.
+B. They have a sour taste.
+C. They react with metals to produce hydrogen gas.
+D. They turn blue litmus red.
+Q.15 Megaphone, horn and stethoscope are the devices used to __________.
+Ans
+ A. Control amplitude of sound
+B. Block sound
+C. Change pitch
+D. Produce, transmit, and amplify sound
+Q.16 Identify the product in the reaction given below.
+Ans
+ A. Propanal
+B. Propanone
+C. Ethanal
+D. Ethanoic acid
+Q.17 The SI unit of the universal gravitational constant G is _____________.
+Ans
+ A. kg/m3
+B. N/m2
+C. N·m2/kg2
+D. N-Kg2/m2
+Q.18 Animals with high energy needs and constant body temperature, like birds and
+mammals, have __________ chambered hearts. 
+Ans
+ A. Three
+B. Four
+C. Two
+D. One
+Q.19 A wire of length ‘L’, area of cross-section ‘A’ and resistivity ‘ρ’ has a resistance ‘R’.
+What will be the new resistance of this wire if its area of cross-section is tripled? (Keep
+all the other parameters the same)
+Ans
+ A. 3R
+B. R/3
+C. R/9
+D. R
+Q.20 Which of the following is always formed during a neutralization reaction between a
+strong acid and a strong base?
+Ans
+ A. Only water
+B. Salt, water, and carbon dioxide
+C. Salt and hydrogen gas
+D. Salt and water
+Q.21 When brakes are applied to a moving car, the car slows down but the passengers
+inside tend to move forward. This happens because ________.
+Ans
+ A. the brakes apply a forward force on the passengers
+B. the passengers are pulled forward by gravity
+C. the passengers have inertia and continue in their state of motion
+D. the air inside the car pushes the passengers forward
+Q.22 Which of the following is a micronutrient?
+Ans
+ A. Phosphorous
+B. Manganese
+C. Nitrogen
+D. Magnesium
+Q.23 Which of the following rays is NOT used to locate the image formed by a spherical
+mirror?
+Ans
+ A. A ray passing through the focus that reflects parallel to the principal axis
+B. A ray perpendicular to the principal axis that reflects through the focus
+C. A ray parallel to the principal axis that reflects through the focus
+D. A ray passing through the center of curvature that reflects back along the same path
+Q.24 Which of the following molecules is split apart by higher energy ultraviolet for
+formation of ozone?
+Ans
+ A. Zinc
+B. Oxygen
+C. Sodium
+D. Iron
+Q.25 What is the main purpose of refining a metal after it has been extracted?
+Ans
+ A. To increase the melting point of the metal
+B. To remove impurities from the extracted metal
+C. To reduce the reactivity of the metal
+D. To convert the metal into an alloy
+Q.26
+Ans
+ A. 42 years
+B. 48 years
+C. 40 years
+D. 28 years
+Q.27 What is the smallest natural number which when divided by 18, 35 and 140 leaves
+remainder 7 in each case?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Section : Mathematics
+Q.28
+Ans
+ A. 23.3
+B. 14.1
+C. 22.2
+D. 25.3
+Q.29
+Ans
+ A. 2
+B. 1.25
+C. 1
+D. 1.5
+Q.30
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.31 The ratio of the sum of exterior angles to the sum of interior angles of a regular
+polygon of n sides is 2 : 43. What is the measure of an interior angle of the regular
+polygon?
+Ans
+ A. 172°
+B. 174°
+C. 176°
+D. 170°
+Q.32 The price of each article of types P, Q, and R is ₹280, ₹185, and ₹105, respectively.
+Yogesh buys articles of each type in the ratio 4 : 2 : 5 and spends a total of ₹8,060. How
+many articles of type Q did he purchase?
+Ans
+ A. 4
+B. 6
+C. 12
+D. 8
+Q.33 Simplify (5pq + 16q)2 - (5pq - 16q)2.
+Ans
+ A. 320pq2
+B. 160p2q2
+C. 320p2q
+D. 160pq2
+Q.34 A rare book dealer sells a vintage novel to a collector for ₹1,440. The
+collector later auctions it at a 25% proﬁt. What price does the ﬁnal buyer
+pay at the auction?
+Ans
+ A. ₹1,620
+B. ₹1,860
+C. ₹1,800
+D. ₹360
+Q.35 The amount on a sum of ₹6,400 at the rate of 15% per annum compound interest,
+compounded annually, in 2 years will be:
+Ans
+ A. ₹8,375
+B. ₹8,078
+C. ₹8,413
+D. ₹8,464
+Q.36 The average of the first 12 odd natural numbers is:
+Ans
+ A. 12
+B. 12.5
+C. 11.5
+D. 13
+Q.37
+611
+Ans
+ A. 1848 cm2
+B. 1798 cm2
+C. 1978 cm2
+D. 2048 cm2
+Q.38 Shivam spends 50% of his income. If he saves ₹42,000, then his income (in ₹) is:
+Ans
+ A. 83,000
+B. 85,000
+C. 21,000
+D. 84,000
+Q.39 Find the median for the data 9, 6, 8, 11, 16, and 22.
+Ans
+ A. 12
+B. 10
+C. 11
+D. 9
+Q.40 What is the minimum value that must be assigned to A so that the 8-digit number
+322A4828 is divisible by 4?
+Ans
+ A. 4
+B. 3
+C. 5
+D. 0
+Q.41 If the marked price of a fan is ₹775 and a discount of 12% is given on it, then what is the
+selling price of the fan?
+Ans
+ A. ₹682
+B. ₹686
+C. ₹680
+D. ₹684
+Q.42 Three workers, A, B, and C, are assigned to paint a wall. A can complete the task in 8
+hours, B in 12 hours, and C in 16 hours. If they all start together but C leaves after 2
+hours, how much time in total will it take to finish the task?
+Ans
+ A. 3 hours
+B. 5.5 hours
+C. 4.2 hours
+D. 6 hours
+Q.43 The population of a village was 1,60,000. It increased by 15% in the first year and
+increased by 30% in the second year. Its population after two years will be _______.
+Ans
+ A. 2,08,000
+B. 1,84,000
+C. 2,39,200
+D. 2,32,000
+Q.44 Suman, Tariq and Neha invest sums in the ratio 6 : 11 : 12, respectively. If they earned a
+total profit of ₹79,721 at the end of the year, then what is the positive difference
+between the shares of Suman and Neha?
+Ans
+ A. ₹16,492
+B. ₹16,493
+C. ₹16,494
+D. ₹16,491
+Q.45 In a race, an athlete covers a distance of 450 m in 150 sec in the first lap. He covers the
+second lap of the same distance in 75 sec. What is the average speed (in m/sec) of the
+athlete?
+Ans
+ A. 4
+B. 11
+C. 10
+D. 5
+Q.46 Amit can do a piece of work in 13 days. Gopal is 30% more efficient than Amit. The
+number of days taken by Gopal to do the same piece of work is:2972
+Ans
+ A. 10
+B. 20
+C. 13
+D. 15
+Q.47 If the length of a rectangle is 5 cm more than the breadth and if the perimeter of the
+rectangle is 40 cm, then the length and breadth of the rectangle will be:
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.48 In an election between two candidates, 78% of the voters cast their votes, out of which
+4% votes were declared invalid. A candidate got 13,572 votes, out of which 58% were
+valid votes. Find the total number of voters enrolled in that election.
+Ans
+ A. 33,540
+B. 31,250
+C. 30,150
+D. 28,680
+Q.49 A retailer offers the following discount schemes for buyers on an article. Which scheme
+will fetch the maximum selling price?
+Ans
+ A. Two successive discounts of 10%
+B. Successive discounts of 25% and 36%
+C. A discount of 12% followed by a discount of 46%
+D. A discount of 23% followed by a discount of 15%
+Q.50
+Ans
+ A. 556.375 cm3
+B. 606.375 cm3
+C. 506.475 cm3
+D. 616.475 cm3
+Q.51 What should come in place of ‘?’ in the given series?
+78 92 108 126 146 ?
+Ans
+ A. 162
+B. 168
+C. 170
+D. 165
+Q.52 In a row of 50 students facing North, Meha is 15th from the right end. If Priya is 8th to
+the left of Meha, what is Priya's position from the left end of the line?
+Ans
+ A. 27th
+B. 26th
+C. 28th
+D. 29th
+Q.53 Seven people, A, B, C, D, E, F and G are sitting in a row, facing north. B sits sixth from
+the left end of the row. Only two people sit to the left of D. F sits to the right of A but left
+of D. E sits third to the left of G. How many people sit between C and G?
+Ans
+ A. Two
+B. Three
+C. One
+D. Four
+Q.54 GUSB is related to LZXV in a certain way based on the English alphabetical order. In the
+same way, NHIN is related to SMNH. To which of the following is MLKO related,
+following the same logic?
+Ans
+ A. RQPI
+B. SQQJ
+C. SPQI
+D. RPPJ
+Q.55 Town A is to the west of Town B. Town D is to the south of Town A. Town C is to the
+east of Town D. If Town E is to the north of Town C, what is the direction of Town B with
+respect to Town D? 298
+Ans
+ A. North east
+B. South
+C. East
+D. West
+Section : General Intelligence and Reasoning
+Q.56 Which of the following letter-number clusters will replace the question mark (?) in the
+given series to make it logically complete?
+GSN 14, EQL 23, COJ 32, AMH 41, ?9645
+Ans
+ A. ZKE 49
+B. YKF 50
+C. YJD 50
+D. YKE 49
+Q.57 In a certain code language,
+A+ B means ‘A is the sister of B’
+A # B means ‘A is the brother of B’
+A × B means ‘A is the wife of B’
+A @ B means ‘ A is the father of B’
+Based on the above, how is L related to R if ‘ L@O#V+E×R’?
+Ans
+ A. Father
+B. Wife's father
+C. Wife's brother
+D. Brother
+Q.58 VANE is related to DIVM in a certain way based on the English alphabetical order. In the
+same way, BGTK is related to JOBS. To which of the following options is ZERI related,
+following the same logic?
+Ans
+ A. HMQW
+B. HMWE
+C. HMZQ
+D. HWER
+Q.59 What will come in the place of the question mark (?) in the following equation, if ‘+’ and
+‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+405 × 5 − 32 + 16 ÷ 6 = ?
+Ans
+ A. 17
+B. 16
+C. 19
+D. 18
+Q.60 Seven people, A, B, C, D, E, F and G are sitting in a row, facing north. Only six people
+sit to the left of F. D sits fourth from the right end of the row. Only two people sit
+between A and D. G is the immediate neighbour of C and F. B does not sit to the left of
+E.
+How many people sit between E and G?
+Ans
+ A. None
+B. Four
+C. Three
+D. Two
+Q.61 This question is based on the five, three-digit numbers given below.
+(Left) 700 496 723 316 639 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+What will be the resultant if the second digit of the highest number is subtracted from
+the third digit of the lowest number?9042
+Ans
+ A. 7
+B. 5
+C. 4
+D. 3
+Q.62 Seven people, S, Q, U, A, R, E and D are sitting in a row, facing north.
+Only two people sit to the right of A. Only two people sit between A and R. Only two
+people sit between E and D. D sits to the immediate left of A. S sits to the immediate
+right of U.
+Who sits at the third position from the left end of the line?
+Ans
+ A. S
+B. R
+C. E
+D. Q
+Q.63 Refer to the following letter series and answer the question.
+(Left) C H T M L K N B P G Q D V W R A X Z F Y E S (Right)
+How many unique vowels are there in the above series? (Each vowel counted only once
+regardless of repetition.) 5700
+Ans
+ A. Two
+B. Three
+C. Four
+D. One
+Q.64 What should come in place of the question mark (?) in the given series?
+42 47 53 60 68 ?6045
+Ans
+ A. 77
+B. 76
+C. 79
+D. 78
+Q.65 What should come in place of ? in the given series in order to make it logically
+complete?
+YY49 WV36 TR25 PM16 ?3867
+Ans
+ A. JK4
+B. KH9
+C. LH9
+D. KG9
+Q.66 Gyalmu starts from Point A and drives 15 km towards east. He then takes a right turn,
+drives 16 km, turns right and drives 17 km. He then takes a right turn and drives 18 km.
+He takes a final right turn, drives 2 km and stops at Point P. How far (shortest distance)
+and towards which direction should he drive in order to reach Point A again?
+(All turns are 90 degree turns only unless specified)
+Ans
+ A. 2 km to the south
+B. 3 km to the south
+C. 1 km to the south
+D. 4 km to the south
+Q.67 In a certain code language, ‘bees buzz close’ is coded as ‘zd st cq’ and ‘hear bees hum’
+is coded as ‘cq ge vm’. How is ‘bees’ coded in the given language?
+Ans
+ A. vm
+B. zd
+C. ge
+D. cq
+Q.68 Read the given statements and conclusions carefully. You have to take the given
+statements to be true even if they seem to be at variance from commonly known facts.
+You have to decide which conclusion/s logically follow/s from the given statements.
+Statements: All cars are buses. All buses are ships. No car is a train.
+Conclusion (I) : No bus is a train.
+Conclusion (II) : No ship is a train.
+Ans
+ A. Both conclusions (I) and (II) follow
+B. Only conclusion (II) follows
+C. Only conclusion (I) follows
+D. Neither conclusion (I) nor (II) follows
+Q.69 This question is based on the five, three-digit numbers given below.
+(Left) 431 853 326 139 268 (Right)
+(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)
+NOTE - All operations to be done from left to right.
+What will be the resultant if the third digit of the highest number is added to the second
+digit of the lowest number?
+Ans
+ A. 4
+B. 8
+C. 6
+D. 9
+Q.70 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)       
+Ans
+ A. TVV
+B. JKL
+C. DEF
+D. GHI
+Q.71 If 3 is added to each odd digit and 4 is subtracted from each even digit in the number
+5346188, what will be the sum of the digits which are third from the left and fourth from
+the right in the new number thus formed?
+Ans
+ A. 2
+B. 6
+C. 4
+D. 0
+Q.72 Read the given statement(s) and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statement(s).
+Statements: All kettles are ovens. All ovens are toasters.
+Conclusion (I): Some toasters are kettles
+Conclusion (II): No toaster is a kettle
+Ans
+ A. Neither conclusion (I) nor (II) follows
+B. Only conclusion (I) follows
+C. Both conclusions (I) and (II) follow
+D. Only conclusion (II) follows
+Q.73 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+12 - 4 - 48
+15 - 3 - 45
+Ans
+ A. 19 - 2 - 38
+B. 21 - 3 - 61
+C. 16 - 2 - 34
+D. 3 - 4 - 14
+Q.74 XTBH is related to BXFL in a certain way based on the English alphabetical order. In the
+same way, MFKP is related to QJOT. To which of the given options is BXLR related,
+following the same logic?
+Ans
+ A. GCQW
+B. FBPV
+C. DZNU
+D. EAOU
+Q.75 Refer to the following series and answer the question (all numbers are single digit
+numbers only). Counting to be done from left to right only.
+(Left) 1 6 8 1 6 2 8 1 4 3 8 2 9 7 8 7 3 9 5 5 6 (Right)
+How many such even digits are there each of which is immediately preceded by an odd
+digit and also immediately followed by an even digit?
+Ans
+ A. 1
+B. 3
+C. 4
+D. 2
+Q.76 Based on the English alphabetical order, three of the following four letter cluster pairs
+are alike in a certain way and thus form a group. Which is the one that does not belong
+to that group?
+(Note: The odd man out is not based on the number of consonants/vowels or their
+position in the letter cluster)
+Ans
+ A. JR - NV
+B. LF - PJ
+C. YA - CF
+D. TI - XM
+Q.77 All 144 people are standing in a row facing north. Mr. Lkj is 65th from the left end while
+Mr. Ihg is 8th from the right end. How many people are there between Mr. Lkj and Mr.
+Ihg?
+Ans
+ A. 71
+B. 70
+C. 72
+D. 69
+Q.78 In a certain code language, ‘READ’ is coded as ‘4628’ and ‘AIMS’ is coded as ‘5716’.
+What is the code for ‘A’ in the given code language?
+Ans
+ A. 5
+B. 7
+C. 6
+D. 2
+Q.79 What should come in place of ‘?’ in the given series?
+8, 33, 69, ?, 182, 263
+Ans
+ A. 118
+B. 116
+C. 122
+D. 120
+Q.80 If 1 is added to each even digit and 2 is subtracted from each odd digit in the number
+28369475, then how many digits will appear more than once in the new number thus
+formed?
+Ans
+ A. 4
+B. 3
+C. 1
+D. 2
+Q.81 Which organization conducted the National Achievement Survey, renamed PARAKH
+Rashtriya Sarvekshan in 2024, in which Kerala ranked second?
+Ans
+ A. State Council of Educational Research and Training
+B. National Testing Agency
+C. PARAKH under NCERT in collaboration with CBSE
+D. Central Board of Secondary Education
+Q.82 In October 2025, who among the following was appointed as the Director General of the
+Central Industrial Security Force?
+Ans
+ A. Anil Kumar
+B. Rakesh Asthana
+C. Praveer Ranjan
+D. Kuldiep Singh
+Q.83 What is celebrated on 9 January 2025 to recognise the contributions of the Indian
+diaspora?
+Ans
+ A. Army Day
+B. National Tourism Day
+C. World Hindi Day
+D. Pravasi Bharatiya Divas
+Q.84 Where did Union Home Minister Amit Shah inaugurate India’s largest and most modern
+sports complex in September 2025?
+Ans
+ A. Ahmedabad
+B. Vadodara
+C. Surat
+D. Gandhinagar
+Q.85 Which category of climate finance did India argue should be scaled up independently
+during the post-COP-30 negotiations held in November 2025?
+Ans
+ A. Loss and damage finance
+B. Adaptation finance
+C. Carbon market finance
+D. Green hydrogen finance
+Section : General Awareness and Current Affairs
+Q.86 In July 2025, which Indian government body submitted its third Voluntary National
+Review (VNR) to the United Nations High-Level Political Forum (HLPF) on Sustainable
+Development?
+Ans
+ A. Comptroller and Auditor General of India (CAG)
+B. Reserve Bank of India (RBI)
+C. Finance Commission of India (FCI)
+D. National Institution for Transforming India (NITI Aayog)
+Q.87 How many new national records were set during the Khelo India Para Games 2025?
+Ans
+ A. 15
+B. 18
+C. 20
+D. 12
+Q.88 Who was voted the 2024 NBA Finals most valuable player (FMVP)?
+Ans
+ A. Jayson Tatum
+B. Immanuel Jaylen Quickley
+C. Malachi Flynn
+D. Jaylen Brown
+Q.89 Which Vietnamese-American author released 'The Emperor of Gladness' in May 2025?
+Ans
+ A. Charlotte McConaghy
+B. Colum McCann
+C. Ocean Vuong
+D. Sharon Lee
+Q.90 Which of the following National Parks received rupees ₹1.5 crore in June 2025 for the
+establishment of two new Rhino Rehabilitation Areas?
+Ans
+ A. Kaziranga National Park
+B. Jim Corbett National Park
+C. Dudhwa National Park
+D. Sundarbans National Park
+Q.91 The Van Dhan Vikas Kendra at Dugong Creek aims to make the Onge tribe self-
+sustainable through which of the following?
+Ans
+ A. Bamboo handicrafts
+B. Coconut-based products
+C. Herbal medicine production
+D. Honey and wild forest produce
+Q.92 What is the name of India’s first indigenously developed CRISPR gene therapy
+designed to treat Sickle Cell Disease?
+Ans
+ A. BIRSA 101
+B. SCD Cure X
+C. CRISPR-Cure
+D. GeneHeal Pro
+Q.93 Which pioneering molecular biologist, who co-discovered the double helix structure of
+DNA along with Francis H. C. Crick and was awarded the Nobel Prize in Physiology or
+Medicine in 1962, passed away at the age of 97 in East Northport, New York?
+Ans
+ A. James D. Watson
+B. Maurice Wilkins
+C. Rosalind Franklin
+D. Francis H. C. Crick
+Q.94 What is one of the primary purposes of the proposed Kulsi project?
+Ans
+ A. Tourism promotion and irrigation
+B. Hydropower generation and irrigation
+C. Military infrastructure
+D. Industrial development
+Q.95 Which state topped the medal tally at the Khelo India Para Games 2025?
+Ans
+ A. Maharashtra
+B. Haryana
+C. Tamil Nadu
+D. Uttar Pradesh
+Q.96 Which team won the NBA championship trophy for 2023-24?
+Ans
+ A. Philadelphia Warriors
+B. Rochester Royals
+C. Boston Celtics
+D. Toronto Raptors
+Q.97 As reported in August 2025, the GST Group of Ministers (GoM) proposed to completely
+exempt premiums paid towards health and life insurance policies from the GST levy.
+What was the GST rate levied on health insurance premiums in India prior to this
+proposed exemption?
+Ans
+ A. 5%
+B. 10%
+C. 18%
+D. 12%
+Q.98 Inaugurated in September 2025, the Monopropellant Thruster Test Facility (MPTTF)
+primarily supports testing activities related to which broad technological domain?
+Ans
+ A. Satellite navigation
+B. Nuclear propulsion
+C. Hypersonic flight
+D. Space propulsion systems
+Q.99 Which organisation developed the SAKSHAM counter-Unmanned Aircraft System grid
+launched by the Indian Army in 2025?
+Ans
+ A. Bharat Electronics Limited Ghaziabad
+B. Hindustan Aeronautics Limited Nashik
+C. Indian Space Research Organisation Bengaluru
+D. Defence Research and Development Organisation Hyderabad
+"
+Q.100In August 2025, who among the following chaired the Group of Ministers (GoM) that
+proposed exempting Goods and Services Tax (GST) on life and health insurance
+policies for individuals?
+Ans
+ A. Nitin Gadkari
+B. Samrat Choudhary
+C. Mallu Bhatti Vikramarka
+D. Ajay Seth

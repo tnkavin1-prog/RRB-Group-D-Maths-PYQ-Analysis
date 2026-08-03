@@ -1,0 +1,766 @@
+Q.1 A force (F) of 10 N is applied on a body, causing it to move 5 m in the direction of the
+force. The work done (W) is _____.
+Ans
+ A. 15 J
+B. 2 J
+C. 5 J
+D. 50 J
+Q.2 A car starts from rest and reaches a speed of 72 km/hr in 20 seconds. What is the
+acceleration of the car?
+Ans
+ A. 4 m/s²
+B. 3 m/s²
+C. 2 m/s²
+D. 1 m/s²
+Q.3 Which of the following is a component of phloem tissue?
+Ans
+ A. Sieve tubes
+B. Tracheids
+C. Xylem fibres
+D. Vessels
+Q.4 Which of the following is/are true about the magnetic field lines around a bar magnet?
+(i) The relative strength of the magnetic field is shown by the degree of closeness of the
+field lines.
+(ii) No two magnetic field lines can intersect each other.
+Ans
+ A. Neither (i) nor (ii)
+B. Only (ii)
+C. Both (i) and (ii)
+D. Only (i)
+Q.5 Where does fertilisation usually occur in the female reproductive system?
+Ans
+ A. Uterus
+B. Oviduct
+C. Cervix
+D. Vagina
+Test Date 05/12/2025
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 The relationships of food chain, which can be shown as a series of branching lines is
+called:
+Ans
+ A. World wide web
+B. Food web
+C. Spider web
+D. Trophic level
+Q.7 Seed dispersal is important for plants because it:
+Ans
+ A. prevents pollination
+B. increases the size of seeds
+C. prevents overcrowding and competition
+D. ensures seed death after fertilisation
+Q.8 Which of the following is NOT an example of action and reaction forces?
+Ans
+ A. The swimmer pushes the water backward with her hands
+B. Foot pushes the ground backward and ground pushes the foot forward
+C. A rocket moving upward due to gases expelled downward
+D. When the bus stops suddenly, people fall forward
+Q.9 According to Thomson’s model of an atom, which of the following statements best
+describes the structure of the atom?
+Ans
+ A. The atom consists of a dense nucleus surrounded by electrons.
+B. Electrons are embedded in a positively charged sphere.
+C. Electrons revolve around a central nucleus in fixed orbits.
+D. The atom contains only neutrons and electrons.
+Q.10 A ball is thrown vertically upward with initial velocity (u). After time (t), its velocity (v)
+becomes __________.
+Ans
+ A. v = gt−uv
+B. v = u⋅ gtv
+C. v = u−gt
+D. v = u+gt
+Q.11 Which of the following statements best describes allotropes of carbon?
+Ans
+ A. They are different isotopes of carbon with varying numbers of neutrons.
+B. They are different structural forms of carbon with different physical properties but similar chemical properties.
+C. They are isomers of carbon, having the same molecular formula but different structures.
+D. They are compounds formed by carbon with different elements.
+Q.12 The pH of four different solutions are given in the options. Which of them will turn red
+litmus blue?
+Ans
+ A. 2
+B. 4
+C. 11
+D. 6
+Q.13 Which of the following industries uses sodium hydroxide for processing wood pulp?
+Ans
+ A. Textile Industry
+B. Paper Industry
+C. Food Industry
+D. Soap Industry
+Q.14 In animals, sensitivity or responsiveness is mainly controlled by the:
+Ans
+ A. digestive system
+B. circulatory system
+C. nervous system
+D. respiratory system
+Q.15 Which of the following statements is correct?
+Ans
+ A. Sound travels faster in vacuum than in air.
+B. Sound waves are transverse and need a medium.
+C. Sound can travel in vacuum because it is longitudinal.
+D. Sound requires a medium to travel and is longitudinal.
+Q.16 Which statement DOES NOT relate to the versatile nature of carbon?.
+Ans
+ A. It can have single, double, and triple bonds.
+B. It can bond ionically.
+C. It has catenation.
+D. It is tetravalent.
+Q.17 The angle between the incident ray and the emergent ray of a prism is called:
+Ans
+ A. Angle of emergence
+B. Angle of refraction
+C. Angle of incidence
+D. Angle of deviation
+Q.18 What is the mass number of a neutral atom with 11 electrons, 11 protons and 12
+neutrons?
+Ans
+ A. 12
+B. 22
+C. 11
+D. 23
+Q.19 What is the purpose of cross-breeding exotic and local cattle breeds?
+Ans
+ A. To reduce food requirements
+B. To make animals smaller in size
+C. To combine long lactation with disease resistance
+D. To make the animals more aggressive
+Q.20 Which of the following functions is NOT associated with Golgi Complex?
+Ans
+ A. It forms lysosomes that help in intracellular digestion.
+B. It permits entries and exits of substances from the cell.
+C. It transports and secretes materials outside the cell.
+D. It modifies and packages proteins received from the endoplasmic reticulum.
+Q.21 The crystalline lens of the eye mainly helps in:
+Ans
+ A. Detecting colour of objects
+B. Controlling the amount of light entering the eye
+C. Sending signals to the brain
+D. Providing fine adjustment of focal length
+Q.22 What is the role of nitrogen gas in chip packets?
+Ans
+ A. It absorbs moisture
+B. It prevents oxidation
+C. It adds flavour
+D. It adds crispiness
+Q.23 Which of the following experimental observations provides the strongest evidence for
+the existence of particles in matter?
+Ans
+ A. A drop of ink spreads evenly in water without stirring
+B. Salt dissolves faster in warm water than in cold water
+C. Water boils and produces steam
+D. Ice melts into water when heated
+Q.24 If a conductor has a resistance of 10 Ω and a potential difference of 5 V is applied
+across it, what is the current flowing through it?
+Ans
+ A. 0.5 A
+B. 2 A
+C. 0.2 A
+D. 5 A
+Q.25 Which of the following is a safe sex method to help prevent the transmission of HIV
+(human immunodeficiency virus)?
+Ans
+ A. Using condoms during sexual intercourse
+B. Taking multivitamins regularly
+C. Sharing needles carefully
+D. Taking antibiotics after sex
+Q.26
+Ans
+ A. 222
+B. 220
+C. 225
+D. 224
+Q.27 If p : q : r = 13 : 5 : 14 and r : s = 42 : 3, then what is the value of p : q : r : s?5291
+Ans
+ A. 40:19:48:9
+B. 39:15:42:3
+C. 36:19:45:4
+D. 41:22:45:8
+Q.28 A vendor bought 100 dozens of bananas for ₹4,800 and sold them at 4 bananas for ₹20.
+Find his gain percentage.
+Ans
+ A. 35%
+B. 20%
+C. 30%
+D. 25%
+Section : Mathematics
+Q.29
+Ans
+ A. 2
+B. 0.5
+C. 4
+D. 1
+Q.30 If 2a + b + c = 0 and 8a3 + b3 + c3 = kabc, then find the value of k2.
+Ans
+ A. 81
+B. 49
+C. 16
+D. 36
+Q.31 A purse has ₹1 and ₹2 coins in the ratio 3 : 2. If the total amount of money is ₹70, how
+many coins are there in total?
+Ans
+ A. 35
+B. 45
+C. 40
+D. 50
+Q.32 The average age of 20 students of a class is 29 years. If the age of the teacher is also
+included, the average age of the whole group becomes 30 years. The age (in years) of
+the teacher is:
+Ans
+ A. 52
+B. 53
+C. 50
+D. 49
+Q.33 A rectangular box without a lid is made of thin sheet metal. The box has a length of 60
+cm, a breadth of 40 cm, and a height of 30 cm. Find the total area of the sheet metal
+used to make the box and the cost of the sheet if 1 m² costs ₹50.
+Ans
+ A. ₹56
+B. ₹42
+C. ₹44
+D. ₹60
+Q.34 A motorist travels a total distance of 30 km in 50 minutes. He drives at a speed of x
+km/hr for the first 11 minutes, then at 2x km/hr for the next 25 minutes, and finally at x
+km/hr for the remaining part of the journey. Find the value of x.
+Ans
+ A. 24
+B. 29
+C. 21
+D. 27
+Q.35 A number is increased by 15% and the resulting number is again increased by 10%.
+What is the overall percentage increase in the number?
+Ans
+ A. 26.5%
+B. 15%
+C. 12.5%
+D. 10%
+Q.36 Rahul is 5 years younger than his sister. After 3 years, the sum of their ages will be 35
+years. Find Rahul's present age.
+Ans
+ A. 12 years
+B. 18 years
+C. 15 years
+D. 14 years
+Q.37 An amount of ₹4328 is divided among A, B, C and D in such a way that the shares of A
+and B, B and C, and C and D are in the ratios of 4 : 5, 4 : 5 and 6 : 7, respectively. The
+share of A (in ₹) is:
+Ans
+ A. 804
+B. 700
+C. 724
+D. 768
+Q.38 A hemisphere has radius 3.5 cm. If total surface area of hemisphere is equal to the
+surface area of a sphere, then what is the volume of the sphere?
+Ans
+A. 
+B. 
+C. 
+D. 
+Q.39 If 20% of a number is added to 96, then the result is the same number. 60% of the same
+number is:
+Ans
+ A. 92
+B. 102
+C. 72
+D. 82
+Q.40 The marked price of an item is set at 49% above its cost price. If the merchant sells the
+item at 16% below the marked price, his profit percentage (rounded off to 1 decimal
+place) is:
+Ans
+ A. 25.2%
+B. 28.8%
+C. 26.3%
+D. 29.1%
+Q.41 A, B and C can do a piece of work in 3, 6 and 10 days, respectively. How long (in days)
+will they take to do thrice the same work, working together?
+Ans
+ A. 5
+B. 6
+C. 15
+D. 10
+Q.42 The income of Raman is ₹50,400. He saves 7.5% of his income. If his income increases
+by 26% and expenditure increases by 45%, then his savings will:
+Ans
+ A. increase by ₹7,878
+B. decrease by ₹7,880
+C. decrease by ₹7,875
+D. increase by ₹7,872
+Q.43 Two pipes can fill a tank in 10 and 12 minutes respectively and a waste pipe can empty 6
+gallons per minute. All the three pipes working together can fill the tank in 30 minutes.
+Find the capacity of the tank.7001
+Ans
+ A. 45 gallons
+B. 25 gallons
+C. 30 gallons
+D. 40 gallons
+Q.44 In quadrilateral PQRS, the bisectors of ∠R and ∠S meet at the point T (inside the
+quadrilateral) and ∠STR = 40°. If the ratio of ∠P to ∠Q is 3 : 5, then what is the
+difference between the measures of ∠Q and ∠P?
+Ans
+ A. 17°
+B. 21°
+C. 24°
+D. 20°
+Q.45 Which of the following numbers is the largest number between 4000 and 5000 that is
+completely divisible by 42?
+Ans
+ A. 4446
+B. 4956
+C. 4032
+D. 4998
+Q.46 If the ratio of two numbers is 8 : 7, and their HCF is 30, then their LCM is:2610
+Ans
+ A. 1687
+B. 1662
+C. 1717
+D. 1680
+Q.47 Smart Bazaar is offering 'Buy 14, Get 11 free' on household items. What is the net
+percentage discount being offered by the Smart Bazaar?
+Ans
+ A. 45%
+B. 44%
+C. 46%
+D. 48%
+Q.48 Two trains 285 metres and 235 metres long are running in the opposite direction with
+speeds of 61 km/hr and 83 km/hr, resepectively. In how much time will the first train
+cross the second?3631
+Ans
+ A. 13 seconds
+B. 3 seconds
+C. 16 seconds
+D. 5 seconds
+Q.49
+Ans
+ A. 74.25 m
+B. 77.75 m
+C. 72.75 m
+D. 79.25 m
+Q.50 To buy furniture for a new apartment, Chang borrowed ₹50,000 at 16% per annum
+simple interest for 18 months. How much interest will she pay?
+Ans
+ A. ₹11,000
+B. ₹11,500
+C. ₹12,000
+D. ₹10,500
+Q.51 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(50, 1200, 12)
+(4, 120, 15)
+Ans
+ A. (43, 2071, 24)
+B. (39, 858, 11)
+C. (12, 535, 22)
+D. (36, 1087, 15)
+Q.52 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. FL – IJ
+B. MQ – PN
+C. PJ – SH
+D. LD – OB
+Q.53 Refer to the following number and symbol series and answer the question that follows.
+Counting to be done from left to right only. All numbers are single-digit numbers.
+(Left) 3 & 6 © 3 6 © € % 6 & 4 9 5 4 % € £ $ % 9 1 (Right)
+How many such numbers are there, each of which is immediately preceded by a symbol
+and also immediately followed by a symbol?
+Ans
+ A. 4
+B. 1
+C. 3
+D. 2
+Section : General Intelligence and Reasoning
+Q.54 Refer to the given series and answer the question that follows. All numbers are single-
+digit numbers only. (Counting to be done from left to right only)
+(Left) 6 3 6 9 9 4 4 1 7 5 6 2 1 6 6 6 6 8 8 2 9 1 5 (Right)
+How many such odd digits are there, each of which is immediately preceded by an odd
+digit and also immediately followed by an even digit?
+Ans
+ A. Three
+B. Two
+C. One
+D. Four
+Q.55 Five people, L, M, N, O and P, are sitting in a row facing north. N is sitting at the third
+position from the extreme right end of the row. M is not an immediate neighbour of N. P
+is sitting to the immediate left of N. P is sitting to the immediate right of O. Who is
+sitting between N and M?
+Ans
+ A. L
+B. P
+C. O
+D. N
+Q.56 Select the pair which follows the same pattern as that followed by the two set of pairs
+given below. Both pairs follow the same pattern.
+KJL−NMO
+LKM−ONP6445
+Ans
+ A. VTU−YXZ
+B. VUW−XXY
+C. VTU−XWY
+D. VUW−YXZ
+Q.57 If + means −, − means ×, × means ÷ and ÷ means +, then what will come in place of the
+question mark (?) in the following equation?
+28 + 11 − 3 ÷ 45 × 9 = ?
+Ans
+ A. 9
+B. 4
+C. 14
+D. 0
+Q.58 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some nut are bolt.
+Some bolt are rivet.
+Conclusions:
+(I) Some nut are rivet.
+(II) All rivet are bolt.
+Ans
+ A. Only conclusion (II) follows
+B. Both conclusions (I) and (II) follow
+C. Neither conclusion (I) nor (II) follows
+D. Only conclusion (I) follows
+Q.59 Seven people A, B, C, D, E, F, and G are sitting in a row, facing the north. Only one
+person sits to the right of E. Only three people sit between G and E. Only three people
+sit between A and D, neither of whom sits on the left end. F sits immediately to the right
+of C. Only one person sits between A and B. Who sits second to the left of C?
+Ans
+ A. G
+B. E
+C. D
+D. A
+Q.60 GKPY is related to JFST in a certain way based on the English alphabetical order. In the
+same way, SQBE is related to VLEZ. To which of the following options is BBKP related,
+following the same logic?10109
+Ans
+ A. EWKM
+B. EKMI
+C. EWNK
+D. EKIO
+Q.61 Refer to the following number series and answer the question that follows (all numbers
+are single-digit numbers only). Counting to be done from left to right only.
+(Left) 1 6 4 5 6 6 4 7 4 4 2 4 7 4 3 1 9 2 4 3 6 9 7 8 2 7 1 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+odd number and also immediately followed by an even number?
+Ans
+ A. Five
+B. Four
+C. Six
+D. Seven
+Q.62 What should come in place of the question mark (?) in the given series?
+55 14 58 14 61 14 ?4432
+Ans
+ A. 65
+B. 14
+C. 62
+D. 64
+Q.63 Mohini starts from Point A and drives 13 km towards south. She then takes a right turn,
+drives 7 km, turns right and drives 7 km. She then takes a right turn and drives 3 km.
+She takes a final left turn, drives 6 km and stops at Point P. How far (shortest distance)
+and towards which direction should she drive in order to reach Point A again?
+(Note: All turns are 90° turns only unless specified.)
+Ans
+ A. 8 km towards north
+B. 4 km towards east
+C. 4 km towards west
+D. 7 km towards south
+Q.64 Select the pair which follows the same pattern as that followed by the two set of pairs
+given below. Both pairs follow the same pattern.
+KGD−AWT
+FBY−VRO6443
+Ans
+ A. XSO−MIF
+B. XSO−NJG
+C. XTQ−NJG
+D. XTQ−MJF
+Q.65 In a certain code language, ‘TOUR’ is coded as ‘4139’ and ‘BRUT’ is coded as ‘4318’.
+What is the code for ‘B’ in the given code language?
+Ans
+ A. 1
+B. 8
+C. 3
+D. 4
+Q.66 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘x’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will
+come in place of question mark (?) in the following equation?
+11 D 30 C 42 A 3 B 4 = ?
+Ans
+ A. 35
+B. 38
+C. 37
+D. 39
+Q.67 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what
+will come in place of the question mark (?) in the following equation?
+6 B 44 A 3 D 21 C 44 = ?
+Ans
+ A. 111
+B. 110
+C. 113
+D. 112
+Q.68 What should come in place of the question mark (?) in the given series?
+612 610 620 617 627 623 ?
+Ans
+ A. 637
+B. 633
+C. 631
+D. 635
+Q.69 What should come in place of the question mark (?) in the given series?
+66 81 98 117 138 ?
+Ans
+ A. 151
+B. 152
+C. 161
+D. 159
+Q.70 M, N, O, P, W, X and Y are sitting around a circular table facing the centre of the table.
+O sits to the immediate right of P. Only three people sit between O and Y when counted
+from the left of O. Only three people sit between P and N when counted from the left of
+P. W sits to the immediate right of M. How many people sit between X and M when
+counted from the left of M?
+Ans
+ A. One
+B. Three
+C. Two
+D. Four
+Q.71 Saurav starts from Point A and drives 9 km towards the east. He then takes a right turn,
+drives 6 km, turns right and drives 11 km. He then takes a right turn and drives 11 km.
+He takes a final right turn, drives 2 km and stops at Point P. How far (shortest distance)
+and towards which direction should he drive in order to reach Point A again? (All turns
+are 90 degrees turns only, unless specified.)
+Ans
+ A. 5 km to the north
+B. 5 km to the south
+C. 6 km to the south
+D. 6 km to the north
+Q.72 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements: All forks are kettles. Some forks are cups.
+Conclusion (I): Some kettles are cups.
+Conclusion (II): All cups are forks.
+Ans
+ A. Neither conclusion (I) nor (II) follows.
+B. Both conclusions (I) and (II) follow.
+C. Only conclusion (II) follows.
+D. Only conclusion (I) follows.
+Q.73 Refer to the following series and answer the question that follows. Counting to be done
+from left to right only. (All numbers are single-digit numbers only).
+(Left) 7 9 1 8 4 2 5 6 3 8 7 1 9 (Right)
+How many odd numbers are there (from left to right) which are immediately followed by
+even numbers?
+Ans
+ A. Three
+B. More than three
+C. One
+D. Two
+Q.74 Seven boxes A, B, C, D, E, F and G are kept one over the other but not necessarily in the
+same order.
+Only three boxes are kept below D. Only two boxes are kept between D and E. Only C is
+kept immediately above A. F is kept at some place below B and at some place above G.
+How many boxes are kept below G?
+Ans
+ A. 2
+B. 4
+C. 3
+D. 1
+Q.75 In a certain code language, ‘MORE’ is coded as ‘1637’ and ‘DEMO’ is coded as ‘4176’.
+What is the code for ‘D’ in the given code language?
+Ans
+ A. 1
+B. 4
+C. 6
+D. 7
+Q.76 In a row of 32 people facing north, Anita is 8th from the left end. If Savita sits 9th to the
+right of Anita, then what is Savita's position from the right end of the row?
+Ans
+ A. 16th
+B. 12th
+C. 15th
+D. 18th
+Q.77 Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. RV – OX
+B. NR – PT
+C. MQ – JS
+D. UY – RA
+Q.78 In a certain code language,
+‘A ? B’ means ‘A is the daughter of B’,
+‘A = B’ means ‘A is the son of B’,
+‘A @ B’ means ‘A is the father of B’ and
+‘A √ B’ means ‘A is the sister of B’.
+How is C related to L if ‘C ? D @ E = F √ L’?
+Ans
+ A. Daughter
+B. Sister
+C. Mother's sister
+D. Sister's daughter
+Q.79 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+NSE MRD LQC KPB ?
+Ans
+ A. HOX
+B. HNW
+C. IOW
+D. JOA
+Q.80 Which of the following letter-clusters will replace the question mark (?) in the given
+series to make it logically complete?
+IGP 3 KIO -10 MKN -23 OMM -36 ?
+Ans
+ A. QOL -49
+B. OPL -45
+C. POI -47
+D. PLO -44
+Q.81 Which Indian environmental activist was in the news for leading a youth movement in
+2025?
+Ans
+ A. Medha Patkar
+B. Disha Ravi
+C. Ridhima Pandey
+D. Licypriya Kangujam
+Q.82 Which shooter won the Major Dhyan Chand Khel Ratna Award in January 2025?
+Ans
+ A. Sarabjot Singh
+B. Anish Bhanwala
+C. Swapnil Kusale
+D. Manu Bhaker
+Section : General Awareness and Current Affairs
+Q.83 Where was the Bharatiya Bhasha Anubhag (Indian Languages Section) launched by
+Union Home Minister Amit Shah on 6 June 2025?
+Ans
+ A. Chennai
+B. New Delhi
+C. Hyderabad
+D. Mumbai
+Q.84 In the Asian Athletics Championships 2025, how many gold medals did Indiasecure?
+Ans
+ A. 4
+B. 6
+C. 8
+D. 12
+Q.85 Which wildlife area has been recently recognised as India’s 107th national park?
+Ans
+ A. Buxa
+B. Palamau
+C. Similipal
+D. Nagarhole
+Q.86 As per the guidelines of the Reserve Bank of India, from 1 August 2025, the trading
+hours of market repo and Tri-Party Repo (TREP) were extended till what time?
+Ans
+ A. 4:00 PM
+B. 7:00 PM
+C. 6:00 PM
+D. 5:00 PM
+Q.87 Who became the first Indian boxer to win a gold medal at the World Boxing Cup in
+2025?
+Ans
+ A. Amit Panghal
+B. Hitesh Gulia
+C. Abhinash Jamwal
+D. Shiva Thapa
+Q.88 Which of the following institutes was chosen by the Indian Council of Medical Research
+(ICMR) in January 2025 to establish South India’s first Infectious Disease Research and
+Diagnostic Laboratory (IRDL)?
+Ans
+ A. Kamineni Academy of Medical Sciences And Research Centre, Hyderabad
+B. Sri Ramachandra Medical College and Research Institute, Chennai
+C. Christian Medical College (CMC), Vellore
+D. Bangalore Medical College and Research Institute (BMCRI)
+Q.89 In which of the following places was the Indian Conservation Conference (ICCON) 2025,
+India’s flagship biodiversity event, held in June 2025?
+Ans
+ A. Dehradun
+B. Shimla
+C. Raipur
+D. Madurai
+Q.90 Which edition of International Conference on 'Arbitrating Indo-UK Commercial Disputes'
+was organised by the Indian Council of Arbitration (ICA)during the London International
+Disputes Week (LIDW) in June 2025?
+Ans
+ A. 3rd
+B. 4th
+C. 2nd
+D. 5th
+Q.91 In the 56th meeting of Monetary Policy Committee (MPC) held from 4 to 6 August 2025,
+real GDP growth for Q1 2026-27 was projected at:
+Ans
+ A. 6.8%
+B. 6.6%
+C. 6.5%
+D. 6.3%
+Q.92 What major international goal does the High Seas Treaty aim to advance once in force?
+Ans
+ A. Restrict commercial shipping lanes
+B. Establish a global fisheries quota
+C. Create marine protected areas
+D. Ban deep‑ sea mining
+Q.93 Anurag Kashyap's upcoming bilingual action-thriller Dacoit features which actor
+alongside Mrunal Thakur?
+Ans
+ A. Dulquer Salmaan
+B. Adivi Sesh
+C. Prithviraj Sukumaran
+D. Fahadh Faasil
+Q.94 Who among the following won the 2025 Pritzker Architecture Prize awarded in May
+2025?
+Ans
+ A. Shigeru Ban
+B. Liu Jiakun
+C. Jeanne Gang
+D. David Chipperfield
+Q.95 What is the name of the new digital platform being developed by the Election
+Commission of India (ECI) in 2025?
+Ans
+ A. ElectionLink
+B. ECINET
+C. VoterHub
+D. ECI Connect
+Q.96 What is the purpose of the new Global Innovation Hub 'District I' launched in Bengaluru
+Airport City?
+Ans
+ A. Military Drone Development
+B. Space mission and control Centre
+C. Retail and e-commerce incubation
+D. Deep-tech entrepreneurship and AI innovation
+"
+Q.97 Which of the following portals was launched in Punjab in June 2025 that has helped
+digitise land records and curb corruption in registry services?
+Ans
+ A. Easy Jamabandi Portal
+B. Punjab Land Records System
+C. Punjab Bhulekh Portal
+D. Digital Registry Punjab
+Q.98 Which of the following institutes that was launched in May 2025 developed the Bharat
+Forecast System to give sharper rain alerts?
+Ans
+ A. National Centre for Medium Range Weather Forecasting
+B. Indian Institute of Tropical Meteorology
+C. Indian Institute of Science
+D. India Meteorological Department
+Q.99 Which legend won the Laureus Lifetime Achievement Award 2025?
+Ans
+ A. Usain Bolt
+B. Rafael Nadal
+C. Serena Williams
+D. Kelly Slater
+Q.100What is the total plantation budget for afforestation schemes in the financial year 2025?
+Ans
+ A. ₹756 Crores
+B. ₹300 Crores
+C. ₹684 Crores
+D. ₹910 Crores

@@ -1,0 +1,781 @@
+Q.1 The defect of hypermetropia can be corrected by using which of the following?
+Ans
+ A. Cylindrical lens
+B. Concave lens
+C. Prism
+D. Convex lens
+Q.2 Select the correct option regarding the following two statements labelled Assertion (A)
+and Reason (R).
+Assertion (A): If a substance loses oxygen during a reaction, it is said to be reduced.
+Reason (R): Reduction is defined as the gain of hydrogen or loss of oxygen.
+Ans
+ A. A is false, but R is true.
+B. Both A and R are true, and R is the correct explanation of A.
+C. A is true, but R is false.
+D. Both A and R are true, and R is not the correct explanation of A.
+Q.3 One volt (1 V), the SI unit of potential difference, is defined when ___________.
+Ans
+ A. 1 joule of energy is dissipated in 1 second
+B. 1 milliampere of current flows through 1 Ohm of resistance
+C. 1 joule of work is done to move a charge of 1 coulomb
+D. 1 coulomb of charge flows in 1 second
+Q.4 Which of the following statements about sound propagation is correct?
+Ans
+ A. Sound travels faster in gases than in solids.
+B. Sound can travel in vacuum.
+C. Sound requires a medium for propagation.
+D. Sound travels in the form of transverse waves in air.
+Q.5 Which of the following statements correctly defines the atomic number of an element?
+Ans
+ A. The total number of protons and neutrons in the nucleus
+B. The number of neutrons in the nucleus of an atom
+C. The number of protons in the nucleus of an atom
+D. The number of electrons in the outermost shell of an atom
+Test Date 22/12/2025
+Test Time 9:00 AM - 10:30 AM
+Subject RRB Level 01 Stage I
+* Note
+Correct Answer will carry 1 mark per Question.
+Incorrect Answer will carry 1/3 Negative mark per Question.
+1. Options shown in green color with a tick icon are correct.
+2. Chosen option on the right of the question indicates the option selected by the candidate.
+Section : General Science
+Q.6 Which statement is NOT true about smooth muscles?
+Ans
+ A. They have striations
+B. They are uninucleate
+C. They are spindle-shaped cells
+D. They control involuntary movements
+Q.7 Meenu starts from rest and pedals her bicycle to reach a speed of 5 m/s in 25 seconds.
+What is her acceleration?
+Ans
+ A. 0.3 m/s2
+B. 0.4 m/s2
+C. 0.1 m/s2
+D. 0.2 m/s2
+Q.8 Which of the following statements best defines the term 'formula unit mass'?
+Ans
+ A. The mass of an individual atom of an element
+B. The mass of one mole of a compound
+C. The sum of the atomic masses of the ions in an ionic compound as represented by its formula
+D. The sum of atomic masses of all atoms in a molecule
+Q.9 Which of the following is NOT correct?
+Ans
+ A. The sky appears blue because air absorbs blue light.
+B. Scattering depends on the wavelength of light.
+C. Shorter wavelengths scatter more than longer wavelengths.
+D. The Tyndall effect can be used to detect colloids.
+Q.10 Which of the following statements correctly explains why carbon forms covalent bonds
+in organic compounds?
+Ans
+ A. Carbon has a high tendency to form positive ions
+B. Carbon atoms have a full outer shell and do not react
+C. Carbon has four electrons in its outer shell and shares electrons to complete its octet
+D. Carbon easily donates all its valence electrons to non-metals
+Q.11 If the temperature of a gas is increased at constant volume, what happens to the
+pressure?
+Ans
+ A. It decreases.
+B. It cannot be determined.
+C. It remains the same.
+D. It increases.
+Q.12 Which of the following nutrients is a macronutrient?
+Ans
+ A. Iron
+B. Potassium
+C. Zinc
+D. Copper
+Q.13 Which of the following metals reacts with dilute hydrochloric acid to produce hydrogen
+gas?
+Ans
+ A. Copper
+B. Gold
+C. Zinc
+D. Silver
+Q.14 When fertilisation takes place inside the female body, it is called _______.
+Ans
+ A. external fertilisation
+B. test-tube babies
+C. in vitro fertilisation
+D. internal fertilisation
+Q.15 Which hormone triggers sexual maturation in boys?
+Ans
+ A. Estrogen
+B. Testosterone
+C. Progesterone
+D. Oxytocin
+Q.16 A wire of a given material has length L and cross-sectional area A, with resistance R. If
+the wire is stretched to twice its length while keeping the volume constant, what will be
+its new resistance?
+Ans
+ A. ZERO
+B. 4R
+C. R/2
+D. 2R
+Q.17 If a constant force (F) of 20 N moves an object through a displacement (d) of 5 m in the
+same direction, then what will be the work (W) done?
+Ans
+ A. 25 J
+B. 100 J
+C. 200 J
+D. 50 J
+Q.18 Which of the following plant tissues is made up of cells that are dead at maturity?
+Ans
+ A. Aerenchyma
+B. Parenchyma
+C. Collenchyma
+D. Sclerenchyma
+Q.19 Based on the accepted values for the masses of the Earth and the Moon and the
+distance between them, what is the calculated gravitational force exerted by the Earth
+on the Moon?
+Ans
+ A. 9.8 N
+B. 6.67 x 10-11 N
+C. 2.02 x 1020 N
+D. 7.4 x 1022 N
+Q.20 What happens to metabolic activities in the absence of thyroxin?
+Ans
+ A. They slow down or become imbalanced
+B. They only affect digestion
+C. They speed up uncontrollably
+D. They stop completely
+Q.21 What happens during the oxidation of ethanol?
+Ans
+ A. It is converted into ethene.
+B. It is converted into methane.
+C. It forms an ester.
+D. It is converted into ethanoic acid.
+Q.22 Which of the following describe(s) the versatile nature of carbon?
+a. The ability to form bonds with other carbon atoms giving rise to large molecules.
+b. The ability to form double bonds with other carbon atoms.
+c. The ability to form bonds with other atoms like oxygen, nitrogen, sulphur, hydrogen
+etc.
+Ans
+ A. Only a
+B. Only b and c
+C. All a, b and c
+D. Only a and c
+Q.23 Which statement is INCORRECT about contraceptive pills?
+Ans
+ A. They protect against sexually transmitted infections.
+B. They can cause side effects like irregular bleeding or nausea in some users.
+C. They contain synthetic hormones (estrogen and progesterone) that prevent ovulation,
+D. They are a highly effective form of birth control when taken correctly.
+Q.24 Which of the following is NOT an example of Newton’s Third Law?
+Ans
+ A. A horse pulling a loaded cart
+B. A rocket rising upward as gases are expelled downward
+C. A gun moving backward after firing a bullet
+D. A stone dropping freely toward the ground
+Q.25 Which of the following shows movement but not locomotion?
+Ans
+ A. Plant
+B. Human
+C. Dog
+D. Bird
+Q.26 If A can complete a task in 10 days and B is 25% more efficient than A, how long (in
+days) will it take them to complete 60% of the task when they work together?
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.27 The price of fuel decreases by 45%, 35% and 30% in three successive months, but
+increases by 45% in the fourth month. What is the percentage increase/decrease in the
+price of fuel in the fourth month as compared to its original price? (Round off the
+answer to two decimal places.)
+Ans
+ A. Increases by 61.52%
+B. Increases by 59.57%
+C. Decreases by 63.71%
+D. Decreases by 64.78%
+Section : Mathematics
+Q.28 The amount on a sum of ₹4,200 at 20% per annum compound interest, compounded
+annually, in 2 years will be:
+Ans
+ A. ₹5,348
+B. ₹6,048
+C. ₹6,219
+D. ₹6,497
+Q.29 A car covers three different segments of a journey: it travels 40 km at a speed of 60
+km/hr, then 50 km at a speed of 50 km/hr and finally 60 km at a speed of 40 km/hr. What
+is the car's average speed (rounded off to one decimal place) for the entire trip?
+Ans
+ A. 47.4 km/hr
+B. 48.3 km/hr
+C. 52.9 km/hr
+D. 50.3 km/hr
+Q.30 Simplify: (0.7 × 72 ÷ 14 + 6.25 − 8.34 × 0.15 + 5.95)
+Ans
+ A. 14.549
+B. 21.549
+C. 12.526
+D. 14.823
+Q.31
+Ans
+ A. 
+B. 
+C. 
+D. 
+Q.32 A sphere of radius 14 cm is cut along three diametrical planes to form 6 equal parts.
+What would be the total surface area (in cm2) of all the new pieces so obtained?
+Ans
+ A. 7392
+B. 4312
+C. 6160
+D. 5544
+Q.33 A scheme like ‘Buy 6, Get 2 Free’ on the same kind of articles with the same MRP
+attracts a _____ % discount.890
+Ans
+ A. 25
+B. 26
+C. 33.33
+D. 34.33
+Q.34
+Ans
+ A. 315%
+B. 310%
+C. 600%
+D. 300%
+Q.35 The cost price of a toy car is 80% of its selling price. If the selling price is ₹100, what is
+the profit percentage?
+Ans
+ A. 100%
+B. 80%
+C. 25%
+D. 20%
+Q.36 The average age of 31 students of a class is 30 years. If the age of the teacher is also
+included, the average age of the whole group becomes 31 years. The age (in years) of
+the teacher is:
+Ans
+ A. 62
+B. 64
+C. 65
+D. 63
+Q.37 What is the number of ordered pairs (x, y) where x, y are positive integers such that the
+eight digit number 74x8935y is divisible by 11?
+Ans
+ A. 6
+B. 9
+C. 10
+D. 7
+Q.38 A cash payment that will settle a bill for 625 pairs of boots at ₹94 per pair of boots with
+successive discounts of 20% and 7% with a further discount of 20% on cash payment
+is:
+Ans
+ A. ₹34,972
+B. ₹34,963
+C. ₹34,968
+D. ₹34,992
+Q.39 The sum of the ages of a daughter and her mother is 56 years. After 8 years, the age of
+the mother will be three times that of the daughter. Find the daughter's present age (in
+years).
+Ans
+ A. 12
+B. 10
+C. 16
+D. 18
+Q.40 The monthly incomes of two friends David and Ashish, are in the ratio 5 : 8,
+respectively, and each of them saves ₹81,000 every month. If the ratio of their monthly
+expenditure is 2 : 4, find the monthly income of David (in ₹).
+Ans
+ A. 2,83,500
+B. 2,01,500
+C. 2,03,500
+D. 2,02,500
+Q.41 ₹4,445 is divided among A, B and C in such a way that if ₹65, ₹39 and ₹77 are deducted
+from their respective shares, they have money in the ratio 18:3:20. Find the difference
+between B’s and C’s original shares.
+Ans
+ A. ₹1,868
+B. ₹1,918
+C. ₹1,806
+D. ₹1,718
+Q.42 The median of the following observations 46, 64, 87, 41, 58, 77, 35, 90, 55, 92, 33 is 58. If
+92 is replaced by 99 and 41 by 43 in the given data, then the new median is:
+Ans
+ A. 56.5
+B. 55
+C. 57.5
+D. 58
+Q.43 In quadrilateral PQRS, the bisectors of ∠R and ∠S meet at the point T (inside the
+quadrilateral) and ∠STR = 22.5°. If the ratio of ∠P to ∠Q is 4 : 5, then what is the
+difference between the measures of ∠Q and ∠P?
+Ans
+ A. 2°
+B. 1°
+C. 6°
+D. 5°
+Q.44 If each edge of a cube is increased by 10%, then the percentage increase in its surface
+area is:
+Ans
+ A. 21%
+B. 22%
+C. 25%
+D. 20%
+Q.45 From a point 30 m away from the base of a tree, the angle of elevation of the top of the
+tree is 60°. Find the height of the tree (take √3 = 1.73).
+Ans
+ A. 52.5 m
+B. 51.9 m
+C. 54 m
+D. 51 m
+Q.46 A basket contains 42 fruits, which are either apples or oranges. If there are 6 more
+apples than oranges, how many oranges are there?
+Ans
+ A. 18
+B. 24
+C. 20
+D. 22
+Q.47 The ratio of the number of girls and boys participating in the sports of a school is 2 : 5.
+If the number of girls is 200, determine the number of boys participating in the sports.
+Ans
+ A. 530
+B. 475
+C. 520
+D. 500
+Q.48 If an X-m long train running at a speed of 63 m/s crosses a railway platform in 28 sec,
+find the value of X, if the length of the railway platform is 213 m.3704
+Ans
+ A. 1549
+B. 1551
+C. 1558
+D. 1545
+Q.49 What is the number of natural numbers less than or equal to 1000 and divisible by 5 or
+7?
+Ans
+ A. 314
+B. 328
+C. 342
+D. 370
+Q.50 A, B and C can do a piece of work in 3, 12 and 12 days, respectively. How long (in days)
+will they take to do twice the same work, working together?
+Ans
+ A. 12
+B. 8
+C. 5
+D. 4
+Q.51 Based on the English alphabetical order, three of the following four letter-clusters are
+alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to
+that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. QUN
+B. INE
+C. OSL
+D. UYR
+Q.52 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+All pencils are erasers.
+Some erasers are crayons.
+Conclusions:
+(I) Some pencils are crayons.
+(II) Some erasers are pencils.
+Ans
+ A. Only conclusion (II) follows.
+B. Neither conclusion (I) nor (II) follows.
+C. Both conclusions (I) and (II) follow.
+D. Only conclusion (I) follows.
+Q.53 QK 13 is related to TO 17 in a certain way. In the same way, IC 24 is related to LG 28. To
+which of the given options is SM 35 related, following the same logic?
+Ans
+ A. VO 39
+B. VQ 39
+C. VO 38
+D. UR 38
+Q.54 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will
+come in place of the question mark (?) in the following equation?
+88 B 3 D 615 A 15 C 152 = ?
+Ans
+ A. 360
+B. 325
+C. 340
+D. 375
+Section : General Intelligence and Reasoning
+Q.55    Based on the English alphabetical order, three of the following four letter-cluster pairs
+are alike in a certain way and thus form a group. Which is the letter-cluster pair that
+DOES NOT belong to that group?
+(Note: The odd one out is not based on the number of consonants/vowels or their
+position in the letter-cluster.)
+Ans
+ A. KQ - PV
+B. NT - SY
+C. OU - TA
+D. EK - JP
+Q.56 What should come in place of the question mark (?) in the given series?
+188 170 152 134 116 ?
+Ans
+ A. 100
+B. 104
+C. 98
+D. 96
+Q.57 Which numbers should come in place of the question mark (?) in the same sequence to
+make the series logically complete?
+3, 6, 12, 24, 48, ?
+Ans
+ A. 88
+B. 98
+C. 92
+D. 96
+Q.58 Which of the following numbers will replace the question mark (?) in the given series?
+1408, 704, 176, 88, ? , 11
+Ans
+ A. 36
+B. 64
+C. 22
+D. 44
+Q.59 In a certain code language, ‘meal visit cat’ is coded as ' vs mo wm' and ‘rain meal
+mango’ is coded as ‘wm or lo’. How is ‘meal’ coded in the given language?
+Ans
+ A. or
+B. wm
+C. mo
+D. vs
+Q.60 In a row of people all facing north, Ruman is 20th from the right end. Daniel is 26th from
+the right end and Daniel is exactly between Ruman and Om. If Om is 14th from the left
+end of the row, how many people are there in the row?
+Ans
+ A. 43
+B. 44
+C. 45
+D. 42
+Q.61 Seven people, A, B, C, D, E, F and G, are sitting in a straight line, facing the north.
+A sits second from one of the extreme ends of the line. Only two people sit between A
+and C. B sits to the immediate right of C. Only one person sits between B and D. F sits
+third to the left of D. E sits at one of the positions to the right of G.
+How many people sit between A and G?
+Ans
+ A. Three
+B. None
+C. Two
+D. One
+Q.62 Jyoti starts from point L and drives 8 km towards the north. She then takes a right turn,
+drives 14 km, turns right and drives 15 km. She then takes a right turn and drives 14 km.
+She takes a final right turn, drives 3 km and stops at point P. How far (shortest distance)
+and towards which direction should she drive in order to reach point L again? (All turns
+are 90-degree turns only unless specified.)
+Ans
+ A. 4 km towards the north
+B. 2 km towards the east
+C. 5 km towards the west
+D. 1 km towards the south
+Q.63 Which of the given letter-number clusters will replace the question mark (?) in the
+following series to make it logically complete?
+WTQ 69 URO 76 SPM 83 QNK 90 ?
+Ans
+ A. OMH 97
+B. OKH 96
+C. OPR 96
+D. OLI 97
+Q.64 What will come in the place of the question mark (?) in the following equation, if ‘+’ and
+‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+11 ÷ 3 + 24 × 4 − 1 = ? + 5
+Ans
+ A. 33
+B. 34
+C. 32
+D. 31
+Q.65 Refer to the following number series and answer the question that follows. All numbers
+are single-digit numbers only. Counting to be done from left to right only.
+(Left) 2 6 9 1 2 5 7 2 5 2 2 4 7 9 3 2 5 4 1 4 9 9 1 8 9 (Right)
+How many such even numbers are there, each of which is immediately preceded by an
+even number and also immediately followed by an even number?
+Ans
+ A. One
+B. Three
+C. Two
+D. Four
+Q.66 Mr. Akai starts from Point A and drives 28 km towards west. He then takes a left turn,
+drives 21 km, turns right and drives 5 km. He then takes a right turn and drives 30 km.
+He takes a final right turn, drives 33 km and stops at Point P. How far (shortest distance)
+and towards which direction should he drive in order to reach Point A again? (All turns
+are 90-degree turns only, unless specified.)
+Ans
+ A. 9 km to the south
+B. 7 km to the north
+C. 7 km to the east
+D. 9 km to the north
+Q.67 What should come in place of the question mark (?) in the given series based on the
+English alphabetical order?
+FNK HPM JRO LTQ ?
+Ans
+ A. NUR
+B. NUS
+C. NVR
+D. NVS
+Q.68 Six people, A, B, C, D, E and F, are sitting in a row, facing north. A sits third to the left of
+E. E sits second to the left of F. D sits to the immediate right of E. B sits to the
+immediate left of C. How many people sit between C and F?
+Ans
+ A. Two
+B. None
+C. Three
+D. One
+Q.69 Refer to the following number series and answer the question that follows. Counting to
+be done from left to right only. (All numbers are single-digit numbers only.)
+(Left) 6 1 8 4 3 5 2 7 4 4 4 5 9 1 7 4 7 3 7 7 7 8 3 5 6 7 8 (Right)
+How many such even numbers are there each of which is immediately preceded by an
+odd number and also immediately followed by an odd number?
+Ans
+ A. 4
+B. 5
+C. 3
+D. 6
+Q.70 Refer to the given number, symbol series and answer the question that follows.
+Counting to be done from left to right only.
+(Left) € # 6 2 @ # 1 6 @ 1 € $ 3 9 $ 2 4 4 * £ 6 6 (Right)
+How many such symbols are there, each of which is immediately preceded by a number
+and also immediately followed by a number?
+Ans
+ A. 1
+B. 3
+C. 4
+D. 2
+Q.71 Read the given statements and conclusions carefully. Assuming that the information
+given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the
+statements.
+Statements:
+Some moons are stars.
+Some stars are planets.
+Conclusions:
+(I): All stars are moons.
+(II): Some moons are planets.
+Ans
+ A. Both follow
+B. Only I follows
+C. Neither follows
+D. Only II follows
+Q.72 This question is based on the five, three-digit numbers given below.
+(Left) 741 753 789 761 745 (Right)
+(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)
+(NOTE: All operations to be done from left to right.)
+What will be the resultant if the second digit of the second highest number is added to
+the third digit of the lowest number?
+Ans
+ A. 7
+B. 8
+C. 11
+D. 6
+Q.73 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(Note: Operations should be performed on the whole numbers, without breaking down
+the numbers into their constituent digits. E.g. 13 – Operations on 13 such as
+adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is not allowed.)
+(8, 19, 10)
+(13, 29, 20)
+Ans
+ A. (17, 37, 46)
+B. (15, 33, 24)
+C. (7, 13, 4)
+D. (9, 21, 30)
+Q.74 In a certain code language, ‘LEMA’ is coded as ‘6389’ and ‘PALM’ is coded as ‘3596’.
+What is the code for ‘P’ in that language?
+Ans
+ A. 6
+B. 5
+C. 9
+D. 3
+Q.75 In the following triads, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one which follows the same logic.
+INFO - NOFI - OFNI
+WAKE - AEKW - EKAW
+Ans
+ A. TIDE - TDIE - EDIT
+B. HACK - AHCK - KACH
+C. FEAR - ERAF - RAEF
+D. GIRL - IGRL - LIRG
+Q.76 A, B, C, R, S, T and U are sitting around a circular table facing the centre of the table.
+Only three people sit between R and T when counted from the left of R. Only three
+people sit between B and A when counted from the right of A.S sits to the immediate
+right of B. U is an immediate neighbour of A as well as T. Who sits to the second to the
+left of C?
+Ans
+ A. U
+B. R
+C. A
+D. B
+Q.77 In a certain code language,
+P + Q means ‘P is the father of Q’,
+P # Q means ‘P is the wife of Q’,
+P & Q means ‘P is the brother of Q’,
+and P % Q means ‘P is the sister of Q’.
+How is O related to L if ‘O # G + N # T + L’?
+Ans
+ A. Mother’s father
+B. Father’s mother
+C. Sister's husband
+D. Mother’s mother
+Q.78 In the following triads, each group of letters is related to the subsequent one following a
+certain logic. Select from the given options, the one that follows the same logic.
+DIGS - SDGI - DSIG
+WAVE - EWVA - WEAV
+Ans
+ A. MIST - TMSI - MITS
+B. SPIN - NSIP - SNPI
+C. HOST - THOS - OSTH
+D. RIDE - IRDE - EIDR
+Q.79 Rekha ranked 18th from the top and 9th from the bottom in her class. How many
+students are there in the class?
+Ans
+ A. 26
+B. 28
+C. 27
+D. 25
+Q.80 If ‘+’ means ‘−’, ‘−’ means ‘×’, ‘×’ means ‘÷’ and ‘÷’ means ‘+’, then what will come in
+place of the question mark (?) in the following equation?
+6 − 3 + 32 × 4 ÷ 5 = ?
+Ans
+ A. 21
+B. 15
+C. 11
+D. 6
+Q.81 As announced on 21 June 2025, Central Health Ministry is looking at integrating India’s
+Rare Donor Registry with the national online platform for blood bank management and
+blood availability information, called ____.
+Ans
+ A. e-Rakt Sanchay
+B. e-Rakt Kosh
+C. e-Rakt Kawach
+D. e-Rakt Sagar
+Q.82 In June 2025, which ministry/institution released the Sustainable Development Goals –
+National Indicator Framework Progress Report, 2025?
+Ans
+ A. Ministry of Statistics and Programme Implementation
+B. Ministry of Finance
+C. Ministry of Environment, Forest and Climate Change
+D. NITI Aayog
+Section : General Awareness and Current Affairs
+Q.83 In the weightlifting event at the 38th National Games, what was Mehak Sharma’s total lift
+that earned her the gold medal and set a new national record?
+Ans
+ A. 247 kg
+B. 311 kg
+C. 299 kg
+D. 289 kg
+Q.84 In November 2025, which legislation was highlighted for merging nine Social Security
+Acts, covering gig and platform workers, and strengthening women-centric provisions?
+Ans
+ A. Code on Social Security, 2020
+B. Health and Working Conditions Code, 2020
+C. Industrial Relations Code, 2020
+D. Code on Wages, 2019
+Q.85 Who won the 2025 Laureus World Sportsman of the Year award?
+Ans
+ A. Max Verstappen
+B. Armand “Mondo” Duplantis
+C. Cristiano Ronaldo
+D. Usain Bolt
+Q.86 The Union Government introduced a major overhaul of labour laws, consolidating
+twenty-nine existing regulations into four new codes effective from which of the
+following dates?
+Ans
+ A. 1 January 2026
+B. 21 November 2025
+C. 15 February 2026
+D. 1 December 2025
+Q.87 In March 2025, the Reserve Bank of India (RBI) granted Regional Rural Banks (RRBs) an
+additional how many years from financial year 2025 to amortise the additional
+expenditure arising from the revision in pensions?
+Ans
+ A. Six
+B. Four
+C. Five
+D. Three
+Q.88 Which eminent economist was honoured with the Punyabhushan Puraskar in June 2025
+for contributions to economics?
+Ans
+ A. Vijay Kelkar
+B. C Rangarajan
+C. P Chidambaram
+D. Arvind Subramanian
+Q.89 In May 2025, which Union Minister launched the Annual Calendar initiative under the
+Khelo India programme to boost the country's sports ecosystem?
+Ans
+ A. Udhayanidhi Stalin
+B. Dr. Mansukh Mandaviya
+C. Anurag Thakur
+D. Kiren Rijiju
+Q.90 As per the Sustainable Development Goals – National Indicator Framework Progress
+Report, 2025, published in June 2025, the number of start-ups rose from 453 in 2016 to
+34,293 in 2024. This growth in entrepreneurship primarily supports which Sustainable
+Development Goal (SDG)?
+Ans
+ A. SDG 1
+B. SDG 4
+C. SDG 10
+D. SDG 8
+Q.91 As per the April 2025 monthly Periodic Labour Force Survey (PLFS) data, what was
+India’s unemployment rate in April 2025?
+Ans
+ A. 4.9%
+B. 6.4%
+C. 5.1%
+D. 5.6%
+Q.92 In 2025, which state in India is concerned about the invasive species Ruellia Elegans?
+Ans
+ A. Chhattisgarh
+B. Bihar
+C. Assam
+D. Kerala
+Q.93 From 13 May 2025, the Reserve Bank of India (RBI) mandated that digital lending apps
+must be _________.
+Ans
+ A. developed in India only
+B. operated only by banks
+C. free of cost to users
+D. reported to a centralised portal
+Q.94 Who flagged off India’s first exported locomotive to Guinea in June 2025?
+Ans
+ A. Jagdeep Dhankhar
+B. Piyush Goyal
+C. Narendra Modi
+D. Ashwini Vaishnaw
+Q.95 In how many languages was the new text-to-speech AI model which launched by
+Sarvam AI in May 2025?
+Ans
+ A. 9
+B. 11
+C. 12
+D. 7
+Q.96 As of June 2025, who is the Chief Minister of Jammu and Kashmir?
+Ans
+ A. Mufti Mohammad Sayeed
+B. Omar Abdullah
+C. PU Lalduhoma
+D. Mehbooba Mufti
+"
+Q.97 Which event was scheduled for 27 June 2025, regarding the DR Congo–Rwanda
+agreement?
+Ans
+ A. Initial talks
+B. Deployment of peacekeepers
+C. UN Security Council resolution
+D. Formal signing by ministers
+Q.98 In 2025, which athlete set a new meet record of 48.81 seconds in the women’s 400 m at
+the Paris Diamond League?
+Ans
+ A. Salwa Eid Naser
+B. Marileidy Paulino
+C. Allyson Felix
+D. Sydney McLaughlin
+Q.99 During the 11th National Conference on Women, held in May 2025, which of the
+following state's police showcased ‘Mission Shakti’ as a model initiative for women’s
+safety?
+Ans
+ A. West Bengal
+B. Karnataka
+C. Uttar Pradesh
+D. Haryana
+Q.100In August 2025, which of the following countries temporarily closed the Dardanelles
+Strait to maritime traffic following major forest fires in the Çanakkale province?
+Ans
+ A. Turkey
+B. Italy
+C. Greece
+D. Bulgaria
